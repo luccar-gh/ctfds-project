@@ -1,0 +1,174 @@
+{
+  "input": "fallback: raw UCI files with A2-A3 exact deduplication (no A4)",
+  "n_reviews": 128751,
+  "n_drug_families": 1389,
+  "n_drug_names": 3671,
+  "rxnorm_lookup": {
+    "rxnorm_release": "02-Nov-2026",
+    "rxnav_api_version": "3.1.357",
+    "n_new_requests": 0,
+    "seconds": 0.3,
+    "n_names_by_match_method": {
+      "rxnorm_exact": 2512,
+      "rxnorm_old_or_other_name": 832,
+      "rxnorm_approximate": 159,
+      "no match": 109,
+      "rxnorm_exact_without_formulation": 59
+    },
+    "n_names_matched_without_atc_code": 489,
+    "n_names_by_atc_code_basis": {
+      "ingredient": 2396,
+      "products (level 4 only)": 554,
+      "salt of the ingredient": 89,
+      "ingredients of the combination": 33,
+      "ingredient | products (level 4 only)": 1
+    }
+  },
+  "gap_filling": {
+    "n_names_filled_by_brand_generic_pair": 470,
+    "n_reviews_filled_by_brand_generic_pair": 3237,
+    "n_names_set_by_hand": 18,
+    "n_reviews_set_by_hand": 4225
+  },
+  "coverage": {
+    "n_names_with_atc": 3547,
+    "share_of_names_with_atc": 0.9662,
+    "share_of_reviews_with_atc": 0.9976,
+    "n_names_with_several_level_4_classes": 915,
+    "by_source": {
+      "rxnorm_exact": {
+        "n_names": 2462,
+        "n_reviews": 111175
+      },
+      "rxnorm_approximate": {
+        "n_names": 158,
+        "n_reviews": 4534
+      },
+      "rxnorm_old_or_other_name": {
+        "n_names": 380,
+        "n_reviews": 4348
+      },
+      "manual": {
+        "n_names": 18,
+        "n_reviews": 4225
+      },
+      "brand_generic_pair": {
+        "n_names": 470,
+        "n_reviews": 3237
+      },
+      "rxnorm_exact_without_formulation": {
+        "n_names": 59,
+        "n_reviews": 920
+      },
+      "not mapped": {
+        "n_names": 124,
+        "n_reviews": 312
+      }
+    },
+    "by_scope_condition": {
+      "Birth Control": {
+        "n_reviews": 19526,
+        "share_of_reviews_with_atc": 0.9997
+      },
+      "Depression": {
+        "n_reviews": 7112,
+        "share_of_reviews_with_atc": 1.0
+      },
+      "Pain": {
+        "n_reviews": 5194,
+        "share_of_reviews_with_atc": 1.0
+      },
+      "Acne": {
+        "n_reviews": 4553,
+        "share_of_reviews_with_atc": 1.0
+      }
+    }
+  },
+  "n_families_with_disagreeing_classes": 9,
+  "families_with_disagreeing_classes": [
+    "Duloxetine",
+    "Gabapentin",
+    "Sertraline",
+    "Quetiapine",
+    "Acetaminophen / hydrocodone",
+    "Angeliq",
+    "Octreotide",
+    "Ocular lubricant",
+    "Menthol / zinc oxide"
+  ],
+  "unmapped": {
+    "n_names": 124,
+    "n_reviews": 312,
+    "top_names": [
+      "Multivitamin",
+      "Emollients",
+      "Dermal filler",
+      "EpiCeram",
+      "Saliva substitutes",
+      "Systane",
+      "Echinacea",
+      "Barium sulfate",
+      "EnteraGam",
+      "Bioflavonoids",
+      "CitraNatal 90 DHA",
+      "Evening Primrose Oil",
+      "Saw palmetto",
+      "NeutraSal",
+      "Allerx Dose Pack DF"
+    ]
+  },
+  "n_scope_reviews_classified_by_another_name": 1221,
+  "scope_classes": {
+    "Birth Control": {
+      "n_drug_names": 88,
+      "n_drug_names_with_class": 87,
+      "share_of_reviews_with_class": 0.9997,
+      "n_level_4_classes": 6,
+      "n_drug_names_by_choice": {
+        "preferred group G03A": 56,
+        "only one class": 31,
+        "no ATC code": 1
+      }
+    },
+    "Depression": {
+      "n_drug_names": 94,
+      "n_drug_names_with_class": 94,
+      "share_of_reviews_with_class": 1.0,
+      "n_level_4_classes": 16,
+      "n_drug_names_by_choice": {
+        "only one class": 89,
+        "first code (no preferred group)": 3,
+        "preferred group N06A": 2
+      }
+    },
+    "Pain": {
+      "n_drug_names": 141,
+      "n_drug_names_with_class": 141,
+      "share_of_reviews_with_class": 1.0,
+      "n_level_4_classes": 31,
+      "n_drug_names_by_choice": {
+        "only one class": 101,
+        "preferred group M01A": 25,
+        "first code (no preferred group)": 5,
+        "preferred group N02A": 4,
+        "preferred group N01B": 2,
+        "preferred group M02A": 2,
+        "preferred group N02B": 2
+      }
+    },
+    "Acne": {
+      "n_drug_names": 77,
+      "n_drug_names_with_class": 77,
+      "share_of_reviews_with_class": 1.0,
+      "n_level_4_classes": 17,
+      "n_drug_names_by_choice": {
+        "only one class": 43,
+        "preferred group J01A": 10,
+        "preferred group D10A": 7,
+        "preferred group G03A": 7,
+        "preferred group D10B": 6,
+        "first code (no preferred group)": 4
+      }
+    }
+  }
+}
