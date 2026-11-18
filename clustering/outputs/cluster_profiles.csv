@@ -1,0 +1,48 @@
+condition,cluster,size,mean_rating,std_rating,top_5_terms,top_10_terms
+Birth Control,0,2717,6.25,3.42,birth control | birth | control | ve | pill,birth control | birth | control | ve | pill | period | taking | months | month | effects
+Birth Control,1,900,6.6,3.12,implanon | period | got implanon | months | got,implanon | period | got implanon | months | got | weight | implanon inserted | inserted | years | year
+Birth Control,2,3878,5.62,3.37,pill | taking | ve | started | period,pill | taking | ve | started | period | month | months | week | periods | days
+Birth Control,3,1554,6.78,3.01,gain | weight | weight gain | pill | ve,gain | weight | weight gain | pill | ve | acne | months | period | periods | control
+Birth Control,4,948,7.11,3.12,mirena | insertion | cramping | painful | years,mirena | insertion | cramping | painful | years | inserted | mirena inserted | pain | got mirena | spotting
+Birth Control,5,690,6.24,3.43,shot | depo | depo shot | years | period,shot | depo | depo shot | years | period | weight | ve | got | months | provera
+Birth Control,6,1915,5.88,3.03,sex drive | drive | sex | pill | ve,sex drive | drive | sex | pill | ve | weight | months | period | mood | acne
+Birth Control,7,1770,5.79,3.26,mood swings | swings | mood | pill | ve,mood swings | swings | mood | pill | ve | weight | months | period | acne | control
+Birth Control,8,1919,5.46,3.26,nexplanon | implant | got | period | bleeding,nexplanon | implant | got | period | bleeding | months | weeks | removed | ve | getting
+Birth Control,9,549,6.44,3.27,loestrin | fe | lo loestrin | lo | loestrin fe,loestrin | fe | lo loestrin | lo | loestrin fe | 24 | loestrin 24 | 24 fe | pill | period
+Birth Control,10,730,2.93,2.54,anxiety | depression | depression anxiety | attacks | anxiety depression,anxiety | depression | depression anxiety | attacks | anxiety depression | panic | severe | months | ve | pill
+Birth Control,11,1950,7.58,2.8,insertion | pain | skyla | iud | cramps,insertion | pain | skyla | iud | cramps | cramping | inserted | painful | got | felt
+Depression,0,258,7.4,2.73,sex | sex drive | drive | effects | taking,sex | sex drive | drive | effects | taking | feel | depression | life | anxiety | ve
+Depression,1,581,9.13,1.8,life | saved | changed | saved life | changed life,life | saved | changed | saved life | changed life | depression | years | anxiety | medication | ve
+Depression,2,498,5.49,3.63,drug | withdrawal | symptoms | depression | taking,drug | withdrawal | symptoms | depression | taking | effects | dose | withdrawal symptoms | years | brain
+Depression,3,295,7.18,3.15,panic | attacks | panic attacks | anxiety | depression,panic | attacks | panic attacks | anxiety | depression | attack | anxiety panic | having | panic attack | feel
+Depression,4,535,6.5,3.24,sleep | night | hours | day | depression,sleep | night | hours | day | depression | taking | wake | morning | time | took
+Depression,5,1222,6.37,3.28,started | felt | taking | days | day,started | felt | taking | days | day | weeks | depression | better | anxiety | just
+Depression,6,330,7.06,2.87,mood | swings | mood swings | effects | depression,mood | swings | mood swings | effects | depression | medication | feel | months | day | anxiety
+Depression,7,216,7.23,2.7,mouth | dry | dry mouth | effects | depression,mouth | dry | dry mouth | effects | depression | feel | taking | weeks | started | anxiety
+Depression,8,1343,7.47,2.99,depression | effects | years | anxiety | works,depression | effects | years | anxiety | works | medicine | ve | worked | medication | helped
+Depression,9,458,7.39,2.59,weight | gain | weight gain | gained | depression,weight | gain | weight gain | gained | depression | effects | months | taking | years | medication
+Depression,10,621,7.24,2.9,mg | 10 | 10 mg | day | depression,mg | 10 | 10 mg | day | depression | 20 | 20 mg | 50 mg | 50 | started
+Depression,11,752,7.41,2.98,feel | like | feel like | don | better,feel | like | feel like | don | better | just | taking | ve | day | depression
+Pain,0,1241,7.13,3.12,pain | help | medication | helped | medicine,pain | help | medication | helped | medicine | does | helps | effects | best | drug
+Pain,1,699,8.82,2.01,life | years | pain | chronic | doctor,life | years | pain | chronic | doctor | chronic pain | ve | methadone | medicine | day
+Pain,2,364,6.58,3.44,relief | pain relief | pain | effects | relief pain,relief | pain relief | pain | effects | relief pain | medication | hours | prescribed | day | tried
+Pain,3,933,7.33,2.9,day | pain | taking | mg | times,day | pain | taking | mg | times | times day | started | years | 10 | doctor
+Pain,4,230,7.95,2.44,good | good pain | pain | pretty good | pretty,good | good pain | pain | pretty good | pretty | medicine | sleep | drug | bad | works
+Pain,5,158,8.34,2.27,disc | degenerative | disease | degenerative disc | disc disease,disc | degenerative | disease | degenerative disc | disc disease | pain | herniated | years | day | herniated disc
+Pain,6,255,8.61,2.06,great | works great | great pain | works | pain,great | works great | great pain | works | pain | worked great | worked | medicine | effects | taking
+Pain,7,298,8.59,1.94,works | pain | works better | better | medicine,works | pain | works better | better | medicine | works wonders | really | taking | medication | wonders
+Pain,8,161,8.19,2.48,away | pain away | pain | took | takes,away | pain away | pain | took | takes | took pain | away pain | takes pain | takes away | took away
+Pain,9,601,6.99,3.53,pain | given | worked | dilaudid | gave,pain | given | worked | dilaudid | gave | took | hours | iv | toradol | minutes
+Pain,10,247,6.76,3.32,patch | patches | pain | fentanyl | use,patch | patches | pain | fentanyl | use | mylan | hours | lidocaine | brand | stick
+Acne,0,289,6.92,3.2,skin | spots | duac | cream | red,skin | spots | duac | cream | red | using | face | dry | acne | days
+Acne,1,291,8.41,2.7,accutane | acne | years | drug | tried,accutane | acne | years | drug | tried | months | life | effects | worked | took
+Acne,2,310,7.81,2.59,epiduo | skin | using epiduo | using | face,epiduo | skin | using epiduo | using | face | acne | use | dry | days | just
+Acne,3,522,8.07,2.65,use | using | face | skin | acne,use | using | face | skin | acne | gel | night | wash | ve | day
+Acne,4,873,7.04,3.07,acne | taking | medication | skin | months,acne | taking | medication | skin | months | cleared | started | really | face | month
+Acne,5,362,8.18,2.51,years | old | years old | acne | tried,years | old | years old | acne | tried | dermatologist | year | skin | ve | face
+Acne,6,307,6.49,3.32,birth | birth control | control | acne | pill,birth | birth control | control | acne | pill | months | taking | skin | started | period
+Acne,7,347,7.49,2.96,cystic | cystic acne | acne | skin | months,cystic | cystic acne | acne | skin | months | weeks | chin | taking | ve | face
+Acne,8,369,5.9,3.25,pill | weight | acne | period | taking,pill | weight | acne | period | taking | months | ve | gain | yaz | mood
+Acne,9,277,7.82,2.96,product | using | skin | using product | acne,product | using | skin | using product | acne | face | used | use | recommend | ve
+Acne,10,297,8.34,2.3,lips | dry | dry lips | effects | skin,lips | dry | dry lips | effects | skin | accutane | dry skin | acne | month | chapped
+Acne,11,305,6.19,3.32,worse | better | gets | got | acne,worse | better | gets | got | acne | skin | gets better | started | weeks | worse gets

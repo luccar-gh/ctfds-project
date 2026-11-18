@@ -1,0 +1,2588 @@
+{
+  "n_reviews_all": 128663,
+  "n_reviews_in_scope": 36365,
+  "scope_by_condition": {
+    "Birth Control": {
+      "n_reviews": 19520,
+      "n_drugs": 19,
+      "mean_rating": 6.08
+    },
+    "Depression": {
+      "n_reviews": 7109,
+      "n_drugs": 52,
+      "mean_rating": 7.13
+    },
+    "Pain": {
+      "n_reviews": 5187,
+      "n_drugs": 72,
+      "mean_rating": 7.58
+    },
+    "Acne": {
+      "n_reviews": 4549,
+      "n_drugs": 34,
+      "mean_rating": 7.36
+    }
+  },
+  "tfidf": {
+    "Birth Control": {
+      "n_reviews": 19520,
+      "vocabulary": 20000
+    },
+    "Depression": {
+      "n_reviews": 7109,
+      "vocabulary": 10488
+    },
+    "Pain": {
+      "n_reviews": 5187,
+      "vocabulary": 6027
+    },
+    "Acne": {
+      "n_reviews": 4549,
+      "vocabulary": 7552
+    }
+  },
+  "svd": {
+    "Birth Control": {
+      "n_components": 100,
+      "explained_variance": 0.1168
+    },
+    "Depression": {
+      "n_components": 100,
+      "explained_variance": 0.1488
+    },
+    "Pain": {
+      "n_components": 100,
+      "explained_variance": 0.1934
+    },
+    "Acne": {
+      "n_components": 100,
+      "explained_variance": 0.1707
+    }
+  },
+  "kmeans_sweep": {
+    "Birth Control": {
+      "k_best": 12,
+      "db_best": 4.2654,
+      "sweep": {
+        "2": {
+          "db": 4.4206,
+          "inertia": 15828.32
+        },
+        "3": {
+          "db": 5.4685,
+          "inertia": 15501.6
+        },
+        "4": {
+          "db": 5.2196,
+          "inertia": 15263.42
+        },
+        "5": {
+          "db": 5.1961,
+          "inertia": 15065.93
+        },
+        "6": {
+          "db": 5.0309,
+          "inertia": 14895.14
+        },
+        "7": {
+          "db": 4.8944,
+          "inertia": 14771.15
+        },
+        "8": {
+          "db": 4.657,
+          "inertia": 14650.26
+        },
+        "9": {
+          "db": 4.4531,
+          "inertia": 14530.24
+        },
+        "10": {
+          "db": 4.7739,
+          "inertia": 14451.04
+        },
+        "11": {
+          "db": 4.6207,
+          "inertia": 14333.26
+        },
+        "12": {
+          "db": 4.2654,
+          "inertia": 14251.43
+        }
+      }
+    },
+    "Depression": {
+      "k_best": 12,
+      "db_best": 4.825,
+      "sweep": {
+        "2": {
+          "db": 7.8855,
+          "inertia": 6023.2
+        },
+        "3": {
+          "db": 6.7161,
+          "inertia": 5942.66
+        },
+        "4": {
+          "db": 6.2432,
+          "inertia": 5872.44
+        },
+        "5": {
+          "db": 6.0371,
+          "inertia": 5816.51
+        },
+        "6": {
+          "db": 5.8718,
+          "inertia": 5767.24
+        },
+        "7": {
+          "db": 5.408,
+          "inertia": 5713.14
+        },
+        "8": {
+          "db": 5.5093,
+          "inertia": 5668.5
+        },
+        "9": {
+          "db": 5.1904,
+          "inertia": 5624.81
+        },
+        "10": {
+          "db": 5.0426,
+          "inertia": 5582.53
+        },
+        "11": {
+          "db": 4.8687,
+          "inertia": 5537.37
+        },
+        "12": {
+          "db": 4.825,
+          "inertia": 5507.62
+        }
+      }
+    },
+    "Pain": {
+      "k_best": 11,
+      "db_best": 4.6715,
+      "sweep": {
+        "2": {
+          "db": 7.3591,
+          "inertia": 4547.43
+        },
+        "3": {
+          "db": 6.5676,
+          "inertia": 4493.12
+        },
+        "4": {
+          "db": 6.0334,
+          "inertia": 4445.29
+        },
+        "5": {
+          "db": 5.6264,
+          "inertia": 4398.37
+        },
+        "6": {
+          "db": 5.6209,
+          "inertia": 4354.17
+        },
+        "7": {
+          "db": 5.2747,
+          "inertia": 4315.58
+        },
+        "8": {
+          "db": 5.2806,
+          "inertia": 4280.66
+        },
+        "9": {
+          "db": 5.1084,
+          "inertia": 4242.11
+        },
+        "10": {
+          "db": 4.8183,
+          "inertia": 4212.53
+        },
+        "11": {
+          "db": 4.6715,
+          "inertia": 4180.44
+        },
+        "12": {
+          "db": 4.7422,
+          "inertia": 4152.83
+        }
+      }
+    },
+    "Acne": {
+      "k_best": 12,
+      "db_best": 4.8771,
+      "sweep": {
+        "2": {
+          "db": 6.2842,
+          "inertia": 3778.19
+        },
+        "3": {
+          "db": 5.8966,
+          "inertia": 3713.1
+        },
+        "4": {
+          "db": 5.7012,
+          "inertia": 3661.08
+        },
+        "5": {
+          "db": 5.5745,
+          "inertia": 3625.53
+        },
+        "6": {
+          "db": 5.597,
+          "inertia": 3594.61
+        },
+        "7": {
+          "db": 5.3651,
+          "inertia": 3559.49
+        },
+        "8": {
+          "db": 5.1393,
+          "inertia": 3533.12
+        },
+        "9": {
+          "db": 5.2458,
+          "inertia": 3512.48
+        },
+        "10": {
+          "db": 4.9995,
+          "inertia": 3486.96
+        },
+        "11": {
+          "db": 4.9941,
+          "inertia": 3465.2
+        },
+        "12": {
+          "db": 4.8771,
+          "inertia": 3448.66
+        }
+      }
+    }
+  },
+  "comparison": [
+    {
+      "condition": "Birth Control",
+      "algorithm": "k-means",
+      "n_clusters": 12,
+      "noise_pct": 0.0,
+      "db_index": 4.2654
+    },
+    {
+      "condition": "Birth Control",
+      "algorithm": "DBSCAN",
+      "n_clusters": 2,
+      "noise_pct": 0.993,
+      "db_index": 0.9336
+    },
+    {
+      "condition": "Depression",
+      "algorithm": "k-means",
+      "n_clusters": 12,
+      "noise_pct": 0.0,
+      "db_index": 4.825
+    },
+    {
+      "condition": "Depression",
+      "algorithm": "DBSCAN",
+      "n_clusters": 3,
+      "noise_pct": 0.05,
+      "db_index": 1.716
+    },
+    {
+      "condition": "Pain",
+      "algorithm": "k-means",
+      "n_clusters": 11,
+      "noise_pct": 0.0,
+      "db_index": 4.6715
+    },
+    {
+      "condition": "Pain",
+      "algorithm": "DBSCAN",
+      "n_clusters": 2,
+      "noise_pct": 0.197,
+      "db_index": 2.7749
+    },
+    {
+      "condition": "Acne",
+      "algorithm": "k-means",
+      "n_clusters": 12,
+      "noise_pct": 0.0,
+      "db_index": 4.8771
+    },
+    {
+      "condition": "Acne",
+      "algorithm": "DBSCAN",
+      "n_clusters": 7,
+      "noise_pct": 0.162,
+      "db_index": 2.2382
+    }
+  ],
+  "rating_vs_cluster": {
+    "Birth Control": {
+      "H": 1371.46,
+      "p": 1.7257719822047794e-287,
+      "significant": true
+    },
+    "Depression": {
+      "H": 577.21,
+      "p": 1.0446948236157671e-116,
+      "significant": true
+    },
+    "Pain": {
+      "H": 310.28,
+      "p": 1.0407438691860529e-60,
+      "significant": true
+    },
+    "Acne": {
+      "H": 330.22,
+      "p": 3.6815494560031295e-64,
+      "significant": true
+    }
+  },
+  "k_best": {
+    "Birth Control": 12,
+    "Depression": 12,
+    "Pain": 11,
+    "Acne": 12
+  },
+  "dbscan_best_params": {
+    "Birth Control": {
+      "eps": 0.7,
+      "min_samples": 20
+    },
+    "Depression": {
+      "eps": 1.0,
+      "min_samples": 20
+    },
+    "Pain": {
+      "eps": 1.0,
+      "min_samples": 20
+    },
+    "Acne": {
+      "eps": 1.0,
+      "min_samples": 10
+    }
+  },
+  "profiles": {
+    "Birth Control": {
+      "0": {
+        "size": 2717,
+        "mean_rating": 6.25,
+        "std_rating": 3.42,
+        "top_terms": [
+          [
+            "birth control",
+            0.0707
+          ],
+          [
+            "birth",
+            0.07
+          ],
+          [
+            "control",
+            0.07
+          ],
+          [
+            "ve",
+            0.0264
+          ],
+          [
+            "pill",
+            0.0247
+          ],
+          [
+            "period",
+            0.023
+          ],
+          [
+            "taking",
+            0.0216
+          ],
+          [
+            "months",
+            0.0209
+          ],
+          [
+            "month",
+            0.0195
+          ],
+          [
+            "effects",
+            0.0188
+          ]
+        ]
+      },
+      "1": {
+        "size": 900,
+        "mean_rating": 6.6,
+        "std_rating": 3.12,
+        "top_terms": [
+          [
+            "implanon",
+            0.1263
+          ],
+          [
+            "period",
+            0.0336
+          ],
+          [
+            "got implanon",
+            0.0307
+          ],
+          [
+            "months",
+            0.0297
+          ],
+          [
+            "got",
+            0.0296
+          ],
+          [
+            "weight",
+            0.0274
+          ],
+          [
+            "implanon inserted",
+            0.024
+          ],
+          [
+            "inserted",
+            0.0231
+          ],
+          [
+            "years",
+            0.0227
+          ],
+          [
+            "year",
+            0.0219
+          ]
+        ]
+      },
+      "2": {
+        "size": 3878,
+        "mean_rating": 5.62,
+        "std_rating": 3.37,
+        "top_terms": [
+          [
+            "pill",
+            0.0354
+          ],
+          [
+            "taking",
+            0.024
+          ],
+          [
+            "ve",
+            0.0234
+          ],
+          [
+            "started",
+            0.0224
+          ],
+          [
+            "period",
+            0.0224
+          ],
+          [
+            "month",
+            0.0215
+          ],
+          [
+            "months",
+            0.0209
+          ],
+          [
+            "week",
+            0.0182
+          ],
+          [
+            "periods",
+            0.0176
+          ],
+          [
+            "days",
+            0.017
+          ]
+        ]
+      },
+      "3": {
+        "size": 1554,
+        "mean_rating": 6.78,
+        "std_rating": 3.01,
+        "top_terms": [
+          [
+            "gain",
+            0.0713
+          ],
+          [
+            "weight",
+            0.0708
+          ],
+          [
+            "weight gain",
+            0.0627
+          ],
+          [
+            "pill",
+            0.0306
+          ],
+          [
+            "ve",
+            0.0262
+          ],
+          [
+            "acne",
+            0.0233
+          ],
+          [
+            "months",
+            0.0229
+          ],
+          [
+            "period",
+            0.0224
+          ],
+          [
+            "periods",
+            0.0208
+          ],
+          [
+            "control",
+            0.0195
+          ]
+        ]
+      },
+      "4": {
+        "size": 948,
+        "mean_rating": 7.11,
+        "std_rating": 3.12,
+        "top_terms": [
+          [
+            "mirena",
+            0.1249
+          ],
+          [
+            "insertion",
+            0.0345
+          ],
+          [
+            "cramping",
+            0.0287
+          ],
+          [
+            "painful",
+            0.0277
+          ],
+          [
+            "years",
+            0.0276
+          ],
+          [
+            "inserted",
+            0.0274
+          ],
+          [
+            "mirena inserted",
+            0.0241
+          ],
+          [
+            "pain",
+            0.0235
+          ],
+          [
+            "got mirena",
+            0.0233
+          ],
+          [
+            "spotting",
+            0.0224
+          ]
+        ]
+      },
+      "5": {
+        "size": 690,
+        "mean_rating": 6.24,
+        "std_rating": 3.43,
+        "top_terms": [
+          [
+            "shot",
+            0.1295
+          ],
+          [
+            "depo",
+            0.0945
+          ],
+          [
+            "depo shot",
+            0.0505
+          ],
+          [
+            "years",
+            0.0273
+          ],
+          [
+            "period",
+            0.0269
+          ],
+          [
+            "weight",
+            0.0265
+          ],
+          [
+            "ve",
+            0.0247
+          ],
+          [
+            "got",
+            0.0241
+          ],
+          [
+            "months",
+            0.0234
+          ],
+          [
+            "provera",
+            0.0222
+          ]
+        ]
+      },
+      "6": {
+        "size": 1915,
+        "mean_rating": 5.88,
+        "std_rating": 3.03,
+        "top_terms": [
+          [
+            "sex drive",
+            0.0792
+          ],
+          [
+            "drive",
+            0.0782
+          ],
+          [
+            "sex",
+            0.0779
+          ],
+          [
+            "pill",
+            0.0284
+          ],
+          [
+            "ve",
+            0.026
+          ],
+          [
+            "weight",
+            0.0241
+          ],
+          [
+            "months",
+            0.023
+          ],
+          [
+            "period",
+            0.0196
+          ],
+          [
+            "mood",
+            0.0187
+          ],
+          [
+            "acne",
+            0.0185
+          ]
+        ]
+      },
+      "7": {
+        "size": 1770,
+        "mean_rating": 5.79,
+        "std_rating": 3.26,
+        "top_terms": [
+          [
+            "mood swings",
+            0.075
+          ],
+          [
+            "swings",
+            0.0748
+          ],
+          [
+            "mood",
+            0.0721
+          ],
+          [
+            "pill",
+            0.0291
+          ],
+          [
+            "ve",
+            0.0276
+          ],
+          [
+            "weight",
+            0.0251
+          ],
+          [
+            "months",
+            0.0238
+          ],
+          [
+            "period",
+            0.0235
+          ],
+          [
+            "acne",
+            0.0225
+          ],
+          [
+            "control",
+            0.0223
+          ]
+        ]
+      },
+      "8": {
+        "size": 1919,
+        "mean_rating": 5.46,
+        "std_rating": 3.26,
+        "top_terms": [
+          [
+            "nexplanon",
+            0.0532
+          ],
+          [
+            "implant",
+            0.0415
+          ],
+          [
+            "got",
+            0.0393
+          ],
+          [
+            "period",
+            0.0374
+          ],
+          [
+            "bleeding",
+            0.0367
+          ],
+          [
+            "months",
+            0.0322
+          ],
+          [
+            "weeks",
+            0.0249
+          ],
+          [
+            "removed",
+            0.0245
+          ],
+          [
+            "ve",
+            0.0242
+          ],
+          [
+            "getting",
+            0.0233
+          ]
+        ]
+      },
+      "9": {
+        "size": 549,
+        "mean_rating": 6.44,
+        "std_rating": 3.27,
+        "top_terms": [
+          [
+            "loestrin",
+            0.1078
+          ],
+          [
+            "fe",
+            0.0882
+          ],
+          [
+            "lo loestrin",
+            0.0659
+          ],
+          [
+            "lo",
+            0.0634
+          ],
+          [
+            "loestrin fe",
+            0.0516
+          ],
+          [
+            "24",
+            0.0436
+          ],
+          [
+            "loestrin 24",
+            0.0405
+          ],
+          [
+            "24 fe",
+            0.0364
+          ],
+          [
+            "pill",
+            0.033
+          ],
+          [
+            "period",
+            0.0272
+          ]
+        ]
+      },
+      "10": {
+        "size": 730,
+        "mean_rating": 2.93,
+        "std_rating": 2.54,
+        "top_terms": [
+          [
+            "anxiety",
+            0.0895
+          ],
+          [
+            "depression",
+            0.0703
+          ],
+          [
+            "depression anxiety",
+            0.0312
+          ],
+          [
+            "attacks",
+            0.0291
+          ],
+          [
+            "anxiety depression",
+            0.0291
+          ],
+          [
+            "panic",
+            0.0254
+          ],
+          [
+            "severe",
+            0.023
+          ],
+          [
+            "months",
+            0.0227
+          ],
+          [
+            "ve",
+            0.0225
+          ],
+          [
+            "pill",
+            0.0225
+          ]
+        ]
+      },
+      "11": {
+        "size": 1950,
+        "mean_rating": 7.58,
+        "std_rating": 2.8,
+        "top_terms": [
+          [
+            "insertion",
+            0.0529
+          ],
+          [
+            "pain",
+            0.0504
+          ],
+          [
+            "skyla",
+            0.0427
+          ],
+          [
+            "iud",
+            0.0376
+          ],
+          [
+            "cramps",
+            0.0371
+          ],
+          [
+            "cramping",
+            0.0327
+          ],
+          [
+            "inserted",
+            0.0321
+          ],
+          [
+            "painful",
+            0.031
+          ],
+          [
+            "got",
+            0.0263
+          ],
+          [
+            "felt",
+            0.026
+          ]
+        ]
+      }
+    },
+    "Depression": {
+      "0": {
+        "size": 258,
+        "mean_rating": 7.4,
+        "std_rating": 2.73,
+        "top_terms": [
+          [
+            "sex",
+            0.12
+          ],
+          [
+            "sex drive",
+            0.1158
+          ],
+          [
+            "drive",
+            0.1149
+          ],
+          [
+            "effects",
+            0.0281
+          ],
+          [
+            "taking",
+            0.0252
+          ],
+          [
+            "feel",
+            0.0242
+          ],
+          [
+            "depression",
+            0.0242
+          ],
+          [
+            "life",
+            0.0227
+          ],
+          [
+            "anxiety",
+            0.0225
+          ],
+          [
+            "ve",
+            0.021
+          ]
+        ]
+      },
+      "1": {
+        "size": 581,
+        "mean_rating": 9.13,
+        "std_rating": 1.8,
+        "top_terms": [
+          [
+            "life",
+            0.0944
+          ],
+          [
+            "saved",
+            0.0404
+          ],
+          [
+            "changed",
+            0.0371
+          ],
+          [
+            "saved life",
+            0.0359
+          ],
+          [
+            "changed life",
+            0.032
+          ],
+          [
+            "depression",
+            0.0314
+          ],
+          [
+            "years",
+            0.0301
+          ],
+          [
+            "anxiety",
+            0.0234
+          ],
+          [
+            "medication",
+            0.0223
+          ],
+          [
+            "ve",
+            0.0178
+          ]
+        ]
+      },
+      "2": {
+        "size": 498,
+        "mean_rating": 5.49,
+        "std_rating": 3.63,
+        "top_terms": [
+          [
+            "drug",
+            0.093
+          ],
+          [
+            "withdrawal",
+            0.0299
+          ],
+          [
+            "symptoms",
+            0.0276
+          ],
+          [
+            "depression",
+            0.0263
+          ],
+          [
+            "taking",
+            0.022
+          ],
+          [
+            "effects",
+            0.022
+          ],
+          [
+            "dose",
+            0.0204
+          ],
+          [
+            "withdrawal symptoms",
+            0.0194
+          ],
+          [
+            "years",
+            0.019
+          ],
+          [
+            "brain",
+            0.0185
+          ]
+        ]
+      },
+      "3": {
+        "size": 295,
+        "mean_rating": 7.18,
+        "std_rating": 3.15,
+        "top_terms": [
+          [
+            "panic",
+            0.1173
+          ],
+          [
+            "attacks",
+            0.1052
+          ],
+          [
+            "panic attacks",
+            0.1044
+          ],
+          [
+            "anxiety",
+            0.0431
+          ],
+          [
+            "depression",
+            0.0325
+          ],
+          [
+            "attack",
+            0.0262
+          ],
+          [
+            "anxiety panic",
+            0.0241
+          ],
+          [
+            "having",
+            0.024
+          ],
+          [
+            "panic attack",
+            0.0237
+          ],
+          [
+            "feel",
+            0.0216
+          ]
+        ]
+      },
+      "4": {
+        "size": 535,
+        "mean_rating": 6.5,
+        "std_rating": 3.24,
+        "top_terms": [
+          [
+            "sleep",
+            0.0861
+          ],
+          [
+            "night",
+            0.0613
+          ],
+          [
+            "hours",
+            0.0294
+          ],
+          [
+            "day",
+            0.0258
+          ],
+          [
+            "depression",
+            0.0249
+          ],
+          [
+            "taking",
+            0.0238
+          ],
+          [
+            "wake",
+            0.0223
+          ],
+          [
+            "morning",
+            0.022
+          ],
+          [
+            "time",
+            0.0198
+          ],
+          [
+            "took",
+            0.0193
+          ]
+        ]
+      },
+      "5": {
+        "size": 1222,
+        "mean_rating": 6.37,
+        "std_rating": 3.28,
+        "top_terms": [
+          [
+            "started",
+            0.0359
+          ],
+          [
+            "felt",
+            0.0321
+          ],
+          [
+            "taking",
+            0.0321
+          ],
+          [
+            "days",
+            0.0301
+          ],
+          [
+            "day",
+            0.0292
+          ],
+          [
+            "weeks",
+            0.0291
+          ],
+          [
+            "depression",
+            0.0242
+          ],
+          [
+            "better",
+            0.0219
+          ],
+          [
+            "anxiety",
+            0.0219
+          ],
+          [
+            "just",
+            0.0208
+          ]
+        ]
+      },
+      "6": {
+        "size": 330,
+        "mean_rating": 7.06,
+        "std_rating": 2.87,
+        "top_terms": [
+          [
+            "mood",
+            0.1057
+          ],
+          [
+            "swings",
+            0.0543
+          ],
+          [
+            "mood swings",
+            0.0538
+          ],
+          [
+            "effects",
+            0.0234
+          ],
+          [
+            "depression",
+            0.0232
+          ],
+          [
+            "medication",
+            0.0208
+          ],
+          [
+            "feel",
+            0.0208
+          ],
+          [
+            "months",
+            0.0204
+          ],
+          [
+            "day",
+            0.0193
+          ],
+          [
+            "anxiety",
+            0.0193
+          ]
+        ]
+      },
+      "7": {
+        "size": 216,
+        "mean_rating": 7.23,
+        "std_rating": 2.7,
+        "top_terms": [
+          [
+            "mouth",
+            0.1267
+          ],
+          [
+            "dry",
+            0.126
+          ],
+          [
+            "dry mouth",
+            0.1204
+          ],
+          [
+            "effects",
+            0.0363
+          ],
+          [
+            "depression",
+            0.0271
+          ],
+          [
+            "feel",
+            0.0229
+          ],
+          [
+            "taking",
+            0.0225
+          ],
+          [
+            "weeks",
+            0.0208
+          ],
+          [
+            "started",
+            0.019
+          ],
+          [
+            "anxiety",
+            0.0188
+          ]
+        ]
+      },
+      "8": {
+        "size": 1343,
+        "mean_rating": 7.47,
+        "std_rating": 2.99,
+        "top_terms": [
+          [
+            "depression",
+            0.0379
+          ],
+          [
+            "effects",
+            0.0247
+          ],
+          [
+            "years",
+            0.0237
+          ],
+          [
+            "anxiety",
+            0.0215
+          ],
+          [
+            "works",
+            0.0208
+          ],
+          [
+            "medicine",
+            0.0202
+          ],
+          [
+            "ve",
+            0.02
+          ],
+          [
+            "worked",
+            0.0198
+          ],
+          [
+            "medication",
+            0.0195
+          ],
+          [
+            "helped",
+            0.0192
+          ]
+        ]
+      },
+      "9": {
+        "size": 458,
+        "mean_rating": 7.39,
+        "std_rating": 2.59,
+        "top_terms": [
+          [
+            "weight",
+            0.1133
+          ],
+          [
+            "gain",
+            0.0919
+          ],
+          [
+            "weight gain",
+            0.0815
+          ],
+          [
+            "gained",
+            0.0342
+          ],
+          [
+            "depression",
+            0.0284
+          ],
+          [
+            "effects",
+            0.0231
+          ],
+          [
+            "months",
+            0.022
+          ],
+          [
+            "taking",
+            0.0218
+          ],
+          [
+            "years",
+            0.0217
+          ],
+          [
+            "medication",
+            0.0216
+          ]
+        ]
+      },
+      "10": {
+        "size": 621,
+        "mean_rating": 7.24,
+        "std_rating": 2.9,
+        "top_terms": [
+          [
+            "mg",
+            0.1086
+          ],
+          [
+            "10",
+            0.0314
+          ],
+          [
+            "10 mg",
+            0.0282
+          ],
+          [
+            "day",
+            0.0279
+          ],
+          [
+            "depression",
+            0.0264
+          ],
+          [
+            "20",
+            0.0261
+          ],
+          [
+            "20 mg",
+            0.0253
+          ],
+          [
+            "50 mg",
+            0.0253
+          ],
+          [
+            "50",
+            0.0246
+          ],
+          [
+            "started",
+            0.0245
+          ]
+        ]
+      },
+      "11": {
+        "size": 752,
+        "mean_rating": 7.41,
+        "std_rating": 2.98,
+        "top_terms": [
+          [
+            "feel",
+            0.0775
+          ],
+          [
+            "like",
+            0.0646
+          ],
+          [
+            "feel like",
+            0.053
+          ],
+          [
+            "don",
+            0.0297
+          ],
+          [
+            "better",
+            0.0278
+          ],
+          [
+            "just",
+            0.0255
+          ],
+          [
+            "taking",
+            0.022
+          ],
+          [
+            "ve",
+            0.022
+          ],
+          [
+            "day",
+            0.02
+          ],
+          [
+            "depression",
+            0.0195
+          ]
+        ]
+      }
+    },
+    "Pain": {
+      "0": {
+        "size": 1241,
+        "mean_rating": 7.13,
+        "std_rating": 3.12,
+        "top_terms": [
+          [
+            "pain",
+            0.0597
+          ],
+          [
+            "help",
+            0.0226
+          ],
+          [
+            "medication",
+            0.0223
+          ],
+          [
+            "helped",
+            0.0213
+          ],
+          [
+            "medicine",
+            0.0211
+          ],
+          [
+            "does",
+            0.0209
+          ],
+          [
+            "helps",
+            0.0206
+          ],
+          [
+            "effects",
+            0.0196
+          ],
+          [
+            "best",
+            0.0175
+          ],
+          [
+            "drug",
+            0.0164
+          ]
+        ]
+      },
+      "1": {
+        "size": 699,
+        "mean_rating": 8.82,
+        "std_rating": 2.01,
+        "top_terms": [
+          [
+            "life",
+            0.0655
+          ],
+          [
+            "years",
+            0.0551
+          ],
+          [
+            "pain",
+            0.0527
+          ],
+          [
+            "chronic",
+            0.0298
+          ],
+          [
+            "doctor",
+            0.0254
+          ],
+          [
+            "chronic pain",
+            0.0237
+          ],
+          [
+            "ve",
+            0.0235
+          ],
+          [
+            "methadone",
+            0.0227
+          ],
+          [
+            "medicine",
+            0.0211
+          ],
+          [
+            "day",
+            0.021
+          ]
+        ]
+      },
+      "2": {
+        "size": 364,
+        "mean_rating": 6.58,
+        "std_rating": 3.44,
+        "top_terms": [
+          [
+            "relief",
+            0.125
+          ],
+          [
+            "pain relief",
+            0.0937
+          ],
+          [
+            "pain",
+            0.0638
+          ],
+          [
+            "effects",
+            0.0232
+          ],
+          [
+            "relief pain",
+            0.0229
+          ],
+          [
+            "medication",
+            0.0206
+          ],
+          [
+            "hours",
+            0.0199
+          ],
+          [
+            "prescribed",
+            0.0179
+          ],
+          [
+            "day",
+            0.0171
+          ],
+          [
+            "tried",
+            0.0159
+          ]
+        ]
+      },
+      "3": {
+        "size": 933,
+        "mean_rating": 7.33,
+        "std_rating": 2.9,
+        "top_terms": [
+          [
+            "day",
+            0.0627
+          ],
+          [
+            "pain",
+            0.0462
+          ],
+          [
+            "taking",
+            0.0405
+          ],
+          [
+            "mg",
+            0.0387
+          ],
+          [
+            "times",
+            0.0283
+          ],
+          [
+            "times day",
+            0.0241
+          ],
+          [
+            "started",
+            0.0232
+          ],
+          [
+            "years",
+            0.0223
+          ],
+          [
+            "10",
+            0.0216
+          ],
+          [
+            "doctor",
+            0.02
+          ]
+        ]
+      },
+      "4": {
+        "size": 230,
+        "mean_rating": 7.95,
+        "std_rating": 2.44,
+        "top_terms": [
+          [
+            "good",
+            0.2274
+          ],
+          [
+            "good pain",
+            0.0588
+          ],
+          [
+            "pain",
+            0.0503
+          ],
+          [
+            "pretty good",
+            0.0263
+          ],
+          [
+            "pretty",
+            0.0211
+          ],
+          [
+            "medicine",
+            0.021
+          ],
+          [
+            "sleep",
+            0.02
+          ],
+          [
+            "drug",
+            0.0189
+          ],
+          [
+            "bad",
+            0.0173
+          ],
+          [
+            "works",
+            0.0168
+          ]
+        ]
+      },
+      "5": {
+        "size": 158,
+        "mean_rating": 8.34,
+        "std_rating": 2.27,
+        "top_terms": [
+          [
+            "disc",
+            0.1224
+          ],
+          [
+            "degenerative",
+            0.1054
+          ],
+          [
+            "disease",
+            0.1029
+          ],
+          [
+            "degenerative disc",
+            0.0949
+          ],
+          [
+            "disc disease",
+            0.0937
+          ],
+          [
+            "pain",
+            0.0452
+          ],
+          [
+            "herniated",
+            0.0374
+          ],
+          [
+            "years",
+            0.0279
+          ],
+          [
+            "day",
+            0.0244
+          ],
+          [
+            "herniated disc",
+            0.0233
+          ]
+        ]
+      },
+      "6": {
+        "size": 255,
+        "mean_rating": 8.61,
+        "std_rating": 2.06,
+        "top_terms": [
+          [
+            "great",
+            0.2051
+          ],
+          [
+            "works great",
+            0.0899
+          ],
+          [
+            "great pain",
+            0.0688
+          ],
+          [
+            "works",
+            0.0648
+          ],
+          [
+            "pain",
+            0.0563
+          ],
+          [
+            "worked great",
+            0.0477
+          ],
+          [
+            "worked",
+            0.037
+          ],
+          [
+            "medicine",
+            0.0234
+          ],
+          [
+            "effects",
+            0.0185
+          ],
+          [
+            "taking",
+            0.0158
+          ]
+        ]
+      },
+      "7": {
+        "size": 298,
+        "mean_rating": 8.59,
+        "std_rating": 1.94,
+        "top_terms": [
+          [
+            "works",
+            0.1637
+          ],
+          [
+            "pain",
+            0.0462
+          ],
+          [
+            "works better",
+            0.0252
+          ],
+          [
+            "better",
+            0.0228
+          ],
+          [
+            "medicine",
+            0.0216
+          ],
+          [
+            "works wonders",
+            0.0197
+          ],
+          [
+            "really",
+            0.018
+          ],
+          [
+            "taking",
+            0.0176
+          ],
+          [
+            "medication",
+            0.0175
+          ],
+          [
+            "wonders",
+            0.0175
+          ]
+        ]
+      },
+      "8": {
+        "size": 161,
+        "mean_rating": 8.19,
+        "std_rating": 2.48,
+        "top_terms": [
+          [
+            "away",
+            0.1614
+          ],
+          [
+            "pain away",
+            0.1246
+          ],
+          [
+            "pain",
+            0.0692
+          ],
+          [
+            "took",
+            0.0603
+          ],
+          [
+            "takes",
+            0.0569
+          ],
+          [
+            "took pain",
+            0.0549
+          ],
+          [
+            "away pain",
+            0.0528
+          ],
+          [
+            "takes pain",
+            0.0507
+          ],
+          [
+            "takes away",
+            0.0242
+          ],
+          [
+            "took away",
+            0.0217
+          ]
+        ]
+      },
+      "9": {
+        "size": 601,
+        "mean_rating": 6.99,
+        "std_rating": 3.53,
+        "top_terms": [
+          [
+            "pain",
+            0.0455
+          ],
+          [
+            "given",
+            0.0356
+          ],
+          [
+            "worked",
+            0.0338
+          ],
+          [
+            "dilaudid",
+            0.0322
+          ],
+          [
+            "gave",
+            0.0306
+          ],
+          [
+            "took",
+            0.0274
+          ],
+          [
+            "hours",
+            0.0249
+          ],
+          [
+            "iv",
+            0.0245
+          ],
+          [
+            "toradol",
+            0.0241
+          ],
+          [
+            "minutes",
+            0.0241
+          ]
+        ]
+      },
+      "10": {
+        "size": 247,
+        "mean_rating": 6.76,
+        "std_rating": 3.32,
+        "top_terms": [
+          [
+            "patch",
+            0.1337
+          ],
+          [
+            "patches",
+            0.0858
+          ],
+          [
+            "pain",
+            0.0398
+          ],
+          [
+            "fentanyl",
+            0.0346
+          ],
+          [
+            "use",
+            0.0314
+          ],
+          [
+            "mylan",
+            0.031
+          ],
+          [
+            "hours",
+            0.0304
+          ],
+          [
+            "lidocaine",
+            0.0279
+          ],
+          [
+            "brand",
+            0.0264
+          ],
+          [
+            "stick",
+            0.0259
+          ]
+        ]
+      }
+    },
+    "Acne": {
+      "0": {
+        "size": 289,
+        "mean_rating": 6.92,
+        "std_rating": 3.2,
+        "top_terms": [
+          [
+            "skin",
+            0.06
+          ],
+          [
+            "spots",
+            0.0542
+          ],
+          [
+            "duac",
+            0.0496
+          ],
+          [
+            "cream",
+            0.0481
+          ],
+          [
+            "red",
+            0.0447
+          ],
+          [
+            "using",
+            0.0445
+          ],
+          [
+            "face",
+            0.036
+          ],
+          [
+            "dry",
+            0.0334
+          ],
+          [
+            "acne",
+            0.0327
+          ],
+          [
+            "days",
+            0.0292
+          ]
+        ]
+      },
+      "1": {
+        "size": 291,
+        "mean_rating": 8.41,
+        "std_rating": 2.7,
+        "top_terms": [
+          [
+            "accutane",
+            0.1083
+          ],
+          [
+            "acne",
+            0.0456
+          ],
+          [
+            "years",
+            0.0326
+          ],
+          [
+            "drug",
+            0.0323
+          ],
+          [
+            "tried",
+            0.0314
+          ],
+          [
+            "months",
+            0.0314
+          ],
+          [
+            "life",
+            0.0306
+          ],
+          [
+            "effects",
+            0.0295
+          ],
+          [
+            "worked",
+            0.0281
+          ],
+          [
+            "took",
+            0.0273
+          ]
+        ]
+      },
+      "2": {
+        "size": 310,
+        "mean_rating": 7.81,
+        "std_rating": 2.59,
+        "top_terms": [
+          [
+            "epiduo",
+            0.1341
+          ],
+          [
+            "skin",
+            0.0515
+          ],
+          [
+            "using epiduo",
+            0.0508
+          ],
+          [
+            "using",
+            0.0465
+          ],
+          [
+            "face",
+            0.0357
+          ],
+          [
+            "acne",
+            0.0319
+          ],
+          [
+            "use",
+            0.0293
+          ],
+          [
+            "dry",
+            0.027
+          ],
+          [
+            "days",
+            0.0249
+          ],
+          [
+            "just",
+            0.0223
+          ]
+        ]
+      },
+      "3": {
+        "size": 522,
+        "mean_rating": 8.07,
+        "std_rating": 2.65,
+        "top_terms": [
+          [
+            "use",
+            0.0499
+          ],
+          [
+            "using",
+            0.0489
+          ],
+          [
+            "face",
+            0.046
+          ],
+          [
+            "skin",
+            0.0423
+          ],
+          [
+            "acne",
+            0.0322
+          ],
+          [
+            "gel",
+            0.0302
+          ],
+          [
+            "night",
+            0.0301
+          ],
+          [
+            "wash",
+            0.0238
+          ],
+          [
+            "ve",
+            0.0235
+          ],
+          [
+            "day",
+            0.0219
+          ]
+        ]
+      },
+      "4": {
+        "size": 873,
+        "mean_rating": 7.04,
+        "std_rating": 3.07,
+        "top_terms": [
+          [
+            "acne",
+            0.0411
+          ],
+          [
+            "taking",
+            0.0312
+          ],
+          [
+            "medication",
+            0.0275
+          ],
+          [
+            "skin",
+            0.0253
+          ],
+          [
+            "months",
+            0.0249
+          ],
+          [
+            "cleared",
+            0.0227
+          ],
+          [
+            "started",
+            0.022
+          ],
+          [
+            "really",
+            0.021
+          ],
+          [
+            "face",
+            0.0208
+          ],
+          [
+            "month",
+            0.0207
+          ]
+        ]
+      },
+      "5": {
+        "size": 362,
+        "mean_rating": 8.18,
+        "std_rating": 2.51,
+        "top_terms": [
+          [
+            "years",
+            0.072
+          ],
+          [
+            "old",
+            0.0631
+          ],
+          [
+            "years old",
+            0.0535
+          ],
+          [
+            "acne",
+            0.0463
+          ],
+          [
+            "tried",
+            0.0303
+          ],
+          [
+            "dermatologist",
+            0.0296
+          ],
+          [
+            "year",
+            0.0281
+          ],
+          [
+            "skin",
+            0.0271
+          ],
+          [
+            "ve",
+            0.027
+          ],
+          [
+            "face",
+            0.0268
+          ]
+        ]
+      },
+      "6": {
+        "size": 307,
+        "mean_rating": 6.49,
+        "std_rating": 3.32,
+        "top_terms": [
+          [
+            "birth",
+            0.1117
+          ],
+          [
+            "birth control",
+            0.1106
+          ],
+          [
+            "control",
+            0.1096
+          ],
+          [
+            "acne",
+            0.0435
+          ],
+          [
+            "pill",
+            0.0345
+          ],
+          [
+            "months",
+            0.0308
+          ],
+          [
+            "taking",
+            0.029
+          ],
+          [
+            "skin",
+            0.0286
+          ],
+          [
+            "started",
+            0.0271
+          ],
+          [
+            "period",
+            0.0264
+          ]
+        ]
+      },
+      "7": {
+        "size": 347,
+        "mean_rating": 7.49,
+        "std_rating": 2.96,
+        "top_terms": [
+          [
+            "cystic",
+            0.0888
+          ],
+          [
+            "cystic acne",
+            0.0843
+          ],
+          [
+            "acne",
+            0.0571
+          ],
+          [
+            "skin",
+            0.0326
+          ],
+          [
+            "months",
+            0.0285
+          ],
+          [
+            "weeks",
+            0.0238
+          ],
+          [
+            "chin",
+            0.0236
+          ],
+          [
+            "taking",
+            0.0221
+          ],
+          [
+            "ve",
+            0.0219
+          ],
+          [
+            "face",
+            0.0218
+          ]
+        ]
+      },
+      "8": {
+        "size": 369,
+        "mean_rating": 5.9,
+        "std_rating": 3.25,
+        "top_terms": [
+          [
+            "pill",
+            0.0764
+          ],
+          [
+            "weight",
+            0.0437
+          ],
+          [
+            "acne",
+            0.0405
+          ],
+          [
+            "period",
+            0.0389
+          ],
+          [
+            "taking",
+            0.0335
+          ],
+          [
+            "months",
+            0.0324
+          ],
+          [
+            "ve",
+            0.0295
+          ],
+          [
+            "gain",
+            0.029
+          ],
+          [
+            "yaz",
+            0.0285
+          ],
+          [
+            "mood",
+            0.028
+          ]
+        ]
+      },
+      "9": {
+        "size": 277,
+        "mean_rating": 7.82,
+        "std_rating": 2.96,
+        "top_terms": [
+          [
+            "product",
+            0.1279
+          ],
+          [
+            "using",
+            0.0475
+          ],
+          [
+            "skin",
+            0.0433
+          ],
+          [
+            "using product",
+            0.0428
+          ],
+          [
+            "acne",
+            0.0369
+          ],
+          [
+            "face",
+            0.0308
+          ],
+          [
+            "used",
+            0.0283
+          ],
+          [
+            "use",
+            0.0259
+          ],
+          [
+            "recommend",
+            0.0243
+          ],
+          [
+            "ve",
+            0.0204
+          ]
+        ]
+      },
+      "10": {
+        "size": 297,
+        "mean_rating": 8.34,
+        "std_rating": 2.3,
+        "top_terms": [
+          [
+            "lips",
+            0.0898
+          ],
+          [
+            "dry",
+            0.0806
+          ],
+          [
+            "dry lips",
+            0.0532
+          ],
+          [
+            "effects",
+            0.0499
+          ],
+          [
+            "skin",
+            0.0453
+          ],
+          [
+            "accutane",
+            0.0449
+          ],
+          [
+            "dry skin",
+            0.0386
+          ],
+          [
+            "acne",
+            0.0345
+          ],
+          [
+            "month",
+            0.0338
+          ],
+          [
+            "chapped",
+            0.0311
+          ]
+        ]
+      },
+      "11": {
+        "size": 305,
+        "mean_rating": 6.19,
+        "std_rating": 3.32,
+        "top_terms": [
+          [
+            "worse",
+            0.0835
+          ],
+          [
+            "better",
+            0.0575
+          ],
+          [
+            "gets",
+            0.0471
+          ],
+          [
+            "got",
+            0.0447
+          ],
+          [
+            "acne",
+            0.0433
+          ],
+          [
+            "skin",
+            0.0367
+          ],
+          [
+            "gets better",
+            0.0357
+          ],
+          [
+            "started",
+            0.0316
+          ],
+          [
+            "weeks",
+            0.0311
+          ],
+          [
+            "worse gets",
+            0.0292
+          ]
+        ]
+      }
+    }
+  },
+  "runtime_minutes": 5.5
+}
