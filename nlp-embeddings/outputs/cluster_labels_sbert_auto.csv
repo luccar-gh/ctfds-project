@@ -1,0 +1,48 @@
+condition,cluster,n_reviews,sbert_keywords
+depression,0,258,sex drive | lexapro | weeks | weight | really
+depression,1,581,saved life | anxiety | years | did | felt
+depression,2,498,withdrawal | doctor | years | horrible | brain zaps
+depression,3,295,panic attacks | doctor | years | bad | xanax
+depression,4,535,asleep | started | really | ive | medication
+depression,5,1222,started | doctor | anxiety | got | felt
+depression,6,330,mood swings | years | medication | did | energy
+depression,7,216,dry mouth | wellbutrin | years | ive | felt
+depression,8,1343,medication | years | didnt | anxiety | best
+depression,9,458,weight gain | year | lexapro | lost | tried
+depression,10,621,50 mg | doctor | anxiety | weeks | felt
+depression,11,752,feel better | time | ive | dont | really
+birth control,0,2717,birth control | time | weight | acne | got
+birth control,1,900,implanon inserted | year | mood swings | removed | weight
+birth control,2,3878,pills | acne | time | cramps | ive
+birth control,3,1554,weight gain | time | birth control | acne | pounds
+birth control,4,948,mirena inserted | years | removed | cramping | got mirena
+birth control,5,690,depo shot | weight | time | didnt | got
+birth control,6,1915,sex drive | time | weight | acne | dont
+birth control,7,1770,mood swings | weight | time | acne | birth control
+birth control,8,1919,got nexplanon | weeks | implant | bleeding | arm
+birth control,9,549,lo loestrin | years | switched | weight | fe
+birth control,10,730,anxiety depression | time | severe | got | felt
+birth control,11,1950,iud | minutes | cramping | did | procedure
+pain,0,1241,medication | severe | neck | does | make
+pain,1,699,chronic | able | time | doctors | severe
+pain,2,364,pain relief | ive | time | doctor | chronic
+pain,3,933,started | nucynta | mg | times day | ive
+pain,4,230,good | drug | time | chronic | ive
+pain,5,158,degenerative disc | 10 | surgery | bulging | neck
+pain,6,255,worked great | lower | tylenol | really | time
+pain,7,298,medicine works | years | dont | ive | really
+pain,8,161,pain away | make | doctor | severe | took
+pain,9,601,tooth | didnt | severe | kidney | time
+pain,10,247,patches | waste | dont | butrans | years
+acne,0,289,cream | ive | months | really | doctor
+acne,1,291,accutane | severe | clear | dermatologist | year
+acne,2,310,epiduo | prescribed | dry | did | really
+acne,3,522,moisturizer | started | differin | really | clear
+acne,4,873,doxycycline | taking | severe | work | dont
+acne,5,362,years old | dermatologist | tried | ive | clear
+acne,6,307,birth control | cystic | tri | weight | worse
+acne,7,347,cystic | years | prescribed | dermatologist | did
+acne,8,369,periods | weight gain | tri | swings | pill
+acne,9,277,dry | started | pimples | recommend product | really
+acne,10,297,accutane | lips dry | results | years | ive
+acne,11,305,got worse | cheeks | time | ive | medication
