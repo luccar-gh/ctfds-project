@@ -1,0 +1,76 @@
+# NLP embeddings and topic labels (Role C)
+
+This notebook turns every review into a vector that captures its **meaning** (Sentence-BERT, the new technique that was not taught in the course). The vectors are used to compare clustering in meaning space with B's TF-IDF clusters (Davies-Bouldin index), to label B's clusters (class-based TF-IDF written from scratch plus embedding similarity), and as input for A's meaning version of the similar-story search.
+
+## Data
+
+Role A's `reviews_clean_deduplicated.parquet` (128,663 clean reviews), `drug_families.csv` and `brand_generic_drug_name_pairs.csv`, and Role B's `cluster_assignments.parquet` and `cluster_profiles.csv` (k-means clusters of Birth Control, Depression, Pain and Acne; 36,365 reviews).
+
+## What the notebook does
+
+1. **C1 · Load and scope**: load A's and B's files, keep the four conditions.
+2. **C2 · Sentence-BERT embeddings**: `FremyCompany/BioLORD-2023` (biomedical) gives 768 numbers per review (length 1, so the dot product is the cosine similarity). Optionally also for the 92k reviews of the other conditions.
+3. **C3 · Sanity check**: rows, `review_id`s, NaN and vector length agree.
+4. **C4 · Topic terms from scratch**: class-based TF-IDF (the idea behind BERTopic), written with numpy. Each cluster is one big document; terms that are frequent in the cluster and rare in the others score high. Compared with B's terms.
+5. **C5 · Topic keywords (KeyBERT-style)**: the 30 c-TF-IDF candidates of each cluster are embedded and ranked by cosine similarity to the cluster centroid minus the similarity to the centroid of the whole condition (so that terms describing the whole condition lose out to terms specific to the cluster), with a diversity penalty (MMR) so that the five chosen terms are not variants of one word. No hand-written list.
+6. **C6 · Cluster table**: reviews, mean rating and top drugs of each of B's 47 clusters.
+7. **C7 · Automatic validation**: NPMI coherence of each cluster's top terms against a random-word baseline, and embedding cohesion. No manual labelling.
+8. **C8 · DBSCAN**: why only the k-means clusters are labelled (99% noise in Birth Control).
+9. **C9 · Clustering in meaning space**: k-means on the embeddings with B's k, with and without drug names (replaced by "medication"). Davies-Bouldin, drug purity, ARI vs B and rating spread. C9b compares BioLORD with `all-MiniLM-L6-v2` on a sample.
+10. **C10 · Save outputs**: embeddings and pairs for A, labels for D, statistics for the report.
+
+## What is in this folder
+
+| Path | What it is |
+|---|---|
+| `nlp-embeddings.ipynb` | The whole analysis, step by step |
+| `data/` | Role A's files (not committed — copy here or add on Kaggle); B's files are read from `../clustering/outputs` |
+| `outputs/` | Created by the notebook |
+
+## Where the results are
+
+| File | For |
+|---|---|
+| `outputs/embeddings_all.npy` + `embeddings_all_ids.parquet` | **A**: one vector (768) per `review_id` |
+| `outputs/cluster_labels_final.csv` | **D** and report: one label per k-means cluster |
+| `outputs/cluster_topics_ctfidf.csv`, `cluster_labels_sbert_auto.csv` | Report: c-TF-IDF terms and Sentence-BERT keywords per cluster |
+| `outputs/sbert_vs_tfidf_summary.csv`, `sbert_masked_v2_summary.csv`, `model_comparison_sample.csv` | Report: clustering in meaning space and model comparison |
+| `outputs/role_c_run_stats.json` | Report: all numbers |
+
+## How to use the embeddings, pairs and labels in your own notebook
+
+```python
+from pathlib import Path
+import numpy as np
+import pandas as pd
+
+folder = next(p for p in [Path('/kaggle/input'), Path('../nlp-embeddings/outputs')] if p.exists())
+E   = np.load(next(folder.rglob('embeddings_all.npy')))                    # (n_reviews, 768), length 1
+ids = pd.read_parquet(next(folder.rglob('embeddings_all_ids.parquet')))    # same row = same review_id
+vec = dict(zip(ids['review_id'], E))                                        # vec[review_id] -> 768 numbers
+labels = pd.read_csv(next(folder.rglob('cluster_labels_final.csv')))        # condition, cluster, label_final, label_source, ...
+```
+
+## How to run
+
+Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **Restart & Run All**. BioLORD is several times slower than small models: use a GPU (Kaggle or Colab). `EMBED_ALL_OTHER_REVIEWS = True` also embeds the other 92k reviews. Later runs reuse the saved `.npy` files.  Requires: `numpy`, `pandas`, `scipy`, `scikit-learn`, `sentence-transformers`.
+
+## Limitations
+
+- The Sentence-BERT keywords can only be terms that already appear in the c-TF-IDF candidates; they are suggestions, not final labels.
+- One main model (BioLORD-2023), compared with `all-MiniLM-L6-v2` only on a small sample (C9b). Very long reviews are truncated at the model's maximum length.
+- Embeddings group partly by drug name; masking helps but ~5% of the reviews keep a name, and results depend on the masking list.
+- With BioLORD, cosine similarities are higher than with MiniLM in general: a cosine threshold (for A's LSH, for example) should be chosen from the distribution, not copied from a typical value.
+- There is no manual labelling: `label_final` is made of the first three Sentence-BERT keywords, not a sentence written by a person. The evaluation uses automatic metrics (NPMI against a random baseline, cohesion, Davies-Bouldin, drug purity, ARI) and a qualitative pilot review of some clusters.
+- The automatic metrics of C7 evaluate the c-TF-IDF terms and B's clusters, not the Sentence-BERT keywords.
+
+## To do
+
+- [ ] Give A `embeddings_all.npy` (A implements the cosine LSH and the comparison with the word version).
+- [ ] Agree with D which clustering to use (k-means of B) and share `cluster_labels_final.csv`.
+- [ ] Write the Role C section of the report from `role_c_run_stats.json`.
+
+## Note on topic keywords
+A pilot manual review of several clusters showed that generic words (*doctor, medication, went*), condition names and drug names appear among the keywords. They are **not** filtered with a hand-written list (any such list would be arbitrary); instead C4 measures the share of keywords that are drug or condition names (`share_name_terms_top10`) and this is reported as a finding and limitation. There is no manual labelling step: the evaluation uses the automatic metrics in C7 and C9.
+
+Subtracting the similarity to the condition centroid removed the condition name from the keywords (for example "depression" in every depression cluster) and brought up more specific terms (for example "brain zaps", "degenerative disc"), but it also let more filler words through (for example "time", "years", "really"). The keywords are therefore a suggestion that is useful mostly in their first positions. The automatic metrics of C7 evaluate the c-TF-IDF terms and the clusters, not these keywords.
