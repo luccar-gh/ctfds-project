@@ -1,48 +1,101 @@
 condition,cluster,size,mean_rating,std_rating,top_5_terms,top_10_terms
-Birth Control,0,2717,6.25,3.42,birth control | birth | control | ve | pill,birth control | birth | control | ve | pill | period | taking | months | month | effects
-Birth Control,1,900,6.6,3.12,implanon | period | got implanon | months | got,implanon | period | got implanon | months | got | weight | implanon inserted | inserted | years | year
-Birth Control,2,3878,5.62,3.37,pill | taking | ve | started | period,pill | taking | ve | started | period | month | months | week | periods | days
-Birth Control,3,1554,6.78,3.01,gain | weight | weight gain | pill | ve,gain | weight | weight gain | pill | ve | acne | months | period | periods | control
-Birth Control,4,948,7.11,3.12,mirena | insertion | cramping | painful | years,mirena | insertion | cramping | painful | years | inserted | mirena inserted | pain | got mirena | spotting
-Birth Control,5,690,6.24,3.43,shot | depo | depo shot | years | period,shot | depo | depo shot | years | period | weight | ve | got | months | provera
-Birth Control,6,1915,5.88,3.03,sex drive | drive | sex | pill | ve,sex drive | drive | sex | pill | ve | weight | months | period | mood | acne
-Birth Control,7,1770,5.79,3.26,mood swings | swings | mood | pill | ve,mood swings | swings | mood | pill | ve | weight | months | period | acne | control
-Birth Control,8,1919,5.46,3.26,nexplanon | implant | got | period | bleeding,nexplanon | implant | got | period | bleeding | months | weeks | removed | ve | getting
-Birth Control,9,549,6.44,3.27,loestrin | fe | lo loestrin | lo | loestrin fe,loestrin | fe | lo loestrin | lo | loestrin fe | 24 | loestrin 24 | 24 fe | pill | period
-Birth Control,10,730,2.93,2.54,anxiety | depression | depression anxiety | attacks | anxiety depression,anxiety | depression | depression anxiety | attacks | anxiety depression | panic | severe | months | ve | pill
-Birth Control,11,1950,7.58,2.8,insertion | pain | skyla | iud | cramps,insertion | pain | skyla | iud | cramps | cramping | inserted | painful | got | felt
-Depression,0,258,7.4,2.73,sex | sex drive | drive | effects | taking,sex | sex drive | drive | effects | taking | feel | depression | life | anxiety | ve
-Depression,1,581,9.13,1.8,life | saved | changed | saved life | changed life,life | saved | changed | saved life | changed life | depression | years | anxiety | medication | ve
-Depression,2,498,5.49,3.63,drug | withdrawal | symptoms | depression | taking,drug | withdrawal | symptoms | depression | taking | effects | dose | withdrawal symptoms | years | brain
-Depression,3,295,7.18,3.15,panic | attacks | panic attacks | anxiety | depression,panic | attacks | panic attacks | anxiety | depression | attack | anxiety panic | having | panic attack | feel
-Depression,4,535,6.5,3.24,sleep | night | hours | day | depression,sleep | night | hours | day | depression | taking | wake | morning | time | took
-Depression,5,1222,6.37,3.28,started | felt | taking | days | day,started | felt | taking | days | day | weeks | depression | better | anxiety | just
-Depression,6,330,7.06,2.87,mood | swings | mood swings | effects | depression,mood | swings | mood swings | effects | depression | medication | feel | months | day | anxiety
-Depression,7,216,7.23,2.7,mouth | dry | dry mouth | effects | depression,mouth | dry | dry mouth | effects | depression | feel | taking | weeks | started | anxiety
-Depression,8,1343,7.47,2.99,depression | effects | years | anxiety | works,depression | effects | years | anxiety | works | medicine | ve | worked | medication | helped
-Depression,9,458,7.39,2.59,weight | gain | weight gain | gained | depression,weight | gain | weight gain | gained | depression | effects | months | taking | years | medication
-Depression,10,621,7.24,2.9,mg | 10 | 10 mg | day | depression,mg | 10 | 10 mg | day | depression | 20 | 20 mg | 50 mg | 50 | started
-Depression,11,752,7.41,2.98,feel | like | feel like | don | better,feel | like | feel like | don | better | just | taking | ve | day | depression
-Pain,0,1241,7.13,3.12,pain | help | medication | helped | medicine,pain | help | medication | helped | medicine | does | helps | effects | best | drug
-Pain,1,699,8.82,2.01,life | years | pain | chronic | doctor,life | years | pain | chronic | doctor | chronic pain | ve | methadone | medicine | day
-Pain,2,364,6.58,3.44,relief | pain relief | pain | effects | relief pain,relief | pain relief | pain | effects | relief pain | medication | hours | prescribed | day | tried
-Pain,3,933,7.33,2.9,day | pain | taking | mg | times,day | pain | taking | mg | times | times day | started | years | 10 | doctor
-Pain,4,230,7.95,2.44,good | good pain | pain | pretty good | pretty,good | good pain | pain | pretty good | pretty | medicine | sleep | drug | bad | works
-Pain,5,158,8.34,2.27,disc | degenerative | disease | degenerative disc | disc disease,disc | degenerative | disease | degenerative disc | disc disease | pain | herniated | years | day | herniated disc
-Pain,6,255,8.61,2.06,great | works great | great pain | works | pain,great | works great | great pain | works | pain | worked great | worked | medicine | effects | taking
-Pain,7,298,8.59,1.94,works | pain | works better | better | medicine,works | pain | works better | better | medicine | works wonders | really | taking | medication | wonders
-Pain,8,161,8.19,2.48,away | pain away | pain | took | takes,away | pain away | pain | took | takes | took pain | away pain | takes pain | takes away | took away
-Pain,9,601,6.99,3.53,pain | given | worked | dilaudid | gave,pain | given | worked | dilaudid | gave | took | hours | iv | toradol | minutes
-Pain,10,247,6.76,3.32,patch | patches | pain | fentanyl | use,patch | patches | pain | fentanyl | use | mylan | hours | lidocaine | brand | stick
-Acne,0,289,6.92,3.2,skin | spots | duac | cream | red,skin | spots | duac | cream | red | using | face | dry | acne | days
-Acne,1,291,8.41,2.7,accutane | acne | years | drug | tried,accutane | acne | years | drug | tried | months | life | effects | worked | took
-Acne,2,310,7.81,2.59,epiduo | skin | using epiduo | using | face,epiduo | skin | using epiduo | using | face | acne | use | dry | days | just
-Acne,3,522,8.07,2.65,use | using | face | skin | acne,use | using | face | skin | acne | gel | night | wash | ve | day
-Acne,4,873,7.04,3.07,acne | taking | medication | skin | months,acne | taking | medication | skin | months | cleared | started | really | face | month
-Acne,5,362,8.18,2.51,years | old | years old | acne | tried,years | old | years old | acne | tried | dermatologist | year | skin | ve | face
-Acne,6,307,6.49,3.32,birth | birth control | control | acne | pill,birth | birth control | control | acne | pill | months | taking | skin | started | period
-Acne,7,347,7.49,2.96,cystic | cystic acne | acne | skin | months,cystic | cystic acne | acne | skin | months | weeks | chin | taking | ve | face
-Acne,8,369,5.9,3.25,pill | weight | acne | period | taking,pill | weight | acne | period | taking | months | ve | gain | yaz | mood
-Acne,9,277,7.82,2.96,product | using | skin | using product | acne,product | using | skin | using product | acne | face | used | use | recommend | ve
-Acne,10,297,8.34,2.3,lips | dry | dry lips | effects | skin,lips | dry | dry lips | effects | skin | accutane | dry skin | acne | month | chapped
-Acne,11,305,6.19,3.32,worse | better | gets | got | acne,worse | better | gets | got | acne | skin | gets better | started | weeks | worse gets
+Birth Control,0,642,5.89,3.32,implant | got implant | got | period | months,implant | got implant | got | period | months | arm | weight | getting | removed | bleeding
+Birth Control,1,777,6.75,3.08,implanon | period | got implanon | months | got,implanon | period | got implanon | months | got | weight | implanon inserted | inserted | years | year
+Birth Control,2,353,4.8,3.13,hair | hair loss | loss | months | weight,hair | hair loss | loss | months | weight | acne | started | gain | mood | weight gain
+Birth Control,3,1322,6.39,3.11,days | period | periods | cramps | heavy,days | period | periods | cramps | heavy | month | months | light | pill | spotting
+Birth Control,4,597,6.21,3.41,shot | depo | depo shot | years | weight,shot | depo | depo shot | years | weight | period | got | depo provera | provera | months
+Birth Control,5,863,7.29,3.06,mirena | insertion | cramping | years | inserted,mirena | insertion | cramping | years | inserted | painful | got mirena | mirena inserted | pain | spotting
+Birth Control,6,1711,7.72,2.67,insertion | pain | skyla | iud | cramps,insertion | pain | skyla | iud | cramps | inserted | cramping | painful | felt | got
+Birth Control,7,331,6.22,3.15,breakthrough | breakthrough bleeding | bleeding | pill | months,breakthrough | breakthrough bleeding | bleeding | pill | months | month | period | week | weight | acne
+Birth Control,8,1343,5.98,3.31,mood swings | swings | mood | pill | weight,mood swings | swings | mood | pill | weight | period | acne | months | gain | periods
+Birth Control,9,790,4.09,3.0,bleeding | stop | months | weeks | period,bleeding | stop | months | weeks | period | month | heavy | stop bleeding | stopped | week
+Birth Control,10,358,5.99,3.29,tri | cyclen | ortho | tri cyclen | ortho tri,tri | cyclen | ortho | tri cyclen | ortho tri | lo | cyclen lo | pill | switched | sprintec
+Birth Control,11,593,2.99,2.62,anxiety | depression | depression anxiety | anxiety depression | attacks,anxiety | depression | depression anxiety | anxiety depression | attacks | panic | severe | pill | panic attacks | months
+Birth Control,12,309,5.87,3.33,yaz | taking yaz | yaz years | taking | pill,yaz | taking yaz | yaz years | taking | pill | switched | years | acne | yaz months | weight
+Birth Control,13,1084,7.14,2.92,gain | weight | weight gain | pill | acne,gain | weight | weight gain | pill | acne | periods | gain weight | period | months | effects
+Birth Control,14,758,4.3,3.1,feel | like | feel like | pill | just,feel | like | feel like | pill | just | time | depressed | nauseous | sick | really
+Birth Control,15,850,4.59,2.98,gained | pounds | weight | months | 10,gained | pounds | weight | months | 10 | 10 pounds | pill | gained 10 | 20 | 20 pounds
+Birth Control,16,544,7.09,2.87,nuvaring | ring | sex | using | nuva,nuvaring | ring | sex | using | nuva | nuva ring | love | feel | effects | using nuvaring
+Birth Control,17,1457,5.88,3.04,sex drive | drive | sex | pill | weight,sex drive | drive | sex | pill | weight | months | period | mood | acne | periods
+Birth Control,18,855,6.44,3.26,nexplanon | got nexplanon | got | period | months,nexplanon | got nexplanon | got | period | months | getting | weeks | inserted | weight | spotting
+Birth Control,19,471,6.62,3.21,loestrin | fe | lo loestrin | lo | loestrin fe,loestrin | fe | lo loestrin | lo | loestrin fe | 24 | loestrin 24 | 24 fe | pill | period
+Birth Control,20,1121,5.16,3.34,taking | pill | started | started taking | taking pill,taking | pill | started | started taking | taking pill | period | month | months | week | acne
+Birth Control,21,394,7.09,2.97,patch | evra | xulane | ortho evra | week,patch | evra | xulane | ortho evra | week | using | ortho | love | patch months | months
+Birth Control,22,1997,6.4,3.48,pill | effects | acne | years | months,pill | effects | acne | years | months | love | period | periods | pregnant | great
+Depression,0,230,7.27,3.06,cymbalta | taking cymbalta | pain | years | taking,cymbalta | taking cymbalta | pain | years | taking | months | anxiety | 60mg | effects | life
+Depression,1,249,7.51,2.82,pristiq | taking pristiq | feel | taking | effects,pristiq | taking pristiq | feel | taking | effects | felt | months | days | years | better
+Depression,2,208,7.27,2.95,effexor | xr | effexor xr | years | withdrawal,effexor | xr | effexor xr | years | withdrawal | taking effexor | taking | dose | time | life
+Depression,3,272,7.51,2.77,wellbutrin | xl | wellbutrin xl | effects | taking,wellbutrin | xl | wellbutrin xl | effects | taking | feel | day | taking wellbutrin | 150 | 150mg
+Depression,4,184,6.99,3.05,mood | swings | mood swings | feel | effects,mood | swings | mood swings | feel | effects | months | anxiety | life | improved | day
+Depression,5,227,6.02,3.57,thoughts | suicidal | suicidal thoughts | anxiety | weeks,thoughts | suicidal | suicidal thoughts | anxiety | weeks | taking | feel | life | started | day
+Depression,6,365,6.54,3.2,sleep | night | hours | day | taking,sleep | night | hours | day | taking | wake | anxiety | sleep night | morning | insomnia
+Depression,7,88,5.45,3.14,blood | blood pressure | pressure | high | high blood,blood | blood pressure | pressure | high | high blood | effects | went | heart | like | weeks
+Depression,8,163,6.8,3.15,viibryd | diarrhea | 40mg | effects | week,viibryd | diarrhea | 40mg | effects | week | taking viibryd | better | taking | dose | feel
+Depression,9,151,9.59,0.82,saved | saved life | life | years | literally,saved | saved life | life | years | literally | literally saved | effects | anxiety | medicine | started
+Depression,10,334,7.27,2.66,weight | gain | weight gain | gained | effects,weight | gain | weight gain | gained | effects | lbs | months | taking | anxiety | years
+Depression,11,237,7.54,2.77,zoloft | anxiety | years | taking | feel,zoloft | anxiety | years | taking | feel | effects | taking zoloft | 50mg | started | better
+Depression,12,221,7.3,2.77,sex | sex drive | drive | effects | taking,sex | sex drive | drive | effects | taking | feel | life | anxiety | started | weeks
+Depression,13,525,6.87,2.98,started | taking | days | weeks | better,started | taking | days | weeks | better | started taking | feeling | feel | months | day
+Depression,14,178,9.24,1.58,changed | changed life | life | better | day,changed | changed life | life | better | day | life better | anxiety | taking | years | feel
+Depression,15,245,7.17,3.18,panic | attacks | panic attacks | anxiety | having,panic | attacks | panic attacks | anxiety | having | anxiety panic | started | feel | attack | xanax
+Depression,16,341,5.01,3.63,felt | took | felt like | day | like,felt | took | felt like | day | like | time | days | got | just | feel
+Depression,17,440,8.08,2.64,years | ago | years ago | life | taking,years | ago | years ago | life | taking | time | day | anxiety | tried | effects
+Depression,18,140,8.47,2.22,works | great | works great | works wonders | wonders,works | great | works great | works wonders | wonders | effects | anxiety | time | really | fantastic
+Depression,19,226,5.49,3.22,nausea | effects | day | taking | vomiting,nausea | effects | day | taking | vomiting | dizziness | days | diarrhea | weeks | week
+Depression,20,789,6.8,3.35,medicine | good | helped | anxiety | effects,medicine | good | helped | anxiety | effects | worked | help | helps | best | really
+Depression,21,458,7.38,3.07,feel | like | feel like | just | better,feel | like | feel like | just | better | life | feeling | taking | day | time
+Depression,22,192,7.45,2.57,dry | mouth | dry mouth | effects | feel,dry | mouth | dry mouth | effects | feel | taking | effects dry | weeks | anxiety | started
+Depression,23,186,7.95,2.69,anti | anti depressants | depressants | depressant | anti depressant,anti | anti depressants | depressants | depressant | anti depressant | years | tried | effects | feel | taking
+Depression,24,230,7.06,2.95,mg | 10 mg | 20 mg | 10 | 20,mg | 10 mg | 20 mg | 10 | 20 | anxiety | taking | lexapro | started | effects
+Depression,25,230,7.47,2.86,mg | 50 mg | 50 | 100 mg | 100,mg | 50 mg | 50 | 100 mg | 100 | day | mg day | years | 150 mg | zoloft
+Pain,0,201,6.87,3.36,work | does work | does | just | time,work | does work | does | just | time | taking | did | years | medicine | like
+Pain,1,208,7.69,2.75,sleep | night | sleep night | taking | morning,sleep | night | sleep night | taking | morning | day | good | hours | able | wake
+Pain,2,154,5.7,3.39,help | does help | did help | does | did,help | does help | did help | does | did | really | really help | surgery | medicine | taking
+Pain,3,147,7.71,2.83,opana | er | opana er | day | ir,opana | er | opana er | day | ir | breakthrough | daily | taking | hours | 20mg
+Pain,4,124,6.69,3.21,stomach | upset | upset stomach | stomach upset | works,stomach | upset | upset stomach | stomach upset | works | relief | effects | sick | sick stomach | severe
+Pain,5,154,8.0,2.56,nerve | nerve damage | damage | years | leg,nerve | nerve damage | damage | years | leg | sciatic | life | sciatic nerve | day | medicine
+Pain,6,101,8.05,2.48,good | pretty good | good relief | good medicine | pretty,good | pretty good | good relief | good medicine | pretty | medicine | works | works good | relief | killer
+Pain,7,71,4.38,3.78,patches | mylan | lidocaine | brand | stick,patches | mylan | lidocaine | brand | stick | waste | money | lidocaine patches | waste money | watson
+Pain,8,218,7.18,3.05,tramadol | 50mg | taking | day | taking tramadol,tramadol | 50mg | taking | day | taking tramadol | effects | years | work | relief | just
+Pain,9,739,7.55,3.15,best | relief | effective | medicine | worked,best | relief | effective | medicine | worked | use | used | knee | severe | surgery
+Pain,10,335,9.1,1.66,life | years | methadone | quality life | quality,life | years | methadone | quality life | quality | normal | oxycontin | live | chronic | saver
+Pain,11,153,7.84,2.44,helped | really helped | really | medicine | medicine helped,helped | really helped | really | medicine | medicine helped | surgery | little | helped little | used | alot
+Pain,12,153,8.43,1.88,helps | really helps | helps lot | medicine helps | really,helps | really helps | helps lot | medicine helps | really | lot | helps sleep | medicine | taking | sleep
+Pain,13,198,8.68,1.96,works | works great | great | works better | medicine works,works | works great | great | works better | medicine works | effects | better | medicine | taking | really
+Pain,14,160,8.09,2.56,10 | 325 | 10 325 | norco | norco 10,10 | 325 | 10 325 | norco | norco 10 | percocet | percocet 10 | day | taking | hours
+Pain,15,124,8.74,1.91,great | worked great | worked | great relief | medicine,great | worked great | worked | great relief | medicine | great medicine | effects | relief | use | time
+Pain,16,168,7.5,2.68,patch | fentanyl | patches | hours | days,patch | fentanyl | patches | hours | days | 48 | years | use | day | butrans
+Pain,17,307,7.49,2.95,day | mg | twice | twice day | taking,day | mg | twice | twice day | taking | years | dose | 10 | hours | daily
+Pain,18,183,7.72,2.68,times day | times | day | taking | mg,times day | times | day | taking | mg | years | mg times | months | gabapentin | days
+Pain,19,128,8.25,2.59,away | takes away | took away | takes | took,away | takes away | took away | takes | took | works | severe | medicine | does | does away
+Pain,20,128,8.37,2.2,disease | degenerative | disc | degenerative disc | disc disease,disease | degenerative | disc | degenerative disc | disc disease | years | life | day | arthritis | herniated
+Pain,21,82,7.45,2.58,dry | mouth | dry mouth | effects | effect,dry | mouth | dry mouth | effects | effect | amitriptyline | weeks | time | taking | day
+Pain,22,110,6.36,3.63,wisdom | teeth | tooth | wisdom teeth | dentist,wisdom | teeth | tooth | wisdom teeth | dentist | got | wisdom tooth | infection | took | got wisdom
+Pain,23,167,8.19,2.84,dilaudid | iv | given | hospital | morphine,dilaudid | iv | given | hospital | morphine | hours | gave | dilaudid iv | surgery | given dilaudid
+Pain,24,491,6.64,3.21,effects | taking | like | days | nausea,effects | taking | like | days | nausea | years | medicine | nucynta | took | months
+Pain,25,183,7.36,3.46,migraine | toradol | shot | migraines | minutes,migraine | toradol | shot | migraines | minutes | injection | severe | given | er | gave
+Acne,0,114,8.73,1.78,works | works great | really works | great | wonders,works | works great | really works | great | wonders | works wonders | really | skin | like | face
+Acne,1,216,7.71,3.04,product | using | using product | skin | used,product | using | using product | skin | used | face | use | used product | weeks | week
+Acne,2,235,5.46,3.36,effects | medicine | minocycline | taking | severe,effects | medicine | minocycline | taking | severe | worth | headaches | bad | pain | weeks
+Acne,3,108,7.1,2.83,gets | gets better | better | worse gets | worse,gets | gets better | better | worse gets | worse | gets worse | skin | using | face | started
+Acne,4,197,6.44,3.38,worse | got | better | got worse | skin,worse | got | better | got worse | skin | months | started | weeks | bad | getting
+Acne,5,261,6.87,3.21,face | use | using | night | skin,face | use | using | night | skin | apply | morning | moisturizer | red | wash
+Acne,6,281,8.35,2.33,lips | dry | accutane | dry lips | effects,lips | dry | accutane | dry lips | effects | skin | month | dry skin | chapped | months
+Acne,7,228,6.88,3.02,chin | cheeks | forehead | pimples | skin,chin | cheeks | forehead | pimples | skin | week | weeks | started | bumps | cystic
+Acne,8,216,6.7,3.25,birth | birth control | control | skin | months,birth | birth control | control | skin | months | started | taking | month | period | pill
+Acne,9,175,4.56,3.48,pill | taking | months | period | yasmin,pill | taking | months | period | yasmin | taking pill | month | skin | started | periods
+Acne,10,113,8.04,2.6,school | high | high school | skin | year,school | high | high school | skin | year | face | year high | accutane | just | months
+Acne,11,106,6.99,2.72,weight | gain | weight gain | gained | yaz,weight | gain | weight gain | gained | yaz | pill | taking | months | gain weight | pounds
+Acne,12,114,9.16,1.58,highly | highly recommend | recommend | skin | using,highly | highly recommend | recommend | skin | using | years | face | product | worked | months
+Acne,13,84,6.38,2.96,tri | sprintec | ortho | tri sprintec | tri cyclen,tri | sprintec | ortho | tri sprintec | tri cyclen | cyclen | ortho tri | pill | control | months
+Acne,14,100,7.72,3.35,self | self esteem | esteem | skin | face,self | self esteem | esteem | skin | face | months | accutane | clear | low | month
+Acne,15,240,7.58,2.74,epiduo | using epiduo | using | skin | face,epiduo | using epiduo | using | skin | face | use | days | dry | week | started
+Acne,16,126,7.78,2.8,twice | twice day | day | taking | 100mg,twice | twice day | day | taking | 100mg | started | 100mg twice | face | skin | use
+Acne,17,181,7.66,2.74,cream | skin | using | tretinoin | face,cream | skin | using | tretinoin | face | using cream | use | months | night | tretinoin cream
+Acne,18,303,7.76,2.89,skin | using | oily | months | clear,skin | using | oily | months | clear | gel | use | love | weeks | oily skin
+Acne,19,396,7.28,2.76,taking | months | started | stopped | month,taking | months | started | stopped | month | doxycycline | face | results | weeks | skin
+Acne,20,131,8.9,2.37,life | changed life | changed | accutane | skin,life | changed life | changed | accutane | skin | years | months | best | honestly | completely
+Acne,21,296,8.32,2.56,years | tried | old | accutane | years old,years | tried | old | accutane | years old | dermatologist | worked | face | cystic | months
+Acne,22,135,8.34,2.23,duac | spots | skin | using | using duac,duac | spots | skin | using | using duac | dark | dry | face | really | dark spots
+Acne,23,91,6.11,3.27,mood swings | swings | mood | pill | control,mood swings | swings | mood | pill | control | birth | months | birth control | weight | depression
+Acne,24,102,8.08,2.71,benzoyl | benzoyl peroxide | peroxide | skin | face,benzoyl | benzoyl peroxide | peroxide | skin | face | using | clindamycin | use | months | years
