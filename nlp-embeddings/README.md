@@ -16,7 +16,7 @@ Role A's `reviews_clean_deduplicated.parquet` (128,663 clean reviews), `drug_fam
 6. **C6 · Cluster table**: reviews, mean rating and top drugs of each of B's 100 clusters.
 7. **C7 · Automatic validation**: NPMI coherence of each cluster's top terms against a random-word baseline, and embedding cohesion. No manual labelling.
 8. **C8 · DBSCAN**: why only the k-means clusters are labelled (11–26% noise, and one giant cluster plus micro-clusters in every condition).
-9. **C9 · Clustering in meaning space**: k-means on the embeddings with B's k, with and without drug names (replaced by "medication"). Davies-Bouldin, drug purity, ARI vs B and rating spread. C9b (optional) compares BioLORD with `all-MiniLM-L6-v2` on a sample.
+9. **C9 · Clustering in meaning space**: k-means on the embeddings with B's k, with and without drug names (replaced by "medication"). Davies-Bouldin, drug purity, ARI vs B and rating spread.
 10. **C10 · Save outputs**: embeddings and pairs for A, labels for D, statistics for the report.
 ## What is in this folder
  
@@ -33,7 +33,7 @@ Role A's `reviews_clean_deduplicated.parquet` (128,663 clean reviews), `drug_fam
 | `outputs/embeddings_all.npy` + `embeddings_all_ids.parquet` | **A**: one vector (768) per `review_id`. For all 128,663 reviews, `EMBED_ALL_OTHER_REVIEWS` must be `True`; the file is about 395 MB, so it is in a [Kaggle dataset](https://www.kaggle.com/datasets/claudiagranado/dataset-input-versionantiguaresultados), not on GitHub |
 | `outputs/cluster_labels_final.csv` | **D** and report: one label per k-means cluster |
 | `outputs/cluster_topics_ctfidf.csv`, `cluster_labels_sbert_auto.csv`, `cluster_coherence_metrics.csv` | Report: c-TF-IDF terms, Sentence-BERT keywords and quality metrics per cluster |
-| `outputs/sbert_vs_tfidf_summary.csv`, `sbert_masked_v2_summary.csv`, `model_comparison_sample.csv` (only if C9b is run) | Report: clustering in meaning space and model comparison |
+| `outputs/sbert_vs_tfidf_summary.csv`, `sbert_masked_v2_summary.csv` | Report: clustering in meaning space and model comparison |
 | `outputs/role_c_run_stats.json` | Report: all numbers |
  
 ## Large files (Kaggle dataset)
