@@ -30,11 +30,23 @@ Role A's `reviews_clean_deduplicated.parquet` (128,663 clean reviews), `drug_fam
  
 | File | For |
 |---|---|
-| `outputs/embeddings_all.npy` + `embeddings_all_ids.parquet` | **A**: one vector (768) per `review_id`. For all 128,663 reviews, `EMBED_ALL_OTHER_REVIEWS` must be `True`; the file is about 395 MB, so it is shared as a Kaggle dataset, not on GitHub |
+| `outputs/embeddings_all.npy` + `embeddings_all_ids.parquet` | **A**: one vector (768) per `review_id`. For all 128,663 reviews, `EMBED_ALL_OTHER_REVIEWS` must be `True`; the file is about 395 MB, so it is in a [Kaggle dataset](https://www.kaggle.com/datasets/claudiagranado/dataset-input-versionantiguaresultados), not on GitHub |
 | `outputs/cluster_labels_final.csv` | **D** and report: one label per k-means cluster |
 | `outputs/cluster_topics_ctfidf.csv`, `cluster_labels_sbert_auto.csv`, `cluster_coherence_metrics.csv` | Report: c-TF-IDF terms, Sentence-BERT keywords and quality metrics per cluster |
 | `outputs/sbert_vs_tfidf_summary.csv`, `sbert_masked_v2_summary.csv`, `model_comparison_sample.csv` (only if C9b is run) | Report: clustering in meaning space and model comparison |
 | `outputs/role_c_run_stats.json` | Report: all numbers |
+ 
+## Large files (Kaggle dataset)
+ 
+The embeddings are too large for GitHub (`embeddings_all.npy` is about 395 MB), so they are in a Kaggle dataset:
+ 
+**<https://www.kaggle.com/datasets/claudiagranado/dataset-input-versionantiguaresultados>**
+ 
+It contains `embeddings_all.npy` + `embeddings_all_ids.parquet` (one 768-number vector for each of the 128,663 reviews, computed with `FremyCompany/BioLORD-2023`) and the masked version `embeddings_masked_v2_all.npy` + `embeddings_masked_v2_all_ids.parquet` (the 36,365 reviews of the four conditions, with drug names masked).
+ 
+**For A:** these are the files needed for the similar-story search by meaning. In Kaggle, use *Add Input → Datasets* and search for `dataset-input-versionantiguaresultados`; the code in the next section loads them. The vectors do not depend on B's clusters, so they stay valid when B changes `k`.
+ 
+**Role C's notebook uses this dataset as an input:** it rebuilds the per-condition embedding files from it, so the embeddings are not computed again, and it writes its results, such as `cluster_labels_final.csv`, to `outputs/`, which are in this folder.
  
 ## How to use the embeddings, pairs and labels in your own notebook
  
@@ -52,7 +64,7 @@ labels = pd.read_csv(next(folder.rglob('cluster_labels_final.csv')))        # co
  
 ## How to run
  
-Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **Restart & Run All**. BioLORD is several times slower than small models: use a GPU (Kaggle or Colab). `EMBED_ALL_OTHER_REVIEWS = True` also embeds the other 92k reviews. Later runs reuse the saved `.npy` files. Kaggle deletes `/kaggle/working` when the session ends, so download the outputs (or save them as a dataset) before closing. Embeddings do not depend on B's clusters, so they can be reused if B changes `k`: only C1 and C4 onwards need to be re-run. Requires: `numpy`, `pandas`, `scipy`, `scikit-learn`, `sentence-transformers`.
+Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **Restart & Run All**. BioLORD is several times slower than small models: use a GPU (Kaggle or Colab). `EMBED_ALL_OTHER_REVIEWS = True` also embeds the other 92k reviews (this is how the dataset above was created). To avoid recomputing, add that dataset as an input and rebuild the per-condition files from it. Later runs reuse the saved `.npy` files. Kaggle deletes `/kaggle/working` when the session ends, so download the outputs (or save them as a dataset) before closing. Embeddings do not depend on B's clusters, so they can be reused if B changes `k`: only C1 and C4 onwards need to be re-run. Requires: `numpy`, `pandas`, `scipy`, `scikit-learn`, `sentence-transformers`.
  
 ## Main results (this run, 100 clusters of B)
  
@@ -71,7 +83,7 @@ Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **
 - The automatic metrics of C7 evaluate the c-TF-IDF terms and B's clusters, not the Sentence-BERT keywords.
 ## To do
  
-- [ ] Give A the full `embeddings_all.npy` (128,663 reviews) through the Kaggle dataset; A implements the cosine LSH and the comparison with the word version.
+- [ ] Give A the full `embeddings_all.npy` (128,663 reviews) through the Kaggle dataset linked above; A implements the cosine LSH and the comparison with the word version.
 - [ ] Agree with D which clustering to use (k-means of B, 100 clusters) and share `cluster_labels_final.csv`.
 - [ ] Write the Role C section of the report from `role_c_run_stats.json`.
 ## Note on topic keywords
