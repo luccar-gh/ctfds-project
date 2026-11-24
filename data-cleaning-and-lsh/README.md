@@ -11,8 +11,10 @@ This notebook prepares the dataset that the rest of the group works with, and us
 1. **Cleans the text**: fixes broken symbols and repairs disease names that were cut off (for example "Bipolar Disorde" → "Bipolar Disorder").
 2. **Removes exact copies**: the same review often appears twice, once under the brand name of a drug (*Zoloft*) and once under its generic name (*Sertraline*). 86,311 copies are removed.
 3. **Removes near-copies with MinHash + LSH**: reviews that are almost identical. Our own implementation, which finds similar texts without comparing all 8.3 billion pairs. 87 near-copies are removed.
-4. **Checks that LSH works**: compares LSH with a brute-force comparison of 305 million pairs and with 5,000 test pairs of known similarity. LSH finds all 165 real near-copies and is about 26 times faster than comparing every pair.
+4. **Checks that LSH works**: compares LSH with a brute-force comparison of 305 million pairs and with 5,000 test pairs of known similarity. LSH finds all 165 real near-copies and is about 25 times faster than comparing every pair.
 5. **Finds similar stories across drugs**: patients who describe the same experience with different medicines, found with LSH on the meaningful words of each review. The result is 1,711 shared stories and 93 drug pairs. A statistical test (permutation test) shows that 5 of these pairs share more stories than their condition alone explains.
+6. **Gives every drug one canonical name**: `drug_canonical_name` in `drug_families.csv` is the generic name from the validation lead's ATC table (families that mix two medicines are split). It is only added as a column; A6 still counts drug families unless `USE_CANONICAL_DRUGS_IN_A6 = True`.
+7. **Finds similar stories by meaning**: the same search on the NLP lead's Sentence-BERT embeddings (drug names masked), with our own LSH for cosine similarity (random hyperplanes), the same filters and the same test. On the 34,090 reviews of the four scope conditions it finds 13,679 shared stories and 8 significant drug pairs; the two versions share only 7 stories, so they capture different kinds of similarity.
 
 **Main result:** 128,663 clean reviews with no copies, saved as `reviews_clean_deduplicated.parquet`.
 
@@ -27,6 +29,9 @@ https://www.kaggle.com/code/diegofogued/clean-and-deduplicate
 | `drug_family_story_similarity.csv` | Validation lead: drug pairs with similar stories and the test result (`is_significant`) |
 | `drug_families.csv`, `brand_generic_drug_name_pairs.csv` | Validation lead: brand and generic names of the same medicine |
 | `role_a_run_stats.json`, `lsh_setting_comparison.csv`, `lsh_recall_vs_theory.png` | Report: all numbers and the LSH figure |
+| `drug_family_story_similarity_semantic.csv`, `semantic_vs_word_story_pairs.csv`, `semantic_lsh_s_curve.png` | Report and validation lead: the search by meaning and its comparison with the word version |
+
+Inputs of the notebook: the Kaggle dataset above, plus (optional) the NLP lead's embeddings (Kaggle dataset `claudiagranado/dataset-input-versionantiguaresultados`) and `atc-mapping/outputs/drug_atc_mapping.csv`. Without them, the search by meaning is skipped and the canonical name falls back to the family name.
 
 ## How to use the clean data in your own Kaggle notebook
 
@@ -45,5 +50,5 @@ reviews = pd.read_parquet(path)
 
 ## To do
 
-- [ ] **Compare with the NLP lead's embeddings.** Repeat the similar-story search with the Sentence-BERT embeddings (LSH for cosine similarity with random hyperplanes), then compare it with the word version: which pairs both versions find, which only one finds, and examples of each.
-- [ ] Agree with the validation lead on one name per drug (proposal: the generic name).
+- [x] **Compare with the NLP lead's embeddings** (step 7).
+- [ ] Agree with the validation lead whether A6 should count canonical drugs (`USE_CANONICAL_DRUGS_IN_A6`).
