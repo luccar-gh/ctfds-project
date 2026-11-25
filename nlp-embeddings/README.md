@@ -65,7 +65,7 @@ labels = pd.read_csv(next(folder.rglob('cluster_labels_final.csv')))        # co
 
 ## How to run
 
-Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **Restart & Run All**. BioLORD is several times slower than small models: use a GPU (Kaggle or Colab). To avoid recomputing, add the Kaggle dataset above as an input; the notebook rebuilds the per-condition files from it. To compute the embeddings from scratch, run without that dataset and delete the cell C1b; `EMBED_ALL_OTHER_REVIEWS = True` also embeds the other 92k reviews (this is how the dataset above was created). Later runs reuse the saved `.npy` files. Kaggle deletes `/kaggle/working` when the session ends, so download the outputs (or save them as a dataset) before closing. Embeddings do not depend on B's clusters, so they can be reused if B changes `k`: only C1 and C4 onwards need to be re-run. Requires: `numpy`, `pandas`, `scipy`, `scikit-learn`, `sentence-transformers`.
+Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **Restart & Run All**. BioLORD is several times slower than small models: use a GPU (Kaggle or Colab). To avoid recomputing, add the Kaggle dataset above as an input; the notebook rebuilds the per-condition files from it. To compute the embeddings from scratch, run without that dataset (C1b then prints that it found nothing, and C2 and C9 compute the embeddings); `EMBED_ALL_OTHER_REVIEWS = True` also embeds the other 92k reviews (this is how the dataset above was created). Later runs reuse the saved `.npy` files. Kaggle deletes `/kaggle/working` when the session ends, so download the outputs (or save them as a dataset) before closing. Embeddings do not depend on B's clusters, so they can be reused if B changes `k`: only C1 and C4 onwards need to be re-run. Requires: `numpy`, `pandas`, `scipy`, `scikit-learn`, `sentence-transformers`.
 
 ## Main results (this run, 100 clusters of B)
 
@@ -84,10 +84,16 @@ Put Role A's and B's files in `data/` (or add them as a Kaggle dataset), then **
 - There is no manual labelling: `label_final` is made of the first three Sentence-BERT keywords, not a sentence written by a person. The evaluation uses automatic metrics (NPMI against a random baseline, cohesion, Davies-Bouldin, drug purity, ARI) and a qualitative inspection of the keywords.
 - The automatic metrics of C7 evaluate the c-TF-IDF terms and B's clusters, not the Sentence-BERT keywords.
 
+## State of the saved notebook (25 Nov)
+
+The saved notebook is **not one clean run**: 10 of its 17 code cells have outputs but no execution number, and some printed messages are still in Spanish while the code is in English, so the outputs come from earlier versions of the code. C1b now looks for the precomputed embeddings in every input folder (Kaggle or local) and does nothing if they are missing, instead of failing outside Kaggle. This notebook is the only one that was not rerun locally (it needs the embeddings dataset or a GPU).
+
 ## To do
 
-- [ ] Give A the full `embeddings_all.npy` (128,663 reviews) through the Kaggle dataset linked above; A implements the cosine LSH and the comparison with the word version.
-- [ ] Agree with D which clustering to use (k-means of B, 100 clusters) and share `cluster_labels_final.csv`.
+- [x] Give A the full `embeddings_all.npy` (128,663 reviews) through the Kaggle dataset linked above; A implements the cosine LSH and the comparison with the word version.
+- [x] Agree with D which clustering to use (k-means of B, 100 clusters) and share `cluster_labels_final.csv`: the validation step uses both.
+- [ ] **One clean Restart & Run All on Kaggle** (with the embeddings dataset as input), then save the notebook with its outputs and copy `outputs/` here.
+- [ ] Run the validation notebook on Kaggle with the embeddings dataset as input, to add its *meaning* view.
 - [ ] Write the Role C section of the report from `role_c_run_stats.json`.
 
 ## Note on topic keywords

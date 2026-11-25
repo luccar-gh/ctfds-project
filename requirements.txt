@@ -1,0 +1,19 @@
+# Notebooks A, B, D, E and validation (tested on 25 Nov 2026 with Python 3.9, the versions in brackets)
+numpy                  # [1.26.4]
+pandas                 # [2.3.3]
+pyarrow                # [21.0.0]  parquet files
+fastparquet            # [2024.11.0]  B reads parquet with this engine
+scipy                  # [1.13.1]
+scikit-learn           # [1.6.1]
+matplotlib             # [3.9.4]
+nltk                   # [3.9.2]  A: Porter stemmer of the similar-story search (required)
+networkx               # [3.2.1]  E: co-occurrence networks (optional)
+openpyxl               # [3.1.5]  E: reads the lexicon spreadsheet
+requests               # [2.32.5]  D: RxNav API, only for drug names missing from the cache
+
+# run_pipeline.py
+nbclient               # [0.10.2]
+ipykernel              # [6.31.0]
+
+# Notebook C (NLP): Sentence-BERT; use a GPU (Kaggle or Colab) to compute the embeddings
+# sentence-transformers

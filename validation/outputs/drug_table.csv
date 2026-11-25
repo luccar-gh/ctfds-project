@@ -1,0 +1,183 @@
+condition_name,drug,n_reviews,atc_level_4,atc_level_3,mean_rating,names_in_reviews,class_name,in_comparison
+Acne,isotretinoin,682,D10BA,D10B,8.353372434017595,"Isotretinoin, Claravis, Amnesteem",Retinoids for treatment of acne,True
+Acne,adapalene / benzoyl peroxide,547,D10AD,D10A,7.446069469835466,"Epiduo, Adapalene / benzoyl peroxide",Retinoids for topical use in acne,True
+Acne,doxycycline,500,J01AA,J01A,7.32,"Doxycycline, Doryx, Monodox",Tetracyclines,True
+Acne,benzoyl peroxide / clindamycin,354,D10AF,D10A,7.940677966101695,"Benzoyl peroxide / clindamycin, Benzaclin, Acanya",Antiinfectives for treatment of acne,True
+Acne,minocycline,333,J01AA,J01A,6.327327327327327,"Minocycline, Dynacin",Tetracyclines,True
+Acne,tretinoin,302,D10AD,D10A,7.900662251655629,"Tretinoin, Tretin-X",Retinoids for topical use in acne,True
+Acne,ethinyl estradiol / norgestimate,269,G03AA,G03A,5.903345724907063,"Ethinyl estradiol / norgestimate, Tri-Estarylla","Progestogens and estrogens, fixed combinations",True
+Acne,drospirenone / ethinyl estradiol,266,G03AA,G03A,7.06015037593985,"Yaz, Yasmin, Gianvi","Progestogens and estrogens, fixed combinations",True
+Acne,adapalene,238,D10AD,D10A,7.2100840336134455,Adapalene,Retinoids for topical use in acne,True
+Acne,spironolactone,238,C03DA,C03D,7.80672268907563,"Spironolactone, Aldactone",Aldosterone antagonists,True
+Acne,dapsone,173,D10AX,D10A,7.329479768786127,"Aczone, Dapsone",Other anti-acne preparations for topical use,True
+Acne,ethinyl estradiol / norethindrone,169,G03AA,G03A,3.8106508875739644,"Ethinyl estradiol / norethindrone, Junel Fe 1 / 20, Microgestin Fe 1 / 20","Progestogens and estrogens, fixed combinations",True
+Acne,sulfamethoxazole / trimethoprim,125,J01EE,J01E,8.304,"Sulfamethoxazole / trimethoprim, Bactrim DS, SMZ-TMP DS","Combinations of sulfonamides and trimethoprim, incl. derivatives",True
+Acne,clindamycin / tretinoin,106,D10AD,D10A,7.462264150943396,Clindamycin / tretinoin,Retinoids for topical use in acne,True
+Acne,clindamycin,66,D10AF,D10A,7.742424242424242,Clindamycin,Antiinfectives for treatment of acne,True
+Acne,benzoyl peroxide / erythromycin,29,D10AF,D10A,8.551724137931034,Benzoyl peroxide / erythromycin,Antiinfectives for treatment of acne,False
+Acne,benzoyl peroxide,26,D10AE,D10A,8.576923076923077,"Benzoyl peroxide, PanOxyl, PanOxyl 10% Acne Foaming Wash",Peroxides,False
+Acne,drospirenone / ethinyl estradiol / levomefolate,25,G03AA,G03A,7.6,Beyaz,"Progestogens and estrogens, fixed combinations",False
+Acne,azelate,24,D10AX,D10A,7.833333333333333,Azelaic acid,Other anti-acne preparations for topical use,False
+Acne,sulfacetamide / sulfur,23,D10AF,D10A,7.826086956521739,"Sulfacetamide sodium / sulfur, Clarifoam EF, Avar",Antiinfectives for treatment of acne,False
+Acne,tetracycline,20,J01AA,J01A,7.7,Tetracycline,Tetracyclines,False
+Acne,tazarotene,12,D05AX,D05A,8.25,Tazarotene,Other antipsoriatics for topical use,False
+Acne,cephalexin,3,J01DB,J01D,6.666666666666667,Cephalexin,First-generation cephalosporins,False
+Acne,magnesium hydroxide,3,A02AA,A02A,8.333333333333334,"Magnesium hydroxide, Phillips' Milk of Magnesia",Magnesium compounds,False
+Acne,retapamulin,3,D06AX,D06A,8.333333333333334,Altabax,Other antibiotics for topical use,False
+Acne,benzoyl peroxide / sulfur,2,D10AE,D10A,10.0,Benzoyl peroxide / sulfur,Peroxides,False
+Acne,hexachlorophene,2,D08AE,D08A,5.5,Hexachlorophene,Phenol and derivatives,False
+Acne,salicylic acid,2,D01AE,D01A,5.5,"Acnex, Salicylic acid",Other antifungals for topical use,False
+Acne,salicylic acid / sulfur,2,D10AB,D10A,10.0,Salicylic acid / sulfur,Preparations containing sulfur,False
+Acne,benzoyl peroxide / hydrocortisone,1,D10AA,D10A,10.0,Vanoxide-HC,"Corticosteroids, combinations for treatment of acne",False
+Acne,benzoyl peroxide / salicylic acid,1,D10AE,D10A,8.0,Benzoyl peroxide / salicylic acid,Peroxides,False
+Acne,erythromycin,1,D10AF,D10A,10.0,Erythromycin,Antiinfectives for treatment of acne,False
+Acne,resorcinol / sulfur,1,D10AB,D10A,10.0,Resorcinol / sulfur,Preparations containing sulfur,False
+Acne,sulfur,1,D10AB,D10A,10.0,Sulfur,Preparations containing sulfur,False
+Birth Control,etonogestrel,4393,G03AC,G03A,5.829273844753017,"Nexplanon, Implanon, Etonogestrel",Progestogens,True
+Birth Control,ethinyl estradiol / norethindrone,3078,G03AA,G03A,5.64782326185835,"Ethinyl estradiol / norethindrone, Lo Loestrin Fe, Microgestin Fe 1 / 20","Progestogens and estrogens, fixed combinations",True
+Birth Control,levonorgestrel (G02BA),2871,G02BA,G02B,7.038662486938349,"Mirena, Skyla, Liletta",Intrauterine contraceptives,True
+Birth Control,ethinyl estradiol / levonorgestrel,2105,G03AA,G03A,5.863657957244656,"Ethinyl estradiol / levonorgestrel, Seasonique, Orsythia","Progestogens and estrogens, fixed combinations",True
+Birth Control,ethinyl estradiol / norgestimate,2095,G03AA,G03A,5.880668257756564,"Ethinyl estradiol / norgestimate, Sprintec, Mononessa","Progestogens and estrogens, fixed combinations",True
+Birth Control,ethinyl estradiol / etonogestrel,826,G02BB,G02B,6.648910411622276,Ethinyl estradiol / etonogestrel,Intravaginal contraceptives,True
+Birth Control,copper,800,G02BA,G02B,7.1075,"ParaGard, Copper",Intrauterine contraceptives,True
+Birth Control,drospirenone / ethinyl estradiol,685,G03AA,G03A,5.8992700729927,"Yaz, Yasmin, Gianvi","Progestogens and estrogens, fixed combinations",True
+Birth Control,medroxyprogesterone,656,G03AC,G03A,5.553353658536586,"Medroxyprogesterone, Provera",Progestogens,True
+Birth Control,desogestrel / ethinyl estradiol,654,G03AA,G03A,5.706422018348624,"Desogestrel / ethinyl estradiol, Reclipsen, Ortho-Cept","Progestogens and estrogens, fixed combinations",True
+Birth Control,ethinyl estradiol / norelgestromin,508,G03AA,G03A,6.803149606299213,"Ethinyl estradiol / norelgestromin, Xulane","Progestogens and estrogens, fixed combinations",True
+Birth Control,norethindrone,437,G03AC,G03A,5.320366132723112,"Norethindrone, Jolivette, Ortho Micronor",Progestogens,True
+Birth Control,ethinyl estradiol / norgestrel,159,G03AA,G03A,5.628930817610063,"Cryselle, Ethinyl estradiol / norgestrel, Lo / Ovral-28","Progestogens and estrogens, fixed combinations",True
+Birth Control,drospirenone / ethinyl estradiol / levomefolate,141,G03AA,G03A,6.475177304964539,"Beyaz, Drospirenone / ethinyl estradiol / levomefolate calcium","Progestogens and estrogens, fixed combinations",True
+Birth Control,ethinyl estradiol / ethynodiol,51,G03AA,G03A,6.117647058823529,Ethinyl estradiol / ethynodiol,"Progestogens and estrogens, fixed combinations",True
+Birth Control,dienogest / estradiol,37,G03AB,G03A,6.513513513513513,Dienogest / estradiol,"Progestogens and estrogens, sequential preparations",False
+Birth Control,levonorgestrel (G03AC),10,G03AC,G03A,6.2,Levonorgestrel,Progestogens,False
+Birth Control,mestranol / norethindrone,4,G03AA,G03A,4.0,Mestranol / norethindrone,"Progestogens and estrogens, fixed combinations",False
+Birth Control,levonorgestrel (G03AD),3,G03AD,G03A,10.0,Plan B,Emergency contraceptives,False
+Birth Control,nonoxynol-9,2,G02BB,G02B,5.0,Nonoxynol 9,Intravaginal contraceptives,False
+Depression,bupropion,747,N06AX,N06A,7.386880856760375,"Wellbutrin, Wellbutrin XL, Bupropion",Other antidepressants,True
+Depression,sertraline,663,N06AB,N06A,7.14027149321267,Sertraline,Selective serotonin reuptake inhibitors,True
+Depression,desvenlafaxine,573,N06AX,N06A,7.164048865619546,Desvenlafaxine,Other antidepressants,True
+Depression,venlafaxine,573,N06AX,N06A,6.535776614310646,"Venlafaxine, Effexor",Other antidepressants,True
+Depression,escitalopram,514,N06AB,N06A,7.554474708171206,"Lexapro, Escitalopram",Selective serotonin reuptake inhibitors,True
+Depression,citalopram,513,N06AB,N06A,7.4717348927875245,Citalopram,Selective serotonin reuptake inhibitors,True
+Depression,vortioxetine,457,N06AX,N06A,5.927789934354486,Vortioxetine,Other antidepressants,True
+Depression,duloxetine,437,N06AX,N06A,6.489702517162471,Duloxetine,Other antidepressants,True
+Depression,vilazodone,407,N06AX,N06A,6.572481572481572,"Viibryd, Vilazodone",Other antidepressants,True
+Depression,fluoxetine,390,N06AB,N06A,7.2615384615384615,Fluoxetine,Selective serotonin reuptake inhibitors,True
+Depression,mirtazapine,280,N06AX,N06A,7.339285714285714,"Mirtazapine, Remeron",Other antidepressants,True
+Depression,aripiprazole,202,N05AX,N05A,6.881188118811881,"Abilify, Aripiprazole",Other antipsychotics,True
+Depression,paroxetine,186,N06AB,N06A,6.827956989247312,"Paxil, Paroxetine, Paxil CR",Selective serotonin reuptake inhibitors,True
+Depression,quetiapine,109,N05AH,N05A,7.073394495412844,"Seroquel XR, Quetiapine, Seroquel","Diazepines, oxazepines, thiazepines and oxepines",True
+Depression,alprazolam,82,N05BA,N05B,9.146341463414634,"Xanax, Alprazolam, Xanax XR",Benzodiazepine derivatives,True
+Depression,levomefolate,80,A11JA,A11J,7.8875,"Deplin, L-methylfolate",Combinations of vitamins,True
+Depression,tramadol,75,N02AX,N02A,9.413333333333334,Tramadol,Other opioids,True
+Depression,trazodone,74,N06AX,N06A,7.27027027027027,"Trazodone, Oleptro, Desyrel",Other antidepressants,True
+Depression,lamotrigine,65,N03AX,N03A,8.0,Lamotrigine,Other antiepileptics,True
+Depression,levomilnacipran,65,N06AX,N06A,4.7846153846153845,"Fetzima, Levomilnacipran",Other antidepressants,True
+Depression,olanzapine,63,N05AH,N05A,5.984126984126984,"Zyprexa, Olanzapine","Diazepines, oxazepines, thiazepines and oxepines",True
+Depression,tranylcypromine,54,N06AF,N06A,8.518518518518519,"Parnate, Tranylcypromine","Monoamine oxidase inhibitors, non-selective",True
+Depression,St. John's wort extract,51,N06AX,N06A,8.666666666666666,St. john's wort,Other antidepressants,True
+Depression,amitriptyline,51,N06AA,N06A,8.490196078431373,"Amitriptyline, Elavil",Non-selective monoamine reuptake inhibitors,True
+Depression,modafinil,36,N06BA,N06B,8.36111111111111,Modafinil,Centrally acting sympathomimetics,False
+Depression,phenelzine,36,N06AF,N06A,8.305555555555555,"Nardil, Phenelzine","Monoamine oxidase inhibitors, non-selective",False
+Depression,methylphenidate,32,N06BA,N06B,9.0,"Methylphenidate, Methylin ER, Ritalin",Centrally acting sympathomimetics,False
+Depression,nortriptyline,26,N06AA,N06A,6.461538461538462,Nortriptyline,Non-selective monoamine reuptake inhibitors,False
+Depression,selegiline,26,N04BD,N04B,8.461538461538462,"Emsam, Selegiline",Monoamine oxidase B inhibitors,False
+Depression,nefazodone,23,N06AX,N06A,8.869565217391305,Nefazodone,Other antidepressants,False
+Depression,brexpiprazole,22,N05AX,N05A,7.318181818181818,"Rexulti, Brexpiprazole",Other antipsychotics,False
+Depression,risperidone,22,N05AX,N05A,6.318181818181818,"Risperidone, Risperdal, Risperdal M-Tab",Other antipsychotics,False
+Depression,niacin,20,C04AC,C04A,9.75,Niacin,Nicotinic acid and derivatives,False
+Depression,lithium,19,N05AN,N05A,6.578947368421052,Lithium,Lithium,False
+Depression,armodafinil,17,N06BA,N06B,7.411764705882353,Armodafinil,Centrally acting sympathomimetics,False
+Depression,fluoxetine / olanzapine,16,N06CA,N06C,8.875,"Symbyax, Fluoxetine / olanzapine",Antidepressants in combination with psycholeptics,False
+Depression,fluvoxamine,16,N06AB,N06A,7.0,"Fluvoxamine, Luvox, Luvox CR",Selective serotonin reuptake inhibitors,False
+Depression,doxepin,15,N06AA,N06A,6.933333333333334,"Doxepin, Sinequan",Non-selective monoamine reuptake inhibitors,False
+Depression,clomipramine,13,N06AA,N06A,9.23076923076923,"Clomipramine, Anafranil",Non-selective monoamine reuptake inhibitors,False
+Depression,desipramine,12,N06AA,N06A,9.0,Desipramine,Non-selective monoamine reuptake inhibitors,False
+Depression,imipramine,12,N06AA,N06A,6.75,"Imipramine, Tofranil",Non-selective monoamine reuptake inhibitors,False
+Depression,S-adenosylmethionine,5,A16AA,A16A,8.4,S-adenosylmethionine,Amino acids and derivatives,False
+Depression,lisdexamfetamine,5,N06BA,N06B,6.8,"Lisdexamfetamine, Vyvanse",Centrally acting sympathomimetics,False
+Depression,amitriptyline / chlordiazepoxide,4,N06CA,N06C,9.5,"Limbitrol, Amitriptyline / chlordiazepoxide",Antidepressants in combination with psycholeptics,False
+Depression,amoxapine,4,N06AA,N06A,9.5,"Amoxapine, Asendin",Non-selective monoamine reuptake inhibitors,False
+Depression,atomoxetine,4,N06BA,N06B,6.5,Atomoxetine,Centrally acting sympathomimetics,False
+Depression,isocarboxazid,3,N06AF,N06A,9.0,Marplan,"Monoamine oxidase inhibitors, non-selective",False
+Depression,paliperidone,3,N05AX,N05A,7.0,Paliperidone,Other antipsychotics,False
+Depression,maprotiline,2,N06AA,N06A,9.5,Maprotiline,Non-selective monoamine reuptake inhibitors,False
+Depression,tryptophan,2,N06AX,N06A,5.0,Tryptophan,Other antidepressants,False
+Depression,amitriptyline / perphenazine,1,N06CA,N06C,9.0,Amitriptyline / perphenazine,Antidepressants in combination with psycholeptics,False
+Depression,protriptyline,1,N06AA,N06A,9.0,Vivactil,Non-selective monoamine reuptake inhibitors,False
+Depression,trimipramine,1,N06AA,N06A,9.0,Trimipramine,Non-selective monoamine reuptake inhibitors,False
+Pain,tramadol,500,N02AX,N02A,6.476,"Tramadol, Ultram, Ultram ER",Other opioids,True
+Pain,acetaminophen / hydrocodone,452,N02AJ,N02A,7.971238938053097,"Acetaminophen / hydrocodone, Vicodin ES, Lorcet 10 / 650",Opioids in combination with non-opioid analgesics,True
+Pain,oxycodone,378,N02AA,N02A,8.833333333333334,"OxyContin, Oxycodone, Roxicodone",Natural opium alkaloids,True
+Pain,acetaminophen / oxycodone,362,N02AJ,N02A,8.665745856353592,"Acetaminophen / oxycodone, Magnacet",Opioids in combination with non-opioid analgesics,True
+Pain,tapentadol,285,N02AX,N02A,6.480701754385965,"Nucynta, Tapentadol",Other opioids,True
+Pain,hydromorphone,253,N02AA,N02A,8.308300395256918,Hydromorphone,Natural opium alkaloids,True
+Pain,gabapentin,239,N02BF,N02B,6.598326359832636,Gabapentin,Gabapentinoids,True
+Pain,ketorolac,193,M01AB,M01A,7.352331606217617,"Ketorolac, Sprix",Acetic acid derivatives and related substances,True
+Pain,oxymorphone,188,N02AA,N02A,7.877659574468085,"Oxymorphone, Opana",Natural opium alkaloids,True
+Pain,amitriptyline,154,N06AA,N06A,8.077922077922079,"Amitriptyline, Elavil",Non-selective monoamine reuptake inhibitors,True
+Pain,fentanyl,154,N02AB,N02A,8.448051948051948,Fentanyl,Phenylpiperidine derivatives,True
+Pain,methadone,152,N07BC,N07B,8.776315789473685,Methadone,Drugs used in opioid dependence,True
+Pain,morphine,152,N02AA,N02A,8.013157894736842,"Morphine, Oramorph SR, Duramorph",Natural opium alkaloids,True
+Pain,diclofenac (M02AA),151,M02AA,M02A,7.754966887417218,"Voltaren Gel, Flector Patch","Antiinflammatory preparations, non-steroids for topical use",True
+Pain,diclofenac (M01AB),120,M01AB,M01A,7.85,"Diclofenac, Voltaren, Zipsor",Acetic acid derivatives and related substances,True
+Pain,acetaminophen / codeine,117,N02AJ,N02A,4.863247863247863,Acetaminophen / codeine,Opioids in combination with non-opioid analgesics,True
+Pain,hydrocodone,117,R05DA,R05D,5.846153846153846,"Hydrocodone, Hysingla ER",Opium alkaloids and derivatives,True
+Pain,pregabalin,97,N02BF,N02B,7.587628865979381,Pregabalin,Gabapentinoids,True
+Pain,lidocaine,92,N01BB,N01B,4.891304347826087,Lidocaine,Amides,True
+Pain,buprenorphine,90,N02AE,N02A,7.555555555555555,"Buprenorphine, Belbuca",Oripavine derivatives,True
+Pain,nortriptyline,75,N06AA,N06A,6.906666666666666,Nortriptyline,Non-selective monoamine reuptake inhibitors,True
+Pain,acetaminophen / propoxyphene,69,N02AC,N02A,7.565217391304348,"Acetaminophen / propoxyphene, Darvocet A500, Balacet",Diphenylpropylamine derivatives,True
+Pain,hydrocodone / ibuprofen,65,N02AJ,N02A,8.492307692307692,"Hydrocodone / ibuprofen, Reprexain, Ibudone",Opioids in combination with non-opioid analgesics,True
+Pain,naproxen,63,M01AE,M01A,6.841269841269841,"Naproxen, Aleve, Naprelan",Propionic acid derivatives,True
+Pain,celecoxib,62,M01AH,M01A,7.419354838709677,"Celebrex, Celecoxib",Coxibs,True
+Pain,meperidine,61,N02AB,N02A,9.295081967213115,Meperidine,Phenylpiperidine derivatives,True
+Pain,duloxetine,59,N06AX,N06A,7.576271186440678,Duloxetine,Other antidepressants,True
+Pain,acetaminophen / tramadol,40,N02AJ,N02A,7.425,Acetaminophen / tramadol,Opioids in combination with non-opioid analgesics,False
+Pain,etodolac,37,M01AB,M01A,7.918918918918919,Etodolac,Acetic acid derivatives and related substances,False
+Pain,butorphanol,33,N02AF,N02A,8.181818181818182,"Stadol, Butorphanol",Morphinan derivatives,False
+Pain,codeine,29,R05DA,R05D,7.758620689655173,Codeine,Opium alkaloids and derivatives,False
+Pain,ibuprofen,28,M01AE,M01A,8.857142857142858,"Ibuprofen, Advil, Motrin IB",Propionic acid derivatives,False
+Pain,acetaminophen,27,N02BE,N02B,7.481481481481482,"Acetaminophen, Tylenol, Tylenol 8 Hour",Anilides,False
+Pain,nalbuphine,26,N02AF,N02A,7.8076923076923075,"Nubain, Nalbuphine",Morphinan derivatives,False
+Pain,propoxyphene,21,N02AC,N02A,8.142857142857142,"Propoxyphene, Darvon",Diphenylpropylamine derivatives,False
+Pain,capsaicin,17,M02AB,M02A,5.588235294117647,Capsaicin,Capsaicin and similar agents,False
+Pain,acetaminophen / caffeine / dihydrocodeine,16,N02AJ,N02A,8.3125,Acetaminophen / caffeine / dihydrocodeine,Opioids in combination with non-opioid analgesics,False
+Pain,hydroxyzine,16,N05BB,N05B,5.6875,"Vistaril, Hydroxyzine, Atarax",Diphenylmethane derivatives,False
+Pain,morphine / naltrexone,15,N02AA,N02A,6.8,Embeda,Natural opium alkaloids,False
+Pain,indomethacin,14,M01AB,M01A,7.071428571428571,"Indomethacin, Indocin SR",Acetic acid derivatives and related substances,False
+Pain,naloxone / pentazocine,14,N02AD,N02A,6.928571428571429,"Talwin Nx, Naloxone / pentazocine",Benzomorphan derivatives,False
+Pain,ketoprofen,12,M01AE,M01A,9.833333333333334,"Ketoprofen, Orudis KT",Propionic acid derivatives,False
+Pain,trolamine salicylate,12,M02AC,M02A,8.5,Trolamine salicylate,Preparations with salicylic acid derivatives,False
+Pain,levorphanol,11,N02AF,N02A,8.454545454545455,"Levorphanol, Levo-Dromoran",Morphinan derivatives,False
+Pain,diphenhydramine / naproxen,9,M01AE,M01A,7.111111111111111,Diphenhydramine / naproxen,Propionic acid derivatives,False
+Pain,meperidine / promethazine,9,N02AB,N02A,9.333333333333334,Meperidine / promethazine,Phenylpiperidine derivatives,False
+Pain,pentazocine,9,N02AD,N02A,6.333333333333333,"Talwin, Pentazocine",Benzomorphan derivatives,False
+Pain,acetaminophen / phenyltoloxamine,8,N02BE,N02B,9.125,"Acetaminophen / phenyltoloxamine, Lagesic",Anilides,False
+Pain,ketamine,8,N01AX,N01A,8.125,Ketamine,Other general anesthetics,False
+Pain,aspirin / butalbital / caffeine,7,N02BA,N02B,9.714285714285714,"Fiorinal, Aspirin / butalbital / caffeine",Salicylic acid and derivatives,False
+Pain,sulindac,6,M01AB,M01A,8.166666666666666,Sulindac,Acetic acid derivatives and related substances,False
+Pain,acetaminophen / diphenhydramine,5,N02BE,N02B,8.8,Acetaminophen / diphenhydramine,Anilides,False
+Pain,aspirin,5,N02BA,N02B,7.8,Aspirin,Salicylic acid and derivatives,False
+Pain,piroxicam,5,M01AC,M01A,7.4,"Piroxicam, Feldene",Oxicams,False
+Pain,aspirin / oxycodone,4,N02AJ,N02A,4.25,"Percodan, Aspirin / oxycodone",Opioids in combination with non-opioid analgesics,False
+Pain,bupivacaine,4,N01BB,N01B,10.0,Bupivacaine liposome,Amides,False
+Pain,camphor / menthol,4,D04AX,D04A,5.5,"Tiger Balm, Fast Freeze, Camphor / menthol",Other antipruritics,False
+Pain,valdecoxib,4,M01AH,M01A,9.75,"Bextra, Valdecoxib",Coxibs,False
+Pain,aspirin / caffeine,3,N02BA,N02B,10.0,Aspirin / caffeine,Salicylic acid and derivatives,False
+Pain,imipramine,3,N06AA,N06A,8.0,Imipramine,Non-selective monoamine reuptake inhibitors,False
+Pain,magnesium salicylate,3,N02BA,N02B,10.0,Magnesium salicylate,Salicylic acid and derivatives,False
+Pain,acetaminophen / aspirin / caffeine / salicylamide,2,N02BE,N02B,7.0,Acetaminophen / aspirin / caffeine / salicylamide,Anilides,False
+Pain,acetaminophen / pentazocine,2,N02AJ,N02A,8.5,Talacen,Opioids in combination with non-opioid analgesics,False
+Pain,aspirin / caffeine / salicylamide,2,N02BA,N02B,9.5,Aspirin / caffeine / salicylamide,Salicylic acid and derivatives,False
+Pain,aspirin / carisoprodol / codeine,2,M03BA,M03B,9.5,Soma Compound with Codeine,Carbamic acid esters,False
+Pain,diflunisal,2,N02BA,N02B,5.5,"Dolobid, Diflunisal",Salicylic acid and derivatives,False
+Pain,mefenamate,2,M01AG,M01A,5.5,"Ponstel, Mefenamic acid",Fenamates,False
+Pain,menthol,2,M02AB,M02A,9.0,Menthol,Capsaicin and similar agents,False
+Pain,naloxone / oxycodone,2,N02AA,N02A,4.5,"Targiniq ER, Naloxone / oxycodone",Natural opium alkaloids,False
+Pain,pramoxine,2,C05AD,C05A,5.0,"Proctofoam, Pramoxine",Local anesthetics,False
+Pain,acetaminophen / aspirin,1,N02BE,N02B,9.0,Acetaminophen / aspirin,Anilides,False
+Pain,benzocaine,1,N01BA,N01B,6.0,Benzocaine,Esters of aminobenzoic acid,False
+Pain,choline / magnesium salicylate,1,N02BA,N02B,7.0,Trilisate,Salicylic acid and derivatives,False
+Pain,flurbiprofen,1,M01AE,M01A,2.0,Flurbiprofen,Propionic acid derivatives,False
+Pain,ziconotide,1,N02BG,N02B,1.0,Ziconotide,Other analgesics and antipyretics,False

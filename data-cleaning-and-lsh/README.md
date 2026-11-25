@@ -48,7 +48,14 @@ reviews = pd.read_parquet(path)
 
 3. For the review text, use the column `review_text_clean`. It keeps punctuation and negations such as "no weight gain".
 
+## Reproducibility check (25 Nov)
+
+A local rerun from the raw UCI files (the `.tsv` version, in `data/raw/` of this folder or of the repository) gives the same 128,663 clean reviews and exactly the A6 numbers above (1,711 shared stories, 93 drug pairs, 5 significant) in about 2 minutes. **`nltk` is required**: without it A6 used to skip stemming silently and find other stories (667 instead of 1,711), so the notebook now stops with an error instead.
+
+The saved notebook has not run two steps: **A6 · 1b** (canonical names, needs D's `drug_atc_mapping.csv` as input) and **A6b** (search by meaning, needs C's embeddings). The A6b numbers in step 7 above come from a run whose output is not in the notebook.
+
 ## To do
 
 - [x] **Compare with the NLP lead's embeddings** (step 7).
-- [ ] Agree with the validation lead whether A6 should count canonical drugs (`USE_CANONICAL_DRUGS_IN_A6`).
+- [x] Agree with the validation lead whether A6 should count canonical drugs: the validation step uses D's `generic_name` per review and does not read A6, so `USE_CANONICAL_DRUGS_IN_A6` can stay `False`.
+- [ ] **Final Kaggle run** with D's `atc-mapping/outputs/drug_atc_mapping.csv` and C's embeddings dataset as inputs, so that A6 · 1b and A6b have outputs in the saved notebook; then check the A6b numbers in step 7.

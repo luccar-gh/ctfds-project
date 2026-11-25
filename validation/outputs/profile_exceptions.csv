@@ -1,0 +1,41 @@
+condition,kind,drug_a,drug_b,class_a,class_b,similarity,why
+Birth Control,"different class, alike",ethinyl estradiol / etonogestrel,ethinyl estradiol / norelgestromin,G02BB,G03AA,0.479,acne_breakout -8/-10; cramps -11/-5; spotting -9/-6
+Birth Control,"different class, alike",etonogestrel,ethinyl estradiol / norethindrone,G03AC,G03AA,0.245,no_period +13/+3; cramps -13/-2; spotting +5/+3
+Birth Control,"different class, alike",ethinyl estradiol / norethindrone,medroxyprogesterone,G03AA,G03AC,0.236,no_period +3/+19; weight_gain +1/+14; spotting +3/+7
+Birth Control,"different class, alike",ethinyl estradiol / etonogestrel,norethindrone,G02BB,G03AC,0.234,cramps -11/-9; acne_breakout -8/-2; nausea -2/-5
+Birth Control,"different class, alike",ethinyl estradiol / etonogestrel,drospirenone / ethinyl estradiol,G02BB,G03AA,0.222,cramps -11/-9; spotting -9/-4; no_period -4/-4
+Birth Control,"same class, different",ethinyl estradiol / norethindrone,ethinyl estradiol / norelgestromin,G03AA,G03AA,-0.343,acne_breakout +4/-10; spotting +3/-6; no_period +3/-4
+Birth Control,"same class, different",ethinyl estradiol / norelgestromin,drospirenone / ethinyl estradiol / levomefolate,G03AA,G03AA,-0.33,acne_breakout -10/+10; depressed_mood -8/+5; cramps -5/+5
+Birth Control,"same class, different",ethinyl estradiol / levonorgestrel,ethinyl estradiol / norelgestromin,G03AA,G03AA,-0.242,acne_breakout +6/-10; spotting +2/-6; depressed_mood +2/-8
+Birth Control,"same class, different",drospirenone / ethinyl estradiol,ethinyl estradiol / norelgestromin,G03AA,G03AA,-0.166,acne_breakout +11/-10; depressed_mood +6/-8; mood_swings +7/-4
+Birth Control,"same class, different",desogestrel / ethinyl estradiol,ethinyl estradiol / norelgestromin,G03AA,G03AA,-0.164,acne_breakout +8/-10; mood_swings +9/-4; weight_gain +4/-7
+Depression,"different class, alike",mirtazapine,quetiapine,N06AX,N05AH,0.869,weight_gain +17/+12; drowsiness +12/+12; insomnia +10/+9
+Depression,"different class, alike",venlafaxine,paroxetine,N06AX,N06AB,0.497,withdrawal +16/+7; dizziness +7/+3; suicidal_thoughts +2/+5
+Depression,"different class, alike",bupropion,sertraline,N06AX,N06AB,0.414,withdrawal -3/-2; drowsiness -3/-2; tremor +3/+2
+Depression,"different class, alike",escitalopram,quetiapine,N06AB,N05AH,0.407,drowsiness +4/+12; weight_gain +3/+12; fatigue +6/+4
+Depression,"different class, alike",mirtazapine,aripiprazole,N06AX,N05AX,0.404,weight_gain +17/+10; headache -3/-5; nausea -5/-3
+Depression,"same class, different",duloxetine,mirtazapine,N06AX,N06AX,-0.451,weight_gain -4/+17; nausea +8/-5; insomnia -3/+10
+Depression,"same class, different",desvenlafaxine,mirtazapine,N06AX,N06AX,-0.357,nausea +7/-5; weight_gain -2/+17; headache +5/-3
+Depression,"same class, different",vortioxetine,mirtazapine,N06AX,N06AX,-0.334,nausea +30/-5; insomnia -6/+10; weight_gain -2/+17
+Depression,"same class, different",venlafaxine,mirtazapine,N06AX,N06AX,-0.249,nausea +7/-5; drowsiness -3/+12; withdrawal +16/-2
+Depression,"same class, different",bupropion,mirtazapine,N06AX,N06AX,-0.235,weight_gain -3/+17; drowsiness -3/+12; irritability +4/-2
+Pain,"different class, alike",oxycodone,methadone,N02AA,N07BC,0.911,headache -6/-5; drowsiness -5/-4; withdrawal +2/+4
+Pain,"different class, alike",fentanyl,methadone,N02AB,N07BC,0.772,headache -4/-5; withdrawal +5/+4; skin_irritation -2/-2
+Pain,"different class, alike",oxymorphone,methadone,N02AA,N07BC,0.703,drowsiness -3/-4; headache -2/-5; withdrawal +2/+4
+Pain,"different class, alike",oxycodone,fentanyl,N02AA,N02AB,0.692,headache -6/-4; withdrawal +2/+5; drowsiness -5/-1
+Pain,"different class, alike",acetaminophen / hydrocodone,hydromorphone,N02AJ,N02AA,0.669,nausea +3/+3; dependence +3/+2; depressed_mood -2/-2
+Pain,"same class, different",ketorolac,diclofenac (M01AB),M01AB,M01AB,-0.206,headache +24/-4; skin_irritation +2/-2; nausea +2/-1
+Pain,"same class, different",acetaminophen / hydrocodone,acetaminophen / codeine,N02AJ,N02AJ,0.074,drowsiness -1/+9; dependence +3/-1; vomiting -1/+3
+Pain,"same class, different",acetaminophen / oxycodone,acetaminophen / codeine,N02AJ,N02AJ,0.091,drowsiness -1/+9; vomiting -1/+3; depressed_mood +1/-4
+Pain,"same class, different",oxycodone,hydromorphone,N02AA,N02AA,0.18,nausea -3/+3; vomiting -1/+3; drowsiness -5/+0
+Pain,"same class, different",hydromorphone,morphine,N02AA,N02AA,0.181,constipation -1/+6; vomiting +3/-1; drowsiness +0/-5
+Acne,"different class, alike",adapalene / benzoyl peroxide,benzoyl peroxide / clindamycin,D10AD,D10AF,0.858,skin_irritation +21/+10; dry_skin +17/+5; depressed_mood -4/-4
+Acne,"different class, alike",doxycycline,sulfamethoxazole / trimethoprim,J01AA,J01EE,0.705,dry_skin -9/-9; nausea +8/+3; skin_irritation -3/-5
+Acne,"different class, alike",minocycline,sulfamethoxazole / trimethoprim,J01AA,J01EE,0.676,dry_skin -10/-9; nausea +5/+3; headache +5/+2
+Acne,"different class, alike",benzoyl peroxide / clindamycin,adapalene,D10AF,D10AD,0.613,skin_irritation +10/+5; dry_skin +5/+8; depressed_mood -4/-5
+Acne,"different class, alike",benzoyl peroxide / clindamycin,clindamycin / tretinoin,D10AF,D10AD,0.607,dry_skin +5/+9; skin_irritation +10/+3; nausea -4/-4
+Acne,"same class, different",doxycycline,minocycline,J01AA,J01AA,0.605,dizziness -1/+9; fatigue -1/+2; headache -0/+5
+Acne,"same class, different",adapalene / benzoyl peroxide,tretinoin,D10AD,D10AD,0.688,sun_sensitivity +4/-0; skin_discoloration -0/+2; acne_worsening -1/+0
+Acne,"same class, different",adapalene / benzoyl peroxide,clindamycin / tretinoin,D10AD,D10AD,0.735,acne_worsening -1/+2; skin_discoloration -0/+1; allergic_reaction -0/+0
+Acne,"same class, different",adapalene / benzoyl peroxide,adapalene,D10AD,D10AD,0.752,acne_worsening -1/+6; rash -0/+3; skin_discoloration -0/+0
+Acne,"same class, different",tretinoin,adapalene,D10AD,D10AD,0.799,rash -0/+3; sun_sensitivity -0/+0; vivid_dreams -0/-1
