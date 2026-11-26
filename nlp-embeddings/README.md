@@ -4,11 +4,7 @@ This folder holds the NLP part: the new technique that was not taught in the cou
 
 ## What it does
 
-1. Turns each of the 36,365 reviews of Birth Control, Depression, Pain and Acne into a 768-number vector that captures its meaning (`FremyCompany/BioLORD-2023`, a biomedical Sentence-BERT model).
-2. Describes each of Role B's 100 k-means clusters with keywords: class-based TF-IDF (c-TF-IDF), written from scratch, finds the terms that distinguish the cluster, and a KeyBERT-style step with the embeddings picks five keywords per cluster.
-3. Evaluates the clusters with automatic metrics (NPMI against a random baseline, cohesion in meaning space).
-4. Re-clusters the embeddings with k-means (B's k per condition) and compares with B's clusters (Davies-Bouldin, drug purity, ARI), with and without drug names.
-5. Saves the files that the other roles need: embeddings for Role A, cluster labels for Role D, and every number for the report.
+Embeds the 36,365 reviews of Birth Control, Depression, Pain and Acne with Sentence-BERT (`FremyCompany/BioLORD-2023`), describes Role B's 100 k-means clusters with keywords (c-TF-IDF written from scratch plus a KeyBERT-style selection), evaluates them with automatic metrics, and compares clustering by meaning with B's TF-IDF clusters, with and without drug names. The method and the code are explained step by step in the notebook.
 
 ## Contents
 
