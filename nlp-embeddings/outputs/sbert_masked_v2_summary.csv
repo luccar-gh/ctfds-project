@@ -1,5 +1,0 @@
-condition,k,baseline_top_drug_share,purity_B,purity_sbert_masked_v2,ARI_vs_B,rating_spread_B,rating_spread_masked
-depression,26,0.093,0.267,0.143,0.026,1.027,1.635
-birth control,23,0.148,0.423,0.255,0.087,1.158,1.691
-pain,26,0.085,0.26,0.151,0.041,1.009,0.866
-acne,25,0.121,0.321,0.311,0.036,1.079,1.352
