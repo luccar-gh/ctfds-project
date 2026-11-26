@@ -1,0 +1,1389 @@
+drug_family_id,drug_family_name,drug_canonical_name,canonical_name_source,drug_names,n_drug_names,n_reviews,original_drug_family_ids,from_mixed_family
+107,Levonorgestrel,levonorgestrel,atc_generic_name,Levonorgestrel | Skyla | Plan B | Plan B One-Step | Mirena | Liletta | Next Choice | My Way | Take Action | Opcicon One-Step | Aftera | EContra EZ | Fallback Solo | Kyleena,14,4921,107,False
+813,Nexplanon,etonogestrel,atc_generic_name,Nexplanon | Implanon | Etonogestrel,3,4420,813,False
+169,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,atc_generic_name,Ethinyl estradiol / norethindrone | Lo Loestrin Fe | Microgestin Fe 1 / 20 | Minastrin 24 Fe | Junel Fe 1 / 20 | femhrt | Balziva | Junel Fe 24 | Necon 7 / 7 / 7 | Loestrin 21 1 / 20 | Zenchent | Briellyn | Gildess 1.5 / 30 | Larin Fe 1 / 20 | Alyacen 1 / 35 | Blisovi 24 Fe | Blisovi Fe 1 / 20 | Blisovi Fe 1.5 / 30 | Cyclafem 1 / 35 | Cyclafem 7 / 7 / 7 | Dasetta 1 / 35 | Dasetta 7 / 7 / 7 | Femcon Fe | Generess Fe | Gildess 1 / 20 | Gildess 24 Fe | Gildess Fe 1 / 20 | Gildess Fe 1.5 / 30 | Junel 1 / 20 | Junel 1.5 / 30 | Junel Fe 1.5 / 30 | Larin 24 Fe | Larin Fe 1.5 / 30 | Loestrin 21 1.5 / 30 | Loestrin 24 Fe | Loestrin Fe 1 / 20 | Loestrin Fe 1.5 / 30 | Lomedia 24 Fe | Mibelas 24 Fe | Microgestin 1 / 20 | Microgestin 1.5 / 30 | Microgestin Fe 1.5 / 30 | Necon 1 / 35 | Norinyl 1+35 | Nortrel 1 / 35 | Nortrel 7 / 7 / 7 | Ortho-Novum 1 / 35 | Ortho-Novum 7 / 7 / 7 | Ovcon 35 | Philith | Pirmella 1 / 35 | Tarina Fe 1 / 20 | Taytulla | Wera,54,3752,169,False
+797,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,atc_generic_name,Ethinyl estradiol / norgestimate | Sprintec | Mononessa | Previfem | Tri-Estarylla | Tri-Lo-Estarylla | Estarylla | Mono-Linyah | Ortho Cyclen | Ortho Tri-Cyclen | Ortho Tri-Cyclen Lo | Tri-Linyah | Tri-Lo-Marzia | Tri-Lo-Sprintec | Tri-Previfem | Tri-Sprintec | TriNessa | TriNessa Lo,18,2787,797,False
+620,Duloxetine,duloxetine,atc_generic_name,Duloxetine | Pregabalin | Latuda | Lurasidone | Cymbalta | Lyrica,6,2550,620,True
+585,Gabapentin,gabapentin,atc_generic_name,Gabapentin | Tramadol | Ultram | Ultram ER | Ultram ODT | Ryzolt | Gralise | Neurontin | ConZip | Gabarone,10,2547,585,True
+129,Ethinyl estradiol / levonorgestrel,ethinyl estradiol / levonorgestrel,atc_generic_name,Ethinyl estradiol / levonorgestrel | Seasonique | Orsythia | Lutera | Sronyx | LoSeasonique | Levora | Camrese | Alesse | Portia | Chateal | Lybrel | CamreseLo | Amethyst | Aubra | Falmina | Lillow | Altavera | Amethia | Amethia Lo | Ashlyna | Aviane | Introvale | Jolessa | Larissia | Lessina | Levlen | Marlissa | Quasense | Seasonale | Trivora | Vienva,32,2500,129,False
+267,Sertraline,sertraline,atc_generic_name,Sertraline | Lorazepam | Ativan | Lorazepam Intensol | Zoloft,5,2459,267,True
+90,Phentermine,phentermine,atc_generic_name,Phentermine | Adipex-P | Fastin | Ionamin | Phentercot | Phentride | Suprenza | Zantryl | Lomaira | T-Diet,10,2084,90,False
+793,Lexapro,escitalopram,atc_generic_name,Lexapro | Escitalopram,2,1744,793,False
+221,Bupropion,bupropion,atc_generic_name,Bupropion | Wellbutrin | Wellbutrin XL | Wellbutrin SR | Zyban | Budeprion XL | Aplenzin | Budeprion SR | Buproban | Forfivo XL,10,1368,221,False
+1080,Miconazole,miconazole,atc_generic_name,Miconazole | Monistat 7-Day Combination Pack | Zeasorb-AF | Lotrimin AF Athlete's Foot Powder | M-Zole 3 | Micon 7 | Monistat 1-Day or Night Combination Pack | Monistat 3-Day Combination Pack | Monistat 7 | Zeasorb-AF Drying Gel,10,1344,1080,False
+746,Venlafaxine,venlafaxine,atc_generic_name,Venlafaxine | Effexor | Effexor XR,3,1337,746,False
+659,Medroxyprogesterone,medroxyprogesterone,atc_generic_name,Medroxyprogesterone | Provera | Depo-Provera | Depo-Provera Contraceptive | depo-subQ provera 104,5,1307,659,False
+478,Citalopram,citalopram,atc_generic_name,Citalopram | Celexa,2,1307,478,False
+417,Contrave,bupropion / naltrexone,atc_generic_name,Contrave | Bupropion / naltrexone,2,1248,417,False
+872,Quetiapine,quetiapine,atc_generic_name,Quetiapine | Seroquel | Seroquel XR | Luvox | Fluvoxamine | Luvox CR,6,1224,872,True
+855,Metronidazole,metronidazole,atc_generic_name,Metronidazole | Flagyl | Flagyl ER | Flagyl IV | MetroCream | MetroGel | MetroGel-Vaginal | Noritate | Nuvessa | Rozex | Vandazole,11,1207,855,False
+729,Yaz,drospirenone / ethinyl estradiol,atc_generic_name,Yaz | Yasmin | Gianvi | Ocella | Drospirenone / ethinyl estradiol | Loryna | Nikki | Vestura | Zarah,9,1183,729,False
+558,Clonazepam,clonazepam,atc_generic_name,Clonazepam | Klonopin | Klonopin Wafer,3,1143,558,False
+491,Chantix,varenicline,atc_generic_name,Chantix | Varenicline,2,1090,491,False
+1073,Liraglutide,liraglutide,atc_generic_name,Liraglutide | Saxenda | Victoza,3,1021,1073,False
+868,Fluoxetine,fluoxetine,atc_generic_name,Fluoxetine | Sarafem | Prozac | Prozac Weekly,4,1009,868,False
+1352,Tioconazole,tioconazole,atc_generic_name,Tioconazole | Vagistat-1,2,980,1352,False
+156,Xanax,alprazolam,atc_generic_name,Xanax | Alprazolam | Xanax XR | Alprazolam Intensol | Niravam,5,929,156,False
+182,Amitriptyline,amitriptyline,atc_generic_name,Amitriptyline | Elavil | Vanatrip,3,918,182,False
+398,Paxil,paroxetine,atc_generic_name,Paxil | Paroxetine | Paxil CR | Brisdelle | Pexeva,5,852,398,False
+70,Doxycycline,doxycycline,atc_generic_name,Doxycycline | Doryx | Oracea | Monodox | Doxy 100 | Vibramycin | Adoxa | Acticlate,8,841,70,False
+806,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,atc_generic_name,Ethinyl estradiol / etonogestrel | NuvaRing,2,834,806,False
+1097,Magnesium sulfate / potassium sulfate / sodium sulfate,magnesium sulfate / potassium sulfate / sodium sulfate,atc_generic_name,Magnesium sulfate / potassium sulfate / sodium sulfate | Suprep Bowel Prep Kit,2,823,1097,False
+593,ParaGard,copper,atc_generic_name,ParaGard | Copper,2,801,593,False
+667,Desvenlafaxine,desvenlafaxine,atc_generic_name,Desvenlafaxine | Pristiq,2,794,667,False
+668,Trazodone,trazodone,atc_generic_name,Trazodone | Desyrel | Oleptro | Desyrel Dividose,4,793,668,False
+1273,Topiramate,topiramate,atc_generic_name,Topiramate | Topiragen | Trokendi XR | Qudexy XR | Topamax,5,788,1273,False
+1047,Lamictal,lamotrigine,atc_generic_name,Lamictal | Lamotrigine | Lamictal ODT | Lamictal XR,4,782,1047,False
+333,Belviq,lorcaserin,atc_generic_name,Belviq | Lorcaserin | Belviq XR,3,774,333,False
+1151,Mirtazapine,mirtazapine,atc_generic_name,Mirtazapine | Remeron | Remeron SolTab,3,726,1151,False
+301,Azithromycin,azithromycin,atc_generic_name,Azithromycin | Azasite | Azithromycin Dose Pack | Zithromax,4,723,301,False
+46,Acetaminophen / hydrocodone,acetaminophen / hydrocodone,atc_generic_name,Acetaminophen / hydrocodone | Triazolam | Vicodin ES | Lorcet 10 / 650 | Anexsia | Lorcet | Maxidone | Halcion | Lortab | Norco | Vicodin | Vicodin HP | Xodol,13,723,46,True
+376,Bisacodyl,bisacodyl,atc_generic_name,Bisacodyl | Dulcolax Laxative | Doxidan Tablet | Feen-A-Mint | Correctol | Dulcolax | Fleet Bisacodyl,7,703,376,False
+319,Sulfamethoxazole / trimethoprim,sulfamethoxazole / trimethoprim,atc_generic_name,Sulfamethoxazole / trimethoprim | Bactrim DS | SMZ-TMP DS | Septra DS | Septra | Co-trimoxazole | Bactrim | Sulfatrim,8,702,319,False
+12,Isotretinoin,isotretinoin,atc_generic_name,Isotretinoin | Claravis | Amnesteem | Zenatane | Myorisan | Sotret | Absorica | Accutane,8,699,12,False
+225,Desogestrel / ethinyl estradiol,desogestrel / ethinyl estradiol,atc_generic_name,Desogestrel / ethinyl estradiol | Reclipsen | Ortho-Cept | Mircette | Cyred | Enskyce | Pimtrea | Juleber | Emoquette | Apri | Azurette | Caziant | Cyclessa | Desogen | Kariva | Velivet | Viorele,17,686,225,False
+1362,Vortioxetine,vortioxetine,atc_generic_name,Vortioxetine | Trintellix,2,681,1362,False
+886,Nitrofurantoin,nitrofurantoin,atc_generic_name,Nitrofurantoin | Macrobid | Macrodantin | Furadantin,4,665,886,False
+6,Abilify,aripiprazole,atc_generic_name,Abilify | Aripiprazole | Abilify Discmelt | Abilify Maintena,4,665,6,False
+644,Oxycodone,oxycodone,atc_generic_name,Oxycodone | OxyContin | Roxicodone | Xtampza ER | Roxicodone Intensol | Oxaydo | Oxyfast | Dazidox | Oxydose | OxyIR,10,642,644,False
+173,Zolpidem,zolpidem,atc_generic_name,Zolpidem | Ambien | Ambien CR | Edluar | Intermezzo | Zolpimist,6,630,173,False
+994,Propranolol,propranolol,atc_generic_name,Propranolol | Inderal | Inderal LA | InnoPran XL,4,627,994,False
+1074,Vyvanse,lisdexamfetamine,atc_generic_name,Vyvanse | Lisdexamfetamine,2,624,1074,False
+409,Buspirone,buspirone,atc_generic_name,Buspirone | BuSpar | Vanspar,3,622,409,False
+440,Diclofenac,diclofenac,atc_generic_name,Diclofenac | Voltaren Gel | Voltaren | Flector Patch | Zipsor | Cambia | Pennsaid | Zorvolex | Solaraze | Cataflam | Voltaren-XR,11,617,440,False
+414,Buprenorphine / naloxone,buprenorphine / naloxone,atc_generic_name,Buprenorphine / naloxone | Bunavail | Suboxone | Zubsolv,4,606,414,False
+227,Concerta,methylphenidate,atc_generic_name,Concerta | Methylphenidate | Ritalin | Daytrana | Methylin ER | Ritalin LA | Aptensio XR | Ritalin-SR | Metadate ER | Metadate CD | Methylin | Quillivant XR,12,603,227,False
+263,Hydroxyzine,hydroxyzine,atc_generic_name,Hydroxyzine | Vistaril | Atarax | Hyzine,4,596,263,False
+82,Humira,adalimumab,atc_generic_name,Humira | Etanercept | Adalimumab | Enbrel,4,583,82,False
+297,Norethindrone,norethindrone,atc_generic_name,Norethindrone | Nora-Be | Jolivette | Ortho Micronor | Lyza | Errin | Sharobel | Heather | Jencycla | Aygestin | Camila | Deblitane | Nor-QD | Norlyda,14,557,297,False
+1377,Viibryd,vilazodone,atc_generic_name,Viibryd | Vilazodone,2,555,1377,False
+84,Epiduo,adapalene / benzoyl peroxide,atc_generic_name,Epiduo | Adapalene / benzoyl peroxide | Epiduo Forte,3,549,84,False
+86,Amphetamine / dextroamphetamine,amphetamine / dextroamphetamine,atc_generic_name,Amphetamine / dextroamphetamine | Mydayis | Adderall | Adderall XR,4,548,86,False
+47,Acetaminophen / oxycodone,acetaminophen / oxycodone,atc_generic_name,Acetaminophen / oxycodone | Magnacet | Endocet | Percocet | Primlev | Roxicet | Tylox | Xartemis XR,8,513,47,False
+547,Clindamycin,clindamycin,atc_generic_name,Clindamycin | Cleocin HCl | Cleocin | Cleocin Ovules | Clindagel | Clindamax | Clindesse,7,511,547,False
+808,Ethinyl estradiol / norelgestromin,ethinyl estradiol / norelgestromin,atc_generic_name,Ethinyl estradiol / norelgestromin | Xulane | Ortho Evra,3,509,808,False
+1245,Qsymia,phentermine / topiramate,atc_generic_name,Qsymia | Phentermine / topiramate,2,493,1245,False
+532,Ciprofloxacin,ciprofloxacin,atc_generic_name,Ciprofloxacin | Cipro,2,476,532,False
+717,Methadone,methadone,atc_generic_name,Methadone | Dolophine | Methadone Diskets | Methadose,4,442,717,False
+164,Aluminum chloride hexahydrate,aluminum chloride,atc_generic_name,Aluminum chloride hexahydrate | Drysol | Hypercare | Xerac AC,4,439,164,False
+1068,Linaclotide,linaclotide,atc_generic_name,Linaclotide | Linzess,2,430,1068,False
+197,Augmentin,amoxicillin / clavulanate,atc_generic_name,Augmentin | Amoxicillin / clavulanate | Augmentin XR | Augmentin ES-600,4,424,197,False
+1058,Levofloxacin,levofloxacin,atc_generic_name,Levofloxacin | Levaquin,2,424,1058,False
+85,Cialis,tadalafil,atc_generic_name,Cialis | Tadalafil | Adcirca,3,419,85,False
+683,Diazepam,diazepam,atc_generic_name,Diazepam | Diastat | Diastat AcuDial | Diazepam Intensol | Valium | Zetran,6,417,683,False
+130,Naproxen,naproxen,atc_generic_name,Naproxen | Aleve | Naprelan | Anaprox | Midol Extended Relief | Anaprox-DS | Flanax Pain Reliever | Naprosyn,8,399,130,False
+465,Clonidine,clonidine,atc_generic_name,Clonidine | Kapvay | Catapres | Catapres-TTS,4,397,465,False
+367,Clarithromycin,clarithromycin,atc_generic_name,Clarithromycin | Biaxin | Biaxin XL,3,393,367,False
+207,Testosterone,testosterone,atc_generic_name,Testosterone | Axiron | Testim | Fortesta | Testopel | Depo-Testosterone | Aveed | Delatestryl | Striant | AndroGel | Androderm | Natesto,12,391,207,False
+649,Prednisone,prednisone,atc_generic_name,Prednisone | Sterapred DS | Prednicot | Deltasone | Rayos | Sterapred,6,391,649,False
+1075,Lisinopril,lisinopril,atc_generic_name,Lisinopril | Prinivil | Zestril,3,389,1075,False
+201,Cyclobenzaprine,cyclobenzaprine,atc_generic_name,Cyclobenzaprine | Flexeril | Amrix | Fexmid,4,376,201,False
+1061,Levothyroxine,levothyroxine,atc_generic_name,Levothyroxine | Synthroid | Tirosint | Levoxyl | Levothroid | Unithroid | Levo-T,7,376,1061,False
+737,Minocycline,minocycline,atc_generic_name,Minocycline | Dynacin | Minocin | Solodyn,4,370,737,False
+1205,Zyprexa,olanzapine,atc_generic_name,Zyprexa | Olanzapine | Zyprexa Zydis | Zyprexa Intramuscular,4,368,1205,False
+329,Buprenorphine,buprenorphine,atc_generic_name,Buprenorphine | Belbuca | Buprenex | Butrans | Subutex,5,365,329,False
+15,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,atc_generic_name,Benzoyl peroxide / clindamycin | Benzaclin | Acanya | Onexton | Duac,5,356,15,False
+698,Hydromorphone,hydromorphone,atc_generic_name,Hydromorphone | Dilaudid | Dilaudid-HP | Exalgo | Palladone,5,350,698,False
+159,Sumatriptan,sumatriptan,atc_generic_name,Sumatriptan | Alsuma | Imitrex | Imitrex Nasal | Imitrex Statdose | Onzetra Xsail | Sumavel DosePro | Zecuity,8,343,159,False
+878,Metformin,metformin,atc_generic_name,Metformin | Glucophage | Glucophage XR | Fortamet | Glumetza,5,343,878,False
+272,Tretinoin,tretinoin,atc_generic_name,Tretinoin | Tretin-X | Atralin | Avita | Retin A Micro | Retin-A | Vesanoid,7,331,272,False
+292,Nortriptyline,nortriptyline,atc_generic_name,Nortriptyline | Aventyl Hydrochloride | Pamelor,3,327,292,False
+1300,Risperidone,risperidone,atc_generic_name,Risperidone | Risperdal | Risperdal M-Tab | Risperdal Consta,4,326,1300,False
+1110,Meloxicam,meloxicam,atc_generic_name,Meloxicam | Mobic,2,324,1110,False
+13,Fentanyl,fentanyl,atc_generic_name,Fentanyl | Abstral | Actiq | Duragesic | Fentanyl Transdermal System | Fentora | Lazanda | Sublimaze | Subsys,9,316,13,False
+122,Spironolactone,spironolactone,atc_generic_name,Spironolactone | Aldactone,2,315,122,False
+548,Estradiol,estradiol,atc_generic_name,Estradiol | Vagifem | Climara | Femring | Estradiol Patch | Evamist | Estrace | Minivelle | Elestrin | Divigel | Estraderm | Vivelle | Estrasorb | Femtrace | Estrace Vaginal Cream | Estring | Vivelle-Dot | Yuvafem,18,310,548,False
+656,Divalproex sodium,valproate,atc_generic_name,Divalproex sodium | Depakote | Depakote ER | Depakote Sprinkles,4,301,656,False
+731,Trulicity,dulaglutide,atc_generic_name,Trulicity | Dulaglutide,2,299,731,False
+1371,Valacyclovir,valacyclovir,atc_generic_name,Valacyclovir | Valtrex,2,298,1371,False
+1204,Nucynta,tapentadol,atc_generic_name,Nucynta | Tapentadol | Nucynta ER,3,293,1204,False
+579,Polyethylene glycol 3350 with electrolytes,ascorbic acid / polyethylene glycol 3350 / potassium chloride / sodium ascorbate / sodium chloride / sodium sulfate,atc_generic_name,Polyethylene glycol 3350 with electrolytes | GoLYTELY | PEG-3350 with Electolytes | Colyte | GaviLyte-C | GaviLyte-G | GaviLyte-N | MoviPrep | NuLYTELY | TriLyte,10,293,579,False
+268,Atomoxetine,atomoxetine,atc_generic_name,Atomoxetine | Strattera,2,291,268,False
+1077,Metoprolol,metoprolol,atc_generic_name,Metoprolol | Toprol-XL | Lopressor | Metoprolol Tartrate,4,290,1077,False
+1147,Savella,milnacipran,atc_generic_name,Savella | Milnacipran,2,285,1147,False
+1154,Modafinil,modafinil,atc_generic_name,Modafinil | Provigil,2,280,1154,False
+293,Morphine,morphine,atc_generic_name,Morphine | Duramorph | Oramorph SR | Infumorph | Avinza | Kadian | MS Contin,7,279,293,False
+1213,Zofran,ondansetron,atc_generic_name,Zofran | Ondansetron | Zofran ODT,3,278,1213,False
+347,Benzonatate,benzonatate,atc_generic_name,Benzonatate | Tessalon | Tessalon Perles,3,274,347,False
+332,Suvorexant,suvorexant,atc_generic_name,Suvorexant | Belsomra,2,273,332,False
+939,Ledipasvir / sofosbuvir,ledipasvir / sofosbuvir,atc_generic_name,Ledipasvir / sofosbuvir | Harvoni,2,272,939,False
+239,Armodafinil,armodafinil,atc_generic_name,Armodafinil | Nuvigil,2,272,239,False
+708,Propofol,propofol,atc_generic_name,Propofol | Diprivan,2,263,708,False
+693,Fluconazole,fluconazole,atc_generic_name,Fluconazole | Diflucan,2,261,693,False
+1219,Tamiflu,oseltamivir,atc_generic_name,Tamiflu | Oseltamivir,2,254,1219,False
+249,Saphris,asenapine,atc_generic_name,Saphris | Asenapine,2,250,249,False
+906,Ziprasidone,ziprasidone,atc_generic_name,Ziprasidone | Geodon,2,250,906,False
+185,Amlodipine,amlodipine,atc_generic_name,Amlodipine | Norvasc,2,250,185,False
+422,Bydureon,exenatide,atc_generic_name,Bydureon | Byetta | Exenatide,3,247,422,False
+1156,Singulair,montelukast,atc_generic_name,Singulair | Montelukast,2,244,1156,False
+860,Flomax,tamsulosin,atc_generic_name,Flomax | Tamsulosin,2,243,860,False
+794,Lithium,lithium,atc_generic_name,Lithium | Lithobid | Eskalith | Eskalith-CR,4,240,794,False
+1292,Temazepam,temazepam,atc_generic_name,Temazepam | Restoril,2,239,1292,False
+83,Adapalene,adapalene,atc_generic_name,Adapalene | Differin,2,239,83,False
+226,Lialda,mesalamine,atc_generic_name,Lialda | Pentasa | Asacol | Apriso | Mesalamine | Asacol HD | Canasa | Salofalk | Rowasa | Canasa Pac | Delzicol,11,237,226,False
+1169,Naltrexone,naltrexone,atc_generic_name,Naltrexone | Revia | Vivitrol,3,233,1169,False
+452,Carbamazepine,carbamazepine,atc_generic_name,Carbamazepine | Carbatrol | Epitol | Equetro | Tegretol | Tegretol XR,6,232,452,False
+1293,Viagra,sildenafil,atc_generic_name,Viagra | Sildenafil | Revatio,3,231,1293,False
+1029,Keppra,levetiracetam,atc_generic_name,Keppra | Levetiracetam | Keppra XR,3,230,1029,False
+77,Ketorolac,ketorolac,atc_generic_name,Ketorolac | Sprix | Acular LS | Acuvail | Toradol | Toradol IV / IM,6,227,77,False
+1048,Terbinafine,terbinafine,atc_generic_name,Terbinafine | Lamisil | Lamisil AT,3,225,1048,False
+602,Losartan,losartan,atc_generic_name,Losartan | Cozaar,2,224,602,False
+724,Doxepin,doxepin,atc_generic_name,Doxepin | Silenor | Sinequan,3,222,724,False
+318,Baclofen,baclofen,atc_generic_name,Baclofen | Gablofen | Lioresal | Lioresal Intrathecal,4,219,318,False
+389,OnabotulinumtoxinA,botulinum toxin type A,atc_generic_name,OnabotulinumtoxinA | Botox | Botox Cosmetic,3,219,389,False
+10,Docosanol,docosanol,atc_generic_name,Docosanol | Abreva,2,215,10,False
+537,Magnesium citrate,magnesium citrate,atc_generic_name,Magnesium citrate | Citrate of Magnesia,2,214,537,False
+217,Oxybutynin,oxybutynin,atc_generic_name,Oxybutynin | Oxytrol | Ditropan | Gelnique | Anturol | Ditropan XL,6,213,217,False
+144,Orlistat,orlistat,atc_generic_name,Orlistat | Xenical | Alli,3,210,144,False
+802,Lunesta,eszopiclone,atc_generic_name,Lunesta | Eszopiclone,2,210,802,False
+123,Imiquimod,imiquimod,atc_generic_name,Imiquimod | Aldara | Zyclara,3,209,123,False
+1137,Metoclopramide,metoclopramide,atc_generic_name,Metoclopramide | Metozolv ODT | Reglan,3,208,1137,False
+240,Thyroid desiccated,thyroid (USP),atc_generic_name,Thyroid desiccated | WP Thyroid | Armour Thyroid | NP Thyroid | Nature-Throid | Westhroid,6,208,240,False
+1102,Maxalt,rizatriptan,atc_generic_name,Maxalt | Maxalt-MLT | Rizatriptan,3,206,1102,False
+658,Methylprednisolone,methylprednisolone,atc_generic_name,Methylprednisolone | Depo-Medrol | Medrol | Medrol Dosepak | Solu-Medrol,5,205,658,False
+481,Cephalexin,cephalexin,atc_generic_name,Cephalexin | Keflex,2,203,481,False
+757,Leuprolide,leuprolide,atc_generic_name,Leuprolide | Eligard | Lupron | Lupron Depot | Lupron Depot-PED,5,200,757,False
+611,Cryselle,ethinyl estradiol / norgestrel,atc_generic_name,Cryselle | Ethinyl estradiol / norgestrel | Lo / Ovral-28 | Elinest | Lo / Ovral | Low-Ogestrel-21 | Ogestrel-28,7,199,611,False
+1289,Ropinirole,ropinirole,atc_generic_name,Ropinirole | Requip | Requip XL,3,198,1289,False
+365,Beyaz,drospirenone / ethinyl estradiol / levomefolate,atc_generic_name,Beyaz | Drospirenone / ethinyl estradiol / levomefolate calcium | Rajani | Safyral,4,197,365,False
+443,Invokana,canagliflozin,atc_generic_name,Invokana | Canagliflozin,2,196,443,False
+1353,Tizanidine,tizanidine,atc_generic_name,Tizanidine | Zanaflex,2,196,1353,False
+223,Apremilast,apremilast,atc_generic_name,Apremilast | Otezla,2,195,223,False
+1215,Oxymorphone,oxymorphone,atc_generic_name,Oxymorphone | Opana | Opana ER,3,189,1215,False
+462,Soma,carisoprodol,atc_generic_name,Soma | Carisoprodol,2,184,462,False
+80,Aczone,dapsone,atc_generic_name,Aczone | Dapsone,2,183,80,False
+181,Amitiza,lubiprostone,atc_generic_name,Amitiza | Lubiprostone,2,180,181,False
+468,Cefdinir,cefdinir,atc_generic_name,Cefdinir | Omnicef,2,179,468,False
+931,Guaifenesin / pseudoephedrine,guaifenesin / pseudoephedrine,atc_generic_name,Guaifenesin / pseudoephedrine | Mucinex D | Mucinex D Maximum Strength,3,179,931,False
+1224,Oxcarbazepine,oxcarbazepine,atc_generic_name,Oxcarbazepine | Trileptal | Oxtellar XR,3,178,1224,False
+1244,Promethazine,promethazine,atc_generic_name,Promethazine | Phenergan,2,178,1244,False
+25,Fioricet,acetaminophen / butalbital / caffeine,atc_generic_name,Fioricet | Acetaminophen / butalbital / caffeine | Esgic | Dolgic Plus | Esgic-Plus,5,177,25,False
+932,Guanfacine,guanfacine,atc_generic_name,Guanfacine | Tenex | Intuniv,3,173,932,False
+1132,Methocarbamol,methocarbamol,atc_generic_name,Methocarbamol | Robaxin | Robaxin-750,3,172,1132,False
+410,Delsym,dextromethorphan,atc_generic_name,Delsym | Dextromethorphan | Delsym 12 Hour Cough Relief | Buckleys Mixture | Robitussin CoughGels Long-Acting | Vicks Formula 44,6,171,410,False
+1062,Xyzal,levocetirizine,atc_generic_name,Xyzal | Levocetirizine,2,168,1062,False
+815,Sodium hyaluronate,hyaluronate,atc_generic_name,Sodium hyaluronate | Supartz | Hyalgan | Euflexxa | Hylira | RadiaPlexRx,6,167,815,False
+291,Avelox,moxifloxacin,atc_generic_name,Avelox | Moxifloxacin | Moxeza | Vigamox,4,166,291,False
+1133,Methotrexate,methotrexate,atc_generic_name,Methotrexate | Otrexup | Rheumatrex Dose Pack,3,162,1133,False
+928,Guaifenesin,guaifenesin,atc_generic_name,Guaifenesin | Mucinex | Mucinex Maximum Strength,3,159,928,False
+975,Plaquenil,hydroxychloroquine,atc_generic_name,Plaquenil | Hydroxychloroquine,2,155,975,False
+334,Diphenhydramine,diphenhydramine,atc_generic_name,Diphenhydramine | Benadryl | Simply Sleep | Nytol | ZzzQuil | Compoz Nighttime Sleep Aid | Vicks QlearQuil Nighttime Allergy Relief | Benadryl Allergy | Q-Dryl | Sominex | Unisom SleepGels | Unisom SleepMelts,12,154,334,False
+265,Atenolol,atenolol,atc_generic_name,Atenolol | Tenormin,2,151,265,False
+138,Zyrtec,cetirizine,atc_generic_name,Zyrtec | Cetirizine | All Day Allergy,3,149,138,False
+477,Celebrex,celecoxib,atc_generic_name,Celebrex | Celecoxib,2,149,477,False
+423,Bystolic,nebivolol,atc_generic_name,Bystolic | Nebivolol,2,147,423,False
+195,Amoxicillin,amoxicillin,atc_generic_name,Amoxicillin | Amoxil | Moxatag,3,147,195,False
+545,Polyethylene glycol 3350,polyethylene glycol 3350,atc_generic_name,Polyethylene glycol 3350 | ClearLax | MiraLax | PEG3350,4,146,545,False
+344,Dicyclomine,dicyclomine,atc_generic_name,Dicyclomine | Bentyl,2,145,344,False
+241,Flonase,fluticasone,atc_generic_name,Flonase | Fluticasone | Flovent | Flovent HFA | Arnuity Ellipta | Cutivate | Flonase Allergy Relief | Flonase Sensimist | Veramyst,9,145,241,False
+676,Dexilant,dexlansoprazole,atc_generic_name,Dexilant | Kapidex | Dexlansoprazole,3,144,676,False
+14,Acamprosate,acamprosate,atc_generic_name,Acamprosate | Campral,2,143,14,False
+996,Infliximab,infliximab,atc_generic_name,Infliximab | Remicade,2,140,996,False
+216,Meclizine,meclizine,atc_generic_name,Meclizine | Bonine | Antivert | Dramamine II | Dramamine Less Drowsy,5,140,216,False
+237,Triamcinolone,triamcinolone,atc_generic_name,Triamcinolone | Nasacort | Nasacort Allergy 24HR | Nasacort AQ | Aristocort A | Aristocort | Aristospan | Azmacort | Kenalog | Kenalog-10 | Kenalog-40,11,140,237,False
+995,Indomethacin,indomethacin,atc_generic_name,Indomethacin | Indocin SR | Indocin,3,138,995,False
+1157,Naloxegol,naloxegol,atc_generic_name,Naloxegol | Movantik,2,138,1157,False
+78,Acyclovir,acyclovir,atc_generic_name,Acyclovir | Zovirax Cream | Zovirax Ointment | Sitavig | Zovirax,5,137,78,False
+1006,Paliperidone,paliperidone,atc_generic_name,Paliperidone | Invega | Invega Sustenna | Invega Trinza,4,137,1006,False
+1150,Pramipexole,pramipexole,atc_generic_name,Pramipexole | Mirapex | Mirapex ER,3,135,1150,False
+849,Fetzima,levomilnacipran,atc_generic_name,Fetzima | Levomilnacipran,2,133,849,False
+1108,Melatonin,melatonin,atc_generic_name,Melatonin,1,131,1108,False
+621,Cyproheptadine,cyproheptadine,atc_generic_name,Cyproheptadine,1,131,621,False
+35,Acetaminophen / codeine,acetaminophen / codeine,atc_generic_name,Acetaminophen / codeine | Tylenol with Codeine | Tylenol with Codeine #3 | Tylenol with Codeine #4,4,130,35,False
+1042,Lidocaine,lidocaine,atc_generic_name,Lidocaine | LMX 4 | LMX 5 | Lidocaine Viscous | Lidoderm | Medi-Quik Spray | RectiCare | Solarcaine Burn Relief | Xylocaine Jelly,9,129,1042,False
+675,Dexedrine,dextroamphetamine,atc_generic_name,Dexedrine | Dextroamphetamine | Dextrostat | ProCentra | Zenzedi,5,128,675,False
+1149,Myrbetriq,mirabegron,atc_generic_name,Myrbetriq | Mirabegron,2,127,1149,False
+1059,Vardenafil,vardenafil,atc_generic_name,Vardenafil | Levitra | Staxyn,3,126,1059,False
+761,Eluxadoline,eluxadoline,atc_generic_name,Eluxadoline | Viberzi,2,125,761,False
+677,Focalin XR,dexmethylphenidate,atc_generic_name,Focalin XR | Focalin | Dexmethylphenidate,3,125,677,False
+91,Phendimetrazine,phendimetrazine,atc_generic_name,Phendimetrazine | Adipost | Bontril PDM | Bontril Slow Release | Phendiet,5,124,91,False
+1230,Pantoprazole,pantoprazole,atc_generic_name,Pantoprazole | Protonix | Protonix IV,3,123,1230,False
+1020,Ivermectin,ivermectin,atc_generic_name,Ivermectin | Sklice | Soolantra | Stromectol,4,122,1020,False
+968,Hydrocodone,hydrocodone,atc_generic_name,Hydrocodone | Hysingla ER | Zohydro ER,3,121,968,False
+1211,Omeprazole,omeprazole,atc_generic_name,Omeprazole | Prilosec | Prilosec OTC,3,120,1211,False
+1095,Phillips' Milk of Magnesia,magnesium hydroxide,atc_generic_name,Phillips' Milk of Magnesia | Magnesium hydroxide | Milk of Magnesia,3,119,1095,False
+394,Rexulti,brexpiprazole,atc_generic_name,Rexulti | Brexpiprazole,2,119,394,False
+977,Hylan g-f 20,hylan G-F 20,atc_generic_name,Hylan g-f 20 | Synvisc | Synvisc-One,3,118,977,False
+503,Chlordiazepoxide,chlordiazepoxide,atc_generic_name,Chlordiazepoxide | Librium,2,118,503,False
+755,Eletriptan,eletriptan,atc_generic_name,Eletriptan | Relpax,2,117,755,False
+581,Nicotine,nicotine,atc_generic_name,Nicotine | Nicoderm CQ | Leader Nicotine Polacrilex | Commit | Habitrol | Nicorette | Nicotrol Inhaler | Nicotrol NS,8,117,581,False
+206,Anastrozole,anastrozole,atc_generic_name,Anastrozole | Arimidex,2,115,206,False
+795,Esomeprazole,esomeprazole,atc_generic_name,Esomeprazole | Nexium | Nexium 24HR | Nexium IV,4,115,795,False
+958,Orthovisc,hyaluronate,atc_generic_name,Orthovisc | Hyaluronan | Monovisc,3,114,958,False
+690,Diethylpropion,diethylpropion,atc_generic_name,Diethylpropion | Tenuate | Tenuate Dospan,3,113,690,False
+22,Acetaminophen / aspirin / caffeine,acetaminophen / aspirin / caffeine,atc_generic_name,Acetaminophen / aspirin / caffeine | Excedrin | Goody's Extra-Strength Headache Powders | Goody's Headache Powders | Vanquish,5,112,22,False
+269,Atorvastatin,atorvastatin,atc_generic_name,Atorvastatin | Lipitor,2,112,269,False
+538,Citric acid / magnesium oxide / sodium picosulfate,citric acid / magnesium oxide / picosulfurate,atc_generic_name,Citric acid / magnesium oxide / sodium picosulfate | Prepopik,2,111,538,False
+429,Verapamil,verapamil,atc_generic_name,Verapamil | Calan | Calan SR | Isoptin SR | Verelan | Verelan PM,6,109,429,False
+1312,Transderm-Scop,scopolamine,atc_generic_name,Transderm-Scop | Scopolamine,2,108,1312,False
+1302,Xarelto,rivaroxaban,atc_generic_name,Xarelto | Rivaroxaban,2,108,1302,False
+116,Albuterol,albuterol,atc_generic_name,Albuterol | Proventil | Vospire ER | ProAir HFA | ProAir RespiClick | Proventil HFA | Ventolin | Ventolin HFA,8,108,116,False
+203,Clomipramine,clomipramine,atc_generic_name,Clomipramine | Anafranil,2,107,203,False
+250,Mometasone,mometasone,atc_generic_name,Mometasone | Asmanex Twisthaler | Elocon | Nasonex,4,107,250,False
+550,Clindamycin / tretinoin,clindamycin / tretinoin,atc_generic_name,Clindamycin / tretinoin | Veltin | Ziana,3,106,550,False
+1326,Solifenacin,solifenacin,atc_generic_name,Solifenacin | VESIcare,2,105,1326,False
+1331,Ustekinumab,ustekinumab,atc_generic_name,Ustekinumab | Stelara,2,104,1331,False
+96,Ibuprofen,ibuprofen,atc_generic_name,Ibuprofen | Advil | Motrin | Advil Liqui-Gels | Motrin IB | Children's Motrin | Advil Migraine | IBU | Motrin Infant Drops,9,104,96,False
+412,Symbicort,budesonide / formoterol,atc_generic_name,Symbicort | Budesonide / formoterol,2,104,412,False
+618,Tranexamic acid,tranexamic acid,atc_generic_name,Tranexamic acid | Cyklokapron | Lysteda,3,103,618,False
+1148,Prazosin,prazosin,atc_generic_name,Prazosin | Minipress,2,103,1148,False
+591,Copaxone,glatiramer,atc_generic_name,Copaxone | Glatopa | Glatiramer,3,103,591,False
+725,Doxylamine,doxylamine,atc_generic_name,Doxylamine | Unisom SleepTabs | Sleep Aid,3,103,725,False
+1210,Xolair,omalizumab,atc_generic_name,Xolair | Omalizumab,2,103,1210,False
+154,Brimonidine,brimonidine,atc_generic_name,Brimonidine | Alphagan P | Mirvaso,3,101,154,False
+963,Hydrochlorothiazide,hydrochlorothiazide,atc_generic_name,Hydrochlorothiazide | Microzide,2,101,963,False
+341,Benicar,olmesartan,atc_generic_name,Benicar | Olmesartan,2,100,341,False
+510,Chlorpheniramine / hydrocodone,chlorpheniramine / hydrocodone,atc_generic_name,Chlorpheniramine / hydrocodone | TussiCaps | Tussionex Pennkinetic,3,100,510,False
+748,Efinaconazole,efinaconazole,atc_generic_name,Efinaconazole | Jublia,2,99,748,False
+273,Atripla,efavirenz / emtricitabine / tenofovir disoproxil,atc_generic_name,Atripla | Efavirenz / emtricitabine / tenofovir,2,95,273,False
+1385,Zolmitriptan,zolmitriptan,atc_generic_name,Zolmitriptan | Zomig | Zomig-ZMT,3,95,1385,False
+1126,Metaxalone,metaxalone,atc_generic_name,Metaxalone | Skelaxin,2,95,1126,False
+307,Phenazopyridine,phenazopyridine,atc_generic_name,Phenazopyridine | Uricalm | Azo-Standard | Azo Urinary Pain Relief | Pyridium | Uristat,6,94,307,False
+464,Carvedilol,carvedilol,atc_generic_name,Carvedilol | Coreg | Coreg CR,3,94,464,False
+56,Acetazolamide,acetazolamide,atc_generic_name,Acetazolamide | Diamox | Diamox Sequels,3,93,56,False
+1172,Treximet,naproxen / sumatriptan,atc_generic_name,Treximet | Naproxen / sumatriptan,2,91,1172,False
+657,Deplin,levomefolate,atc_generic_name,Deplin | L-methylfolate,2,91,657,False
+105,Afrin,oxymetazoline,atc_generic_name,Afrin | Oxymetazoline | Rhofade | Afrin Original | Afrin NoDrip Sinus | Afrin Sinus | Zicam Extreme Congestion Relief | Mucinex Sinus-Max Full Force | Nostrilla | Todays Health Nasal  Relief Extra Moisturizing | Vicks Sinex 12-Hour Decongestant Nasal Spray,11,90,105,False
+1280,Ranitidine,ranitidine,atc_generic_name,Ranitidine | Zantac | Zantac 150,3,90,1280,False
+140,Allegra,fexofenadine,atc_generic_name,Allegra | Fexofenadine | Allegra Allergy | Aller-Ease | Allegra ODT,5,90,140,False
+93,Fluticasone / salmeterol,fluticasone / salmeterol,atc_generic_name,Fluticasone / salmeterol | Advair Diskus | Advair HFA | AirDuo Respiclick,4,89,93,False
+838,Letrozole,letrozole,atc_generic_name,Letrozole | Femara,2,89,838,False
+450,Fluorouracil,fluorouracil,atc_generic_name,Fluorouracil | Carac | Tolak | Efudex | Fluoroplex,5,89,450,False
+1281,Silodosin,silodosin,atc_generic_name,Silodosin | Rapaflo,2,89,1281,False
+605,Crestor,rosuvastatin,atc_generic_name,Crestor | Rosuvastatin,2,88,605,False
+857,Flecainide,flecainide,atc_generic_name,Flecainide | Tambocor,2,87,857,False
+1067,Xiidra,lifitegrast,atc_generic_name,Xiidra | Lifitegrast,2,86,1067,False
+555,Clobetasol,clobetasol,atc_generic_name,Clobetasol | Clobex | Olux-E | Embeline | Olux | Temovate,6,85,555,False
+458,Diltiazem,diltiazem,atc_generic_name,Diltiazem | Cardizem CD | Cardizem | Cardizem LA | Cartia XT | Dilt-XR | Taztia XT | Tiazac,8,85,458,False
+1044,Vimpat,lacosamide,atc_generic_name,Vimpat | Lacosamide,2,85,1044,False
+378,Pylera,bismuth subcitrate / metronidazole / tetracycline,atc_generic_name,Pylera | Bismuth subcitrate potassium / metronidazole / tetracycline,2,84,378,False
+582,Compazine,prochlorperazine,atc_generic_name,Compazine | Prochlorperazine | Compro,3,84,582,False
+1320,Simvastatin,simvastatin,atc_generic_name,Simvastatin | Zocor,2,83,1320,False
+703,Diovan,valsartan,atc_generic_name,Diovan | Valsartan,2,83,703,False
+687,Diclegis,doxylamine / pyridoxine,atc_generic_name,Diclegis | Doxylamine / pyridoxine,2,81,687,False
+461,Cariprazine,cariprazine,atc_generic_name,Cariprazine | Vraylar,2,80,461,False
+852,Finasteride,finasteride,atc_generic_name,Finasteride | Propecia | Proscar,3,79,852,False
+951,Homatropine / hydrocodone,homatropine / hydrocodone,atc_generic_name,Homatropine / hydrocodone | Hycodan | Tussigon | Hydromet,4,79,951,False
+252,Fiorinal,aspirin / butalbital / caffeine,atc_generic_name,Fiorinal | Aspirin / butalbital / caffeine | Butalbital Compound,3,79,252,False
+157,Edex,alprostadil,atc_generic_name,Edex | Muse | Alprostadil | Caverject Impulse | Caverject,5,78,157,False
+568,Stribild,cobicistat / elvitegravir / emtricitabine / tenofovir disoproxil,atc_generic_name,Stribild | Cobicistat / elvitegravir / emtricitabine / tenofovir,2,77,568,False
+934,Minoxidil,minoxidil,atc_generic_name,Minoxidil | Rogaine | Rogaine Women's | Rogaine Men's Extra Strength | Hair Regrowth Treatment for Women,5,76,934,False
+1175,Natalizumab,natalizumab,atc_generic_name,Natalizumab | Tysabri,2,76,1175,False
+1327,Zaleplon,zaleplon,atc_generic_name,Zaleplon | Sonata,2,76,1327,False
+1301,Rituximab,rituximab,atc_generic_name,Rituximab | Rituxan,2,75,1301,False
+1368,Ulipristal,ulipristal,atc_generic_name,Ulipristal | ella,2,75,1368,False
+1324,Xyrem,oxybate,atc_generic_name,Xyrem | Sodium oxybate,2,74,1324,False
+53,Acetaminophen / propoxyphene,acetaminophen / propoxyphene,atc_generic_name,Acetaminophen / propoxyphene | Darvocet A500 | Balacet | Darvocet-N 50,4,73,53,False
+653,Prolia,denosumab,atc_generic_name,Prolia | Denosumab | Xgeva,3,73,653,False
+626,Dabigatran,dabigatran,atc_generic_name,Dabigatran | Pradaxa,2,72,626,False
+302,Azelaic acid,azelate,atc_generic_name,Azelaic acid | Azelex | Finacea,3,72,302,False
+475,Cefuroxime,cefuroxime,atc_generic_name,Cefuroxime | Ceftin,2,71,475,False
+853,Fingolimod,fingolimod,atc_generic_name,Fingolimod | Gilenya,2,70,853,False
+2,Triumeq,abacavir / dolutegravir / lamivudine,atc_generic_name,Triumeq | Abacavir / dolutegravir / lamivudine,2,70,2,False
+521,Cholestyramine,cholestyramine resin,atc_generic_name,Cholestyramine | Prevalite | Questran Light | Cholestyramine Light | Questran,5,68,521,False
+476,Ceftriaxone,ceftriaxone,atc_generic_name,Ceftriaxone | Rocephin,2,67,476,False
+924,Golimumab,golimumab,atc_generic_name,Golimumab | Simponi | Simponi Aria,3,67,924,False
+1329,Spiriva,tiotropium,atc_generic_name,Spiriva | Spiriva Respimat | Tiotropium,3,67,1329,False
+940,Tacrolimus,tacrolimus,atc_generic_name,Tacrolimus | Hecoria | Prograf | Protopic,4,67,940,False
+1386,Zonisamide,zonisamide,atc_generic_name,Zonisamide | Zonegran,2,67,1386,False
+303,Dymista,azelastine / fluticasone,atc_generic_name,Dymista | Azelastine / fluticasone,2,67,303,False
+1050,Lansoprazole,lansoprazole,atc_generic_name,Lansoprazole | Prevacid OTC | Prevacid SoluTab | Prevacid,4,67,1050,False
+645,Dexamethasone,dexamethasone,atc_generic_name,Dexamethasone | Decadron | Dexamethasone Intensol | Ozurdex | Maxidex | Dexasone | Dexpak Taperpak,7,66,645,False
+325,Insulin glargine,insulin glargine,atc_generic_name,Insulin glargine | Lantus Solostar | Toujeo Solostar | Basaglar | Lantus | Toujeo,6,66,325,False
+1024,Januvia,sitagliptin,atc_generic_name,Januvia | Sitagliptin,2,66,1024,False
+651,Meperidine,meperidine,atc_generic_name,Meperidine | Demerol | Meperitab,3,66,651,False
+300,Azathioprine,azathioprine,atc_generic_name,Azathioprine | Azasan | Imuran,3,65,300,False
+635,Farxiga,dapagliflozin,atc_generic_name,Farxiga | Dapagliflozin,2,65,635,False
+411,Budesonide,budesonide,atc_generic_name,Budesonide | Entocort EC | Uceris | Pulmicort Flexhaler | Pulmicort Turbuhaler | Rhinocort Aqua | Pulmicort Respules | Rhinocort,8,65,411,False
+969,Hydrocodone / ibuprofen,hydrocodone / ibuprofen,atc_generic_name,Hydrocodone / ibuprofen | Reprexain | Ibudone | Vicoprofen,4,65,969,False
+697,Phenytoin,phenytoin,atc_generic_name,Phenytoin | Dilantin | Phenytek,3,64,697,False
+295,Interferon beta-1a,interferon beta-1a,atc_generic_name,Interferon beta-1a | Rebif | Avonex Pen | Rebif Rebidose | Avonex,5,63,295,False
+759,Pentosan polysulfate sodium,pentosan polysulfate,atc_generic_name,Pentosan polysulfate sodium | Elmiron,2,63,759,False
+1345,Terconazole,terconazole,atc_generic_name,Terconazole | Terazol 7 | Terazol 3 | Terazol,4,63,1345,False
+779,Sofosbuvir / velpatasvir,sofosbuvir / velpatasvir,atc_generic_name,Sofosbuvir / velpatasvir | Epclusa,2,63,779,False
+1283,Reclast,zoledronic acid,atc_generic_name,Reclast | Zoledronic acid | Zometa,3,63,1283,False
+43,Acetaminophen / dichloralphenazone / isometheptene mucate,acetaminophen / dichloralphenazone / isometheptene,atc_generic_name,Acetaminophen / dichloralphenazone / isometheptene mucate | Epidrin,2,62,43,False
+212,Antabuse,disulfiram,atc_generic_name,Antabuse | Disulfiram,2,62,212,False
+81,Nifedipine,nifedipine,atc_generic_name,Nifedipine | Procardia | Nifedical XL | Procardia XL | Adalat CC,5,62,81,False
+392,Breo Ellipta,fluticasone / vilanterol,atc_generic_name,Breo Ellipta | Fluticasone / vilanterol,2,62,392,False
+260,Azelastine,azelastine,atc_generic_name,Azelastine | Astepro | Astelin | Optivar,4,62,260,False
+1278,Ramelteon,ramelteon,atc_generic_name,Ramelteon | Rozerem,2,61,1278,False
+936,Haloperidol,haloperidol,atc_generic_name,Haloperidol | Haldol Decanoate | Haldol,3,61,936,False
+196,Amoxicillin / clarithromycin / lansoprazole,amoxicillin + clarithromycin + lansoprazole,atc_generic_name,Amoxicillin / clarithromycin / lansoprazole | Prevpac,2,61,196,False
+978,Hyoscyamine,hyoscyamine,atc_generic_name,Hyoscyamine | Levsin | Symax Duotab | HyoMax SL | Hyosyne | HyoMax | HyoMax SR | Levsin SL,8,60,978,False
+1298,Xifaxan,rifaximin,atc_generic_name,Xifaxan | Rifaximin,2,60,1298,False
+1208,Olopatadine,olopatadine,atc_generic_name,Olopatadine | Patanol | Patanase | Pataday | Pazeo,5,59,1208,False
+310,Sulfasalazine,sulfasalazine,atc_generic_name,Sulfasalazine | Azulfidine | Sulfazine,3,59,310,False
+104,Afrezza,"insulin, regular, human",atc_generic_name,"Afrezza | Exubera | Insulin inhalation, rapid acting",3,58,104,False
+887,Furosemide,furosemide,atc_generic_name,Furosemide | Lasix,2,58,887,False
+312,Niacin,niacin,atc_generic_name,Niacin | Slo-Niacin | B3-500-Gr | Niaspan,4,58,312,False
+820,Senna,"sennosides, USP",atc_generic_name,Senna | Senokot | Senna Lax | Ex-Lax Maximum Relief Formula | Ex-Lax Regular Strength Pills | Fletchers Castoria | Senexon,7,58,820,False
+1122,Meridia,sibutramine,atc_generic_name,Meridia,1,57,1122,False
+536,"Multivitamin, prenatal",alpha tocopherol / ascorbic acid / cholecalciferol / docosahexaenoate / docusate / ferrous fumarate / folic acid / pyridoxine / tricalcium phosphate,atc_generic_name,"Multivitamin, prenatal | CitraNatal 90 DHA | Vitafol-OB+DHA | CitraNatal Assure | Concept DHA | Duet DHA | Natelle One | Neevo DHA | OB Complete Gold | PR Natal 400 | PreNexa | Prenatabs FA | Prenatal Plus | Provida DHA | Tandem DHA | Vitafol Ultra",16,57,536,False
+812,Etodolac,etodolac,atc_generic_name,Etodolac | Lodine,2,57,812,False
+557,Clomiphene,clomiphene,atc_generic_name,Clomiphene | Clomid,2,57,557,False
+879,Forteo,teriparatide,atc_generic_name,Forteo | Teriparatide,2,57,879,False
+99,Amphetamine,amphetamine,atc_generic_name,Amphetamine | Dyanavel XR | Adzenys XR-ODT | Evekeo,4,56,99,False
+574,Colchicine,colchicine,atc_generic_name,Colchicine | Colcrys,2,56,574,False
+617,Cyclosporine,cyclosporine,atc_generic_name,Cyclosporine | Neoral | Gengraf | Restasis,4,56,617,False
+569,Genvoya,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,atc_generic_name,Genvoya | Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,2,55,569,False
+480,Conjugated estrogens,"estrogens, conjugated (USP)",atc_generic_name,Conjugated estrogens | Premarin Vaginal | Enjuvia | Cenestin | Premarin,5,55,480,False
+1330,St. john's wort,St. John's wort extract,atc_generic_name,St. john's wort,1,55,1330,False
+1231,Parnate,tranylcypromine,atc_generic_name,Parnate | Tranylcypromine,2,55,1231,False
+749,Vaniqa,eflornithine,atc_generic_name,Vaniqa | Eflornithine,2,54,749,False
+672,Drixoral Cold and Allergy,dexbrompheniramine / pseudoephedrine,atc_generic_name,Drixoral Cold and Allergy | Dexbrompheniramine / pseudoephedrine,2,54,672,False
+493,Cheratussin AC,codeine / guaifenesin,atc_generic_name,Cheratussin AC | Codeine / guaifenesin | Iophen-C NR | Virtussin A / C,4,54,493,False
+765,Empagliflozin,empagliflozin,atc_generic_name,Empagliflozin | Jardiance,2,54,765,False
+805,Ethinyl estradiol / ethynodiol,ethinyl estradiol / ethynodiol,atc_generic_name,Ethinyl estradiol / ethynodiol | Zovia | Zovia 1 / 35 | Zovia 1 / 50,4,54,805,False
+161,Ramipril,ramipril,atc_generic_name,Ramipril | Altace,2,54,161,False
+1232,Votrient,pazopanib,atc_generic_name,Votrient | Pazopanib,2,54,1232,False
+220,Eliquis,apixaban,atc_generic_name,Eliquis | Apixaban,2,53,220,False
+1161,Primidone,primidone,atc_generic_name,Primidone | Mysoline,2,53,1161,False
+190,Azor,amlodipine / olmesartan,atc_generic_name,Azor | Amlodipine / olmesartan,2,53,190,False
+576,Welchol,colesevelam,atc_generic_name,Welchol | Colesevelam,2,52,576,False
+1106,Megestrol,megestrol,atc_generic_name,Megestrol | Megace | Megace ES,3,52,1106,False
+200,Dalfampridine,dalfampridine,atc_generic_name,Dalfampridine | Ampyra,2,52,200,False
+1162,Nabumetone,nabumetone,atc_generic_name,Nabumetone | Relafen,2,52,1162,False
+544,Ocular lubricant,polyvinyl alcohol / povidone,atc_generic_name,Ocular lubricant | Systane | Lacrisert | Systane Ultra | GenTeal | Hypotears | Systane Balance | Tears Again | TheraTears | Refresh Liquigel | Refresh PM | Clear Eyes Contact Lens Multi-Action Relief | FreshKote | Oasis Tears,14,52,544,True
+1351,Tinidazole,tinidazole,atc_generic_name,Tinidazole | Tindamax,2,51,1351,False
+869,Symbyax,fluoxetine / olanzapine,atc_generic_name,Symbyax | Fluoxetine / olanzapine,2,51,869,False
+112,Loratadine,loratadine,atc_generic_name,Loratadine | Claritin | Alavert | Children's Claritin Allergy,4,51,112,False
+63,Rabeprazole,rabeprazole,atc_generic_name,Rabeprazole | Aciphex,2,50,63,False
+583,Emtricitabine / rilpivirine / tenofovir,emtricitabine / rilpivirine / tenofovir disoproxil,atc_generic_name,Emtricitabine / rilpivirine / tenofovir | Complera,2,50,583,False
+482,Multivitamin,multivitamin,family_name,Multivitamin | Cerefolin NAC | MVI Adult,3,49,482,False
+866,Tri-Luma,fluocinolone / hydroquinone / tretinoin,atc_generic_name,Tri-Luma | Fluocinolone / hydroquinone / tretinoin,2,49,866,False
+1087,Lysine,lysine,atc_generic_name,Lysine,1,49,1087,False
+421,Stadol,butorphanol,atc_generic_name,Stadol | Butorphanol,2,49,421,False
+145,Allopurinol,allopurinol,atc_generic_name,Allopurinol | Aloprim | Zyloprim,3,48,145,False
+287,Avapro,irbesartan,atc_generic_name,Avapro | Irbesartan,2,48,287,False
+818,Repatha,evolocumab,atc_generic_name,Repatha | Evolocumab,2,48,818,False
+447,Capsaicin,capsaicin,atc_generic_name,Capsaicin | Capsin | Capzasin | Capzasin-HP | Capzasin-P | Qutenza | Trixaicin HP | Zostrix | Zostrix Diabetic Foot Pain,9,48,447,False
+1197,Tamoxifen,tamoxifen,atc_generic_name,Tamoxifen | Nolvadex,2,47,1197,False
+1317,Silver sulfadiazine,silver sulfadiazine,atc_generic_name,Silver sulfadiazine | Silvadene,2,47,1317,False
+976,Hydroxyprogesterone,17-alpha-hydroxyprogesterone,atc_generic_name,Hydroxyprogesterone | Makena,2,47,976,False
+327,Beclomethasone,beclomethasone,atc_generic_name,Beclomethasone | QNASL | Beconase AQ | Qvar,4,47,327,False
+504,Chlordiazepoxide / clidinium,chlordiazepoxide / clidinium,atc_generic_name,Chlordiazepoxide / clidinium | Librax,2,47,504,False
+689,Dienogest / estradiol,dienogest / estradiol,atc_generic_name,Dienogest / estradiol | Natazia,2,46,689,False
+359,Taclonex,betamethasone / calcipotriene,atc_generic_name,Taclonex | Betamethasone / calcipotriene | Enstilar | Taclonex Scalp,4,46,359,False
+132,Alfuzosin,alfuzosin,atc_generic_name,Alfuzosin | Uroxatral,2,46,132,False
+669,Tolterodine,tolterodine,atc_generic_name,Tolterodine | Detrol | Detrol LA,3,46,669,False
+113,Claritin-D,loratadine / pseudoephedrine,atc_generic_name,Claritin-D | Loratadine / pseudoephedrine | Claritin-D 24 Hour | Alavert D-12 Hour Allergy and Sinus | Loratadine-D 24 Hour | Claritin-D 12 Hour,6,45,113,False
+451,Sucralfate,sucralfate,atc_generic_name,Sucralfate | Carafate,2,45,451,False
+559,Plavix,clopidogrel,atc_generic_name,Plavix | Clopidogrel,2,45,559,False
+571,Codeine / promethazine,codeine / promethazine,atc_generic_name,Codeine / promethazine,1,44,571,False
+55,Acetaminophen / tramadol,acetaminophen / tramadol,atc_generic_name,Acetaminophen / tramadol | Ultracet,2,44,55,False
+495,Pseudoephedrine,pseudoephedrine,atc_generic_name,Pseudoephedrine | Sudafed Congestion | Nexafed Nasal Decongestant | Sudafed 24-Hour | Children's Dimetapp Decongestant Infant | Drixoral Decongestant Non-Drowsy | Sudafed 12-Hour,7,44,495,False
+599,Cosentyx,secukinumab,atc_generic_name,Cosentyx | Secukinumab,2,44,599,False
+1279,Ranexa,ranolazine,atc_generic_name,Ranexa | Ranolazine,2,43,1279,False
+218,Hydrocortisone,hydrocortisone,atc_generic_name,Hydrocortisone | Proctosol-HC | Anusol-HC Suppositories | Anucort-HC | Cortef | Cortenema | Cortizone-10 | Hydrocortone | Locoid Lipocream | Westcort,10,43,218,False
+762,Embeda,morphine / naltrexone,atc_generic_name,Embeda | Morphine / naltrexone,2,42,762,False
+824,Ezetimibe,ezetimibe,atc_generic_name,Ezetimibe | Zetia,2,42,824,False
+518,Chlorzoxazone,chlorzoxazone,atc_generic_name,Chlorzoxazone | Lorzone | Parafon Forte DSC,3,42,518,False
+699,Dimenhydrinate,dimenhydrinate,atc_generic_name,Dimenhydrinate | Dramamine | Travel-Eze,3,42,699,False
+236,Donepezil,donepezil,atc_generic_name,Donepezil | Aricept | Aricept ODT,3,42,236,False
+290,Emollients,emollients,family_name,Emollients | EpiCeram | Aveeno | Bag Balm | Blistex Lip Balm | Cetaphil Lotion | Corn Huskers Lotion | Eletone | Biafine,9,42,290,False
+1268,Propafenone,propafenone,atc_generic_name,Propafenone | Rythmol SR | Rythmol,3,42,1268,False
+455,Sinemet,carbidopa / levodopa,atc_generic_name,Sinemet | Carbidopa / levodopa | Rytary | Sinemet CR,4,42,455,False
+1254,Plecanatide,plecanatide,atc_generic_name,Plecanatide | Trulance,2,42,1254,False
+479,Mycophenolate mofetil,mycophenolate mofetil,atc_generic_name,Mycophenolate mofetil | CellCept,2,42,479,False
+735,Hydrochlorothiazide / triamterene,hydrochlorothiazide / triamterene,atc_generic_name,Hydrochlorothiazide / triamterene | Dyazide | Maxzide,3,42,735,False
+246,Arthrotec,diclofenac / misoprostol,atc_generic_name,Arthrotec | Diclofenac / misoprostol,2,42,246,False
+1325,Sovaldi,sofosbuvir,atc_generic_name,Sovaldi | Sofosbuvir,2,41,1325,False
+1223,Oxazepam,oxazepam,atc_generic_name,Oxazepam | Serax,2,41,1223,False
+1076,Pitavastatin,pitavastatin,atc_generic_name,Pitavastatin | Livalo,2,41,1076,False
+276,Atropine / diphenoxylate,atropine / diphenoxylate,atc_generic_name,Atropine / diphenoxylate | Lomotil | Lonox,3,41,276,False
+214,Imodium,loperamide,atc_generic_name,Imodium | Loperamide | Imodium A-D | Anti-Diarrheal | Imotil,5,41,214,False
+232,Leflunomide,leflunomide,atc_generic_name,Leflunomide | Arava,2,41,232,False
+288,Sulfacetamide sodium / sulfur,sulfacetamide / sulfur,atc_generic_name,Sulfacetamide sodium / sulfur | Clarifoam EF | Rosula | Avar | Avar LS Cleanser | Plexion Cleanser | Prascion RA | Rosac | Sumadan,9,41,288,False
+590,Lactulose,lactulose,atc_generic_name,Lactulose | Enulose | Generlac | Constulose,4,41,590,False
+716,Tikosyn,dofetilide,atc_generic_name,Tikosyn | Dofetilide,2,40,716,False
+1002,Tresiba,insulin degludec,atc_generic_name,Tresiba | Insulin degludec,2,40,1002,False
+192,Exforge,amlodipine / valsartan,atc_generic_name,Exforge | Amlodipine / valsartan,2,40,192,False
+1173,Nardil,phenelzine,atc_generic_name,Nardil | Phenelzine,2,40,1173,False
+516,Thorazine,chlorpromazine,atc_generic_name,Thorazine | Chlorpromazine,2,40,516,False
+1023,Janumet,metformin / sitagliptin,atc_generic_name,Janumet | Metformin / sitagliptin,2,40,1023,False
+242,Exemestane,exemestane,atc_generic_name,Exemestane | Aromasin,2,39,242,False
+964,Hydrochlorothiazide / lisinopril,hydrochlorothiazide / lisinopril,atc_generic_name,Hydrochlorothiazide / lisinopril | Zestoretic | Prinzide,3,39,964,False
+884,Frovatriptan,frovatriptan,atc_generic_name,Frovatriptan | Frova,2,39,884,False
+629,Daliresp,roflumilast,atc_generic_name,Daliresp | Roflumilast,2,39,629,False
+20,Acetaminophen,acetaminophen,atc_generic_name,Acetaminophen | Tylenol | Tylenol 8 Hour | Vitapap | Tylenol Arthritis Pain | Feverall,6,39,20,False
+829,Famciclovir,famciclovir,atc_generic_name,Famciclovir | Famvir,2,38,829,False
+1105,Mefenamic acid,mefenamate,atc_generic_name,Mefenamic acid | Ponstel,2,38,1105,False
+858,Sodium biphosphate / sodium phosphate,"sodium phosphate / sodium phosphate, monobasic",atc_generic_name,Sodium biphosphate / sodium phosphate | Fleet Enema | Fleet Phospho Soda | OsmoPrep,4,38,858,False
+172,Glimepiride,glimepiride,atc_generic_name,Glimepiride | Amaryl,2,38,172,False
+284,Avanafil,avanafil,atc_generic_name,Avanafil | Stendra,2,38,284,False
+914,Glipizide,glipizide,atc_generic_name,Glipizide | Glucotrol | GlipiZIDE XL,3,37,914,False
+726,Marinol,dronabinol,atc_generic_name,Marinol | Dronabinol,2,37,726,False
+1355,Tofacitinib,tofacitinib,atc_generic_name,Tofacitinib | Xeljanz XR | Xeljanz,3,37,1355,False
+848,Toviaz,fesoterodine,atc_generic_name,Toviaz | Fesoterodine,2,37,848,False
+1185,Rotigotine,rotigotine,atc_generic_name,Rotigotine | Neupro,2,37,1185,False
+732,Dulera,formoterol / mometasone,atc_generic_name,Dulera | Formoterol / mometasone,2,36,732,False
+1142,Midazolam,midazolam,atc_generic_name,Midazolam | Versed,2,36,1142,False
+180,Amiodarone,amiodarone,atc_generic_name,Amiodarone | Cordarone | Pacerone,3,36,180,False
+601,Warfarin,warfarin,atc_generic_name,Warfarin | Coumadin | Jantoven,3,36,601,False
+965,Hydrochlorothiazide / losartan,hydrochlorothiazide / losartan,atc_generic_name,Hydrochlorothiazide / losartan | Hyzaar,2,36,965,False
+570,Codeine,codeine,atc_generic_name,Codeine,1,36,570,False
+834,Febuxostat,febuxostat,atc_generic_name,Febuxostat | Uloric,2,36,834,False
+652,Penciclovir,penciclovir,atc_generic_name,Penciclovir | Denavir,2,36,652,False
+622,Cytomel,liothyronine,atc_generic_name,Cytomel | Liothyronine,2,35,622,False
+424,Cabergoline,cabergoline,atc_generic_name,Cabergoline | Dostinex,2,34,424,False
+989,Imipramine,imipramine,atc_generic_name,Imipramine | Tofranil,2,34,989,False
+756,Elidel,pimecrolimus,atc_generic_name,Elidel | Pimecrolimus,2,33,756,False
+1136,Methylnaltrexone,methylnaltrexone,atc_generic_name,Methylnaltrexone | Relistor,2,33,1136,False
+213,Fenofibrate,fenofibrate,atc_generic_name,Fenofibrate | Antara | Lipofen | TriCor,4,33,213,False
+141,Fexofenadine / pseudoephedrine,fexofenadine / pseudoephedrine,atc_generic_name,Fexofenadine / pseudoephedrine | Allegra-D 24 Hour | Allegra-D 12 Hour,3,33,141,False
+606,Progesterone,progesterone,atc_generic_name,Progesterone | Crinone | Prometrium,3,33,606,False
+1181,Nefazodone,nefazodone,atc_generic_name,Nefazodone | Serzone,2,33,1181,False
+822,Ketoconazole,ketoconazole,atc_generic_name,Ketoconazole | Xolegel | Nizoral A-D | Nizoral Topical | Extina | Nizoral Shampoo | Nizoral,7,33,822,False
+752,Emsam,selegiline,atc_generic_name,Emsam | Selegiline | Eldepryl | Zelapar,4,33,752,False
+1200,Orphenadrine,orphenadrine,atc_generic_name,Orphenadrine | Norflex,2,33,1200,False
+925,Zoladex,goserelin,atc_generic_name,Zoladex | Goserelin,2,32,925,False
+791,Erlotinib,erlotinib,atc_generic_name,Erlotinib | Tarceva,2,32,791,False
+1309,Sanctura,trospium,atc_generic_name,Sanctura | Sanctura XR | Trospium,3,32,1309,False
+360,Sotalol,sotalol,atc_generic_name,Sotalol | Betapace | Betapace AF | Sotalol Hydrochloride AF,4,32,360,False
+988,Isosorbide mononitrate,isosorbide,atc_generic_name,Isosorbide mononitrate | Imdur,2,32,988,False
+663,Desonide,desonide,atc_generic_name,Desonide | DesOwen | Desonate | Verdeso,4,32,663,False
+1263,Proctofoam,pramoxine,atc_generic_name,Proctofoam | Pramoxine | Prax | Sarna Sensitive,4,32,1263,False
+911,Imatinib,imatinib,atc_generic_name,Imatinib | Gleevec,2,31,911,False
+533,Ciprofloxacin / dexamethasone,ciprofloxacin / dexamethasone,atc_generic_name,Ciprofloxacin / dexamethasone | Ciprodex,2,31,533,False
+867,Fluocinonide,fluocinonide,atc_generic_name,Fluocinonide | Lidex,2,31,867,False
+76,Pioglitazone,pioglitazone,atc_generic_name,Pioglitazone | Actos,2,31,76,False
+700,Tecfidera,dimethyl fumarate,atc_generic_name,Tecfidera | Dimethyl fumarate,2,31,700,False
+982,Terazosin,terazosin,atc_generic_name,Terazosin | Hytrin,2,31,982,False
+187,Lotrel,amlodipine / benazepril,atc_generic_name,Lotrel | Amlodipine / benazepril,2,31,187,False
+666,Desoxyn,methamphetamine,atc_generic_name,Desoxyn | Methamphetamine,2,31,666,False
+624,Migranal,dihydroergotamine,atc_generic_name,Migranal | D.H.E. 45 | Dihydroergotamine,3,30,624,False
+176,Amerge,naratriptan,atc_generic_name,Amerge | Naratriptan,2,30,176,False
+1140,Telmisartan,telmisartan,atc_generic_name,Telmisartan | Micardis,2,30,1140,False
+1021,Ixekizumab,ixekizumab,atc_generic_name,Ixekizumab | Taltz,2,30,1021,False
+106,Vicks Sinex Nasal Spray (old formulation),phenylephrine,atc_generic_name,Vicks Sinex Nasal Spray (old formulation) | Phenylephrine | Afrin 4 Hour Extra Moisturizing | Neo-Synephrine Nasal | Sudafed PE Congestion | Prefrin,6,29,106,False
+1069,Tradjenta,linagliptin,atc_generic_name,Tradjenta | Linagliptin,2,29,1069,False
+1266,Pravastatin,pravastatin,atc_generic_name,Pravastatin | Pravachol,2,29,1266,False
+831,Iloperidone,iloperidone,atc_generic_name,Iloperidone | Fanapt,2,29,831,False
+128,Alendronate,alendronate,atc_generic_name,Alendronate | Fosamax,2,29,128,False
+345,Benzoyl peroxide / erythromycin,benzoyl peroxide / erythromycin,atc_generic_name,Benzoyl peroxide / erythromycin | Benzamycin,2,29,345,False
+146,Almotriptan,almotriptan,atc_generic_name,Almotriptan | Axert,2,28,146,False
+607,Crisaborole,crisaborole,atc_generic_name,Crisaborole | Eucrisa,2,28,607,False
+1218,Prednisolone,prednisolone,atc_generic_name,Prednisolone | Orapred,2,28,1218,False
+385,Ibandronate,ibandronate,atc_generic_name,Ibandronate | Boniva,2,28,385,False
+459,Doxazosin,doxazosin,atc_generic_name,Doxazosin | Cardura XL | Cardura,3,28,459,False
+655,Valproic acid,valproate,atc_generic_name,Valproic acid | Depakene | Stavzor,3,28,655,False
+280,Aubagio,teriflunomide,atc_generic_name,Aubagio | Teriflunomide,2,28,280,False
+1196,Nivolumab,nivolumab,atc_generic_name,Nivolumab | Opdivo,2,27,1196,False
+751,Elbasvir / grazoprevir,elbasvir / grazoprevir,atc_generic_name,Elbasvir / grazoprevir | Zepatier,2,27,751,False
+563,Clozapine,clozapine,atc_generic_name,Clozapine | Clozaril,2,27,563,False
+313,Benzoyl peroxide,benzoyl peroxide,atc_generic_name,Benzoyl peroxide | PanOxyl | BP Wash | BenzEFoam Ultra | Desquam-X Wash | Oxy-10 | PanOxyl 10% Acne Foaming Wash | BenzEFoam,8,27,313,False
+1212,Zegerid,omeprazole / sodium bicarbonate,atc_generic_name,Zegerid | Zegerid OTC | Omeprazole / sodium bicarbonate,3,27,1212,False
+739,Erythromycin,erythromycin,atc_generic_name,Erythromycin | Erythrocin | Ery-Tab | E.E.S.-400 | Ery Pads,5,27,739,False
+595,Nadolol,nadolol,atc_generic_name,Nadolol | Corgard,2,27,595,False
+44,Acetaminophen / diphenhydramine,acetaminophen / diphenhydramine,atc_generic_name,Acetaminophen / diphenhydramine | Headache Relief PM | Excedrin PM | Midol PM | Tylenol PM,5,27,44,False
+251,Aspirin,aspirin,atc_generic_name,Aspirin | Bayer Aspirin | Bayer Children's Aspirin,3,26,251,False
+1166,Nubain,nalbuphine,atc_generic_name,Nubain | Nalbuphine,2,26,1166,False
+294,Avodart,dutasteride,atc_generic_name,Avodart | Dutasteride,2,26,294,False
+342,Benicar HCT,hydrochlorothiazide / olmesartan,atc_generic_name,Benicar HCT | Hydrochlorothiazide / olmesartan,2,26,342,False
+117,Albuterol / ipratropium,albuterol / ipratropium,atc_generic_name,Albuterol / ipratropium | Combivent | Combivent Respimat | DuoNeb,4,26,117,False
+1184,Pegfilgrastim,pegfilgrastim,atc_generic_name,Pegfilgrastim | Neulasta,2,26,1184,False
+134,Alirocumab,alirocumab,atc_generic_name,Alirocumab | Praluent,2,26,134,False
+560,Clorazepate,clorazepate,atc_generic_name,Clorazepate | Tranxene | Tranxene SD,3,26,560,False
+796,Esomeprazole / naproxen,esomeprazole / naproxen,atc_generic_name,Esomeprazole / naproxen | Vimovo,2,25,796,False
+62,Lactobacillus acidophilus,Lactobacillus acidophilus,atc_generic_name,Lactobacillus acidophilus | Acidophilus,2,25,62,False
+1111,Namenda,memantine,atc_generic_name,Namenda | Memantine | Namenda XR,3,25,1111,False
+5,Abatacept,abatacept,atc_generic_name,Abatacept | Orencia,2,25,5,False
+277,Donnatal,atropine / hyoscyamine / phenobarbital / scopolamine,atc_generic_name,Donnatal | Atropine / hyoscyamine / phenobarbital / scopolamine | Phenohytro,3,25,277,False
+247,Aspirin / butalbital / caffeine / codeine,aspirin / butalbital / caffeine / codeine,atc_generic_name,Aspirin / butalbital / caffeine / codeine | Ascomp with Codeine | Fiorinal with Codeine,3,25,247,False
+497,Chlorpheniramine,chlorpheniramine,atc_generic_name,Chlorpheniramine | Chlor-Trimeton | Wal-finate,3,25,497,False
+1364,Trolamine salicylate,trolamine salicylate,atc_generic_name,Trolamine salicylate,1,25,1364,False
+358,Betamethasone,betamethasone,atc_generic_name,Betamethasone | Luxiq | Diprolene AF | Diprosone | Celestone,5,25,358,False
+97,Advil Cold and Sinus,ibuprofen / pseudoephedrine,atc_generic_name,Advil Cold and Sinus | Ibuprofen / pseudoephedrine | Advil Cold and Sinus Liqui-Gels,3,25,97,False
+1124,Mestinon,pyridostigmine,atc_generic_name,Mestinon | Pyridostigmine | Mestinon Timespan,3,25,1124,False
+727,Dronedarone,dronedarone,atc_generic_name,Dronedarone | Multaq,2,24,727,False
+135,Aliskiren,aliskiren,atc_generic_name,Aliskiren | Tekturna,2,24,135,False
+1081,Omega-3 polyunsaturated fatty acids,omega-3 fatty acids,atc_generic_name,Omega-3 polyunsaturated fatty acids | Lovaza | Omacor | TheraTears Nutrition,4,24,1081,False
+382,Bisoprolol / hydrochlorothiazide,bisoprolol / hydrochlorothiazide,atc_generic_name,Bisoprolol / hydrochlorothiazide | Ziac,2,24,382,False
+171,Amantadine,amantadine,atc_generic_name,Amantadine | Symmetrel,2,24,171,False
+1375,Vancomycin,vancomycin,atc_generic_name,Vancomycin | Vancocin | Vancocin HCl,3,24,1375,False
+1072,Zyvox,linezolid,atc_generic_name,Zyvox | Linezolid,2,24,1072,False
+604,Creon,amylase / lipase / protease,atc_generic_name,Creon | Pancrelipase | Zenpep | Pancreaze,4,24,604,False
+889,Horizant,gabapentin,atc_generic_name,Horizant | Gabapentin enacarbil,2,24,889,False
+763,Emetrol,fructose / glucose / phosphoric acid,atc_generic_name,Emetrol | Phosphorated carbohydrate solution,2,24,763,False
+949,Methenamine,methenamine,atc_generic_name,Methenamine | Mandelamine | Hiprex,3,24,949,False
+897,Gardasil,"L1 protein, human papillomavirus type 11 vaccine / L1 protein, human papillomavirus type 16 vaccine / L1 protein, human papillomavirus type 18 vaccine / L1 protein, human papillomavirus type 6 vaccine",atc_generic_name,Gardasil | Human papillomavirus vaccine,2,23,897,False
+444,Capecitabine,capecitabine,atc_generic_name,Capecitabine | Xeloda,2,23,444,False
+74,Risedronate,risedronate,atc_generic_name,Risedronate | Actonel | Atelvia,3,23,74,False
+527,Ciclopirox,ciclopirox,atc_generic_name,Ciclopirox | Ciclodan | Loprox | Pedipirox-4 | Penlac | Penlac Nail Lacquer,6,23,527,False
+320,Mupirocin,mupirocin,atc_generic_name,Mupirocin | Bactroban,2,23,320,False
+271,Malarone,atovaquone / proguanil,atc_generic_name,Malarone | Atovaquone / proguanil,2,23,271,False
+1018,Itraconazole,itraconazole,atc_generic_name,Itraconazole | Sporanox,2,23,1018,False
+1195,Nitroglycerin,nitroglycerin,atc_generic_name,Nitroglycerin | Nitro-Bid | Nitrolingual Pumpspray | Nitro-Dur | Nitrostat | Rectiv,6,23,1195,False
+395,Brilinta,ticagrelor,atc_generic_name,Brilinta | Ticagrelor,2,23,395,False
+1191,Nystatin,nystatin,atc_generic_name,Nystatin | Nilstat | Nystop | Nyamyc | Pedi-Dri,5,23,1191,False
+586,Podofilox,podofilox,atc_generic_name,Podofilox | Condylox,2,22,586,False
+938,Halobetasol,halobetasol,atc_generic_name,Halobetasol | Ultravate,2,22,938,False
+1030,Kerydin,tavaborole,atc_generic_name,Kerydin | Tavaborole,2,22,1030,False
+485,Cimzia,certolizumab pegol,atc_generic_name,Cimzia | Certolizumab,2,22,485,False
+426,Caffeine / ergotamine,caffeine / ergotamine,atc_generic_name,Caffeine / ergotamine | Cafergot | Migergot,3,22,426,False
+733,Dupilumab,dupilumab,atc_generic_name,Dupilumab | Dupixent,2,22,733,False
+664,Desipramine,desipramine,atc_generic_name,Desipramine | Norpramin,2,22,664,False
+26,Acetaminophen / butalbital / caffeine / codeine,acetaminophen / butalbital / caffeine / codeine,atc_generic_name,Acetaminophen / butalbital / caffeine / codeine | Fioricet with Codeine,2,22,26,False
+1341,Tegaserod,tegaserod,atc_generic_name,Tegaserod | Zelnorm,2,22,1341,False
+1190,Nilotinib,nilotinib,atc_generic_name,Nilotinib | Tasigna,2,22,1190,False
+168,Alvesco,ciclesonide,atc_generic_name,Alvesco | Ciclesonide | Omnaris,3,22,168,False
+1379,Xylometazoline,xylometazoline,atc_generic_name,Xylometazoline,1,21,1379,False
+1347,Tetracycline,tetracycline,atc_generic_name,Tetracycline,1,21,1347,False
+151,Alosetron,alosetron,atc_generic_name,Alosetron | Lotronex,2,21,151,False
+262,Candesartan,candesartan,atc_generic_name,Candesartan | Atacand,2,21,262,False
+1003,Insulin detemir,insulin detemir,atc_generic_name,Insulin detemir | Levemir,2,21,1003,False
+640,Propoxyphene,propoxyphene,atc_generic_name,Propoxyphene | Darvon,2,21,640,False
+1032,Ketoprofen,ketoprofen,atc_generic_name,Ketoprofen | Orudis KT | Orudis | Oruvail,4,21,1032,False
+776,Vedolizumab,vedolizumab,atc_generic_name,Vedolizumab | Entyvio,2,21,776,False
+625,Desmopressin,desmopressin,atc_generic_name,Desmopressin | DDAVP | Stimate | DDAVP Rhinal Tube | DDAVP Nasal,5,21,625,False
+888,Fycompa,perampanel,atc_generic_name,Fycompa | Perampanel,2,21,888,False
+1031,Ketamine,ketamine,atc_generic_name,Ketamine | Ketalar,2,21,1031,False
+839,Trilipix,fenofibrate,atc_generic_name,Trilipix | Fenofibric acid,2,20,839,False
+836,Feldene,piroxicam,atc_generic_name,Feldene | Piroxicam,2,20,836,False
+1236,Penicillin v potassium,penicillin V,atc_generic_name,Penicillin v potassium | Penicillin VK,2,20,1236,False
+210,Umeclidinium / vilanterol,umeclidinium / vilanterol,atc_generic_name,Umeclidinium / vilanterol | Anoro Ellipta,2,20,210,False
+474,Cefprozil,cefprozil,atc_generic_name,Cefprozil | Cefzil,2,20,474,False
+706,Diphenhydramine / naproxen,diphenhydramine / naproxen,atc_generic_name,Diphenhydramine / naproxen,1,20,706,False
+208,Angeliq,drospirenone / ethinyl estradiol,atc_generic_name,Angeliq | Drospirenone / estradiol,2,20,208,True
+118,Alcaftadine,alcaftadine,atc_generic_name,Alcaftadine | Lastacaft,2,20,118,False
+289,Avastin,bevacizumab,atc_generic_name,Avastin | Bevacizumab,2,20,289,False
+830,Famotidine,famotidine,atc_generic_name,Famotidine | Pepcid | Pepcid AC Chewable Tablets,3,20,830,False
+630,Dalmane,flurazepam,atc_generic_name,Dalmane | Flurazepam,2,20,630,False
+205,Hydrocortisone / pramoxine,hydrocortisone / pramoxine,atc_generic_name,Hydrocortisone / pramoxine | Pramosone | Proctofoam HC | Analpram-HC,4,20,205,False
+956,Humatrope,somatropin,atc_generic_name,Humatrope | Somatropin | Tev-Tropin | Norditropin | Nutropin | Omnitrope | Saizen | Serostim,8,19,956,False
+219,Octreotide,octreotide,atc_generic_name,Octreotide | Insulin regular | Insulin isophane / insulin regular | Insulin glulisine | Apidra | ReliOn / Novolin 70 / 30 | Humulin R U-500 (Concentrated) | Novolin 70 / 30 | Sandostatin | Sandostatin LAR Depot,10,19,219,True
+321,Balsalazide,balsalazide,atc_generic_name,Balsalazide | Colazal,2,19,321,False
+1168,Talwin Nx,naloxone / pentazocine,atc_generic_name,Talwin Nx | Naloxone / pentazocine,2,19,1168,False
+941,Multivitamin with minerals,ascorbic acid / biotin / copper sulfate / docusate / folic acid / iron carbonyl / vitamin B12 / vitamin E,atc_generic_name,Multivitamin with minerals | Hemax,2,19,941,False
+11,Salonpas Pain Patch,methyl salicylate,atc_generic_name,Salonpas Pain Patch | Methyl salicylate | Absorbine Jr.,3,19,11,False
+960,Hydralazine,hydralazine,atc_generic_name,Hydralazine,1,19,960,False
+638,Enablex,darifenacin,atc_generic_name,Enablex | Darifenacin,2,19,638,False
+661,Dermal filler,dermal filler,family_name,Dermal filler | Juvederm Voluma XC,2,19,661,False
+665,Desoximetasone,desoximetasone,atc_generic_name,Desoximetasone | Topicort | Topicort LP,3,19,665,False
+505,Chlorhexidine,chlorhexidine,atc_generic_name,Chlorhexidine | Peridex | Periogard,3,19,505,False
+986,Icosapent,eicosapentaenoate,atc_generic_name,Icosapent | Vascepa,2,19,986,False
+1143,Midodrine,midodrine,atc_generic_name,Midodrine | Orvaten | ProAmatine,3,19,1143,False
+1338,Sunitinib,sunitinib,atc_generic_name,Sunitinib | Sutent,2,19,1338,False
+330,Benlysta,belimumab,atc_generic_name,Benlysta | Belimumab,2,18,330,False
+734,Jalyn,dutasteride / tamsulosin,atc_generic_name,Jalyn | Dutasteride / tamsulosin,2,18,734,False
+704,Diovan HCT,hydrochlorothiazide / valsartan,atc_generic_name,Diovan HCT | Hydrochlorothiazide / valsartan,2,18,704,False
+983,Palbociclib,palbociclib,atc_generic_name,Palbociclib | Ibrance,2,18,983,False
+68,Actemra,tocilizumab,atc_generic_name,Actemra | Tocilizumab,2,18,68,False
+551,Sulindac,sulindac,atc_generic_name,Sulindac | Clinoril,2,18,551,False
+821,Rivastigmine,rivastigmine,atc_generic_name,Rivastigmine | Exelon,2,18,821,False
+613,Immune globulin subcutaneous,immunoglobulin G,atc_generic_name,Immune globulin subcutaneous | Vivaglobin | Cuvitru | Hizentra,4,18,613,False
+230,Saliva substitutes,saliva substitutes,family_name,Saliva substitutes | NeutraSal | Aquoral | Biotene Mouthwash | SalivaMAX | Salivart,6,18,230,False
+401,Bromfed DM,brompheniramine / dextromethorphan / pseudoephedrine,atc_generic_name,Bromfed DM | Brompheniramine / dextromethorphan / pseudoephedrine | Q-Tapp DM,3,18,401,False
+427,NoDoz,caffeine,atc_generic_name,NoDoz | Vivarin | Caffeine,3,18,427,False
+1057,Xopenex,levalbuterol,atc_generic_name,Xopenex | Xopenex HFA | Levalbuterol,3,18,1057,False
+72,Estradiol / norethindrone,estradiol / norethindrone,atc_generic_name,Estradiol / norethindrone | Activella | CombiPatch | Mimvey,4,18,72,False
+561,Clotrimazole,clotrimazole,atc_generic_name,Clotrimazole | Mycelex Troche,2,17,561,False
+403,Bromocriptine,bromocriptine,atc_generic_name,Bromocriptine | Parlodel,2,17,403,False
+498,Somnote,trichloroacetaldehyde,atc_generic_name,Somnote | Chloral hydrate,2,17,498,False
+549,Climara Pro,estradiol / levonorgestrel,atc_generic_name,Climara Pro | Estradiol / levonorgestrel,2,17,549,False
+1216,Opium,opium,atc_generic_name,Opium | Paregoric | Opium Deodorized,3,17,1216,False
+827,Tazarotene,tazarotene,atc_generic_name,Tazarotene | Fabior | Tazorac,3,17,827,False
+1121,Mercaptopurine,mercaptopurine,atc_generic_name,Mercaptopurine | Purinethol,2,17,1121,False
+1255,Prevnar 13,Streptococcus pneumoniae serotype 1 capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 14 capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 18C capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 19A capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 19F capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 23F capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 3 capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 4 capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 5 capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 6A capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 6B capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 7F capsular antigen diphtheria CRM197 protein conjugate vaccine / Streptococcus pneumoniae serotype 9V capsular antigen diphtheria CRM197 protein conjugate vaccine,atc_generic_name,Prevnar 13 | Pneumococcal 13-valent vaccine,2,17,1255,False
+305,Azilsartan medoxomil,azilsartan,atc_generic_name,Azilsartan medoxomil | Edarbi,2,17,305,False
+1038,Metamucil,psyllium,atc_generic_name,Metamucil | Konsyl | Psyllium,3,17,1038,False
+463,Urea,urea,atc_generic_name,Urea | Carmol 20 | Kerafoam | Nutraplus | Rea Lo 40 | X-Viate,6,16,463,False
+28,Acetaminophen / caffeine / dihydrocodeine,acetaminophen / caffeine / dihydrocodeine,atc_generic_name,Acetaminophen / caffeine / dihydrocodeine | Panlor DC | Panlor SS | Trezix,4,16,28,False
+642,Sprycel,dasatinib,atc_generic_name,Sprycel | Dasatinib,2,16,642,False
+825,Ezetimibe / simvastatin,ezetimibe / simvastatin,atc_generic_name,Ezetimibe / simvastatin | Vytorin,2,16,825,False
+730,Famotidine / ibuprofen,famotidine / ibuprofen,atc_generic_name,Famotidine / ibuprofen | Duexis,2,16,730,False
+1053,Latanoprost,latanoprost,atc_generic_name,Latanoprost | Xalatan,2,16,1053,False
+781,Primatene Mist,epinephrine,atc_generic_name,Primatene Mist | EpiPen | Epinephrine,3,16,781,False
+842,Ferrous sulfate,ferrous sulfate,atc_generic_name,Ferrous sulfate | Slow Fe | Feosol Original,3,16,842,False
+770,Multivitamin with iron,ascorbic acid / docusate / folic acid / iron carbonyl / vitamin B12,atc_generic_name,Multivitamin with iron | EnLyte | Ferralet 90 | Integra | Integra F | Maxaron Forte,6,16,770,False
+354,Bepreve,bepotastine,atc_generic_name,Bepreve | Bepotastine,2,16,354,False
+1217,Orap,pimozide,atc_generic_name,Orap | Pimozide,2,16,1217,False
+52,Acetaminophen / phenyltoloxamine,acetaminophen / phenyltoloxamine,atc_generic_name,Acetaminophen / phenyltoloxamine | Lagesic | Myophen,3,16,52,False
+432,Calcipotriene,calcipotriene,atc_generic_name,Calcipotriene | Dovonex,2,15,432,False
+381,Bisoprolol,bisoprolol,atc_generic_name,Bisoprolol | Zebeta,2,15,381,False
+188,Amlodipine / hydrochlorothiazide / olmesartan,amlodipine / hydrochlorothiazide / olmesartan,atc_generic_name,Amlodipine / hydrochlorothiazide / olmesartan | Tribenzor,2,15,188,False
+439,Cyanocobalamin,vitamin B12,atc_generic_name,Cyanocobalamin | CaloMist | Vitamin B12,3,15,439,False
+1243,Perphenazine,perphenazine,atc_generic_name,Perphenazine | Trilafon,2,15,1243,False
+819,Naloxone,naloxone,atc_generic_name,Naloxone | Narcan Injection | Evzio,3,15,819,False
+862,Fludrocortisone,fludrocortisone,atc_generic_name,Fludrocortisone | Florinef | Florinef Acetate,3,15,862,False
+1315,Selenium sulfide,selenium sulfide,atc_generic_name,Selenium sulfide | Selsun Blue,2,15,1315,False
+1085,Phenobarbital,phenobarbital,atc_generic_name,Phenobarbital | Luminal,2,15,1085,False
+589,Conjugated estrogens / medroxyprogesterone,"estrogens, conjugated (USP) / medroxyprogesterone",atc_generic_name,Conjugated estrogens / medroxyprogesterone | Premphase | Prempro,3,15,589,False
+1037,Kombiglyze XR,metformin / saxagliptin,atc_generic_name,Kombiglyze XR | Metformin / saxagliptin,2,14,1037,False
+1306,S-adenosylmethionine,S-adenosylmethionine,atc_generic_name,S-adenosylmethionine,1,14,1306,False
+984,Imbruvica,ibrutinib,atc_generic_name,Imbruvica | Ibrutinib,2,14,984,False
+798,Estazolam,estazolam,atc_generic_name,Estazolam | Prosom,2,14,798,False
+903,Gemfibrozil,gemfibrozil,atc_generic_name,Gemfibrozil | Lopid,2,14,903,False
+962,Hydroxyurea,hydroxyurea,atc_generic_name,Hydroxyurea | Hydrea,2,14,962,False
+542,Desloratadine,desloratadine,atc_generic_name,Desloratadine | Clarinex,2,14,542,False
+108,Aggrenox,aspirin / dipyridamole,atc_generic_name,Aggrenox | Aspirin / dipyridamole,2,14,108,False
+775,Entresto,sacubitril / valsartan,atc_generic_name,Entresto | Sacubitril / valsartan,2,14,775,False
+1214,Saxagliptin,saxagliptin,atc_generic_name,Saxagliptin | Onglyza,2,14,1214,False
+1360,Trimethoprim,trimethoprim,atc_generic_name,Trimethoprim,1,14,1360,False
+742,Econazole,econazole,atc_generic_name,Econazole | Spectazole,2,14,742,False
+565,Psoriasin,coal tar,atc_generic_name,Psoriasin | Coal tar | Cutar | MG217 Medicated Tar | Scytera,5,14,565,False
+244,Artane,trihexyphenidyl,atc_generic_name,Artane | Trihexyphenidyl,2,14,244,False
+346,Benzocaine,benzocaine,atc_generic_name,Benzocaine | Lanacane | Orajel | Cepacol Dual Relief Sore Throat | Retre-Gel | Skeeter Stik | Solarcaine First Aid Medicated Spray | Topical Anesthetic Dental Gel | Trocaine,9,14,346,False
+278,Ipratropium,ipratropium,atc_generic_name,Ipratropium | Atrovent Nasal | Atrovent HFA | Ipratropium Inhalation Solution | Atrovent,5,14,278,False
+1233,Pegasys,peginterferon alfa-2a,atc_generic_name,Pegasys | Peginterferon alfa-2a,2,14,1233,False
+69,Acthar,corticotropin,atc_generic_name,Acthar | Corticotropin | H.P. Acthar Gel,3,13,69,False
+682,Dextromethorphan / quinidine,dextromethorphan / quinidine,atc_generic_name,Dextromethorphan / quinidine | Nuedexta,2,13,682,False
+430,Calcium carbonate,calcium carbonate,atc_generic_name,Calcium carbonate | Tums Regular Strength | Calci-Chew | Tums Smoothies,4,13,430,False
+718,Dolutegravir,dolutegravir,atc_generic_name,Dolutegravir | Tivicay,2,13,718,False
+1045,Lactase,lactase,atc_generic_name,Lactase | Lactaid | Lactaid Ultra,3,13,1045,False
+967,Hydrochlorothiazide / telmisartan,hydrochlorothiazide / telmisartan,atc_generic_name,Hydrochlorothiazide / telmisartan | Micardis HCT,2,13,967,False
+162,Lovastatin,lovastatin,atc_generic_name,Lovastatin | Altoprev | Mevacor,3,13,162,False
+1096,Magnesium oxide,magnesium oxide,atc_generic_name,Magnesium oxide,1,13,1096,False
+800,Esterified estrogens / methyltestosterone,"estrogens, esterified (USP) / methyltestosterone",atc_generic_name,Esterified estrogens / methyltestosterone | Estratest | Estratest H.S.,3,13,800,False
+747,Effient,prasugrel,atc_generic_name,Effient | Prasugrel,2,13,747,False
+1171,Naphazoline / pheniramine,naphazoline / pheniramine,atc_generic_name,Naphazoline / pheniramine | Opcon-A | Visine-A,3,13,1171,False
+255,Soma Compound,aspirin / carisoprodol,atc_generic_name,Soma Compound | Aspirin / carisoprodol,2,13,255,False
+351,Didrex,benzphetamine,atc_generic_name,Didrex | Benzphetamine | Regimex,3,13,351,False
+24,Acetaminophen / butalbital,acetaminophen / butalbital,atc_generic_name,Acetaminophen / butalbital | Bupap | Phrenilin,3,13,24,False
+1170,Privine,naphazoline,atc_generic_name,Privine | Naphazoline,2,13,1170,False
+299,Vidaza,azacitidine,atc_generic_name,Vidaza | Azacitidine,2,13,299,False
+769,Truvada,emtricitabine / tenofovir disoproxil,atc_generic_name,Truvada | Emtricitabine / tenofovir,2,13,769,False
+788,Ergocalciferol,ergocalciferol,atc_generic_name,Ergocalciferol | Vitamin D2,2,13,788,False
+512,Zutripro,chlorpheniramine / hydrocodone / pseudoephedrine,atc_generic_name,Zutripro | Chlorpheniramine / hydrocodone / pseudoephedrine,2,13,512,False
+1207,Olodaterol / tiotropium,olodaterol / tiotropium,atc_generic_name,Olodaterol / tiotropium | Stiolto Respimat,2,13,1207,False
+1010,Raltegravir,raltegravir,atc_generic_name,Raltegravir | Isentress,2,13,1010,False
+771,Enalapril,enalapril,atc_generic_name,Enalapril | Vasotec,2,13,771,False
+598,Hydrocortisone / neomycin / polymyxin b,hydrocortisone / neomycin / polymyxin B,atc_generic_name,Hydrocortisone / neomycin / polymyxin b | Cortisporin Otic,2,13,598,False
+64,Soriatane,acitretin,atc_generic_name,Soriatane | Acitretin,2,12,64,False
+980,Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,"hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium phosphate, monobasic",atc_generic_name,Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate | Phosphasal | Uribel,3,12,980,False
+158,Loteprednol,loteprednol,atc_generic_name,Loteprednol | Alrex | Lotemax,3,12,158,False
+102,Everolimus,everolimus,atc_generic_name,Everolimus | Afinitor,2,12,102,False
+224,Emend,aprepitant,atc_generic_name,Emend | Aprepitant,2,12,224,False
+372,Bimatoprost,bimatoprost,atc_generic_name,Bimatoprost | Latisse | Lumigan,3,12,372,False
+380,Bismuth subsalicylate,bismuth subsalicylate,atc_generic_name,Bismuth subsalicylate | Pepto-Bismol,2,12,380,False
+352,Benztropine,benztropine,atc_generic_name,Benztropine | Cogentin,2,12,352,False
+336,Benazepril,benazepril,atc_generic_name,Benazepril | Lotensin,2,12,336,False
+7,Abiraterone,abiraterone,atc_generic_name,Abiraterone | Zytiga,2,12,7,False
+48,Acetaminophen / pamabrom,acetaminophen / pamabrom,atc_generic_name,Acetaminophen / pamabrom,1,12,48,False
+573,Docusate,docusate,atc_generic_name,Docusate | Colace | Dulcolax Stool Softener | Enemeez Mini,4,12,573,False
+979,Hyoscyamine / methenamine / methylene blue / phenyl salicylate,hyoscyamine / methenamine / methylene blue / phenyl salicylate,atc_generic_name,Hyoscyamine / methenamine / methylene blue / phenyl salicylate | Urised,2,12,979,False
+1052,Mefloquine,mefloquine,atc_generic_name,Mefloquine | Lariam,2,12,1052,False
+1130,Methimazole,methimazole,atc_generic_name,Methimazole | Tapazole,2,12,1130,False
+525,Chorionic gonadotropin (hcg),chorionic gonadotropin,atc_generic_name,Chorionic gonadotropin (hcg) | Pregnyl | Ovidrel,3,12,525,False
+1272,Quinine,quinine,atc_generic_name,Quinine | Qualaquin,2,12,1272,False
+1034,Keytruda,pembrolizumab,atc_generic_name,Keytruda | Pembrolizumab,2,12,1034,False
+609,Cromolyn,cromolyn,atc_generic_name,Cromolyn | Intal | Intal Inhaler | Gastrocrom,4,12,609,False
+758,Permethrin,permethrin,atc_generic_name,Permethrin | Elimite,2,11,758,False
+1332,Stelazine,trifluoperazine,atc_generic_name,Stelazine | Trifluoperazine,2,11,1332,False
+714,Senokot S,"docusate / sennosides, USP",atc_generic_name,Senokot S | Docusate / senna | Senna Plus | Doc-Q-Lax | Doculax | Peri-Colace | Senna S,7,11,714,False
+773,Lovenox,enoxaparin,atc_generic_name,Lovenox | Enoxaparin,2,11,773,False
+61,Acetylcysteine,acetylcysteine,atc_generic_name,Acetylcysteine | Mucomyst | Mucomyst-10,3,11,61,False
+1060,Levorphanol,levorphanol,atc_generic_name,Levorphanol | Levo-Dromoran,2,11,1060,False
+953,Insulin lispro,insulin lispro,atc_generic_name,Insulin lispro | Humalog | Humalog KwikPen,3,11,953,False
+1012,Isoniazid,isoniazid,atc_generic_name,Isoniazid,1,11,1012,False
+324,Barium sulfate,barium sulfate,atc_generic_name,Barium sulfate | Readi-Cat 2 | Readi-Cat | Smoothie Readi-Cat 2 | Volumen,5,11,324,False
+999,Insulin aspart,"insulin aspart, human",atc_generic_name,Insulin aspart | NovoLog FlexPen | Novolog,3,11,999,False
+1036,Potassium chloride,potassium chloride,atc_generic_name,Potassium chloride | Klor-Con,2,11,1036,False
+65,Tudorza Pressair,aclidinium,atc_generic_name,Tudorza Pressair | Aclidinium,2,11,65,False
+397,Brimonidine / timolol,brimonidine / timolol,atc_generic_name,Brimonidine / timolol | Combigan,2,11,397,False
+71,Actifed,pseudoephedrine / triprolidine,atc_generic_name,Actifed | Pseudoephedrine / triprolidine,2,11,71,False
+490,Cevimeline,cevimeline,atc_generic_name,Cevimeline | Evoxac,2,11,490,False
+103,Eylea,aflibercept,atc_generic_name,Eylea | Aflibercept,2,11,103,False
+306,Edarbyclor,azilsartan / chlorthalidone,atc_generic_name,Edarbyclor | Azilsartan medoxomil / chlorthalidone,2,11,306,False
+115,Albiglutide,albiglutide,atc_generic_name,Albiglutide | Tanzeum,2,11,115,False
+434,Calcitriol,calcitriol,atc_generic_name,Calcitriol | Rocaltrol | Vectical,3,11,434,False
+885,Griseofulvin,griseofulvin,atc_generic_name,Griseofulvin | Gris-PEG | Fulvicin U / F | Grifulvin V,4,11,885,False
+253,Norgesic,aspirin / caffeine / orphenadrine,atc_generic_name,Norgesic | Norgesic Forte | Aspirin / caffeine / orphenadrine,3,11,253,False
+679,Mucinex DM,dextromethorphan / guaifenesin,atc_generic_name,Mucinex DM | Dextromethorphan / guaifenesin | Robitussin Cough + Chest Congestion DM | Mucinex DM Maximum Strength,4,11,679,False
+877,Foradil Aerolizer,formoterol,atc_generic_name,Foradil Aerolizer | Formoterol | Perforomist,3,11,877,False
+1065,Lexiscan,regadenoson,atc_generic_name,Lexiscan | Regadenoson,2,10,1065,False
+1134,Methscopolamine,methscopolamine,atc_generic_name,Methscopolamine | Pamine | Pamine Forte,3,10,1134,False
+514,Rynatan,chlorpheniramine / phenylephrine,atc_generic_name,Rynatan | R-Tanna | Chlorpheniramine / phenylephrine | Ed A-Hist,4,10,514,False
+614,Marezine,cyclizine,atc_generic_name,Marezine | Cyclizine,2,10,614,False
+1344,Tenofovir,tenofovir,atc_generic_name,Tenofovir | Viread,2,10,1344,False
+1370,Ursodiol,ursodeoxycholate,atc_generic_name,Ursodiol | Urso | Urso Forte,3,10,1370,False
+375,Biotin,biotin,atc_generic_name,"Biotin | Hair, Skin & Nails",2,10,375,False
+864,"Influenza virus vaccine, live, trivalent",influenza A virus (H1N1) antigen / influenza A virus (H3N2) antigen / influenza B virus antigen,atc_generic_name,"Influenza virus vaccine, live, trivalent | FluMist Quadrivalent | FluMist",3,10,864,False
+1287,Tyvaso,treprostinil,atc_generic_name,Tyvaso | Remodulin | Treprostinil,3,10,1287,False
+261,Asthmanefrin,racepinephrine,atc_generic_name,Asthmanefrin | Racepinephrine,2,10,261,False
+899,Gas-X,simethicone,atc_generic_name,Gas-X | Mylanta Gas | Simethicone,3,10,899,False
+174,Letairis,ambrisentan,atc_generic_name,Letairis | Ambrisentan,2,10,174,False
+1349,Visine Totality Multi-Symptom Relief,tetrahydrozoline / zinc sulfate,atc_generic_name,Visine Totality Multi-Symptom Relief | Tetrahydrozoline / zinc sulfate,2,10,1349,False
+298,Ayr Saline Nasal,sodium chloride,atc_generic_name,Ayr Saline Nasal | Sodium chloride,2,10,298,False
+1242,Perindopril,perindopril,atc_generic_name,Perindopril,1,10,1242,False
+741,Echinacea,Echinacea preparation,atc_generic_name,Echinacea,1,10,741,False
+766,Glyxambi,empagliflozin / linagliptin,atc_generic_name,Glyxambi | Empagliflozin / linagliptin,2,10,766,False
+526,Chromium picolinate,chromium picolinate,atc_generic_name,Chromium picolinate,1,10,526,False
+1297,Rifampin,rifampin,atc_generic_name,Rifampin | Rifadin,2,9,1297,False
+170,Ammonium lactate,lactate,atc_generic_name,Ammonium lactate | AmLactin | Lac-Hydrin,3,9,170,False
+501,Phenol,phenol,atc_generic_name,Phenol | Chloraseptic Sore Throat Spray,2,9,501,False
+160,Altabax,retapamulin,atc_generic_name,Altabax | Retapamulin,2,9,160,False
+471,Cefixime,cefixime,atc_generic_name,Cefixime | Suprax,2,9,471,False
+554,Clobazam,clobazam,atc_generic_name,Clobazam | Onfi,2,9,554,False
+364,Bextra,valdecoxib,atc_generic_name,Bextra | Valdecoxib,2,9,364,False
+391,Zinc oxide,zinc oxide,atc_generic_name,Zinc oxide | Boudreaux Butt Paste | Triple Paste,3,9,391,False
+1381,Yohimbine,yohimbine,atc_generic_name,Yohimbine,1,9,1381,False
+1274,Theophylline,theophylline,atc_generic_name,Theophylline | Quibron-T | Theo-24 | Uniphyl,4,9,1274,False
+552,Fluoride,sodium fluoride,atc_generic_name,Fluoride | Clinpro 5000 | Fluoridex | Prevident 5000 Plus | Pro-Den Rx,5,9,552,False
+835,Felbatol,felbamate,atc_generic_name,Felbatol | Felbamate,2,9,835,False
+880,Monurol,fosfomycin,atc_generic_name,Monurol | Fosfomycin,2,9,880,False
+696,Digoxin,digoxin,atc_generic_name,Digoxin | Lanoxicaps,2,9,696,False
+445,Fluocinolone,fluocinolone,atc_generic_name,Fluocinolone | Capex | Retisert | Derma-Smoothe / FS (Scalp) | Iluvien | Synalar | Synalar Ointment,7,9,445,False
+1334,Succinylcholine,succinylcholine,atc_generic_name,Succinylcholine,1,9,1334,False
+990,Telaprevir,telaprevir,atc_generic_name,Telaprevir | Incivek,2,9,990,False
+1187,Sorafenib,sorafenib,atc_generic_name,Sorafenib | Nexavar,2,9,1187,False
+1342,Temozolomide,temozolomide,atc_generic_name,Temozolomide | Temodar,2,9,1342,False
+628,Daclatasvir,daclatasvir,atc_generic_name,Daclatasvir | Daklinza,2,9,628,False
+927,Granisetron,granisetron,atc_generic_name,Granisetron | Kytril | Sancuso,3,9,927,False
+523,Chondroitin / glucosamine,chondroitin sulfates / glucosamine,atc_generic_name,Chondroitin / glucosamine | Osteo Bi-Flex | Cosamin DS | Schiff Move Free,4,9,523,False
+564,CoQ10,ubidecarenone,atc_generic_name,CoQ10 | Coenzyme Q10 | Ubiquinone | Liquid Co-Q10,4,9,564,False
+1238,Talwin,pentazocine,atc_generic_name,Talwin | Pentazocine,2,9,1238,False
+1116,Meperidine / promethazine,meperidine / promethazine,atc_generic_name,Meperidine / promethazine,1,9,1116,False
+1220,Ospemifene,ospemifene,atc_generic_name,Ospemifene | Osphena,2,9,1220,False
+774,EnteraGam,enteragam,family_name,EnteraGam | Immune globulin oral,2,9,774,False
+228,Eslicarbazepine,eslicarbazepine,atc_generic_name,Eslicarbazepine | Aptiom,2,9,228,False
+930,Guaifenesin / phenylephrine,guaifenesin / phenylephrine,atc_generic_name,Guaifenesin / phenylephrine,1,9,930,False
+515,Chlorpheniramine / pseudoephedrine,chlorpheniramine / pseudoephedrine,atc_generic_name,Chlorpheniramine / pseudoephedrine | Deconamine,2,9,515,False
+623,Misoprostol,misoprostol,atc_generic_name,Misoprostol | Cytotec,2,8,623,False
+29,Prodrin,acetaminophen / caffeine / isometheptene,atc_generic_name,Prodrin | Acetaminophen / caffeine / isometheptene mucate,2,8,29,False
+183,Amitriptyline / chlordiazepoxide,amitriptyline / chlordiazepoxide,atc_generic_name,Amitriptyline / chlordiazepoxide | Limbitrol | Limbitrol DS,3,8,183,False
+893,Galantamine,galantamine,atc_generic_name,Galantamine | Razadyne ER,2,8,893,False
+641,Viekira Pak,dasabuvir / ombitasvir / paritaprevir / ritonavir,atc_generic_name,Viekira Pak | Dasabuvir / ombitasvir / paritaprevir / ritonavir,2,8,641,False
+393,Terbutaline,terbutaline,atc_generic_name,Terbutaline | Brethine,2,8,393,False
+1374,Valturna,aliskiren / valsartan,atc_generic_name,Valturna,1,8,1374,False
+530,Cinacalcet,cinacalcet,atc_generic_name,Cinacalcet | Sensipar,2,8,530,False
+1288,Renvela,sevelamer,atc_generic_name,Renvela | Sevelamer | Renagel,3,8,1288,False
+1033,Ketotifen,ketotifen,atc_generic_name,Ketotifen | Zaditor,2,8,1033,False
+1083,Lucentis,ranibizumab,atc_generic_name,Lucentis | Ranibizumab,2,8,1083,False
+1025,Jentadueto,linagliptin / metformin,atc_generic_name,Jentadueto | Linagliptin / metformin,2,8,1025,False
+594,Flurandrenolide,flurandrenolide,atc_generic_name,Flurandrenolide | Cordran Tape,2,8,594,False
+368,Casodex,bicalutamide,atc_generic_name,Casodex | Bicalutamide,2,8,368,False
+529,Cimetidine,cimetidine,atc_generic_name,Cimetidine | Tagamet,2,8,529,False
+489,Erbitux,cetuximab,atc_generic_name,Erbitux | Cetuximab,2,8,489,False
+326,Duavee,"bazedoxifene / estrogens, conjugated (USP)",atc_generic_name,Duavee | Bazedoxifene / conjugated estrogens,2,8,326,False
+1188,Simcor,niacin / simvastatin,atc_generic_name,Simcor | Niacin / simvastatin,2,8,1188,False
+790,Halaven,eribulin,atc_generic_name,Halaven | Eribulin,2,8,790,False
+1125,Mestranol / norethindrone,mestranol / norethindrone,atc_generic_name,Mestranol / norethindrone | Necon 1 / 50,2,8,1125,False
+373,Bioflavonoids,bioflavonoids,family_name,Bioflavonoids | Limbrel,2,8,373,False
+408,Bronkaid,ephedrine / guaifenesin,atc_generic_name,Bronkaid | Ephedrine / guaifenesin | Primatene,3,8,408,False
+764,Emla,lidocaine / prilocaine,atc_generic_name,Emla | Lidocaine / prilocaine | Oraqix,3,8,764,False
+616,Cytoxan,cyclophosphamide,atc_generic_name,Cytoxan | Cyclophosphamide,2,8,616,False
+1159,Nystatin / triamcinolone,nystatin / triamcinolone,atc_generic_name,Nystatin / triamcinolone | Mycolog II,2,8,1159,False
+816,Evening Primrose Oil,evening primrose oil,atc_generic_name,Evening Primrose Oil,1,8,816,False
+870,Fluphenazine,fluphenazine,atc_generic_name,Fluphenazine | Prolixin,2,8,870,False
+34,Acetaminophen / chlorpheniramine / phenylephrine,acetaminophen / chlorpheniramine / phenylephrine,atc_generic_name,Acetaminophen / chlorpheniramine / phenylephrine | Alka-Seltzer Plus Cold,2,8,34,False
+517,Chlorthalidone,chlorthalidone,atc_generic_name,Chlorthalidone,1,8,517,False
+837,Felodipine,felodipine,atc_generic_name,Felodipine | Plendil,2,7,837,False
+1228,Taxol,paclitaxel,atc_generic_name,Taxol | Paclitaxel,2,7,1228,False
+861,Florastor,Saccharomyces boulardii,atc_generic_name,Florastor | Saccharomyces boulardii lyo,2,7,861,False
+715,Docetaxel,docetaxel,atc_generic_name,Docetaxel | Taxotere,2,7,715,False
+784,Epoetin alfa,epoetin alfa,atc_generic_name,Epoetin alfa | Epogen | Procrit,3,7,784,False
+810,Ethosuximide,ethosuximide,atc_generic_name,Ethosuximide | Zarontin,2,7,810,False
+487,Nabilone,nabilone,atc_generic_name,Nabilone | Cesamet,2,7,487,False
+1129,Methergine,methylergonovine,atc_generic_name,Methergine | Methylergonovine,2,7,1129,False
+1366,Tryptophan,tryptophan,atc_generic_name,Tryptophan,1,7,1366,False
+745,Sustiva,efavirenz,atc_generic_name,Sustiva | Efavirenz,2,7,745,False
+1311,Saw palmetto,saw palmetto extract,atc_generic_name,Saw palmetto,1,7,1311,False
+859,Glycerin,glycerin,atc_generic_name,Glycerin | Fleet Glycerin Suppositories Adult,2,7,859,False
+1082,Loxapine,loxapine,atc_generic_name,Loxapine,1,7,1082,False
+695,Difluprednate,difluprednate,atc_generic_name,Difluprednate | Durezol,2,7,695,False
+619,Cylert,pemoline,atc_generic_name,Cylert | Pemoline,2,7,619,False
+681,Dextromethorphan / promethazine,dextromethorphan / promethazine,atc_generic_name,Dextromethorphan / promethazine | Promethazine DM,2,7,681,False
+311,Belladonna / opium,belladonna alkaloids / opium,atc_generic_name,Belladonna / opium | B & O Supprettes,2,7,311,False
+454,Carbidopa / entacapone / levodopa,carbidopa / entacapone / levodopa,atc_generic_name,Carbidopa / entacapone / levodopa | Stalevo | Stalevo 150 | Stalevo 200,4,7,454,False
+643,Daypro,oxaprozin,atc_generic_name,Daypro | Oxaprozin,2,7,643,False
+204,Kineret,anakinra,atc_generic_name,Kineret | Anakinra,2,7,204,False
+592,Ribavirin,ribavirin,atc_generic_name,Ribavirin | Copegus | Moderiba | Rebetol | Ribasphere,5,7,592,False
+54,Ornex,acetaminophen / pseudoephedrine,atc_generic_name,Ornex | Sine-Off Maximum Strength | Acetaminophen / pseudoephedrine | Alka-Seltzer Cold and Sinus,4,7,54,False
+211,Flurbiprofen,flurbiprofen,atc_generic_name,Flurbiprofen | Ansaid,2,7,211,False
+1055,Lenalidomide,lenalidomide,atc_generic_name,Lenalidomide | Revlimid,2,7,1055,False
+920,Glyburide,glyburide,atc_generic_name,Glyburide,1,7,920,False
+901,Gefitinib,gefitinib,atc_generic_name,Gefitinib | Iressa,2,7,901,False
+1265,Repaglinide,repaglinide,atc_generic_name,Repaglinide | Prandin,2,7,1265,False
+304,Rasagiline,rasagiline,atc_generic_name,Rasagiline | Azilect,2,7,304,False
+873,"Influenza virus vaccine, inactivated","influenza virus vaccine, inactivated",family_name,"Influenza virus vaccine, inactivated | Fluzone",2,6,873,False
+507,Coricidin HBP Cough & Cold,chlorpheniramine / dextromethorphan,atc_generic_name,Coricidin HBP Cough & Cold | Chlorpheniramine / dextromethorphan,2,6,507,False
+1318,Silver,silver,atc_generic_name,Silver,1,6,1318,False
+315,Bacitracin / neomycin / polymyxin b,bacitracin / neomycin / polymyxin B,atc_generic_name,Bacitracin / neomycin / polymyxin b | Neosporin | Triple Antibiotic,3,6,315,False
+833,Faslodex,fulvestrant,atc_generic_name,Faslodex | Fulvestrant,2,6,833,False
+691,Dificid,fidaxomicin,atc_generic_name,Dificid | Fidaxomicin,2,6,691,False
+720,Doral,quazepam,atc_generic_name,Doral | Quazepam,2,6,720,False
+694,Diflunisal,diflunisal,atc_generic_name,Diflunisal | Dolobid,2,6,694,False
+895,Gamunex,immunoglobulin G,atc_generic_name,Gamunex | Immune globulin intravenous | Octagam | Privigen,4,6,895,False
+27,Excedrin Tension Headache,acetaminophen / caffeine,atc_generic_name,Excedrin Tension Headache | Acetaminophen / caffeine | Excedrin Quick Tab,3,6,27,False
+446,Dextromethorphan / guaifenesin / pseudoephedrine,dextromethorphan / guaifenesin / pseudoephedrine,atc_generic_name,Dextromethorphan / guaifenesin / pseudoephedrine | Maxifed DM | Capmist DM,3,6,446,False
+1316,Uptravi,selexipag,atc_generic_name,Uptravi | Selexipag,2,6,1316,False
+1314,Secobarbital,secobarbital,atc_generic_name,Secobarbital | Seconal | Seconal Sodium,3,6,1314,False
+1022,Ruxolitinib,ruxolitinib,atc_generic_name,Ruxolitinib | Jakafi,2,6,1022,False
+1350,Trimethobenzamide,trimethobenzamide,atc_generic_name,Trimethobenzamide | Tigan,2,6,1350,False
+508,Chlorpheniramine / dextromethorphan / phenylephrine,chlorpheniramine / dextromethorphan / phenylephrine,atc_generic_name,Chlorpheniramine / dextromethorphan / phenylephrine | Sildec-PE DM,2,6,508,False
+600,Dorzolamide / timolol,dorzolamide / timolol,atc_generic_name,Dorzolamide / timolol | Cosopt | Cosopt PF,3,6,600,False
+286,Avandia,rosiglitazone,atc_generic_name,Avandia | Rosiglitazone,2,6,286,False
+670,Dexamethasone / neomycin / polymyxin b,dexamethasone / neomycin / polymyxin B,atc_generic_name,Dexamethasone / neomycin / polymyxin b | Maxitrol | Neo-Poly-Dex,3,6,670,False
+32,Coricidin HBP Cold & Flu,acetaminophen / dextromethorphan + acetaminophen / dextromethorphan / doxylamine,atc_generic_name,Coricidin HBP Cold & Flu | Acetaminophen / chlorpheniramine,2,6,32,False
+633,Danazol,danazol,atc_generic_name,Danazol | Danocrine,2,6,633,False
+404,Brompheniramine,brompheniramine,atc_generic_name,Brompheniramine,1,6,404,False
+191,Amlodipine / telmisartan,amlodipine / telmisartan,atc_generic_name,Amlodipine / telmisartan | Twynsta,2,6,191,False
+671,Dexamethasone / tobramycin,dexamethasone / tobramycin,atc_generic_name,Dexamethasone / tobramycin | TobraDex,2,6,671,False
+1084,Maprotiline,maprotiline,atc_generic_name,Maprotiline | Ludiomil,2,6,1084,False
+1120,Meprobamate,meprobamate,atc_generic_name,Meprobamate | Miltown,2,6,1120,False
+900,Zymar,gatifloxacin,atc_generic_name,Zymar | Gatifloxacin,2,6,900,False
+89,Adenosine,adenosine,atc_generic_name,Adenosine,1,6,89,False
+1259,Polymyxin b / trimethoprim,polymyxin B / trimethoprim,atc_generic_name,Polymyxin b / trimethoprim | Polytrim,2,6,1259,False
+296,Nizatidine,nizatidine,atc_generic_name,Nizatidine | Axid | Axid AR,3,6,296,False
+283,Hydrochlorothiazide / irbesartan,hydrochlorothiazide / irbesartan,atc_generic_name,Hydrochlorothiazide / irbesartan | Avalide,2,6,283,False
+1054,Lecithin,lecithin,atc_generic_name,Lecithin,1,6,1054,False
+828,Gemifloxacin,gemifloxacin,atc_generic_name,Gemifloxacin | Factive,2,6,828,False
+738,Triamterene,triamterene,atc_generic_name,Triamterene | Dyrenium,2,6,738,False
+66,Salicylic acid,salicylic acid,atc_generic_name,Salicylic acid | Acnex | Duofilm | Duoplant | Wart Remover,5,6,66,False
+1178,Natroba,spinosad,atc_generic_name,Natroba | Spinosad,2,6,1178,False
+863,Ofloxacin,ofloxacin,atc_generic_name,Ofloxacin | Floxin,2,6,863,False
+685,Nupercainal,dibucaine,atc_generic_name,Nupercainal | Dibucaine,2,6,685,False
+441,Camphor / menthol,camphor / menthol,atc_generic_name,Camphor / menthol | Tiger Balm | Fast Freeze,3,5,441,False
+235,Arginine,arginine,atc_generic_name,Arginine,1,5,235,False
+361,Betaseron,interferon beta-1b,atc_generic_name,Betaseron | Interferon beta-1b,2,5,361,False
+23,Acetaminophen / aspirin / caffeine / salicylamide,acetaminophen / aspirin / caffeine / salicylamide,atc_generic_name,Acetaminophen / aspirin / caffeine / salicylamide | Levacet,2,5,23,False
+38,Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,atc_generic_name,Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine | Vicks Nyquil D Cold and Flu Nighttime Relief,2,5,38,False
+73,ActoPlus Met,metformin / pioglitazone,atc_generic_name,ActoPlus Met | Metformin / pioglitazone,2,5,73,False
+143,Allerx Dose Pack DF,allerx dose pack df,family_name,Allerx Dose Pack DF,1,5,143,False
+166,Aluminum hydroxide / magnesium trisilicate,aluminum hydroxide / magnesium trisilicate,atc_generic_name,Aluminum hydroxide / magnesium trisilicate,1,5,166,False
+519,Vitamin D3,cholecalciferol + vitamin D3,atc_generic_name,Vitamin D3 | Cholecalciferol | D3,3,5,519,False
+1101,Maxair Autohaler,pirbuterol,atc_generic_name,Maxair Autohaler | Maxair | Pirbuterol,3,5,1101,False
+1008,Niferex,polysaccharide iron complex,atc_generic_name,Niferex | Poly Iron | ProFe | Iron polysaccharide,4,5,1008,False
+710,Norpace CR,disopyramide,atc_generic_name,Norpace CR | Norpace | Disopyramide,3,5,710,False
+723,Dorzolamide,dorzolamide,atc_generic_name,Dorzolamide | Trusopt,2,5,723,False
+760,Eltrombopag,eltrombopag,atc_generic_name,Eltrombopag | Promacta,2,5,760,False
+807,Ethinyl estradiol / folic acid / levonorgestrel,ethinyl estradiol / folic acid / levonorgestrel,family_name,Ethinyl estradiol / folic acid / levonorgestrel,1,5,807,False
+413,Bumetanide,bumetanide,atc_generic_name,Bumetanide | Bumex,2,5,413,False
+415,Bupivacaine,bupivacaine,atc_generic_name,Bupivacaine | Marcaine | Sensorcaine-MPF,3,5,415,False
+238,Fondaparinux,fondaparinux,atc_generic_name,Fondaparinux | Arixtra,2,5,238,False
+1009,Iron sucrose,iron sucrose,atc_generic_name,Iron sucrose | Venofer,2,5,1009,False
+1027,Kava,kava preparation,atc_generic_name,Kava,1,5,1027,False
+1098,Malathion,malathion,atc_generic_name,Malathion | Ovide,2,5,1098,False
+1119,Mepolizumab,mepolizumab,atc_generic_name,Mepolizumab | Nucala,2,5,1119,False
+1139,Mexiletine,mexiletine,atc_generic_name,Mexiletine | Mexitil,2,5,1139,False
+1199,Norel SR,norel sr,family_name,Norel SR,1,5,1199,False
+9,Paclitaxel protein-bound,paclitaxel,atc_generic_name,Paclitaxel protein-bound | Abraxane,2,5,9,False
+1028,Procyclidine,procyclidine,atc_generic_name,Procyclidine | Kemadrin,2,5,1028,False
+1250,Pyrantel,pyrantel,atc_generic_name,Pyrantel | Pin-X | Reese's Pinworm Medicine,3,5,1250,False
+817,Raloxifene,raloxifene,atc_generic_name,Raloxifene | Evista,2,5,817,False
+970,Rezira,hydrocodone / pseudoephedrine,atc_generic_name,Rezira | Hydrocodone / pseudoephedrine,2,5,970,False
+323,Rufinamide,rufinamide,atc_generic_name,Rufinamide | Banzel,2,5,323,False
+256,Soma Compound with Codeine,aspirin / carisoprodol / codeine,atc_generic_name,Soma Compound with Codeine | Aspirin / carisoprodol / codeine,2,5,256,False
+750,Tesamorelin,tesamorelin,atc_generic_name,Tesamorelin | Egrifta,2,5,750,False
+1179,Thiothixene,thiothixene,atc_generic_name,Thiothixene | Navane,2,5,1179,False
+1367,Turmeric,turmeric extract,atc_generic_name,Turmeric,1,5,1367,False
+1387,Zoster vaccine live,varicella-zoster virus vaccine live (Oka-Merck) strain,atc_generic_name,Zoster vaccine live | Zostavax,2,5,1387,False
+1079,Zylet,loteprednol etabonate / tobramycin,atc_generic_name,Zylet | Loteprednol / tobramycin,2,5,1079,False
+114,Albendazole,albendazole,atc_generic_name,Albendazole | Albenza,2,5,114,False
+254,Aspirin / caffeine / salicylamide,aspirin / caffeine / salicylamide,atc_generic_name,Aspirin / caffeine / salicylamide | BC Fast Pain Relief,2,5,254,False
+362,Bethanechol,bethanechol,atc_generic_name,Bethanechol | Urecholine,2,5,362,False
+407,Brompheniramine / pseudoephedrine,brompheniramine / pseudoephedrine,atc_generic_name,Brompheniramine / pseudoephedrine,1,5,407,False
+473,Cefpodoxime,cefpodoxime,atc_generic_name,Cefpodoxime | Vantin,2,5,473,False
+486,Cervidil,dinoprostone,atc_generic_name,Cervidil | Dinoprostone,2,5,486,False
+509,Chlorpheniramine / dextromethorphan / pseudoephedrine,chlorpheniramine / dextromethorphan / pseudoephedrine,atc_generic_name,Chlorpheniramine / dextromethorphan / pseudoephedrine | Maxichlor PSE DM,2,5,509,False
+142,Chlorpheniramine / methscopolamine / phenylephrine,chlorpheniramine / methscopolamine / phenylephrine,atc_generic_name,Chlorpheniramine / methscopolamine / phenylephrine | Allergy DN PE,2,5,142,False
+528,Cilostazol,cilostazol,atc_generic_name,Cilostazol | Pletal,2,5,528,False
+556,Cloderm,clocortolone,atc_generic_name,Cloderm | Clocortolone,2,5,556,False
+1016,Timolol,timolol,atc_generic_name,Timolol | Timoptic | Istalol | Timoptic Ocudose,4,5,1016,False
+1354,Tobramycin,tobramycin,atc_generic_name,Tobramycin | Tobrex,2,5,1354,False
+1295,Vitamin B2,riboflavin,atc_generic_name,Vitamin B2 | Riboflavin,2,5,1295,False
+1339,Zioptan,tafluprost,atc_generic_name,Zioptan | Tafluprost,2,5,1339,False
+355,Cinryze,C1 esterase inhibitor,atc_generic_name,Cinryze | Berinert | C1 esterase inhibitor (human),3,5,355,False
+584,Comtan,entacapone,atc_generic_name,Comtan | Entacapone,2,5,584,False
+972,Hydroquinone,hydroquinone,atc_generic_name,Hydroquinone | Melpaque HP | Melquin HP,3,5,972,False
+992,Incruse Ellipta,umeclidinium,atc_generic_name,Incruse Ellipta | Umeclidinium,2,5,992,False
+125,Methyldopa,methyldopa,atc_generic_name,Methyldopa | Aldomet,2,5,125,False
+259,Percodan,aspirin / oxycodone,atc_generic_name,Percodan | Aspirin / oxycodone,2,5,259,False
+1270,Provenge,sipuleucel-T,atc_generic_name,Provenge | Sipuleucel-T,2,5,1270,False
+18,Quinapril,quinapril,atc_generic_name,Quinapril | Accupril,2,5,18,False
+1221,Sulfacetamide sodium,sulfacetamide,atc_generic_name,Sulfacetamide sodium | Ovace Plus,2,5,1221,False
+165,Gelusil,aluminum hydroxide / magnesium hydroxide / simethicone,atc_generic_name,Gelusil | Di-Gel | Mylanta | Aluminum hydroxide / magnesium hydroxide / simethicone,4,4,165,False
+45,Acetaminophen / diphenhydramine / phenylephrine,acetaminophen / diphenhydramine / phenylephrine,atc_generic_name,Acetaminophen / diphenhydramine / phenylephrine | Sudafed PE Severe Cold | Mucinex Fast-Max Night Time Cold & Flu | Tylenol Allergy Multi-Symptom Nighttime,4,4,45,False
+433,Calcitonin,calcitonin,atc_generic_name,Calcitonin | Fortical | Miacalcin | Miacalcin Nasal,4,4,433,False
+1358,Travatan,travoprost,atc_generic_name,Travatan | Travoprost | Travatan Z,3,4,1358,False
+513,Chlorpheniramine / methscopolamine / pseudoephedrine,chlorpheniramine / methscopolamine / pseudoephedrine,atc_generic_name,Chlorpheniramine / methscopolamine / pseudoephedrine | VisRx Dose Pack,2,4,513,False
+1103,Mephobarbital,mephobarbital,atc_generic_name,Mephobarbital | Mebaral,2,4,1103,False
+438,Menthol / zinc oxide,menthol / zinc oxide,atc_generic_name,Menthol / zinc oxide | Calmoseptine,2,4,438,True
+1165,Naftifine,naftifine,atc_generic_name,Naftifine | Naftin,2,4,1165,False
+1146,Milk thistle,milk thistle extract + milk thistle seed extract,atc_generic_name,Milk thistle,1,4,1146,False
+854,Icatibant,icatibant,atc_generic_name,Icatibant | Firazyr,2,4,854,False
+712,Magnesium salicylate,magnesium salicylate,atc_generic_name,Magnesium salicylate | Doans Pills Extra Strength,2,4,712,False
+902,Gemcitabine,gemcitabine,atc_generic_name,Gemcitabine | Gemzar,2,4,902,False
+100,Flunisolide,flunisolide,atc_generic_name,Flunisolide | Aerobid | Aerobid-M | Nasarel,4,4,100,False
+856,Flavoxate,flavoxate,atc_generic_name,Flavoxate | Urispas,2,4,856,False
+87,Flibanserin,flibanserin,atc_generic_name,Flibanserin | Addyi,2,4,87,False
+847,Ferrous gluconate,ferrous gluconate,atc_generic_name,Ferrous gluconate,1,4,847,False
+647,Firmagon,degarelix,atc_generic_name,Firmagon | Degarelix,2,4,647,False
+406,Dimetapp Children's Cold & Cough,brompheniramine / dextromethorphan / phenylephrine,atc_generic_name,Dimetapp Children's Cold & Cough | BroveX PEB DM | Brompheniramine / dextromethorphan / phenylephrine,3,4,406,False
+266,Atenolol / chlorthalidone,atenolol / chlorthalidone,atc_generic_name,Atenolol / chlorthalidone | Tenoretic 50,2,4,266,False
+184,Amitriptyline / perphenazine,amitriptyline / perphenazine,atc_generic_name,Amitriptyline / perphenazine | Triavil,2,4,184,False
+234,Brovana,arformoterol,atc_generic_name,Brovana | Arformoterol,2,4,234,False
+416,Bupivacaine liposome,bupivacaine,atc_generic_name,Bupivacaine liposome | Exparel,2,4,416,False
+453,Carbamide peroxide,carbamide peroxide,atc_generic_name,Carbamide peroxide | Debrox,2,4,453,False
+511,Chlorpheniramine / hydrocodone / phenylephrine,chlorpheniramine / hydrocodone / phenylephrine,atc_generic_name,Chlorpheniramine / hydrocodone / phenylephrine,1,4,511,False
+194,Amoxapine,amoxapine,atc_generic_name,Amoxapine | Asendin,2,4,194,False
+136,Tekturna HCT,aliskiren / hydrochlorothiazide,atc_generic_name,Tekturna HCT | Aliskiren / hydrochlorothiazide,2,4,136,False
+222,Apomorphine,apomorphine,atc_generic_name,Apomorphine | Apokyn,2,4,222,False
+650,Torsemide,torsemide,atc_generic_name,Torsemide | Demadex,2,4,650,False
+127,Alemtuzumab,alemtuzumab,atc_generic_name,Alemtuzumab | Lemtrada,2,4,127,False
+1039,Pegloticase,pegloticase,atc_generic_name,Pegloticase | Krystexxa,2,4,1039,False
+1246,Phenylephrine / pramoxine,phenylephrine / pramoxine,atc_generic_name,Phenylephrine / pramoxine,1,4,1246,False
+1340,Tarka,trandolapril / verapamil,atc_generic_name,Tarka | Trandolapril / verapamil,2,4,1340,False
+1262,Pramlintide,pramlintide,atc_generic_name,Pramlintide | Symlin | SymlinPen 60,3,4,1262,False
+36,Acetaminophen / dexbrompheniramine / pseudoephedrine,acetaminophen / dexbrompheniramine / pseudoephedrine,atc_generic_name,Acetaminophen / dexbrompheniramine / pseudoephedrine | Drixoral Cold / Flu,2,4,36,False
+92,Adriamycin,doxorubicin,atc_generic_name,Adriamycin | Doxorubicin,2,4,92,False
+945,Trastuzumab,trastuzumab,atc_generic_name,Trastuzumab | Herceptin,2,4,945,False
+1369,Undecylenic acid,undecylenate,atc_generic_name,Undecylenic acid,1,4,1369,False
+229,Vitamin e,vitamin E,atc_generic_name,Vitamin e | Aquavite-E,2,4,229,False
+1141,Vusion,miconazole / petrolatum / zinc oxide,atc_generic_name,Vusion | Miconazole / zinc oxide,2,4,1141,False
+636,Xigduo XR,dapagliflozin / metformin,atc_generic_name,Xigduo XR | Dapagliflozin / metformin,2,4,636,False
+1376,Zelboraf,vemurafenib,atc_generic_name,Zelboraf | Vemurafenib,2,4,1376,False
+680,Dextromethorphan / guaifenesin / phenylephrine,dextromethorphan / guaifenesin / phenylephrine,atc_generic_name,Dextromethorphan / guaifenesin / phenylephrine | Mucinex Fast-Max Severe Congestion & Cough,2,4,680,False
+673,Dexchlorpheniramine,dexchlorpheniramine,atc_generic_name,Dexchlorpheniramine,1,4,673,False
+231,Darbepoetin alfa,darbepoetin alfa,atc_generic_name,Darbepoetin alfa | Aranesp,2,4,231,False
+639,Darunavir,darunavir,atc_generic_name,Darunavir | Prezista,2,4,639,False
+8,Dysport,botulinum toxin type A,atc_generic_name,Dysport | AbobotulinumtoxinA,2,4,8,False
+377,Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride,bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride,family_name,Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride | HalfLytely and Bisacodyl,2,4,377,False
+189,Exforge HCT,amlodipine / hydrochlorothiazide / valsartan,atc_generic_name,Exforge HCT | Amlodipine / hydrochlorothiazide / valsartan,2,4,189,False
+783,Eplerenone,eplerenone,atc_generic_name,Eplerenone | Inspra,2,4,783,False
+1299,Riluzole,riluzole,atc_generic_name,Riluzole | Rilutek,2,4,1299,False
+1359,Triptorelin,triptorelin,atc_generic_name,Triptorelin | Trelstar LA | Trelstar,3,4,1359,False
+469,Spectracef,cefditoren,atc_generic_name,Spectracef | Cefditoren,2,4,469,False
+488,Zyrtec-D,cetirizine / pseudoephedrine,atc_generic_name,Zyrtec-D | Cetirizine / pseudoephedrine | Zyrtec-D 12 Hour,3,4,488,False
+1240,Trental,pentoxifylline,atc_generic_name,Trental | Pentoxifylline,2,4,1240,False
+1206,Striverdi Respimat,olodaterol,atc_generic_name,Striverdi Respimat | Olodaterol,2,4,1206,False
+608,Xalkori,crizotinib,atc_generic_name,Xalkori | Crizotinib,2,4,608,False
+1,A / B Otic,antipyrine / benzocaine,atc_generic_name,A / B Otic | Antipyrine / benzocaine,2,4,1,False
+957,Insulin isophane,insulin isophane,atc_generic_name,Insulin isophane | Novolin N | Humulin N,3,4,957,False
+987,Ilevro,nepafenac,atc_generic_name,Ilevro | Nevanac | Nepafenac,3,4,987,False
+1160,Myfortic,mycophenolic acid,atc_generic_name,Myfortic | Mycophenolic acid,2,4,1160,False
+343,Benzoic acid / salicylic acid,benzoate / salicylic acid,atc_generic_name,Benzoic acid / salicylic acid | Bensal HP,2,4,343,False
+338,Bendamustine,bendamustine,atc_generic_name,Bendamustine | Treanda,2,4,338,False
+890,Tiagabine,tiagabine,atc_generic_name,Tiagabine | Gabitril,2,4,890,False
+369,Bicillin L-A,penicillin G,atc_generic_name,Bicillin L-A | Penicillin g benzathine,2,4,369,False
+947,Hexachlorophene,hexachlorophene,atc_generic_name,Hexachlorophene | pHisoHex,2,3,947,False
+186,Caduet,amlodipine / atorvastatin,atc_generic_name,Caduet | Amlodipine / atorvastatin,2,3,186,False
+419,Butabarbital,butabarbital,atc_generic_name,Butabarbital | Butisol Sodium,2,3,419,False
+248,Ascorbic acid,ascorbic acid,atc_generic_name,Ascorbic acid | Vitamin C,2,3,248,False
+1229,Vectibix,panitumumab,atc_generic_name,Vectibix | Panitumumab,2,3,1229,False
+950,Supprelin LA,histrelin,atc_generic_name,Supprelin LA | Histrelin,2,3,950,False
+789,Ergotamine,ergotamine,atc_generic_name,Ergotamine | Ergomar,2,3,789,False
+610,Eurax,crotamiton,atc_generic_name,Eurax | Crotamiton,2,3,610,False
+456,Palgic,carbinoxamine,atc_generic_name,Palgic | Carbinoxamine,2,3,456,False
+1026,Kaletra,lopinavir / ritonavir,atc_generic_name,Kaletra | Lopinavir / ritonavir,2,3,1026,False
+954,Humalog Mix 75 / 25,"insulin lispro / insulin lispro protamine, human",atc_generic_name,Humalog Mix 75 / 25 | Insulin lispro / insulin lispro protamine,2,3,954,False
+801,Ogen,estropipate,atc_generic_name,Ogen | Estropipate,2,3,801,False
+322,Balsam peru / castor oil / trypsin,castor oil / Peruvian balsam / trypsin,atc_generic_name,Balsam peru / castor oil / trypsin | Granulex | Xenaderm,3,3,322,False
+3,Abacavir / lamivudine,abacavir / lamivudine,atc_generic_name,Abacavir / lamivudine | Epzicom,2,3,3,False
+317,Bacitracin / polymyxin b,bacitracin / polymyxin B,atc_generic_name,Bacitracin / polymyxin b | Polysporin First Aid Antibiotic Ointment,2,3,317,False
+177,Amikacin,amikacin,atc_generic_name,Amikacin | Amikin,2,3,177,False
+51,Acetaminophen / phenylephrine,acetaminophen / phenylephrine,atc_generic_name,Acetaminophen / phenylephrine | Excedrin Sinus Headache | Sudafed PE Pressure + Pain,3,3,51,False
+646,Demeclocycline,demeclocycline,atc_generic_name,Demeclocycline | Declomycin,2,3,646,False
+308,Cranberry,cranberry allergenic extract + cranberry preparation,atc_generic_name,Cranberry | Azo-Cranberry,2,3,308,False
+692,Diflorasone,diflorasone,atc_generic_name,Diflorasone | Psorcon | Psorcon E,3,3,692,False
+457,Carboplatin,carboplatin,atc_generic_name,Carboplatin | Paraplatin,2,3,457,False
+466,Ceftibuten,ceftibuten,atc_generic_name,Ceftibuten | Cedax,2,3,466,False
+492,Chaparral,chaparral,family_name,Chaparral,1,3,492,False
+524,Chondroitin / glucosamine / methylsulfonylmethane,chondroitin sulfates / glucosamine / methylsulfonylmethane,atc_generic_name,Chondroitin / glucosamine / methylsulfonylmethane,1,3,524,False
+578,Collagenase clostridium histolyticum,collagenase Clostridium histolyticum,atc_generic_name,Collagenase clostridium histolyticum | Xiaflex,2,3,578,False
+449,Captopril,captopril,atc_generic_name,Captopril,1,3,449,False
+275,Atropine / difenoxin,atropine / difenoxin,atc_generic_name,Atropine / difenoxin | Motofen,2,3,275,False
+153,Alpha 1-proteinase inhibitor,alpha 1-antitrypsin,atc_generic_name,Alpha 1-proteinase inhibitor | Prolastin-C | Zemaira,3,3,153,False
+245,Artemether / lumefantrine,artemether / lumefantrine,atc_generic_name,Artemether / lumefantrine | Coartem,2,3,245,False
+202,Aspirin / caffeine,aspirin / caffeine,atc_generic_name,Aspirin / caffeine | Anacin,2,3,202,False
+929,Guaifenesin / hydrocodone,guaifenesin / hydrocodone,atc_generic_name,Guaifenesin / hydrocodone,1,3,929,False
+754,Epinastine,epinastine,atc_generic_name,Epinastine | Elestat,2,3,754,False
+772,Fuzeon,enfuvirtide,atc_generic_name,Fuzeon | Enfuvirtide,2,3,772,False
+1000,Insulin aspart / insulin aspart protamine,"insulin aspart protamine, human",atc_generic_name,Insulin aspart / insulin aspart protamine | NovoLog Mix 70 / 30,2,3,1000,False
+894,Immune globulin intravenous and subcutaneous,immunoglobulin G,atc_generic_name,Immune globulin intravenous and subcutaneous | Gammagard | Gamunex-C,3,3,894,False
+390,Botulinum toxin type b,botulinum toxin type B,atc_generic_name,Botulinum toxin type b | Myobloc,2,3,390,False
+370,Bifidobacterium infantis / lactobacillus acidophilus,bifidobacterium infantis / lactobacillus acidophilus,family_name,Bifidobacterium infantis / lactobacillus acidophilus | Phillips Colon Health,2,3,370,False
+1004,Interferon alfa-2b,interferon alfa-2b,atc_generic_name,Interferon alfa-2b | Intron A,2,3,1004,False
+1014,Isosorbide dinitrate,isosorbide dinitrate,atc_generic_name,Isosorbide dinitrate,1,3,1014,False
+782,Lamivudine,lamivudine,atc_generic_name,Lamivudine | Epivir | Epivir-HBV,3,3,782,False
+1209,Simeprevir,simeprevir,atc_generic_name,Simeprevir | Olysio,2,3,1209,False
+580,Lamivudine / zidovudine,lamivudine / zidovudine,atc_generic_name,Lamivudine / zidovudine | Combivir,2,3,580,False
+896,Ganciclovir,ganciclovir,atc_generic_name,Ganciclovir | Zirgan,2,3,896,False
+933,Guarana,guarana preparation,atc_generic_name,Guarana,1,3,933,False
+935,Halcinonide,halcinonide,atc_generic_name,Halcinonide | Halog | Halog-E,3,3,935,False
+981,Hyoscyamine / methenamine / methylene blue / sodium biphosphate,"hyoscyamine / methenamine / methylene blue / sodium phosphate, monobasic",atc_generic_name,Hyoscyamine / methenamine / methylene blue / sodium biphosphate | Uta,2,3,981,False
+942,Heme iron polypeptide,heme iron polypeptide,atc_generic_name,Heme iron polypeptide | Proferrin-ES,2,3,942,False
+777,Enzalutamide,enzalutamide,atc_generic_name,Enzalutamide | Xtandi,2,3,777,False
+780,Ephedrine,ephedrine,atc_generic_name,Ephedrine,1,3,780,False
+1192,Nimodipine,nimodipine,atc_generic_name,Nimodipine | Nimotop,2,3,1192,False
+1186,Nevirapine,nevirapine,atc_generic_name,Nevirapine | Viramune,2,3,1186,False
+1177,Natpara,parathyroid hormone,atc_generic_name,Natpara | Parathyroid hormone,2,3,1177,False
+1138,Metolazone,metolazone,atc_generic_name,Metolazone | Zaroxolyn,2,3,1138,False
+1011,Marplan,isocarboxazid,atc_generic_name,Marplan | Isocarboxazid,2,3,1011,False
+1135,Methylcellulose,methylcellulose,atc_generic_name,Methylcellulose,1,3,1135,False
+499,Leukeran,chlorambucil,atc_generic_name,Leukeran | Chlorambucil,2,3,499,False
+1222,Oxaliplatin,oxaliplatin,atc_generic_name,Oxaliplatin,1,3,1222,False
+567,Prezcobix,cobicistat / darunavir,atc_generic_name,Prezcobix | Cobicistat / darunavir,2,3,567,False
+340,Probenecid,probenecid,atc_generic_name,Probenecid | Benemid,2,3,340,False
+711,Pamabrom,pamabrom,atc_generic_name,Pamabrom | Diurex Water Capsules,2,3,711,False
+728,Droperidol,droperidol,atc_generic_name,Droperidol | Inapsine,2,3,728,False
+997,Picato,ingenol mebutate,atc_generic_name,Picato | Ingenol,2,3,997,False
+1252,Piperacillin / tazobactam,piperacillin / tazobactam,atc_generic_name,Piperacillin / tazobactam | Zosyn,2,3,1252,False
+1256,Pneumococcal 23-polyvalent vaccine,pneumococcal 23-polyvalent vaccine,family_name,Pneumococcal 23-polyvalent vaccine,1,3,1256,False
+955,Paromomycin,paromomycin,atc_generic_name,Paromomycin | Humatin,2,3,955,False
+396,Simbrinza,brimonidine / brinzolamide,atc_generic_name,Simbrinza | Brimonidine / brinzolamide,2,3,396,False
+400,Siliq,brodalumab,atc_generic_name,Siliq | Brodalumab,2,3,400,False
+709,Salsalate,salsalate,atc_generic_name,Salsalate | Disalcid,2,3,709,False
+883,Salicylic acid / sulfur,salicylic acid / sulfur,atc_generic_name,Salicylic acid / sulfur | Fostex Medicated | Pernox | Sebulex,4,3,883,False
+1290,Reserpine,reserpine,atc_generic_name,Reserpine,1,3,1290,False
+1284,Red yeast rice,red yeast rice,atc_generic_name,Red yeast rice,1,3,1284,False
+1357,Tolnaftate,tolnaftate,atc_generic_name,Tolnaftate,1,3,1357,False
+1239,Thiopental,thiopental,atc_generic_name,Thiopental | Pentothal,2,3,1239,False
+1365,Tropicamide,tropicamide,atc_generic_name,Tropicamide,1,3,1365,False
+767,Synjardy,empagliflozin / metformin,atc_generic_name,Synjardy | Empagliflozin / metformin,2,3,767,False
+1286,Zanamivir,zanamivir,atc_generic_name,Zanamivir | Relenza,2,3,1286,False
+17,Zafirlukast,zafirlukast,atc_generic_name,Zafirlukast | Accolate,2,3,17,False
+1267,Ziconotide,ziconotide,atc_generic_name,Ziconotide | Prialt,2,3,1267,False
+917,Glucose,glucose,atc_generic_name,Glucose | Insta-Glucose,2,3,917,False
+918,Glyburide / metformin,glyburide / metformin,atc_generic_name,Glyburide / metformin | Glucovance,2,3,918,False
+1378,Vincristine,vincristine,atc_generic_name,Vincristine | Vincasar PFS,2,3,1378,False
+1203,Nplate,romiplostim,atc_generic_name,Nplate | Romiplostim,2,2,1203,False
+1167,Naloxone / oxycodone,naloxone / oxycodone,atc_generic_name,Naloxone / oxycodone | Targiniq ER,2,2,1167,False
+1015,Isoxsuprine,isoxsuprine,atc_generic_name,Isoxsuprine | Vasodilan,2,2,1015,False
+998,Innohep,tinzaparin,atc_generic_name,Innohep | Tinzaparin,2,2,998,False
+881,Fosinopril,fosinopril,atc_generic_name,Fosinopril | Monopril,2,2,881,False
+660,DermaZinc Shampoo,zinc pyrithione,atc_generic_name,DermaZinc Shampoo | Pyrithione zinc,2,2,660,False
+500,Chloramphenicol,chloramphenicol,atc_generic_name,Chloramphenicol | Chloromycetin,2,2,500,False
+436,Calcium acetate,calcium acetate,atc_generic_name,Calcium acetate | PhosLo,2,2,436,False
+357,Betadine Aerosol Spray,povidone-iodine,atc_generic_name,Betadine Aerosol Spray | Povidone iodine,2,2,357,False
+155,BeneFix,factor IX,atc_generic_name,BeneFix | Coagulation factor ix | Alphanine SD,3,2,155,False
+270,Atovaquone,atovaquone,atc_generic_name,Atovaquone | Mepron,2,2,270,False
+178,Amiloride,amiloride,atc_generic_name,Amiloride | Midamor,2,2,178,False
+101,Afatinib,afatinib,atc_generic_name,Afatinib | Gilotrif,2,2,101,False
+94,Advate,factor VIII,atc_generic_name,Advate | Nuwiq | Antihemophilic factor,3,2,94,False
+41,Acetaminophen / dextromethorphan / phenylephrine,acetaminophen / dextromethorphan / phenylephrine,atc_generic_name,Acetaminophen / dextromethorphan / phenylephrine | Vicks Dayquil Cold & Flu Relief,2,2,41,False
+919,Glutamine,glutamine,atc_generic_name,Glutamine,1,2,919,False
+916,Glucosamine,glucosamine,atc_generic_name,Glucosamine,1,2,916,False
+915,Glipizide / metformin,glipizide / metformin,atc_generic_name,Glipizide / metformin,1,2,915,False
+1198,Nonoxynol 9,nonoxynol-9,atc_generic_name,Nonoxynol 9,1,2,1198,False
+149,Nesina,alogliptin,atc_generic_name,Nesina | Alogliptin,2,2,149,False
+1163,Nafarelin,nafarelin,atc_generic_name,Nafarelin | Synarel,2,2,1163,False
+418,Myleran,busulfan,atc_generic_name,Myleran | Busulfan,2,2,418,False
+1155,Moexipril,moexipril,atc_generic_name,Moexipril | Univasc,2,2,1155,False
+167,Metaproterenol,metaproterenol,atc_generic_name,Metaproterenol | Alupent,2,2,167,False
+1118,Mepivacaine,mepivacaine,atc_generic_name,Mepivacaine | Polocaine,2,2,1118,False
+1115,Menthol,menthol,atc_generic_name,Menthol,1,2,1115,False
+1099,Maraviroc,maraviroc,atc_generic_name,Maraviroc | Selzentry,2,2,1099,False
+786,Magnesium sulfate,magnesium sulfate,atc_generic_name,Magnesium sulfate | Epsom Salt,2,2,786,False
+1092,Magnesium amino acids chelate,magnesium amino acid chelate,atc_generic_name,Magnesium amino acids chelate,1,2,1092,False
+215,Antihemophilic factor / von willebrand factor,factor VIII / von Willebrand factor,atc_generic_name,Antihemophilic factor / von willebrand factor | Humate-P,2,2,215,False
+199,Ampicillin / sulbactam,ampicillin / sulbactam,atc_generic_name,Ampicillin / sulbactam | Unasyn,2,2,199,False
+198,Ampicillin,ampicillin,atc_generic_name,Ampicillin,1,2,198,False
+21,Acetaminophen / aspirin,acetaminophen / aspirin,atc_generic_name,Acetaminophen / aspirin | Excedrin Back & Body,2,2,21,False
+16,Acarbose,acarbose,atc_generic_name,Acarbose,1,2,16,False
+139,Allantoin / camphor / phenol,allantoin / camphor / phenol,atc_generic_name,Allantoin / camphor / phenol | Blistex,2,2,139,False
+120,Alcortin A,aloe polysaccharide / hydrocortisone / iodoquinol,atc_generic_name,Alcortin A | Aloe vera / hydrocortisone / iodoquinol,2,2,120,False
+119,Alclometasone,alclometasone,atc_generic_name,Alclometasone,1,2,119,False
+67,Acrivastine / pseudoephedrine,acrivastine / pseudoephedrine,atc_generic_name,Acrivastine / pseudoephedrine | Semprex-D,2,2,67,False
+30,Acetaminophen / caffeine / magnesium salicylate,acetaminophen / caffeine / magnesium salicylate,atc_generic_name,Acetaminophen / caffeine / magnesium salicylate | KneeRelief,2,2,30,False
+428,Calamine,calamine,atc_generic_name,Calamine,1,2,428,False
+402,Bromfenac,bromfenac,atc_generic_name,Bromfenac | Prolensa,2,2,402,False
+399,Brivaracetam,brivaracetam,atc_generic_name,Brivaracetam | Briviact,2,2,399,False
+387,Bosentan,bosentan,atc_generic_name,Bosentan | Tracleer,2,2,387,False
+383,Blephamide,prednisolone / sulfacetamide,atc_generic_name,Blephamide | Prednisolone / sulfacetamide sodium,2,2,383,False
+363,Bexarotene,bexarotene,atc_generic_name,Bexarotene | Targretin,2,2,363,False
+356,Besivance,besifloxacin,atc_generic_name,Besivance | Besifloxacin,2,2,356,False
+350,Benzoyl peroxide / sulfur,benzoyl peroxide / sulfur,atc_generic_name,Benzoyl peroxide / sulfur | NuOx,2,2,350,False
+285,Avandamet,metformin / rosiglitazone,atc_generic_name,Avandamet | Metformin / rosiglitazone,2,2,285,False
+281,Auranofin,auranofin,atc_generic_name,Auranofin | Ridaura,2,2,281,False
+233,Arcalyst,rilonacept,atc_generic_name,Arcalyst | Rilonacept,2,2,233,False
+384,Victrelis,boceprevir,atc_generic_name,Victrelis | Boceprevir,2,2,384,False
+386,Velcade,bortezomib,atc_generic_name,Velcade | Bortezomib,2,2,386,False
+1373,Valerian,valerian root extract,atc_generic_name,Valerian,1,2,1373,False
+1356,Tolmetin,tolmetin,atc_generic_name,Tolmetin | Tolectin DS,2,2,1356,False
+1109,Thioridazine,thioridazine,atc_generic_name,Thioridazine | Mellaril,2,2,1109,False
+50,Talacen,acetaminophen / pentazocine,atc_generic_name,Talacen | Acetaminophen / pentazocine,2,2,50,False
+1335,Sucroferric oxyhydroxide,sucroferric oxyhydroxide,atc_generic_name,Sucroferric oxyhydroxide | Velphoro,2,2,1335,False
+1285,Stivarga,regorafenib,atc_generic_name,Stivarga | Regorafenib,2,2,1285,False
+1035,Sodium polystyrene sulfonate,sodium polystyrene sulfonate,atc_generic_name,Sodium polystyrene sulfonate | Kionex,2,2,1035,False
+19,Sectral,acebutolol,atc_generic_name,Sectral | Acebutolol,2,2,19,False
+1310,Sansert,methysergide,atc_generic_name,Sansert,1,2,1310,False
+1308,Salmeterol,salmeterol,atc_generic_name,Salmeterol,1,2,1308,False
+1303,Rocuronium,rocuronium,atc_generic_name,Rocuronium,1,2,1303,False
+778,Eovist,gadoxetate,atc_generic_name,Eovist | Gadoxetate disodium,2,2,778,False
+753,Electrolyte replacement solutions,electrolyte replacement solutions,family_name,Electrolyte replacement solutions,1,2,753,False
+705,Diphenhydramine / hydrocortisone,diphenhydramine / hydrocortisone,atc_generic_name,Diphenhydramine / hydrocortisone | HC-Derma-Pax,2,2,705,False
+688,Dicloxacillin,dicloxacillin,atc_generic_name,Dicloxacillin,1,2,688,False
+674,Dexchlorpheniramine / dextromethorphan / pseudoephedrine,dexchlorpheniramine / dextromethorphan / pseudoephedrine,atc_generic_name,Dexchlorpheniramine / dextromethorphan / pseudoephedrine,1,2,674,False
+654,Deoxycholic acid,deoxycholate,atc_generic_name,Deoxycholic acid | Kybella,2,2,654,False
+634,Dantrolene,dantrolene,atc_generic_name,Dantrolene | Dantrium,2,2,634,False
+502,Dallergy,chlorcyclizine / phenylephrine,atc_generic_name,Dallergy | Chlorcyclizine / phenylephrine,2,2,502,False
+603,Creatine,creatine,atc_generic_name,Creatine,1,2,603,False
+587,Conestat alfa,C1 esterase inhibitor,atc_generic_name,Conestat alfa | Ruconest,2,2,587,False
+575,Colchicine / probenecid,colchicine / probenecid,atc_generic_name,Colchicine / probenecid | Probenecid and Colchicine,2,2,575,False
+572,Codimal DM,dextromethorphan / phenylephrine / pyrilamine,atc_generic_name,Codimal DM | Dextromethorphan / phenylephrine / pyrilamine,2,2,572,False
+437,Calcium carbonate / simethicone,calcium carbonate / simethicone,atc_generic_name,Calcium carbonate / simethicone,1,2,437,False
+909,Ginseng,ginseng preparation,atc_generic_name,Ginseng,1,2,909,False
+905,Gentian violet,gentian violet,atc_generic_name,Gentian violet,1,2,905,False
+891,Gadobutrol,gadobutrol,atc_generic_name,Gadobutrol | Gadavist,2,2,891,False
+874,Folic acid,folic acid,atc_generic_name,Folic acid,1,2,874,False
+826,Fluorometholone,fluorometholone,atc_generic_name,Fluorometholone | FML Forte Liquifilm,2,2,826,False
+851,Filgrastim,filgrastim,atc_generic_name,Filgrastim | Neupogen,2,2,851,False
+282,Ferric citrate,ferric citrate,atc_generic_name,Ferric citrate | Auryxia,2,2,282,False
+843,Feraheme,ferumoxytol,atc_generic_name,Feraheme | Ferumoxytol,2,2,843,False
+840,Fenoprofen,fenoprofen,atc_generic_name,Fenoprofen | Nalfon,2,2,840,False
+1294,Rho (d) immune globulin,Rho(D) immune globulin,atc_generic_name,Rho (d) immune globulin | WinRho SDF,2,2,1294,False
+662,Prednicarbate,prednicarbate,atc_generic_name,Prednicarbate | Dermatop,2,2,662,False
+371,Praziquantel,praziquantel,atc_generic_name,Praziquantel | Biltricide,2,2,371,False
+1261,Potassium citrate,potassium citrate,atc_generic_name,Potassium citrate,1,2,1261,False
+1258,Polidocanol,polidocanol,atc_generic_name,Polidocanol,1,2,1258,False
+1234,Plegridy,peginterferon beta-1a,atc_generic_name,Plegridy | Peginterferon beta-1a,2,2,1234,False
+1248,Pilocarpine,pilocarpine,atc_generic_name,Pilocarpine | Salagen,2,2,1248,False
+111,Pemirolast,pemirolast,atc_generic_name,Pemirolast | Alamast,2,2,111,False
+133,Pemetrexed,pemetrexed,atc_generic_name,Pemetrexed | Alimta,2,2,133,False
+974,Paremyd,p-hydroxyamphetamine / tropicamide,atc_generic_name,Paremyd | Hydroxyamphetamine / tropicamide,2,2,974,False
+1225,Oxiconazole,oxiconazole,atc_generic_name,Oxiconazole | Oxistat,2,2,1225,False
+1089,Opsumit,macitentan,atc_generic_name,Opsumit | Macitentan,2,2,1089,False
+768,Odefsey,emtricitabine / rilpivirine / tenofovir alafenamide,atc_generic_name,Odefsey | Emtricitabine / rilpivirine / tenofovir alafenamide,2,2,768,False
+1201,Norfloxacin,norfloxacin,atc_generic_name,Norfloxacin | Noroxin,2,2,1201,False
+814,Etravirine,etravirine,atc_generic_name,Etravirine | Intelence,2,2,814,False
+803,Ethambutol,ethambutol,atc_generic_name,Ethambutol,1,2,803,False
+799,Esterified estrogens,"estrogens, esterified (USP)",atc_generic_name,Esterified estrogens | Menest,2,2,799,False
+785,Epoprostenol,epoprostenol,atc_generic_name,Epoprostenol | Flolan,2,2,785,False
+993,Indapamide,indapamide,atc_generic_name,Indapamide,1,2,993,False
+985,Iclusig,ponatinib,atc_generic_name,Iclusig | Ponatinib,2,2,985,False
+973,Hydroxocobalamin,hydroxocobalamin,atc_generic_name,Hydroxocobalamin,1,2,973,False
+971,Hydrocortisone / lidocaine,hydrocortisone / lidocaine,atc_generic_name,Hydrocortisone / lidocaine,1,2,971,False
+121,Hydrochlorothiazide / spironolactone,hydrochlorothiazide / spironolactone,atc_generic_name,Hydrochlorothiazide / spironolactone | Aldactazide,2,2,121,False
+952,Horse chestnut,horse chestnut preparation,atc_generic_name,Horse chestnut,1,2,952,False
+420,Gynazole-1,butoconazole,atc_generic_name,Gynazole-1 | Butoconazole,2,2,420,False
+875,Gonal-f,follitropin alfa,atc_generic_name,Gonal-f | Follicle stimulating hormone,2,2,875,False
+1066,Lidocaine / menthol,lidocaine / menthol,atc_generic_name,Lidocaine / menthol,1,2,1066,False
+1056,Lesinurad,lesinurad,atc_generic_name,Lesinurad | Zurampic,2,2,1056,False
+882,Lanthanum carbonate,lanthanum carbonate,atc_generic_name,Lanthanum carbonate | Fosrenol,2,2,882,False
+1046,Lactic acid,lactate,atc_generic_name,Lactic acid,1,2,1046,False
+1041,L-Methylfolate Calcium,l-methylfolate calcium,family_name,L-Methylfolate Calcium,1,2,1041,False
+744,Savaysa,edoxaban,atc_generic_name,Savaysa | Edoxaban,2,1,744,False
+1313,Scullcap,skullcap preparation,atc_generic_name,Scullcap,1,1,1313,False
+1319,Silver nitrate,silver nitrate,atc_generic_name,Silver nitrate,1,1,1319,False
+1321,Slippery elm,elm extract,atc_generic_name,Slippery elm,1,1,1321,False
+1322,Sodium bicarbonate,sodium bicarbonate,atc_generic_name,Sodium bicarbonate,1,1,1322,False
+1323,Sodium hypochlorite,hypochlorite,atc_generic_name,Sodium hypochlorite,1,1,1323,False
+1328,Sorbitol,sorbitol,atc_generic_name,Sorbitol,1,1,1328,False
+1333,Streptokinase,streptokinase,atc_generic_name,Streptokinase,1,1,1333,False
+1336,Sulfinpyrazone,sulfinpyrazone,atc_generic_name,Sulfinpyrazone,1,1,1336,False
+1337,Sulfur,sulfur,atc_generic_name,Sulfur,1,1,1337,False
+1343,Temsirolimus,temsirolimus,atc_generic_name,Temsirolimus | Torisel,2,1,1343,False
+1346,Tetracaine,tetracaine,atc_generic_name,Tetracaine,1,1,1346,False
+522,Trilisate,choline / magnesium salicylate,atc_generic_name,Trilisate | Choline salicylate / magnesium salicylate,2,1,522,False
+1361,Trimipramine,trimipramine,atc_generic_name,Trimipramine,1,1,1361,False
+1363,Triprolidine,triprolidine,atc_generic_name,Triprolidine | Zymine,2,1,1363,False
+1264,Tronolane Anesthetic for Hemorrhoids,pramoxine / zinc oxide,atc_generic_name,Tronolane Anesthetic for Hemorrhoids | Pramoxine / zinc oxide,2,1,1264,False
+1237,Pennyroyal,pennyroyal,family_name,Pennyroyal,1,1,1237,False
+1182,Pentobarbital,pentobarbital,atc_generic_name,Pentobarbital | Nembutal Sodium,2,1,1182,False
+1241,Peppermint,peppermint allergenic extract + peppermint preparation,atc_generic_name,Peppermint,1,1,1241,False
+1247,Phenylephrine / pyrilamine,phenylephrine / pyrilamine,atc_generic_name,Phenylephrine / pyrilamine,1,1,1247,False
+1251,Pindolol,pindolol,atc_generic_name,Pindolol,1,1,1251,False
+1253,Piperonyl butoxide / pyrethrins,piperonyl butoxide / pyrethrins,atc_generic_name,Piperonyl butoxide / pyrethrins | RID,2,1,1253,False
+1257,Podophyllum resin,podophyllin,atc_generic_name,Podophyllum resin,1,1,1257,False
+850,Polycarbophil,calcium polycarbophil,atc_generic_name,Polycarbophil | FiberCon,2,1,850,False
+1260,Pomalidomide,pomalidomide,atc_generic_name,Pomalidomide | Pomalyst,2,1,1260,False
+1249,Potassium iodide,potassium iodide,atc_generic_name,Potassium iodide | Pima,2,1,1249,False
+684,Proglycem,diazoxide,atc_generic_name,Proglycem | Diazoxide,2,1,684,False
+124,Proleukin,aldesleukin,atc_generic_name,Proleukin | Aldesleukin,2,1,124,False
+534,Propulsid,cisapride,atc_generic_name,Propulsid | Cisapride,2,1,534,False
+1127,Provocholine,methacholine,atc_generic_name,Provocholine | Methacholine,2,1,1127,False
+1275,Quinidine,quinidine,atc_generic_name,Quinidine,1,1,1275,False
+1276,"Rabies vaccine, human diploid cell","rabies vaccine, human diploid cell",family_name,"Rabies vaccine, human diploid cell",1,1,1276,False
+0,A + D Cracked Skin Relief,benzalkonium / lidocaine,atc_generic_name,A + D Cracked Skin Relief | Benzalkonium chloride / lidocaine,2,1,0,False
+4,Abacavir / lamivudine / zidovudine,abacavir / lamivudine / zidovudine,atc_generic_name,Abacavir / lamivudine / zidovudine | Trizivir,2,1,4,False
+31,Acetaminophen / caffeine / pyrilamine,acetaminophen / caffeine / pyrilamine,atc_generic_name,Acetaminophen / caffeine / pyrilamine,1,1,31,False
+33,Acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,atc_generic_name,Acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine | Tylenol Cold,2,1,33,False
+37,Acetaminophen / dextromethorphan / doxylamine,acetaminophen / dextromethorphan / doxylamine,atc_generic_name,Acetaminophen / dextromethorphan / doxylamine,1,1,37,False
+39,Acetaminophen / dextromethorphan / guaifenesin / phenylephrine,acetaminophen / dextromethorphan / guaifenesin / phenylephrine,atc_generic_name,Acetaminophen / dextromethorphan / guaifenesin / phenylephrine,1,1,39,False
+40,Acetaminophen / dextromethorphan / guaifenesin / pseudoephedrine,acetaminophen / dextromethorphan / guaifenesin / pseudoephedrine,atc_generic_name,Acetaminophen / dextromethorphan / guaifenesin / pseudoephedrine | Robitussin Cold Cough and Flu,2,1,40,False
+42,Acetaminophen / dextromethorphan / pseudoephedrine,acetaminophen / dextromethorphan / pseudoephedrine,atc_generic_name,Acetaminophen / dextromethorphan / pseudoephedrine,1,1,42,False
+49,Acetaminophen / pamabrom / pyrilamine,acetaminophen / pamabrom / pyrilamine,atc_generic_name,Acetaminophen / pamabrom / pyrilamine | Premsyn PMS,2,1,49,False
+57,Acetic acid,acetic acid,atc_generic_name,Acetic acid,1,1,57,False
+58,Acetic acid / antipyrine / benzocaine / polycosanol,acetic acid / antipyrine / benzocaine / polycosanol,family_name,Acetic acid / antipyrine / benzocaine / polycosanol,1,1,58,False
+59,Acetic acid / hydrocortisone,acetic acid / hydrocortisone,atc_generic_name,Acetic acid / hydrocortisone | Vosol HC,2,1,59,False
+60,Acetohydroxamic acid,acetohydroxamic acid,atc_generic_name,Acetohydroxamic acid | Lithostat,2,1,60,False
+75,Actonel with Calcium,calcium carbonate / risedronate,atc_generic_name,Actonel with Calcium | Calcium carbonate / risedronate,2,1,75,False
+79,Acyclovir / hydrocortisone,acyclovir / hydrocortisone,atc_generic_name,Acyclovir / hydrocortisone,1,1,79,False
+88,Adempas,riociguat,atc_generic_name,Adempas | Riociguat,2,1,88,False
+95,Advicor,lovastatin / niacin,atc_generic_name,Advicor | Lovastatin / niacin,2,1,95,False
+98,Advil PM,diphenhydramine / ibuprofen,atc_generic_name,Advil PM | Diphenhydramine / ibuprofen,2,1,98,False
+109,Ala-Quin,clioquinol / hydrocortisone,atc_generic_name,Ala-Quin | Clioquinol / hydrocortisone,2,1,109,False
+126,Alefacept,alefacept,atc_generic_name,Alefacept | Amevive,2,1,126,False
+131,Aleve-D Sinus & Cold,naproxen / pseudoephedrine,atc_generic_name,Aleve-D Sinus & Cold | Naproxen / pseudoephedrine,2,1,131,False
+147,Alocril,nedocromil,atc_generic_name,Alocril | Nedocromil,2,1,147,False
+148,Aloe vera,Aloe vera preparation,atc_generic_name,Aloe vera,1,1,148,False
+152,Aloxi,palonosetron,atc_generic_name,Aloxi | Palonosetron,2,1,152,False
+175,Amcinonide,amcinonide,atc_generic_name,Amcinonide,1,1,175,False
+179,Amino acids,amino acids,family_name,Amino acids,1,1,179,False
+193,Ammonium lactate / halobetasol,ammonium lactate / halobetasol,family_name,Ammonium lactate / halobetasol,1,1,193,False
+243,Arsenic trioxide,arsenic trioxide,atc_generic_name,Arsenic trioxide,1,1,243,False
+137,Aspirin / chlorpheniramine / phenylephrine,aspirin / chlorpheniramine / phenylephrine,atc_generic_name,Aspirin / chlorpheniramine / phenylephrine | Alka-Seltzer Plus Cold Formula Sparkling Original Effervescent Tablets,2,1,137,False
+257,Aspirin / diphenhydramine,aspirin / diphenhydramine,atc_generic_name,Aspirin / diphenhydramine,1,1,257,False
+258,Aspirin / meprobamate,aspirin / meprobamate,atc_generic_name,Aspirin / meprobamate | Micrainin,2,1,258,False
+274,Atropine,atropine,atc_generic_name,Atropine,1,1,274,False
+279,Attapulgite,attapulgite,atc_generic_name,Attapulgite,1,1,279,False
+314,Bacitracin,bacitracin,atc_generic_name,Bacitracin,1,1,314,False
+316,Bacitracin / neomycin / polymyxin b / pramoxine,bacitracin / neomycin / polymyxin B / pramoxine,atc_generic_name,Bacitracin / neomycin / polymyxin b / pramoxine,1,1,316,False
+328,Bee pollen,bee pollen,atc_generic_name,Bee pollen,1,1,328,False
+331,Belladonna Tincture,"belladonna extract, USP",atc_generic_name,Belladonna Tincture | Belladonna,2,1,331,False
+337,Benazepril / hydrochlorothiazide,benazepril / hydrochlorothiazide,atc_generic_name,Benazepril / hydrochlorothiazide,1,1,337,False
+349,Benzoyl peroxide / salicylic acid,benzoyl peroxide / salicylic acid,atc_generic_name,Benzoyl peroxide / salicylic acid | Inova 4 / 1,2,1,349,False
+353,Benzyl alcohol,benzyl alcohol,atc_generic_name,Benzyl alcohol | Ulesfia,2,1,353,False
+374,Bioflavonoids / zinc glycinate,bioflavonoids / zinc glycinate,family_name,Bioflavonoids / zinc glycinate | Limbrel 500,2,1,374,False
+209,Bivalirudin,bivalirudin,atc_generic_name,Bivalirudin | Angiomax,2,1,209,False
+388,Bosulif,bosutinib,atc_generic_name,Bosulif | Bosutinib,2,1,388,False
+309,Brinzolamide,brinzolamide,atc_generic_name,Brinzolamide | Azopt,2,1,309,False
+405,Brompheniramine / codeine / phenylephrine,brompheniramine / codeine / phenylephrine,atc_generic_name,Brompheniramine / codeine / phenylephrine | M-End PE,2,1,405,False
+435,Caltrate 600+D,calcium carbonate / cholecalciferol,atc_generic_name,Caltrate 600+D | Calcium / vitamin d,2,1,435,False
+448,Capsaicin / menthol / methyl salicylate,capsaicin / menthol / methyl salicylate,atc_generic_name,Capsaicin / menthol / methyl salicylate | Medrox,2,1,448,False
+467,Cefazolin,cefazolin,atc_generic_name,Cefazolin,1,1,467,False
+470,Cefepime,cefepime,atc_generic_name,Cefepime,1,1,470,False
+472,Cefotaxime,cefotaxime,atc_generic_name,Cefotaxime,1,1,472,False
+483,Cerezyme,imiglucerase,atc_generic_name,Cerezyme | Imiglucerase,2,1,483,False
+484,Ceritinib,ceritinib,atc_generic_name,Ceritinib,1,1,484,False
+496,Chlophedianol / guaifenesin / pseudoephedrine,chlophedianol / guaifenesin / pseudoephedrine,atc_generic_name,Chlophedianol / guaifenesin / pseudoephedrine | Vanatab DX,2,1,496,False
+506,Chlorothiazide,chlorothiazide,atc_generic_name,Chlorothiazide,1,1,506,False
+520,Cholecalciferol / folic acid,cholecalciferol / folic acid,atc_generic_name,Cholecalciferol / folic acid | Ortho D,2,1,520,False
+535,Cisplatin,cisplatin,atc_generic_name,Cisplatin | Platinol,2,1,535,False
+539,Citric acid / potassium citrate,citric acid / potassium citrate,atc_generic_name,Citric acid / potassium citrate | Cytra-K,2,1,539,False
+540,Citric acid / simethicone / sodium bicarbonate,citric acid / simethicone / sodium bicarbonate,atc_generic_name,Citric acid / simethicone / sodium bicarbonate | E-Z-Gas II,2,1,540,False
+546,Clemastine,clemastine,atc_generic_name,Clemastine,1,1,546,False
+553,Clioquinol,clioquinol,atc_generic_name,Clioquinol,1,1,553,False
+562,Clove,clove allergenic extract + clove preparation,atc_generic_name,Clove,1,1,562,False
+566,Coal tar / salicylic acid / sulfur,coal tar / salicylic acid / sulfur,atc_generic_name,Coal tar / salicylic acid / sulfur,1,1,566,False
+494,Codeine / guaifenesin / pseudoephedrine,codeine / guaifenesin / pseudoephedrine,atc_generic_name,Codeine / guaifenesin / pseudoephedrine | Cheratussin DAC,2,1,494,False
+577,Collagenase,collagenase,atc_generic_name,Collagenase | Collagenase Santyl,2,1,577,False
+425,Cometriq,cabozantinib,atc_generic_name,Cometriq | Cabozantinib,2,1,425,False
+597,Cortisone,cortisone,atc_generic_name,Cortisone,1,1,597,False
+339,Corzide 80 / 5,bendroflumethiazide / nadolol,atc_generic_name,Corzide 80 / 5 | Bendroflumethiazide / nadolol,2,1,339,False
+612,Cubicin,daptomycin,atc_generic_name,Cubicin | Daptomycin,2,1,612,False
+615,Cyclogyl,cyclopentolate,atc_generic_name,Cyclogyl | Cyclopentolate,2,1,615,False
+627,Dabrafenib,dabrafenib,atc_generic_name,Dabrafenib | Tafinlar,2,1,627,False
+632,Damiana,damiana extract,atc_generic_name,Damiana,1,1,632,False
+637,Daraprim,pyrimethamine,atc_generic_name,Daraprim | Pyrimethamine,2,1,637,False
+648,Dehydroepiandrosterone,prasterone,atc_generic_name,Dehydroepiandrosterone,1,1,648,False
+543,Desloratadine / pseudoephedrine,desloratadine / pseudoephedrine,atc_generic_name,Desloratadine / pseudoephedrine | Clarinex-D 12 Hour,2,1,543,False
+379,Devrom,bismuth subgallate,atc_generic_name,Devrom | Bismuth subgallate,2,1,379,False
+678,Dexpanthenol,dexpanthenol,atc_generic_name,Dexpanthenol,1,1,678,False
+686,Dichlorphenamide,dichlorphenamide,atc_generic_name,Dichlorphenamide,1,1,686,False
+701,Dimethyl sulfoxide,dimethyl sulfoxide,atc_generic_name,Dimethyl sulfoxide,1,1,701,False
+702,Diosmiplex,diosmiplex,family_name,Diosmiplex | Vasculera,2,1,702,False
+110,Diphenhydramine / phenylephrine,diphenhydramine / phenylephrine,atc_generic_name,Diphenhydramine / phenylephrine | Alahist LQ,2,1,110,False
+335,Diphenhydramine / pseudoephedrine,diphenhydramine / pseudoephedrine,atc_generic_name,Diphenhydramine / pseudoephedrine | Benadryl Allergy Sinus,2,1,335,False
+713,Dobutamine,dobutamine,atc_generic_name,Dobutamine,1,1,713,False
+719,Dong quai,Angelica sinensis preparation,atc_generic_name,Dong quai,1,1,719,False
+721,Doripenem,doripenem,atc_generic_name,Doripenem | Doribax,2,1,721,False
+722,Dornase alfa,dornase alfa,atc_generic_name,Dornase alfa | Pulmozyme,2,1,722,False
+736,DynaCirc CR,isradipine,atc_generic_name,DynaCirc CR | Isradipine,2,1,736,False
+787,Eptifibatide,eptifibatide,atc_generic_name,Eptifibatide,1,1,787,False
+792,Ertaczo,sertaconazole,atc_generic_name,Ertaczo | Sertaconazole,2,1,792,False
+743,Ethacrynic acid,ethacrynate,atc_generic_name,Ethacrynic acid | Edecrin,2,1,743,False
+804,Ethchlorvynol,ethchlorvynol,atc_generic_name,Ethchlorvynol,1,1,804,False
+809,Ethmozine,moricizine,atc_generic_name,Ethmozine,1,1,809,False
+811,Ethotoin,ethotoin,atc_generic_name,Ethotoin | Peganone,2,1,811,False
+823,Eyebright,eyebright preparation,atc_generic_name,Eyebright,1,1,823,False
+832,Fansidar,pyrimethamine / sulfadoxine,atc_generic_name,Fansidar | Pyrimethamine / sulfadoxine,2,1,832,False
+841,Fenugreek,fenugreek seed meal,atc_generic_name,Fenugreek,1,1,841,False
+844,Ferrlecit,sodium ferric gluconate complex,atc_generic_name,Ferrlecit | Sodium ferric gluconate complex,2,1,844,False
+845,Ferrous fumarate,ferrous fumarate,atc_generic_name,Ferrous fumarate,1,1,845,False
+846,Ferrous fumarate / iron polysaccharide,ferrous fumarate / polysaccharide iron complex,atc_generic_name,Ferrous fumarate / iron polysaccharide | Tandem,2,1,846,False
+865,Fludarabine,fludarabine,atc_generic_name,Fludarabine | Fludara,2,1,865,False
+871,Fluvastatin,fluvastatin,atc_generic_name,Fluvastatin | Lescol,2,1,871,False
+876,Folotyn,pralatrexate,atc_generic_name,Folotyn | Pralatrexate,2,1,876,False
+631,Fragmin,dalteparin,atc_generic_name,Fragmin | Dalteparin,2,1,631,False
+898,Garlic,garlic allergenic extract + garlic preparation,atc_generic_name,Garlic,1,1,898,False
+904,Gentamicin,gentamicin,atc_generic_name,Gentamicin,1,1,904,False
+907,Ginger,ginger allergenic extract + ginger extract,atc_generic_name,Ginger,1,1,907,False
+908,Ginkgo,Ginkgo biloba extract + Ginkgo biloba leaf extract,atc_generic_name,Ginkgo,1,1,908,False
+912,Glimepiride / pioglitazone,glimepiride / pioglitazone,atc_generic_name,Glimepiride / pioglitazone,1,1,912,False
+913,Glimepiride / rosiglitazone,glimepiride / rosiglitazone,atc_generic_name,Glimepiride / rosiglitazone,1,1,913,False
+922,Gold sodium thiomalate,aurothiomalate,atc_generic_name,Gold sodium thiomalate,1,1,922,False
+923,Goldenseal,goldenseal extract,atc_generic_name,Goldenseal,1,1,923,False
+926,Gramicidin / neomycin / polymyxin b,gramicidin / neomycin / polymyxin B,atc_generic_name,Gramicidin / neomycin / polymyxin b,1,1,926,False
+937,Halofantrine,halofantrine,atc_generic_name,Halofantrine | Halfan,2,1,937,False
+944,Hepatitis b adult vaccine,hepatitis b adult vaccine,family_name,Hepatitis b adult vaccine,1,1,944,False
+946,Hetlioz,tasimelteon,atc_generic_name,Hetlioz | Tasimelteon,2,1,946,False
+163,Hexalen,altretamine,atc_generic_name,Hexalen | Altretamine,2,1,163,False
+961,Hydralazine / hydrochlorothiazide / reserpine,hydralazine / hydrochlorothiazide / reserpine,atc_generic_name,Hydralazine / hydrochlorothiazide / reserpine,1,1,961,False
+366,Hydralazine / isosorbide dinitrate,hydralazine / isosorbide dinitrate,atc_generic_name,Hydralazine / isosorbide dinitrate | BiDil,2,1,366,False
+966,Hydrochlorothiazide / moexipril,hydrochlorothiazide / moexipril,atc_generic_name,Hydrochlorothiazide / moexipril | Uniretic,2,1,966,False
+959,Hylenex,hyaluronidase,atc_generic_name,Hylenex | Hyaluronidase,2,1,959,False
+991,IncobotulinumtoxinA,botulinum toxin type A,atc_generic_name,IncobotulinumtoxinA | Xeomin,2,1,991,False
+1001,Insulin aspart / insulin degludec,"insulin aspart, human / insulin degludec",atc_generic_name,Insulin aspart / insulin degludec,1,1,1001,False
+1005,Inulin,inulin,atc_generic_name,Inulin,1,1,1005,False
+442,Irinotecan,irinotecan,atc_generic_name,Irinotecan | Camptosar,2,1,442,False
+1013,Isoproterenol,isoproterenol,atc_generic_name,Isoproterenol,1,1,1013,False
+596,Ivabradine,ivabradine,atc_generic_name,Ivabradine | Corlanor,2,1,596,False
+740,Kalbitor,ecallantide,atc_generic_name,Kalbitor | Ecallantide,2,1,740,False
+1019,Kalydeco,ivacaftor,atc_generic_name,Kalydeco | Ivacaftor,2,1,1019,False
+150,Kazano,alogliptin / metformin,atc_generic_name,Kazano | Alogliptin / metformin,2,1,150,False
+460,Kyprolis,carfilzomib,atc_generic_name,Kyprolis | Carfilzomib,2,1,460,False
+1040,L-Carnitine,levocarnitine,atc_generic_name,L-Carnitine | Levocarnitine,2,1,1040,False
+1049,Lanolin,lanolin,atc_generic_name,Lanolin,1,1,1049,False
+1051,Lapatinib,lapatinib,atc_generic_name,Lapatinib | Tykerb,2,1,1051,False
+541,Leustatin,cladribine,atc_generic_name,Leustatin | Cladribine,2,1,541,False
+1063,Levodopa,levodopa,atc_generic_name,Levodopa,1,1,1063,False
+1064,Levophed,norepinephrine,atc_generic_name,Levophed | Norepinephrine,2,1,1064,False
+1070,Lincomycin,lincomycin,atc_generic_name,Lincomycin | Lincocin,2,1,1070,False
+1071,Lindane,lindane,atc_generic_name,Lindane,1,1,1071,False
+1078,Lorabid,loracarbef,atc_generic_name,Lorabid | Loracarbef,2,1,1078,False
+1086,Lymphoseek,lymphoseek,family_name,Lymphoseek | Tilmanocept,2,1,1086,False
+1088,MCT,medium chain triglycerides,atc_generic_name,MCT | Medium chain triglycerides,2,1,1088,False
+1091,Magaldrate / simethicone,magaldrate / simethicone,atc_generic_name,Magaldrate / simethicone,1,1,1091,False
+1093,Magnesium aspartate,magnesium aspartate,atc_generic_name,Magnesium aspartate,1,1,1093,False
+1094,Magnesium gluconate,magnesium gluconate,atc_generic_name,Magnesium gluconate,1,1,1094,False
+892,Magnevist,gadopentetate dimeglumine,atc_generic_name,Magnevist | Gadopentetate dimeglumine,2,1,892,False
+1100,Mavik,trandolapril,atc_generic_name,Mavik | Trandolapril,2,1,1100,False
+910,Mavyret,glecaprevir / pibrentasvir,atc_generic_name,Mavyret | Glecaprevir / pibrentasvir,2,1,910,False
+1104,Mebendazole,mebendazole,atc_generic_name,Mebendazole,1,1,1104,False
+1107,Mekinist,trametinib,atc_generic_name,Mekinist | Trametinib,2,1,1107,False
+1112,Meningococcal conjugate vaccine,Neisseria meningitidis serogroup A capsular polysaccharide diphtheria toxoid protein conjugate vaccine / Neisseria meningitidis serogroup C capsular polysaccharide diphtheria toxoid protein conjugate vaccine / Neisseria meningitidis serogroup W-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine / Neisseria meningitidis serogroup Y capsular polysaccharide diphtheria toxoid protein conjugate vaccine,atc_generic_name,Meningococcal conjugate vaccine | Menactra,2,1,1112,False
+1113,Meningococcal group B vaccine,meningococcal group B vaccine,atc_generic_name,Meningococcal group B vaccine,1,1,1113,False
+1114,Menopur,follicle stimulating hormone / luteinizing hormone,atc_generic_name,Menopur | Menotropins,2,1,1114,False
+1117,Mephyton,vitamin K1,atc_generic_name,Mephyton | Phytonadione,2,1,1117,False
+1123,Meropenem,meropenem,atc_generic_name,Meropenem,1,1,1123,False
+1128,Methenamine / sodium acid phosphate,methenamine / sodium acid phosphate,family_name,Methenamine / sodium acid phosphate | Uroqid-Acid No2,2,1,1128,False
+1131,Methitest,methyltestosterone,atc_generic_name,Methitest | Methyltestosterone,2,1,1131,False
+1145,Mifepristone,mifepristone,atc_generic_name,Mifepristone,1,1,1145,False
+921,Miglitol,miglitol,atc_generic_name,Miglitol | Glyset,2,1,921,False
+1153,Moban,molindone,atc_generic_name,Moban | Molindone,2,1,1153,False
+1158,Mumps virus vaccine,mumps virus vaccine,family_name,Mumps virus vaccine,1,1,1158,False
+1164,Nafcillin,nafcillin,atc_generic_name,Nafcillin,1,1,1164,False
+1176,Nateglinide,nateglinide,atc_generic_name,Nateglinide,1,1,1176,False
+1282,Raspberry,raspberry allergenic extract + raspberry extract,atc_generic_name,Raspberry,1,1,1282,False
+431,Rayaldee,calcifediol,atc_generic_name,Rayaldee | Calcifediol,2,1,431,False
+531,Reslizumab,reslizumab,atc_generic_name,Reslizumab | Cinqair,2,1,531,False
+1291,Resorcinol / sulfur,resorcinol / sulfur,atc_generic_name,Resorcinol / sulfur,1,1,1291,False
+264,Reyataz,atazanavir,atc_generic_name,Reyataz | Atazanavir,2,1,264,False
+1296,Rifabutin,rifabutin,atc_generic_name,Rifabutin,1,1,1296,False
+1017,Romidepsin,romidepsin,atc_generic_name,Romidepsin | Istodax,2,1,1017,False
+1174,Ropivacaine,ropivacaine,atc_generic_name,Ropivacaine | Naropin Polyamp,2,1,1174,False
+1305,Royal jelly,royal jelly,atc_generic_name,Royal jelly,1,1,1305,False
+1144,Rydapt,midostaurin,atc_generic_name,Rydapt | Midostaurin,2,1,1144,False
+1307,Salvax Duo,salicylic acid / urea,atc_generic_name,Salvax Duo | Salicylic acid / urea,2,1,1307,False
+1372,Valcyte,valganciclovir,atc_generic_name,Valcyte | Valganciclovir,2,1,1372,False
+348,Vanoxide-HC,benzoyl peroxide / hydrocortisone,atc_generic_name,Vanoxide-HC | Benzoyl peroxide / hydrocortisone,2,1,348,False
+588,Vaprisol,conivaptan,atc_generic_name,Vaprisol | Conivaptan,2,1,588,False
+1304,Varubi,rolapitant,atc_generic_name,Varubi | Rolapitant,2,1,1304,False
+1348,Visine Original,tetrahydrozoline,atc_generic_name,Visine Original | Tetrahydrozoline,2,1,1348,False
+1180,Necitumumab,necitumumab,atc_generic_name,Necitumumab,1,1,1180,False
+1183,Neostigmine,neostigmine,atc_generic_name,Neostigmine | Prostigmin Bromide,2,1,1183,False
+1189,Niacinamide,niacinamide,atc_generic_name,Niacinamide,1,1,1189,False
+1193,Niraparib,niraparib,atc_generic_name,Niraparib | Zejula,2,1,1193,False
+1194,Nisoldipine,nisoldipine,atc_generic_name,Nisoldipine | Sular,2,1,1194,False
+1043,Normodyne,labetalol,atc_generic_name,Normodyne | Labetalol,2,1,1043,False
+1202,Norvir,ritonavir,atc_generic_name,Norvir | Ritonavir,2,1,1202,False
+1152,Novantrone,mitoxantrone,atc_generic_name,Novantrone | Mitoxantrone,2,1,1152,False
+1007,Omnipaque 350,iohexol,atc_generic_name,Omnipaque 350 | Iohexol,2,1,1007,False
+1226,Oxymetholone,oxymetholone,atc_generic_name,Oxymetholone,1,1,1226,False
+1227,Oxytocin,oxytocin,atc_generic_name,Oxytocin | Pitocin,2,1,1227,False
+948,Pancreatin,pancreatin,atc_generic_name,Pancreatin | Hi-Vegi-Lip,2,1,948,False
+943,Panhematin,hemin,atc_generic_name,Panhematin | Hemin,2,1,943,False
+1090,Pegaptanib,pegaptanib,atc_generic_name,Pegaptanib | Macugen,2,1,1090,False
+1235,Penicillamine,penicillamine,atc_generic_name,Penicillamine,1,1,1235,False
+1277,Radium 223 dichloride,radium,atc_generic_name,Radium 223 dichloride,1,1,1277,False
+1271,Vitamin B6,pyridoxine + vitamin B6,atc_generic_name,Vitamin B6 | Pyridoxine,2,1,1271,False
+1269,Vivactil,protriptyline,atc_generic_name,Vivactil | Protriptyline,2,1,1269,False
+707,Vontrol,diphenidol,atc_generic_name,Vontrol | Diphenidol,2,1,707,False
+1380,Yellow fever vaccine,yellow fever virus strain 17D-204 live antigen,atc_generic_name,Yellow fever vaccine,1,1,1380,False
+1382,Zileuton,zileuton,atc_generic_name,Zileuton,1,1,1382,False
+1383,Zinc gluconate,zinc gluconate,atc_generic_name,Zinc gluconate,1,1,1383,False
+1384,Zinc sulfate,zinc sulfate,atc_generic_name,Zinc sulfate,1,1,1384,False

@@ -1,0 +1,1265 @@
+{
+  "n_rows_raw": 215063,
+  "n_unparsed_dates": 0,
+  "condition_name_cleaning": {
+    "n_missing_in_source": 1194,
+    "n_scraping_junk_set_missing": 1171,
+    "n_drug_name_fragments_set_missing": 336,
+    "n_rows_with_corrected_name": 20293,
+    "n_distinct_names_corrected": 98,
+    "n_distinct_names_after_cleaning": 811
+  },
+  "n_condition_names_missing": 2701,
+  "n_empty_reviews_removed": 2,
+  "exact_duplicates": {
+    "n_rows_in_duplicate_groups": 172534,
+    "n_duplicate_groups": 86223,
+    "n_rows_removed": 86311,
+    "n_groups_with_several_drug_names": 86203,
+    "n_groups_with_one_drug_name": 20,
+    "n_groups_with_conflicting_condition": 360,
+    "largest_group_size": 8,
+    "n_text_only_matches_kept_apart": 455,
+    "same_text_kept_apart_rows_by_word_count": {
+      "[0, 5)": 529,
+      "[5, 10)": 31,
+      "[10, 20)": 4,
+      "[20, 10000)": 58
+    }
+  },
+  "n_rows_after_exact_deduplication": 128750,
+  "near_duplicates": {
+    "parameters": {
+      "shingle_type": "character",
+      "shingle_length": 5,
+      "n_hash_functions": 128,
+      "n_bands": 16,
+      "n_rows_per_band": 8,
+      "jaccard_threshold": 0.8,
+      "lsh_threshold_estimate": 0.707,
+      "random_seed": 42
+    },
+    "n_reviews": 128750,
+    "mean_shingles_per_review": 383.5,
+    "n_all_possible_pairs": 8288216875,
+    "n_lsh_candidate_pairs": 3931,
+    "n_candidates_at_or_above_threshold": 3416,
+    "share_of_candidates_below_threshold": 0.131,
+    "n_reviews_in_near_duplicate_pairs": 774,
+    "near_duplicate_pairs_same_rating": 1569,
+    "near_duplicate_pairs_same_drug_name": 92,
+    "near_duplicate_pairs_same_review_date": 51,
+    "n_skipped_large_buckets": 0,
+    "largest_bucket_size": 49,
+    "seconds": {
+      "shingling": 27.4,
+      "minhash": 94.3,
+      "lsh_banding": 0.8,
+      "verification": 0.1
+    },
+    "minhash_mean_absolute_error": 0.0048,
+    "removal_rule": "exact Jaccard >= 0.8 and both reviews >= 20 words",
+    "n_removal_pairs": 88,
+    "n_removal_pairs_same_rating": 56,
+    "n_removal_pairs_same_drug_name": 63,
+    "n_removal_pairs_same_review_date": 46,
+    "n_near_duplicate_groups": 85,
+    "largest_near_duplicate_group": 3,
+    "n_reviews_removed": 87,
+    "n_long_identical_texts_left": 0
+  },
+  "n_rows_after_near_duplicate_removal": 128663,
+  "lsh_threshold_analysis": {
+    "ground_truth": {
+      "n_reviews": 128750,
+      "n_condition_groups": 663,
+      "n_pairs_compared": 304915565,
+      "share_of_all_pairs_compared": 0.03679,
+      "seconds_brute_force": 134.5,
+      "estimated_hours_brute_force_all_pairs": 1.02,
+      "n_pairs_at_or_above_min_jaccard": 276,
+      "n_pairs_at_or_above_threshold": 165,
+      "n_pairs_by_jaccard_bin": {
+        "0.5-0.6": 62,
+        "0.6-0.7": 26,
+        "0.7-0.8": 23,
+        "0.8-0.9": 19,
+        "0.9-1.0": 146
+      }
+    },
+    "settings": [
+      {
+        "n_bands": 8,
+        "n_rows_per_band": 16,
+        "lsh_threshold_estimate": 0.88,
+        "n_candidate_pairs": 3404,
+        "seconds_banding": 0.4,
+        "n_real_pairs_found": 154,
+        "n_real_pairs": 165,
+        "real_recall_at_jaccard_threshold": 0.933,
+        "real_recall_ci_low": 0.885,
+        "real_recall_ci_high": 0.962,
+        "real_share_of_candidates_at_or_above_threshold": 0.995,
+        "largest_bucket_size": 49,
+        "n_skipped_large_buckets": 0,
+        "planted_recall_jaccard_0.8_to_0.9": 0.493,
+        "planted_recall_jaccard_0.5_to_0.6": 0.0
+      },
+      {
+        "n_bands": 10,
+        "n_rows_per_band": 12,
+        "lsh_threshold_estimate": 0.83,
+        "n_candidate_pairs": 3598,
+        "seconds_banding": 0.5,
+        "n_real_pairs_found": 160,
+        "n_real_pairs": 165,
+        "real_recall_at_jaccard_threshold": 0.97,
+        "real_recall_ci_low": 0.931,
+        "real_recall_ci_high": 0.987,
+        "real_share_of_candidates_at_or_above_threshold": 0.946,
+        "largest_bucket_size": 49,
+        "n_skipped_large_buckets": 0,
+        "planted_recall_jaccard_0.8_to_0.9": 0.746,
+        "planted_recall_jaccard_0.5_to_0.6": 0.008
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "lsh_threshold_estimate": 0.71,
+        "n_candidate_pairs": 3931,
+        "seconds_banding": 0.8,
+        "n_real_pairs_found": 165,
+        "n_real_pairs": 165,
+        "real_recall_at_jaccard_threshold": 1.0,
+        "real_recall_ci_low": 0.977,
+        "real_recall_ci_high": 1.0,
+        "real_share_of_candidates_at_or_above_threshold": 0.869,
+        "largest_bucket_size": 49,
+        "n_skipped_large_buckets": 0,
+        "planted_recall_jaccard_0.8_to_0.9": 0.979,
+        "planted_recall_jaccard_0.5_to_0.6": 0.118
+      },
+      {
+        "n_bands": 20,
+        "n_rows_per_band": 6,
+        "lsh_threshold_estimate": 0.61,
+        "n_candidate_pairs": 7237,
+        "seconds_banding": 1.0,
+        "n_real_pairs_found": 165,
+        "n_real_pairs": 165,
+        "real_recall_at_jaccard_threshold": 1.0,
+        "real_recall_ci_low": 0.977,
+        "real_recall_ci_high": 1.0,
+        "real_share_of_candidates_at_or_above_threshold": 0.472,
+        "largest_bucket_size": 49,
+        "n_skipped_large_buckets": 0,
+        "planted_recall_jaccard_0.8_to_0.9": 1.0,
+        "planted_recall_jaccard_0.5_to_0.6": 0.428
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "lsh_threshold_estimate": 0.53,
+        "n_candidate_pairs": 50512,
+        "seconds_banding": 2.0,
+        "n_real_pairs_found": 165,
+        "n_real_pairs": 165,
+        "real_recall_at_jaccard_threshold": 1.0,
+        "real_recall_ci_low": 0.977,
+        "real_recall_ci_high": 1.0,
+        "real_share_of_candidates_at_or_above_threshold": 0.068,
+        "largest_bucket_size": 90,
+        "n_skipped_large_buckets": 0,
+        "planted_recall_jaccard_0.8_to_0.9": 1.0,
+        "planted_recall_jaccard_0.5_to_0.6": 0.725
+      }
+    ],
+    "recall_by_jaccard_bin_real": [
+      {
+        "n_bands": 8,
+        "n_rows_per_band": 16,
+        "jaccard_bin": "0.5-0.6",
+        "n_ground_truth_pairs": 62,
+        "n_found": 1,
+        "mean_jaccard": 0.536,
+        "measured_recall": 0.0161,
+        "recall_ci_low": 0.0029,
+        "recall_ci_high": 0.0859,
+        "theoretical_recall": 0.0006
+      },
+      {
+        "n_bands": 8,
+        "n_rows_per_band": 16,
+        "jaccard_bin": "0.6-0.7",
+        "n_ground_truth_pairs": 26,
+        "n_found": 0,
+        "mean_jaccard": 0.6366,
+        "measured_recall": 0.0,
+        "recall_ci_low": 0.0,
+        "recall_ci_high": 0.1287,
+        "theoretical_recall": 0.0072
+      },
+      {
+        "n_bands": 8,
+        "n_rows_per_band": 16,
+        "jaccard_bin": "0.7-0.8",
+        "n_ground_truth_pairs": 23,
+        "n_found": 1,
+        "mean_jaccard": 0.7441,
+        "measured_recall": 0.0435,
+        "recall_ci_low": 0.0077,
+        "recall_ci_high": 0.2099,
+        "theoretical_recall": 0.0806
+      },
+      {
+        "n_bands": 8,
+        "n_rows_per_band": 16,
+        "jaccard_bin": "0.8-0.9",
+        "n_ground_truth_pairs": 19,
+        "n_found": 8,
+        "mean_jaccard": 0.8579,
+        "measured_recall": 0.4211,
+        "recall_ci_low": 0.2314,
+        "recall_ci_high": 0.6372,
+        "theoretical_recall": 0.5262
+      },
+      {
+        "n_bands": 8,
+        "n_rows_per_band": 16,
+        "jaccard_bin": "0.9-1.0",
+        "n_ground_truth_pairs": 146,
+        "n_found": 146,
+        "mean_jaccard": 0.9912,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.9744,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 0.9966
+      },
+      {
+        "n_bands": 10,
+        "n_rows_per_band": 12,
+        "jaccard_bin": "0.5-0.6",
+        "n_ground_truth_pairs": 62,
+        "n_found": 0,
+        "mean_jaccard": 0.536,
+        "measured_recall": 0.0,
+        "recall_ci_low": 0.0,
+        "recall_ci_high": 0.0583,
+        "theoretical_recall": 0.0073
+      },
+      {
+        "n_bands": 10,
+        "n_rows_per_band": 12,
+        "jaccard_bin": "0.6-0.7",
+        "n_ground_truth_pairs": 26,
+        "n_found": 2,
+        "mean_jaccard": 0.6366,
+        "measured_recall": 0.0769,
+        "recall_ci_low": 0.0214,
+        "recall_ci_high": 0.2414,
+        "theoretical_recall": 0.0483
+      },
+      {
+        "n_bands": 10,
+        "n_rows_per_band": 12,
+        "jaccard_bin": "0.7-0.8",
+        "n_ground_truth_pairs": 23,
+        "n_found": 7,
+        "mean_jaccard": 0.7441,
+        "measured_recall": 0.3043,
+        "recall_ci_low": 0.156,
+        "recall_ci_high": 0.5087,
+        "theoretical_recall": 0.2693
+      },
+      {
+        "n_bands": 10,
+        "n_rows_per_band": 12,
+        "jaccard_bin": "0.8-0.9",
+        "n_ground_truth_pairs": 19,
+        "n_found": 14,
+        "mean_jaccard": 0.8579,
+        "measured_recall": 0.7368,
+        "recall_ci_low": 0.5121,
+        "recall_ci_high": 0.8819,
+        "theoretical_recall": 0.8052
+      },
+      {
+        "n_bands": 10,
+        "n_rows_per_band": 12,
+        "jaccard_bin": "0.9-1.0",
+        "n_ground_truth_pairs": 146,
+        "n_found": 146,
+        "mean_jaccard": 0.9912,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.9744,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 0.9997
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "jaccard_bin": "0.5-0.6",
+        "n_ground_truth_pairs": 62,
+        "n_found": 4,
+        "mean_jaccard": 0.536,
+        "measured_recall": 0.0645,
+        "recall_ci_low": 0.0254,
+        "recall_ci_high": 0.1545,
+        "theoretical_recall": 0.1137
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "jaccard_bin": "0.6-0.7",
+        "n_ground_truth_pairs": 26,
+        "n_found": 11,
+        "mean_jaccard": 0.6366,
+        "measured_recall": 0.4231,
+        "recall_ci_low": 0.2554,
+        "recall_ci_high": 0.6105,
+        "theoretical_recall": 0.3604
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "jaccard_bin": "0.7-0.8",
+        "n_ground_truth_pairs": 23,
+        "n_found": 17,
+        "mean_jaccard": 0.7441,
+        "measured_recall": 0.7391,
+        "recall_ci_low": 0.5353,
+        "recall_ci_high": 0.8745,
+        "theoretical_recall": 0.7822
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "jaccard_bin": "0.8-0.9",
+        "n_ground_truth_pairs": 19,
+        "n_found": 19,
+        "mean_jaccard": 0.8579,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.8318,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 0.9906
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "jaccard_bin": "0.9-1.0",
+        "n_ground_truth_pairs": 146,
+        "n_found": 146,
+        "mean_jaccard": 0.9912,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.9744,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 1.0
+      },
+      {
+        "n_bands": 20,
+        "n_rows_per_band": 6,
+        "jaccard_bin": "0.5-0.6",
+        "n_ground_truth_pairs": 62,
+        "n_found": 42,
+        "mean_jaccard": 0.536,
+        "measured_recall": 0.6774,
+        "recall_ci_low": 0.5537,
+        "recall_ci_high": 0.7805,
+        "theoretical_recall": 0.3887
+      },
+      {
+        "n_bands": 20,
+        "n_rows_per_band": 6,
+        "jaccard_bin": "0.6-0.7",
+        "n_ground_truth_pairs": 26,
+        "n_found": 16,
+        "mean_jaccard": 0.6366,
+        "measured_recall": 0.6154,
+        "recall_ci_low": 0.4253,
+        "recall_ci_high": 0.7757,
+        "theoretical_recall": 0.7417
+      },
+      {
+        "n_bands": 20,
+        "n_rows_per_band": 6,
+        "jaccard_bin": "0.7-0.8",
+        "n_ground_truth_pairs": 23,
+        "n_found": 21,
+        "mean_jaccard": 0.7441,
+        "measured_recall": 0.913,
+        "recall_ci_low": 0.732,
+        "recall_ci_high": 0.9758,
+        "theoretical_recall": 0.9672
+      },
+      {
+        "n_bands": 20,
+        "n_rows_per_band": 6,
+        "jaccard_bin": "0.8-0.9",
+        "n_ground_truth_pairs": 19,
+        "n_found": 19,
+        "mean_jaccard": 0.8579,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.8318,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 0.9997
+      },
+      {
+        "n_bands": 20,
+        "n_rows_per_band": 6,
+        "jaccard_bin": "0.9-1.0",
+        "n_ground_truth_pairs": 146,
+        "n_found": 146,
+        "mean_jaccard": 0.9912,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.9744,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 1.0
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "jaccard_bin": "0.5-0.6",
+        "n_ground_truth_pairs": 62,
+        "n_found": 50,
+        "mean_jaccard": 0.536,
+        "measured_recall": 0.8065,
+        "recall_ci_low": 0.6915,
+        "recall_ci_high": 0.8857,
+        "theoretical_recall": 0.6709
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "jaccard_bin": "0.6-0.7",
+        "n_ground_truth_pairs": 26,
+        "n_found": 24,
+        "mean_jaccard": 0.6366,
+        "measured_recall": 0.9231,
+        "recall_ci_low": 0.7586,
+        "recall_ci_high": 0.9786,
+        "theoretical_recall": 0.9296
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "jaccard_bin": "0.7-0.8",
+        "n_ground_truth_pairs": 23,
+        "n_found": 23,
+        "mean_jaccard": 0.7441,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.8569,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 0.9969
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "jaccard_bin": "0.8-0.9",
+        "n_ground_truth_pairs": 19,
+        "n_found": 19,
+        "mean_jaccard": 0.8579,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.8318,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 1.0
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "jaccard_bin": "0.9-1.0",
+        "n_ground_truth_pairs": 146,
+        "n_found": 146,
+        "mean_jaccard": 0.9912,
+        "measured_recall": 1.0,
+        "recall_ci_low": 0.9744,
+        "recall_ci_high": 1.0,
+        "theoretical_recall": 1.0
+      }
+    ],
+    "planted_experiment": {
+      "n_planted_pairs": 5000,
+      "max_share_of_words_replaced": 0.6,
+      "mean_absolute_difference_measured_vs_theory": 0.0062,
+      "recall_by_jaccard_bin": [
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.2-0.3",
+          "n_planted_pairs": 1043,
+          "mean_jaccard": 0.2473,
+          "measured_recall": 0.0,
+          "theoretical_recall": 0.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.3-0.4",
+          "n_planted_pairs": 779,
+          "mean_jaccard": 0.3466,
+          "measured_recall": 0.0,
+          "theoretical_recall": 0.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.4-0.5",
+          "n_planted_pairs": 585,
+          "mean_jaccard": 0.4468,
+          "measured_recall": 0.0017,
+          "theoretical_recall": 0.0,
+          "difference": 0.0017
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.5-0.6",
+          "n_planted_pairs": 502,
+          "mean_jaccard": 0.5476,
+          "measured_recall": 0.0,
+          "theoretical_recall": 0.0007,
+          "difference": -0.0007
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.6-0.7",
+          "n_planted_pairs": 386,
+          "mean_jaccard": 0.6476,
+          "measured_recall": 0.0,
+          "theoretical_recall": 0.0096,
+          "difference": -0.0096
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.7-0.8",
+          "n_planted_pairs": 352,
+          "mean_jaccard": 0.7464,
+          "measured_recall": 0.0881,
+          "theoretical_recall": 0.0836,
+          "difference": 0.0045
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.8-0.9",
+          "n_planted_pairs": 280,
+          "mean_jaccard": 0.8495,
+          "measured_recall": 0.4929,
+          "theoretical_recall": 0.4757,
+          "difference": 0.0172
+        },
+        {
+          "n_bands": 8,
+          "n_rows_per_band": 16,
+          "jaccard_bin": "0.9-1.0",
+          "n_planted_pairs": 234,
+          "mean_jaccard": 0.9536,
+          "measured_recall": 0.9573,
+          "theoretical_recall": 0.9624,
+          "difference": -0.0051
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.2-0.3",
+          "n_planted_pairs": 1043,
+          "mean_jaccard": 0.2473,
+          "measured_recall": 0.0,
+          "theoretical_recall": 0.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.3-0.4",
+          "n_planted_pairs": 779,
+          "mean_jaccard": 0.3466,
+          "measured_recall": 0.0,
+          "theoretical_recall": 0.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.4-0.5",
+          "n_planted_pairs": 585,
+          "mean_jaccard": 0.4468,
+          "measured_recall": 0.0034,
+          "theoretical_recall": 0.0008,
+          "difference": 0.0026
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.5-0.6",
+          "n_planted_pairs": 502,
+          "mean_jaccard": 0.5476,
+          "measured_recall": 0.008,
+          "theoretical_recall": 0.0087,
+          "difference": -0.0007
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.6-0.7",
+          "n_planted_pairs": 386,
+          "mean_jaccard": 0.6476,
+          "measured_recall": 0.0518,
+          "theoretical_recall": 0.0598,
+          "difference": -0.0079
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.7-0.8",
+          "n_planted_pairs": 352,
+          "mean_jaccard": 0.7464,
+          "measured_recall": 0.2869,
+          "theoretical_recall": 0.2765,
+          "difference": 0.0104
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.8-0.9",
+          "n_planted_pairs": 280,
+          "mean_jaccard": 0.8495,
+          "measured_recall": 0.7464,
+          "theoretical_recall": 0.7647,
+          "difference": -0.0183
+        },
+        {
+          "n_bands": 10,
+          "n_rows_per_band": 12,
+          "jaccard_bin": "0.9-1.0",
+          "n_planted_pairs": 234,
+          "mean_jaccard": 0.9536,
+          "measured_recall": 0.9915,
+          "theoretical_recall": 0.9949,
+          "difference": -0.0034
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.2-0.3",
+          "n_planted_pairs": 1043,
+          "mean_jaccard": 0.2473,
+          "measured_recall": 0.001,
+          "theoretical_recall": 0.0003,
+          "difference": 0.0006
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.3-0.4",
+          "n_planted_pairs": 779,
+          "mean_jaccard": 0.3466,
+          "measured_recall": 0.0051,
+          "theoretical_recall": 0.004,
+          "difference": 0.0011
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.4-0.5",
+          "n_planted_pairs": 585,
+          "mean_jaccard": 0.4468,
+          "measured_recall": 0.0342,
+          "theoretical_recall": 0.0283,
+          "difference": 0.0059
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.5-0.6",
+          "n_planted_pairs": 502,
+          "mean_jaccard": 0.5476,
+          "measured_recall": 0.1175,
+          "theoretical_recall": 0.1297,
+          "difference": -0.0122
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.6-0.7",
+          "n_planted_pairs": 386,
+          "mean_jaccard": 0.6476,
+          "measured_recall": 0.4093,
+          "theoretical_recall": 0.4026,
+          "difference": 0.0067
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.7-0.8",
+          "n_planted_pairs": 352,
+          "mean_jaccard": 0.7464,
+          "measured_recall": 0.7869,
+          "theoretical_recall": 0.7908,
+          "difference": -0.0039
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.8-0.9",
+          "n_planted_pairs": 280,
+          "mean_jaccard": 0.8495,
+          "measured_recall": 0.9786,
+          "theoretical_recall": 0.9862,
+          "difference": -0.0077
+        },
+        {
+          "n_bands": 16,
+          "n_rows_per_band": 8,
+          "jaccard_bin": "0.9-1.0",
+          "n_planted_pairs": 234,
+          "mean_jaccard": 0.9536,
+          "measured_recall": 1.0,
+          "theoretical_recall": 1.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.2-0.3",
+          "n_planted_pairs": 1043,
+          "mean_jaccard": 0.2473,
+          "measured_recall": 0.0067,
+          "theoretical_recall": 0.0055,
+          "difference": 0.0012
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.3-0.4",
+          "n_planted_pairs": 779,
+          "mean_jaccard": 0.3466,
+          "measured_recall": 0.0321,
+          "theoretical_recall": 0.0377,
+          "difference": -0.0056
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.4-0.5",
+          "n_planted_pairs": 585,
+          "mean_jaccard": 0.4468,
+          "measured_recall": 0.147,
+          "theoretical_recall": 0.1552,
+          "difference": -0.0082
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.5-0.6",
+          "n_planted_pairs": 502,
+          "mean_jaccard": 0.5476,
+          "measured_recall": 0.4283,
+          "theoretical_recall": 0.4261,
+          "difference": 0.0022
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.6-0.7",
+          "n_planted_pairs": 386,
+          "mean_jaccard": 0.6476,
+          "measured_recall": 0.7927,
+          "theoretical_recall": 0.7755,
+          "difference": 0.0172
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.7-0.8",
+          "n_planted_pairs": 352,
+          "mean_jaccard": 0.7464,
+          "measured_recall": 0.9688,
+          "theoretical_recall": 0.97,
+          "difference": -0.0012
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.8-0.9",
+          "n_planted_pairs": 280,
+          "mean_jaccard": 0.8495,
+          "measured_recall": 1.0,
+          "theoretical_recall": 0.9996,
+          "difference": 0.0004
+        },
+        {
+          "n_bands": 20,
+          "n_rows_per_band": 6,
+          "jaccard_bin": "0.9-1.0",
+          "n_planted_pairs": 234,
+          "mean_jaccard": 0.9536,
+          "measured_recall": 1.0,
+          "theoretical_recall": 1.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.2-0.3",
+          "n_planted_pairs": 1043,
+          "mean_jaccard": 0.2473,
+          "measured_recall": 0.023,
+          "theoretical_recall": 0.0259,
+          "difference": -0.0029
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.3-0.4",
+          "n_planted_pairs": 779,
+          "mean_jaccard": 0.3466,
+          "measured_recall": 0.0988,
+          "theoretical_recall": 0.1246,
+          "difference": -0.0257
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.4-0.5",
+          "n_planted_pairs": 585,
+          "mean_jaccard": 0.4468,
+          "measured_recall": 0.3299,
+          "theoretical_recall": 0.3674,
+          "difference": -0.0375
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.5-0.6",
+          "n_planted_pairs": 502,
+          "mean_jaccard": 0.5476,
+          "measured_recall": 0.7251,
+          "theoretical_recall": 0.7113,
+          "difference": 0.0138
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.6-0.7",
+          "n_planted_pairs": 386,
+          "mean_jaccard": 0.6476,
+          "measured_recall": 0.956,
+          "theoretical_recall": 0.9425,
+          "difference": 0.0135
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.7-0.8",
+          "n_planted_pairs": 352,
+          "mean_jaccard": 0.7464,
+          "measured_recall": 0.9972,
+          "theoretical_recall": 0.9973,
+          "difference": -0.0002
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.8-0.9",
+          "n_planted_pairs": 280,
+          "mean_jaccard": 0.8495,
+          "measured_recall": 1.0,
+          "theoretical_recall": 1.0,
+          "difference": 0.0
+        },
+        {
+          "n_bands": 25,
+          "n_rows_per_band": 5,
+          "jaccard_bin": "0.9-1.0",
+          "n_planted_pairs": 234,
+          "mean_jaccard": 0.9536,
+          "measured_recall": 1.0,
+          "theoretical_recall": 1.0,
+          "difference": 0.0
+        }
+      ]
+    },
+    "conclusion": {
+      "chosen_setting": [
+        16,
+        8
+      ],
+      "cheapest_setting_with_best_real_recall": [
+        16,
+        8
+      ],
+      "best_real_recall": 1.0,
+      "seconds_minhash_lsh_verification": 95.2,
+      "estimated_minutes_brute_force_all_pairs": 61.2
+    }
+  },
+  "drug_canonical_names": {
+    "atc_mapping_file": "drug_atc_mapping.csv",
+    "use_canonical_drugs_in_a6": false,
+    "n_drug_names": 3669,
+    "n_names_not_in_atc_mapping": 92,
+    "n_names_with_canonical_from_atc": 3617,
+    "n_names_with_canonical_from_family_name": 52,
+    "n_reviews_with_canonical_from_family_name": 194,
+    "n_original_families": 1388,
+    "n_mixed_families": 9,
+    "mixed_families": [
+      "Acetaminophen / hydrocodone",
+      "Angeliq",
+      "Duloxetine",
+      "Gabapentin",
+      "Menthol / zinc oxide",
+      "Octreotide",
+      "Ocular lubricant",
+      "Quetiapine",
+      "Sertraline"
+    ],
+    "n_families_split": 9,
+    "n_canonical_names": 1389,
+    "n_canonical_names_joining_several_families": 13,
+    "n_drug_families_after_canonical": 1388
+  },
+  "similar_stories": {
+    "version": "word sets (stop words, drug names and very common or rare words removed; stemming; negations marked)",
+    "n_reviews_searched": 115463,
+    "mean_meaningful_words_per_review": 28.2,
+    "n_drug_families": 1388,
+    "story_jaccard_threshold": 0.3,
+    "chosen_n_bands": 42,
+    "chosen_n_rows_per_band": 3,
+    "n_all_possible_pairs": 6665794453,
+    "n_lsh_candidate_pairs": 18730368,
+    "n_cross_drug_candidates": 17897128,
+    "n_after_minhash_filter": 279858,
+    "n_similar_story_pairs": 2254,
+    "same_patient_character_jaccard": 0.3,
+    "n_likely_same_patient": 31,
+    "max_rating_difference": 3,
+    "n_left_out_for_rating_difference": 512,
+    "n_shared_stories": 1711,
+    "share_same_condition": 0.444,
+    "n_same_family_candidates_verified_for_null_model": 833240,
+    "n_same_family_similar_pairs": 936,
+    "n_skipped_large_buckets": 1,
+    "largest_bucket_size": 1928,
+    "seconds_lsh": 58.6,
+    "seconds_total": 72.6,
+    "setting_comparison": [
+      {
+        "n_bands": 64,
+        "n_rows_per_band": 2,
+        "lsh_threshold_estimate": 0.12,
+        "theoretical_recall_at_story_threshold": 0.998,
+        "counted_candidate_pairs": 568111091,
+        "n_buckets_over_1000_reviews": 127
+      },
+      {
+        "n_bands": 42,
+        "n_rows_per_band": 3,
+        "lsh_threshold_estimate": 0.29,
+        "theoretical_recall_at_story_threshold": 0.683,
+        "counted_candidate_pairs": 20864643,
+        "n_buckets_over_1000_reviews": 1
+      },
+      {
+        "n_bands": 32,
+        "n_rows_per_band": 4,
+        "lsh_threshold_estimate": 0.42,
+        "theoretical_recall_at_story_threshold": 0.229,
+        "counted_candidate_pairs": 995137,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 25,
+        "n_rows_per_band": 5,
+        "lsh_threshold_estimate": 0.53,
+        "theoretical_recall_at_story_threshold": 0.059,
+        "counted_candidate_pairs": 84996,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 21,
+        "n_rows_per_band": 6,
+        "lsh_threshold_estimate": 0.6,
+        "theoretical_recall_at_story_threshold": 0.015,
+        "counted_candidate_pairs": 6760,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 16,
+        "n_rows_per_band": 8,
+        "lsh_threshold_estimate": 0.71,
+        "theoretical_recall_at_story_threshold": 0.001,
+        "counted_candidate_pairs": 158,
+        "n_buckets_over_1000_reviews": 0
+      }
+    ],
+    "skipped_large_buckets": [
+      {
+        "band": 38,
+        "n_reviews": 1928,
+        "n_pairs_in_bucket": 1857628,
+        "words_in_90_percent_of_reviews": "stop use",
+        "mean_meaningful_words": 31.8,
+        "n_sampled_pairs": 19987,
+        "share_of_pairs_similar": 0.0,
+        "share_of_similar_pairs_found_anyway": null,
+        "estimated_cross_drug_similar_pairs_lost": 0
+      }
+    ],
+    "n_drug_family_pairs_in_table": 93,
+    "null_model": {
+      "method": "drug family labels shuffled among searched reviews of the same condition; pairs and filters fixed",
+      "n_permutations": 5000,
+      "n_shared_story_pairs_used": 2402,
+      "n_of_them_same_family": 691,
+      "n_conditions": 763,
+      "n_drug_pairs_tested": 93,
+      "false_discovery_rate": 0.05,
+      "n_drug_pairs_significant": 5,
+      "share_same_condition_significant": 0.784,
+      "share_same_condition_not_significant": 0.57,
+      "smallest_possible_p_value": 0.0002,
+      "seconds": 39.7
+    }
+  },
+  "similar_stories_semantic": {
+    "embedding_file_stem": "embeddings_masked_v2_all",
+    "embedding_dim": 768,
+    "n_vectors_in_file": 36365,
+    "n_vectors_in_clean_data": 36365,
+    "n_reviews_searched_by_words": 115463,
+    "n_reviews_searched": 34090,
+    "share_of_word_version_reviews": 0.295,
+    "n_conditions_with_vectors": 4,
+    "reviews_searched_per_condition": {
+      "Birth Control": 19013,
+      "Depression": 6497,
+      "Acne": 4326,
+      "Pain": 4254
+    },
+    "vector_norm_range_before_renormalising": [
+      1.0,
+      1.0
+    ],
+    "skipped": false,
+    "cosine_threshold_quantile": 0.9999,
+    "n_threshold_sample_pairs": 881719,
+    "cosine_percentiles_of_random_cross_drug_pairs": {
+      "p1": 0.1094,
+      "p25": 0.3561,
+      "p50": 0.4566,
+      "p75": 0.5471,
+      "p99": 0.7264,
+      "p99.9": 0.7911,
+      "p99.99": 0.837
+    },
+    "cosine_threshold": 0.837,
+    "share_of_random_pairs_above_cosine_threshold": 0.000101,
+    "share_of_random_pairs_similar_by_words": 6e-06,
+    "n_within_condition_cross_drug_pairs_estimate": 194190621,
+    "n_hyperplanes": 2048,
+    "bit_agreement_check": {
+      "n_pairs": 20000,
+      "mean_absolute_difference_measured_vs_theory": 0.0079,
+      "expected_from_chance": 0.0084
+    },
+    "chosen_n_bands": 102,
+    "chosen_n_rows_per_band": 20,
+    "theoretical_recall_at_cosine_threshold": 0.826,
+    "setting_comparison": [
+      {
+        "n_bands": 256,
+        "n_rows_per_band": 8,
+        "lsh_threshold_cosine_estimate": 0.0,
+        "theoretical_recall_at_cosine_threshold": 1.0,
+        "expected_share_of_random_pairs_as_candidates": 0.9885947998,
+        "counted_candidate_pairs": 3701815362,
+        "n_buckets_over_1000_reviews": 1376
+      },
+      {
+        "n_bands": 170,
+        "n_rows_per_band": 12,
+        "lsh_threshold_cosine_estimate": 0.459,
+        "theoretical_recall_at_cosine_threshold": 1.0,
+        "expected_share_of_random_pairs_as_candidates": 0.6077306467,
+        "counted_candidate_pairs": 470705021,
+        "n_buckets_over_1000_reviews": 105
+      },
+      {
+        "n_bands": 128,
+        "n_rows_per_band": 16,
+        "lsh_threshold_cosine_estimate": 0.681,
+        "theoretical_recall_at_cosine_threshold": 0.993,
+        "expected_share_of_random_pairs_as_candidates": 0.1833842748,
+        "counted_candidate_pairs": 75954230,
+        "n_buckets_over_1000_reviews": 4
+      },
+      {
+        "n_bands": 102,
+        "n_rows_per_band": 20,
+        "lsh_threshold_cosine_estimate": 0.797,
+        "theoretical_recall_at_cosine_threshold": 0.826,
+        "expected_share_of_random_pairs_as_candidates": 0.0431583193,
+        "counted_candidate_pairs": 14434158,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 85,
+        "n_rows_per_band": 24,
+        "lsh_threshold_cosine_estimate": 0.862,
+        "theoretical_recall_at_cosine_threshold": 0.474,
+        "expected_share_of_random_pairs_as_candidates": 0.0100043752,
+        "counted_candidate_pairs": 3294361,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 64,
+        "n_rows_per_band": 32,
+        "lsh_threshold_cosine_estimate": 0.928,
+        "theoretical_recall_at_cosine_threshold": 0.09,
+        "expected_share_of_random_pairs_as_candidates": 0.0006246676,
+        "counted_candidate_pairs": 179167,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 51,
+        "n_rows_per_band": 40,
+        "lsh_threshold_cosine_estimate": 0.957,
+        "theoretical_recall_at_cosine_threshold": 0.015,
+        "expected_share_of_random_pairs_as_candidates": 4.84981e-05,
+        "counted_candidate_pairs": 13843,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 42,
+        "n_rows_per_band": 48,
+        "lsh_threshold_cosine_estimate": 0.972,
+        "theoretical_recall_at_cosine_threshold": 0.002,
+        "expected_share_of_random_pairs_as_candidates": 4.5656e-06,
+        "counted_candidate_pairs": 1604,
+        "n_buckets_over_1000_reviews": 0
+      },
+      {
+        "n_bands": 32,
+        "n_rows_per_band": 64,
+        "lsh_threshold_cosine_estimate": 0.986,
+        "theoretical_recall_at_cosine_threshold": 0.0,
+        "expected_share_of_random_pairs_as_candidates": 6.95e-08,
+        "counted_candidate_pairs": 30,
+        "n_buckets_over_1000_reviews": 0
+      }
+    ],
+    "seconds_hyperplanes": 1.1,
+    "version": "Sentence-BERT vectors (embeddings_masked_v2_all), random-hyperplane LSH, exact cosine",
+    "n_all_possible_pairs": 581047005,
+    "n_lsh_candidate_pairs": 13210575,
+    "n_cross_drug_candidates": 11312502,
+    "n_similar_story_pairs": 17178,
+    "n_likely_same_patient": 6,
+    "n_left_out_for_rating_difference": 3493,
+    "n_shared_stories": 13679,
+    "share_same_condition": 0.985,
+    "n_same_family_similar_pairs": 13021,
+    "n_skipped_large_buckets": 0,
+    "largest_bucket_size": 727,
+    "skipped_large_buckets": [],
+    "seconds_lsh": 53.4,
+    "seconds_total": 85.2,
+    "n_drug_family_pairs_in_table": 233,
+    "null_model": {
+      "method": "drug family labels shuffled among searched reviews of the same condition; pairs and filters fixed",
+      "n_permutations": 9320,
+      "n_shared_story_pairs_used": 23530,
+      "n_of_them_same_family": 9851,
+      "n_drug_pairs_tested": 233,
+      "false_discovery_rate": 0.05,
+      "n_drug_pairs_significant": 8,
+      "share_same_condition_significant": 0.984,
+      "share_same_condition_not_significant": 0.994,
+      "smallest_possible_p_value": 0.000107,
+      "seconds": 27.6
+    },
+    "comparison_with_word_version": {
+      "n_reviews_compared": 34090,
+      "similar_pairs_different_drugs": {
+        "n_word_version": 608,
+        "n_meaning_version": 17178,
+        "n_both": 13,
+        "n_words_only": 595,
+        "n_meaning_only": 17165,
+        "overlap_jaccard": 0.001
+      },
+      "shared_stories": {
+        "n_word_version": 453,
+        "n_meaning_version": 13679,
+        "n_both": 7,
+        "n_words_only": 446,
+        "n_meaning_only": 13672,
+        "overlap_jaccard": 0.0
+      },
+      "drug_family_pairs_in_table": {
+        "n_word_version": 32,
+        "n_meaning_version": 233,
+        "n_both": 32,
+        "n_words_only": 0,
+        "n_meaning_only": 201,
+        "overlap_jaccard": 0.137
+      },
+      "significant_drug_family_pairs": {
+        "n_word_version": 5,
+        "n_meaning_version": 8,
+        "n_both": 3,
+        "n_words_only": 2,
+        "n_meaning_only": 5,
+        "overlap_jaccard": 0.3
+      },
+      "shared_stories_found_by_one_version_only": {
+        "words only": {
+          "median_cosine": 0.6547,
+          "median_word_jaccard": 0.316
+        },
+        "meaning only": {
+          "median_cosine": 0.8492,
+          "median_word_jaccard": 0.103
+        }
+      },
+      "significant_both": [
+        "Ethinyl estradiol / levonorgestrel - Cryselle",
+        "Ethinyl estradiol / levonorgestrel - Ethinyl estradiol / norethindrone",
+        "Ethinyl estradiol / levonorgestrel - Ethinyl estradiol / norgestimate"
+      ],
+      "significant_words_only": [
+        "Aczone - Epiduo",
+        "Ethinyl estradiol / levonorgestrel - Desogestrel / ethinyl estradiol"
+      ],
+      "significant_meaning_only": [
+        "Benzoyl peroxide / clindamycin - Epiduo",
+        "Ethinyl estradiol / norethindrone - Ethinyl estradiol / norgestimate",
+        "Ethinyl estradiol / norethindrone - Norethindrone",
+        "Isotretinoin - Doxycycline",
+        "Levonorgestrel - ParaGard"
+      ],
+      "significant_in_full_word_version_also_significant_by_meaning": [
+        "Ethinyl estradiol / levonorgestrel - Ethinyl estradiol / norethindrone",
+        "Ethinyl estradiol / levonorgestrel - Ethinyl estradiol / norgestimate"
+      ],
+      "word_version_on_same_reviews_null_model": {
+        "method": "drug family labels shuffled among searched reviews of the same condition; pairs and filters fixed",
+        "n_permutations": 5000,
+        "n_shared_story_pairs_used": 612,
+        "n_of_them_same_family": 159,
+        "n_drug_pairs_tested": 32,
+        "false_discovery_rate": 0.05,
+        "n_drug_pairs_significant": 5,
+        "share_same_condition_significant": 1.0,
+        "share_same_condition_not_significant": 0.96,
+        "smallest_possible_p_value": 0.0002
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+n_bands,n_rows_per_band,lsh_threshold_estimate,n_candidate_pairs,seconds_banding,n_real_pairs_found,n_real_pairs,real_recall_at_jaccard_threshold,real_recall_ci_low,real_recall_ci_high,real_share_of_candidates_at_or_above_threshold,largest_bucket_size,n_skipped_large_buckets,planted_recall_jaccard_0.8_to_0.9,planted_recall_jaccard_0.5_to_0.6
+8,16,0.88,3404,0.4,154,165,0.933,0.885,0.962,0.995,49,0,0.493,0.0
+10,12,0.83,3598,0.5,160,165,0.97,0.931,0.987,0.946,49,0,0.746,0.008
+16,8,0.71,3931,0.8,165,165,1.0,0.977,1.0,0.869,49,0,0.979,0.118
+20,6,0.61,7237,1.0,165,165,1.0,0.977,1.0,0.472,49,0,1.0,0.428
+25,5,0.53,50512,2.0,165,165,1.0,0.977,1.0,0.068,90,0,1.0,0.725
