@@ -4,7 +4,7 @@ This notebook gives every drug in the reviews its **ATC class** (the WHO classif
 
 ## Data
 
-The clean reviews from A (`reviews_clean_deduplicated.parquet`), with 3,671 drug names. The ATC codes come from **RxNorm** (US National Library of Medicine, free RxNav API): it knows the US brand names of Drugs.com and links each one to its active ingredient and its WHO ATC codes.
+The clean reviews from A (`reviews_clean_deduplicated.parquet`), with 3,669 drug names. The ATC codes come from **RxNorm** (US National Library of Medicine, free RxNav API): it knows the US brand names of Drugs.com and links each one to its active ingredient and its WHO ATC codes.
 
 ## What the notebook does
 
@@ -18,7 +18,7 @@ The clean reviews from A (`reviews_clean_deduplicated.parquet`), with 3,671 drug
 
 ## Where the results are
 
-The output files are in the `outputs` folder. They were made from the raw UCI files with A's cleaning rules; with A's files the mapping is the same.
+The output files are in the `outputs` folder. They were made from A's clean data (`reviews_clean_deduplicated.parquet`, 128,663 reviews), so `scope_review_atc.csv` has exactly the 36,365 reviews that B, C and E use. An earlier version was made from the raw UCI files with A's cleaning rules (36,385 reviews in scope); every review in both versions has the same class. The validation step that uses these classes is in [`../validation`](../validation).
 
 | File | For |
 |---|---|
@@ -43,5 +43,6 @@ review_atc = pd.read_csv('atc-mapping/outputs/scope_review_atc.csv')
 
 ## To do
 
-- [ ] **Tell A about 9 drug families that mix different medicines** (one review listed under both), for example Sertraline + Lorazepam and Gabapentin + Tramadol. They affect the drug pairs of A6.
-- [ ] Agree with A on one name per drug (proposal: `generic_name` from `drug_atc_mapping.csv`).
+- [x] **Tell A about 9 drug families that mix different medicines** (one review listed under both), for example Sertraline + Lorazepam and Gabapentin + Tramadol. Done: A's step A6 · 1b splits the 9 families.
+- [x] Agree with A on one name per drug: `generic_name` from `drug_atc_mapping.csv` (A's `drug_canonical_name`; the validation step also uses `generic_name`).
+- [x] Validation (profiles vs ATC classes, rating prediction): see [`../validation`](../validation).

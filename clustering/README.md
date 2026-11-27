@@ -16,10 +16,11 @@ and `drug_families.csv`.  We use the 36,365 reviews of the four conditions:
 1. **B1 · Load and scope** — load Role A's clean data, keep the four conditions.
 2. **B2 · TF-IDF vectorisation** — one vectoriser per condition (20k features,
    bigrams, `sublinear_tf=True`).
-3. **B3 · Dimensionality reduction** — TruncatedSVD (100 components, LSA) + L2
+3. **B3 · Dimensionality reduction** — TruncatedSVD (150 components, LSA) + L2
    normalisation so Euclidean distance approximates cosine distance.
-4. **B4 · K-means sweep** — sweep k = 2 … 12 per condition, plot Davies-Bouldin
-   index and inertia elbow, pick k_best = argmin(DB).
+4. **B4 · K-means sweep** — sweep k = 2 … 26 per condition, plot Davies-Bouldin
+   index and inertia elbow, pick k_best = argmin(DB).  Result: k = 23 (Birth
+   Control), 26 (Depression), 26 (Pain), 25 (Acne).
 5. **B5 · DBSCAN** — kNN distance plot to choose eps, then grid search over
    eps × min_samples; score valid configs with Davies-Bouldin.
 6. **B6 · Compare** — side-by-side DB scores for k-means vs DBSCAN.
@@ -62,16 +63,36 @@ Columns: `review_id`, `condition_name`, `drug_family`, `rating`,
 ## How to run
 
 Put Role A's two files in `data/` (or add A's notebook output on Kaggle),
-then **Restart & Run All** (about 3–5 minutes).  All parameters are in
+then **Restart & Run All** (about 3–6 minutes).  All parameters are in
 section *0 · Setup and parameters*.  Requires: `numpy`, `pandas`, `scipy`,
-`scikit-learn`, `matplotlib`.
+`scikit-learn`, `matplotlib` and `fastparquet` (the parquet engine used in B1).
+
+**Reproducibility check (25 Nov).** A rerun from the raw UCI data gives the same
+k in every condition, identical clusters in Birth Control and 95–99 % of reviews
+in the same cluster in the other three (small numerical differences between
+machines).  The chosen DBSCAN `min_samples` changed in Depression and Acne.
+The committed outputs are the ones C's labels and the validation step use, so
+they were not replaced.
+
+## Open points for the report
+
+- **k is at the edge of the sweep.**  The Davies-Bouldin index keeps falling as
+  k grows, so argmin(DB) lands at 23–26, the top of the range (the range was
+  already extended once from 20).  The report has to justify k another way
+  (elbow, interpretability, or a cap) or say that DB alone does not settle it.
+- **DBSCAN's lower DB is not a fair comparison.**  DB is computed without the
+  noise points (11–26 % of the reviews), and DBSCAN finds only 2–3 clusters in
+  three conditions.
+- **Some clusters are a drug name** (*nexplanon*, *mirena*, *pristiq*): 27 of
+  the 100 clusters have one drug with ≥ 50 % of their reviews.  The validation
+  step leaves them out of the experience profiles.
 
 ## To do
 
-- [ ] Label each cluster with a short name after inspecting the top terms and
-  sample reviews (target names: "weight gain", "mood swings", "worked fast,
-  no side effects", "stopped because of nausea").
-- [ ] Share `cluster_assignments.parquet` with C (NLP lead) for topic modelling
+- [x] Label each cluster: C's automatic labels are in
+  `../nlp-embeddings/outputs/cluster_labels_final.csv` (`label_final`).
+- [x] Share `cluster_assignments.parquet` with C (NLP lead) for topic modelling
   and with D (validation) for the rating prediction step.
+- [ ] Decide how to justify k (see *Open points*).
 - [ ] Write the Role B section of the report from `role_b_run_stats.json` and
   the figures.

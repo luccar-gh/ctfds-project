@@ -1,0 +1,88 @@
+review_id,drug_name,condition_name,rating,review_date,word_count,near_duplicate_group,kept_review_id
+2227,Metformin,"Diabetes, Type 2",7,2014-12-06,126,2026,2226
+2381,Dalmane,Insomnia,10,2015-05-17,106,2142,2380
+3224,Nitrofurantoin,Urinary Tract Infection,10,2016-08-05,95,2879,3223
+3662,Formoterol,Bronchospasm Prophylaxis,10,2016-05-14,139,3278,3661
+5453,Sovaldi,Hepatitis C,1,2015-07-25,144,4914,5452
+8680,Zolpidem,Insomnia,9,2009-09-16,31,7839,8654
+8720,Zolpidem,Insomnia,10,2009-01-09,30,7839,8654
+9656,Lo Loestrin Fe,Birth Control,3,2015-11-22,141,8708,9653
+12563,Elbasvir / grazoprevir,Hepatitis C,10,2017-07-16,109,11211,12562
+12950,Jalyn,Benign Prostatic Hyperplasia,5,2010-09-27,20,11549,12947
+14022,Megestrol,Abnormal Uterine Bleeding,7,2015-05-10,77,12504,14021
+14831,Ethinyl estradiol / norethindrone,Birth Control,10,2017-09-28,126,3451,3851
+16932,Zinc oxide,Dermatologic Lesion,10,2013-12-26,52,14599,16931
+17685,Ethinyl estradiol / etonogestrel,Birth Control,9,2015-11-05,68,15284,17684
+19537,Pregabalin,Fibromyalgia,8,2014-04-15,166,16957,19536
+19809,Pregabalin,Pain,9,2009-09-29,134,17202,19806
+24045,Tretinoin,Acne,9,2016-08-05,141,20730,24044
+27958,Lexapro,Anxiety,8,2016-06-09,130,23955,27957
+30285,Klonopin,Anxiety,9,2011-01-29,125,26102,30284
+32661,Lisinopril,High Blood Pressure,10,2008-05-11,48,28180,32652
+36840,Fentanyl,Pain,9,2008-07-02,58,31154,36830
+37245,Vyvanse,ADHD,6,2016-07-17,141,31386,37237
+37649,Vyvanse,ADHD,5,2009-07-17,79,31757,37628
+41418,Acetaminophen / oxycodone,Not Listed / Other,9,2008-12-15,70,35001,41351
+41471,Acetaminophen / oxycodone,Pain,10,2008-04-12,72,35050,41405
+49870,Gabapentin,Anxiety,10,2016-03-24,157,41644,49869
+50722,Gabapentin,Restless Legs Syndrome,9,2008-05-29,43,42433,50721
+51082,Azithromycin,Chlamydia Infection,3,2016-08-15,143,42764,51081
+51283,Azithromycin,Tonsillitis/Pharyngitis,1,2015-07-09,33,42634,50941
+59066,Morphine,Chronic Pain,8,2017-11-04,89,30809,36382
+62863,Cozaar,High Blood Pressure,9,2013-01-14,76,30593,36125
+66063,Propranolol,Benign Essential Tremor,2,2013-04-28,81,53430,66062
+67579,Plan B,Emergency Contraception,10,2017-06-18,146,54551,67578
+68042,Plan B,Emergency Contraception,9,2016-03-14,136,54973,68041
+68343,Plan B,Emergency Contraception,10,2014-07-24,89,55259,68342
+69295,Celebrex,Pain,8,2008-04-04,44,56010,69293
+69881,Chlorpheniramine / hydrocodone,Cough,10,2009-05-12,52,56495,69880
+72035,Tramadol,Pain,3,2016-07-08,129,57848,72032
+74876,Keppra,Epilepsy,1,2011-08-29,92,36426,43001
+76376,Topiramate,Migraine Prevention,6,2008-04-04,89,25671,29823
+79299,Plan B One-Step,Emergency Contraception,10,2015-10-01,143,61860,79298
+83874,Ethinyl estradiol / norgestimate,Acne,1,2017-11-04,97,65212,83870
+83945,Ethinyl estradiol / norgestimate,Birth Control,2,2017-08-09,90,65258,83944
+88948,Truvada,HIV Infection,10,2013-08-29,60,11765,13189
+89038,Singulair,Allergic Rhinitis,1,2016-08-02,131,68612,89037
+90872,Roxicodone,Pain,10,2009-10-03,99,36909,43537
+92918,Vortioxetine,Depression,9,2017-02-03,64,69926,92917
+100804,Desogestrel / ethinyl estradiol,Birth Control,10,2008-07-22,79,1735,1884
+109589,Nexplanon,Birth Control,8,2016-11-02,153,80367,109588
+111530,Cipro,Urinary Tract Infection,1,2016-03-18,111,82055,111529
+111675,Cipro,Urinary Tract Infection,1,2011-01-23,71,29931,35378
+112586,Lunesta,Insomnia,10,2013-06-28,96,46281,56632
+113422,Bisacodyl,Constipation,1,2014-11-09,106,32763,38815
+121273,Venlafaxine,Depression,9,2016-07-22,75,88329,121270
+126384,Carvedilol,High Blood Pressure,1,2016-08-17,128,91513,126383
+132233,Ativan,Panic Disorder,10,2017-01-18,119,51667,64153
+132677,Doxepin,Insomnia,10,2011-01-31,41,94849,132676
+135506,Tamiflu,Influenza,1,2015-01-22,67,95997,135436
+139558,Luvox,Obsessive Compulsive Disorder,9,2015-09-30,113,98263,139557
+150578,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,1,2016-02-16,154,101171,150577
+150966,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,1,2011-01-23,71,29931,35378
+151236,OxyContin,Pain,9,2009-09-04,76,98522,140022
+156110,Cialis,Erectile Dysfunction,7,2011-01-08,93,8113,8973
+157480,Guaifenesin,Fibromyalgia,9,2008-04-15,67,105343,157479
+158782,Methylphenidate,Not Listed / Other,10,2008-06-30,94,36163,42699
+159350,Januvia,"Diabetes, Type 2",2,2011-11-16,49,99119,142166
+160505,Buspirone,Anxiety,9,2015-11-01,103,64583,82949
+163838,Mirtazapine,Not Listed / Other,10,2008-08-03,28,107161,161810
+164875,Phentermine / topiramate,Weight Loss,10,2016-07-12,107,108497,164874
+172210,Doxazosin,High Blood Pressure,5,2008-03-26,52,110475,172209
+177474,Duloxetine,Anxiety,8,2016-04-11,57,112613,177473
+179287,Olanzapine,Depression,10,2015-07-24,134,60904,78095
+197114,Paroxetine,Generalized Anxiety Disorder,9,2015-03-13,95,118427,197113
+198481,Exenatide,Not Listed / Other,10,2008-06-16,65,96554,136639
+202096,Benzoyl peroxide / clindamycin,Acne,10,2016-01-29,44,119317,202074
+202125,Benzoyl peroxide / clindamycin,Acne,10,2015-10-13,136,103064,153199
+211116,Carisoprodol,Muscle Spasm,9,2008-04-01,27,37190,43847
+211826,Lamotrigine,Schizoaffective Disorder,9,2017-01-12,131,121585,211823
+213531,Tioconazole,Vaginal Yeast Infection,1,2017-10-16,122,122093,213528
+219741,Amitriptyline,Irritable Bowel Syndrome,10,2017-08-28,103,56520,69925
+224313,Levothyroxine,Underactive Thyroid,9,2016-02-23,135,125621,224312
+224463,Bupropion,Bipolar Disorder,9,2017-11-27,117,70830,94444
+224634,Levothyroxine,Underactive Thyroid,1,2009-10-06,71,39860,47210
+14599,Buprenorphine / naloxone,,10,2008-05-13,104,13042,14623
+56795,Elavil,,10,2009-03-10,46,46425,56796
+101087,Rexulti,,10,2016-08-10,97,75449,101086
+131150,Levonorgestrel,,10,2008-12-12,113,94378,131155

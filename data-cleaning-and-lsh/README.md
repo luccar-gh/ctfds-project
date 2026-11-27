@@ -11,14 +11,16 @@ This notebook prepares the dataset that the rest of the group works with, and us
 1. **Cleans the text**: fixes broken symbols and repairs disease names that were cut off (for example "Bipolar Disorde" → "Bipolar Disorder").
 2. **Removes exact copies**: the same review often appears twice, once under the brand name of a drug (*Zoloft*) and once under its generic name (*Sertraline*). 86,311 copies are removed.
 3. **Removes near-copies with MinHash + LSH**: reviews that are almost identical. Our own implementation, which finds similar texts without comparing all 8.3 billion pairs. 87 near-copies are removed.
-4. **Checks that LSH works**: compares LSH with a brute-force comparison of 305 million pairs and with 5,000 test pairs of known similarity. LSH finds all 165 real near-copies and is about 26 times faster than comparing every pair.
+4. **Checks that LSH works**: compares LSH with a brute-force comparison of 305 million pairs and with 5,000 test pairs of known similarity. LSH finds all 165 real near-copies and is about 39 times faster than comparing every pair (final run; the ratio varies between Kaggle runs because brute force is timed on a sample).
 5. **Finds similar stories across drugs**: patients who describe the same experience with different medicines, found with LSH on the meaningful words of each review. The result is 1,711 shared stories and 93 drug pairs. A statistical test (permutation test) shows that 5 of these pairs share more stories than their condition alone explains.
+6. **Gives every drug one canonical name**: `drug_canonical_name` in `drug_families.csv` is the generic name from the validation lead's ATC table (families that mix two medicines are split). It is only added as a column; A6 still counts drug families unless `USE_CANONICAL_DRUGS_IN_A6 = True`.
+7. **Finds similar stories by meaning**: the same search on the NLP lead's Sentence-BERT embeddings (drug names masked), with our own LSH for cosine similarity (random hyperplanes), the same filters and the same test. On the 34,090 reviews of the four scope conditions it finds 13,679 shared stories and 8 significant drug pairs; the two versions share only 7 stories, so they capture different kinds of similarity.
 
 **Main result:** 128,663 clean reviews with no copies, saved as `reviews_clean_deduplicated.parquet`.
 
 ## Where the results are
 
-The output files (clean data, tables and figures) are in the **Output** tab of the Kaggle notebook:
+The small output files (tables, figures and `role_a_run_stats.json`) of the final run are in `outputs/` of this folder. The `.parquet` files (the clean data and `similar_story_pairs.parquet`) are only in the **Output** tab of the Kaggle notebook:
 https://www.kaggle.com/code/diegofogued/clean-and-deduplicate
 
 | File | For |
@@ -27,6 +29,9 @@ https://www.kaggle.com/code/diegofogued/clean-and-deduplicate
 | `drug_family_story_similarity.csv` | Validation lead: drug pairs with similar stories and the test result (`is_significant`) |
 | `drug_families.csv`, `brand_generic_drug_name_pairs.csv` | Validation lead: brand and generic names of the same medicine |
 | `role_a_run_stats.json`, `lsh_setting_comparison.csv`, `lsh_recall_vs_theory.png` | Report: all numbers and the LSH figure |
+| `drug_family_story_similarity_semantic.csv`, `semantic_vs_word_story_pairs.csv`, `semantic_lsh_s_curve.png` | Report and validation lead: the search by meaning and its comparison with the word version |
+
+Inputs of the notebook: the Kaggle dataset above, plus (optional) the NLP lead's embeddings (Kaggle dataset `claudiagranado/dataset-input-versionantiguaresultados`) and `atc-mapping/outputs/drug_atc_mapping.csv`. Without them, the search by meaning is skipped and the canonical name falls back to the family name.
 
 ## How to use the clean data in your own Kaggle notebook
 
@@ -43,7 +48,14 @@ reviews = pd.read_parquet(path)
 
 3. For the review text, use the column `review_text_clean`. It keeps punctuation and negations such as "no weight gain".
 
+## Reproducibility check (25 Nov)
+
+A local rerun from the raw UCI files (the `.tsv` version, in `data/raw/` of this folder or of the repository) gives the same 128,663 clean reviews and exactly the A6 numbers above (1,711 shared stories, 93 drug pairs, 5 significant) in about 2 minutes. **`nltk` is required**: without it A6 used to skip stemming silently and find other stories (667 instead of 1,711), so the notebook now stops with an error instead.
+
+The saved notebook is the final Kaggle run (26 Nov) with all three inputs, so every step has its outputs, including **A6 · 1b** (3,617 of 3,669 names get D's generic name; 9 mixed families split) and **A6b** (the step 7 numbers above). After importing a notebook into Kaggle, check the input panel: the import resets the inputs to those saved in the file.
+
 ## To do
 
-- [ ] **Compare with the NLP lead's embeddings.** Repeat the similar-story search with the Sentence-BERT embeddings (LSH for cosine similarity with random hyperplanes), then compare it with the word version: which pairs both versions find, which only one finds, and examples of each.
-- [ ] Agree with the validation lead on one name per drug (proposal: the generic name).
+- [x] **Compare with the NLP lead's embeddings** (step 7).
+- [x] Agree with the validation lead whether A6 should count canonical drugs: the validation step uses D's `generic_name` per review and does not read A6, so `USE_CANONICAL_DRUGS_IN_A6` can stay `False`.
+- [x] **Final Kaggle run** with D's `drug_atc_mapping.csv` and C's embeddings dataset as inputs (26 Nov): A1–A6 unchanged, A6b numbers as in step 7.

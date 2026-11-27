@@ -1,0 +1,122 @@
+{
+  "n_reviews_all": 128663,
+  "n_reviews_in_scope": 36365,
+  "share_top10_terms_that_are_drug_or_condition_names": 0.143,
+  "clusters_with_name_in_top5": 51,
+  "ctfidf_word_overlap_with_B_mean": 0.677,
+  "npmi_mean_clusters": 0.137,
+  "npmi_mean_random_baseline": -0.165,
+  "cohesion_gap_mean": -0.006,
+  "model": "FremyCompany/BioLORD-2023",
+  "embedding_dim": 768,
+  "n_reviews_embedded": 36365,
+  "conditions": [
+    "depression",
+    "birth control",
+    "pain",
+    "acne"
+  ],
+  "n_clusters": 100,
+  "sbert_unmasked": [
+    {
+      "condition": "depression",
+      "k": 26,
+      "baseline_top_drug_share": 0.093,
+      "purity_B": 0.267,
+      "purity_sbert_unmasked": 0.484,
+      "DB_sbert": 3.056,
+      "DB_B_in_sbert_space": 7.856,
+      "ARI_vs_B": 0.101,
+      "rating_spread_B": 1.027,
+      "rating_spread_sbert": 1.052
+    },
+    {
+      "condition": "birth control",
+      "k": 23,
+      "baseline_top_drug_share": 0.148,
+      "purity_B": 0.423,
+      "purity_sbert_unmasked": 0.439,
+      "DB_sbert": 3.346,
+      "DB_B_in_sbert_space": 6.122,
+      "ARI_vs_B": 0.163,
+      "rating_spread_B": 1.158,
+      "rating_spread_sbert": 1.395
+    },
+    {
+      "condition": "pain",
+      "k": 26,
+      "baseline_top_drug_share": 0.085,
+      "purity_B": 0.26,
+      "purity_sbert_unmasked": 0.293,
+      "DB_sbert": 3.435,
+      "DB_B_in_sbert_space": 8.577,
+      "ARI_vs_B": 0.068,
+      "rating_spread_B": 1.009,
+      "rating_spread_sbert": 0.862
+    },
+    {
+      "condition": "acne",
+      "k": 25,
+      "baseline_top_drug_share": 0.121,
+      "purity_B": 0.321,
+      "purity_sbert_unmasked": 0.429,
+      "DB_sbert": 3.312,
+      "DB_B_in_sbert_space": 8.302,
+      "ARI_vs_B": 0.082,
+      "rating_spread_B": 1.079,
+      "rating_spread_sbert": 1.264
+    }
+  ],
+  "sbert_masked_v2": [
+    {
+      "condition": "depression",
+      "k": 26,
+      "baseline_top_drug_share": 0.093,
+      "purity_B": 0.267,
+      "purity_sbert_masked_v2": 0.143,
+      "ARI_vs_B": 0.026,
+      "rating_spread_B": 1.027,
+      "rating_spread_masked": 1.635
+    },
+    {
+      "condition": "birth control",
+      "k": 23,
+      "baseline_top_drug_share": 0.148,
+      "purity_B": 0.423,
+      "purity_sbert_masked_v2": 0.255,
+      "ARI_vs_B": 0.087,
+      "rating_spread_B": 1.158,
+      "rating_spread_masked": 1.691
+    },
+    {
+      "condition": "pain",
+      "k": 26,
+      "baseline_top_drug_share": 0.085,
+      "purity_B": 0.26,
+      "purity_sbert_masked_v2": 0.151,
+      "ARI_vs_B": 0.041,
+      "rating_spread_B": 1.009,
+      "rating_spread_masked": 0.866
+    },
+    {
+      "condition": "acne",
+      "k": 25,
+      "baseline_top_drug_share": 0.121,
+      "purity_B": 0.321,
+      "purity_sbert_masked_v2": 0.311,
+      "ARI_vs_B": 0.036,
+      "rating_spread_B": 1.079,
+      "rating_spread_masked": 1.352
+    }
+  ],
+  "masked_names_in_list": 3460,
+  "residual_unmasked_name_share": 0.0,
+  "dbscan_noise_share": {
+    "Acne": 0.261,
+    "Birth Control": 0.114,
+    "Depression": 0.193,
+    "Pain": 0.198
+  },
+  "model_comparison_sample": null,
+  "runtime_minutes": 16.6
+}

@@ -47,8 +47,8 @@ Role A's output: `reviews_clean_deduplicated.parquet` (128,663 clean reviews) an
 | `lexicon/validation_sample_annotated.xlsx` | Evidence for v3: 200 reviews with the side effects each one really reports (`gold_basket`) | No, cited in E2 |
 | `lexicon/validation_round2_annotated.xlsx` | Evidence for the precision 0.74 and recall 0.67: 80 new reviews, **annotated by an LLM (Claude)** that saw only the review text, not the extractor's output | No, cited in E2 |
 | `data/reviews_clean_deduplicated.parquet`, `data/drug_families.csv` | Role A's output (copy it here, or add A's notebook output on Kaggle) | Yes |
-| `outputs/` | Created by the notebook | |
-| `.gitignore` | `data/` and `outputs/` are not committed (Role A's data and generated files) | |
+| `outputs/` | Created by the notebook. Only `baskets.parquet` and `drug_side_effect_profiles.csv` are committed (the validation step reads them); the rest is regenerated in about 30 s | |
+| `../.gitignore` | `data/` (Role A's data) is not committed, and neither is the rest of `outputs/` | |
 
 ## Where the results are
 
@@ -67,7 +67,7 @@ Role A's output: `reviews_clean_deduplicated.parquet` (128,663 clean reviews) an
 from pathlib import Path
 import pandas as pd
 
-folder = next(p for p in [Path('/kaggle/input'), Path('../frequent-itemsets/outputs')] if p.exists())
+folder = next(p for p in [Path('/kaggle/input'), Path('../frequent_itemsets/outputs')] if p.exists())
 baskets = pd.read_parquet(next(folder.rglob('baskets.parquet')))
 profiles = pd.read_csv(next(folder.rglob('drug_side_effect_profiles.csv')))
 ```
@@ -77,9 +77,11 @@ profiles = pd.read_csv(next(folder.rglob('drug_side_effect_profiles.csv')))
 
 ## How to run
 
-Put Role A's two files in `data/` (or add A's notebook output on Kaggle), then **Restart & Run All** (about 2 minutes). All parameters are in section *0 · Setup and parameters*. The notebook only needs numpy, pandas, scipy and matplotlib; networkx is optional and only used for the co-occurrence networks.
+Put Role A's two files in `data/` (or add A's notebook output on Kaggle), then **Restart & Run All** (about 30 seconds to 2 minutes). All parameters are in section *0 · Setup and parameters*. The notebook needs numpy, pandas, pyarrow, scipy, matplotlib and openpyxl (to read the lexicon spreadsheet); networkx is optional and only used for the co-occurrence networks.
+
+**Reproducibility check (25 Nov).** A rerun from the raw UCI data (through A's notebook) gives exactly the numbers of the summary above; only the benchmark times depend on the machine (PCY 1.6× instead of 1.8× slower).
 
 ## To do
 
-- [ ] Share `drug_side_effect_profiles.csv` with D and agree on the drug names.
+- [x] Share `drug_side_effect_profiles.csv` with D and agree on the drug names. The validation step builds its own profiles from `baskets.parquet` per active ingredient (D's `generic_name`), so A's mixed families do not mix two medicines.
 - [ ] Write the Role E section of the report from `role_e_run_stats.json` and the figures.

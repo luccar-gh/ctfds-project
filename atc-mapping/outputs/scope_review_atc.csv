@@ -1927,7 +1927,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 9653,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 9654,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 9655,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
-9656,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 9657,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 9658,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 9659,Birth Control,Lo Loestrin Fe,Lo Loestrin Fe,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
@@ -3139,7 +3138,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 14827,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 14829,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 14830,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
-14831,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 14832,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 14833,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
 14834,Birth Control,Ethinyl estradiol / norethindrone,Ethinyl estradiol / norethindrone,ethinyl estradiol / norethindrone,G03AA05,G03AA,G03A
@@ -4547,7 +4545,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 17682,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
 17683,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
 17684,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
-17685,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
 17686,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
 17687,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
 17688,Birth Control,Ethinyl estradiol / etonogestrel,Ethinyl estradiol / etonogestrel,ethinyl estradiol / etonogestrel,G02BB,G02BB,G02B
@@ -5227,7 +5224,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 19804,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
 19805,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
 19807,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
-19809,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
 19817,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
 19818,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
 19824,Pain,Pregabalin,Pregabalin,pregabalin,N02BF02,N02BF,N02B
@@ -5845,7 +5841,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 24042,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
 24043,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
 24044,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
-24045,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
 24047,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
 24048,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
 24049,Acne,Tretinoin,Tretinoin,tretinoin,D10AD01,D10AD,D10A
@@ -8780,7 +8775,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 36835,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
 36837,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
 36839,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
-36840,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
 36841,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
 36842,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
 36843,Pain,Fentanyl,Fentanyl,fentanyl,N02AB03,N02AB,N02A
@@ -9582,7 +9576,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 41468,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
 41469,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
 41470,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
-41471,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
 41472,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
 41473,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
 41474,Pain,Acetaminophen / oxycodone,Acetaminophen / oxycodone,acetaminophen / oxycodone,N02AJ,N02AJ,N02A
@@ -16032,7 +16025,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 69289,Pain,Celebrex,Celebrex,celecoxib,M01AH01,M01AH,M01A
 69291,Pain,Celebrex,Celebrex,celecoxib,M01AH01,M01AH,M01A
 69292,Pain,Celebrex,Celebrex,celecoxib,M01AH01,M01AH,M01A
-69295,Pain,Celebrex,Celebrex,celecoxib,M01AH01,M01AH,M01A
 69299,Pain,Buprenorphine,Buprenorphine,buprenorphine,N02AE01,N02AE,N02A
 69321,Pain,Buprenorphine,Buprenorphine,buprenorphine,N02AE01,N02AE,N02A
 69323,Pain,Buprenorphine,Buprenorphine,buprenorphine,N02AE01,N02AE,N02A
@@ -16393,7 +16385,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 72019,Pain,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
 72024,Pain,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
 72025,Pain,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
-72035,Pain,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
 72037,Depression,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
 72043,Pain,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
 72044,Depression,Tramadol,Tramadol,tramadol,N02AX02,N02AX,N02A
@@ -18125,7 +18116,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 83870,Acne,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83871,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83873,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
-83874,Acne,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83875,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83876,Acne,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83877,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
@@ -18167,7 +18157,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 83942,Acne,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83943,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83944,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
-83945,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83946,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83947,Acne,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
 83948,Birth Control,Ethinyl estradiol / norgestimate,Ethinyl estradiol / norgestimate,ethinyl estradiol / norgestimate,G03AA11,G03AA,G03A
@@ -19462,7 +19451,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 90869,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
 90870,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
 90871,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
-90872,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
 90873,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
 90874,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
 90875,Pain,Roxicodone,Roxicodone,oxycodone,N02AA05,N02AA,N02A
@@ -19574,7 +19562,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 92913,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
 92916,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
 92917,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
-92918,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
 92919,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
 92921,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
 92924,Depression,Vortioxetine,Vortioxetine,vortioxetine,N06AX26,N06AX,N06A
@@ -22473,7 +22460,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 100801,Birth Control,Desogestrel / ethinyl estradiol,Desogestrel / ethinyl estradiol,desogestrel / ethinyl estradiol,G03AA09,G03AA,G03A
 100802,Birth Control,Desogestrel / ethinyl estradiol,Desogestrel / ethinyl estradiol,desogestrel / ethinyl estradiol,G03AA09,G03AA,G03A
 100803,Birth Control,Desogestrel / ethinyl estradiol,Desogestrel / ethinyl estradiol,desogestrel / ethinyl estradiol,G03AA09,G03AA,G03A
-100804,Birth Control,Desogestrel / ethinyl estradiol,Desogestrel / ethinyl estradiol,desogestrel / ethinyl estradiol,G03AA09,G03AA,G03A
 100805,Birth Control,Desogestrel / ethinyl estradiol,Desogestrel / ethinyl estradiol,desogestrel / ethinyl estradiol,G03AA09,G03AA,G03A
 100992,Depression,Rexulti,Rexulti,brexpiprazole,N05AX16,N05AX,N05A
 101010,Depression,Rexulti,Rexulti,brexpiprazole,N05AX16,N05AX,N05A
@@ -25378,7 +25364,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 109585,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
 109586,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
 109588,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
-109589,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
 109590,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
 109591,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
 109592,Birth Control,Nexplanon,Nexplanon,etonogestrel,G03AC08,G03AC,G03A
@@ -26872,7 +26857,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 121259,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
 121266,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
 121271,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
-121273,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
 121279,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
 121280,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
 121281,Depression,Venlafaxine,Venlafaxine,venlafaxine,N06AX16,N06AX,N06A
@@ -31478,7 +31462,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 151233,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
 151234,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
 151235,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
-151236,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
 151237,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
 151238,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
 151239,Pain,OxyContin,OxyContin,oxycodone,N02AA05,N02AA,N02A
@@ -33361,7 +33344,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 179240,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
 179244,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
 179279,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
-179287,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
 179293,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
 179295,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
 179309,Depression,Olanzapine,Olanzapine,olanzapine,N05AH03,N05AH,N05A
@@ -35281,7 +35263,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 202091,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202092,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202094,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
-202096,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202097,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202098,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202099,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
@@ -35299,7 +35280,6 @@ review_id,condition_name,drug_name,atc_drug_name,generic_name,atc_code,atc_level
 202120,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202121,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202123,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
-202125,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202127,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202131,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
 202132,Acne,Benzoyl peroxide / clindamycin,Benzoyl peroxide / clindamycin,benzoyl peroxide / clindamycin,D10AF,D10AF,D10A
