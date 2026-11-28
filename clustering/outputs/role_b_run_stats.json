@@ -65,8 +65,8 @@
   },
   "kmeans_sweep": {
     "Birth Control": {
-      "k_best": 26,
-      "db_best": 5.5503,
+      "k_best": 23,
+      "db_best": 5.6934,
       "sweep": {
         "2": {
           "db": 6.3132,
@@ -493,9 +493,9 @@
     {
       "condition": "Birth Control",
       "algorithm": "k-means",
-      "n_clusters": 26,
+      "n_clusters": 23,
       "noise_pct": 0.0,
-      "db_index": 5.5503
+      "db_index": 5.6934
     },
     {
       "condition": "Birth Control",
@@ -549,7 +549,7 @@
   ],
   "rating_vs_cluster": {
     "Birth Control": {
-      "H": 3043.32,
+      "H": 2544.83,
       "p": 0.0,
       "significant": true
     },
@@ -570,7 +570,7 @@
     }
   },
   "k_best": {
-    "Birth Control": 26,
+    "Birth Control": 23,
     "Depression": 26,
     "Pain": 26,
     "Acne": 25
@@ -596,244 +596,385 @@
   "profiles": {
     "Birth Control": {
       "0": {
-        "size": 413,
-        "mean_rating": 5.58,
-        "std_rating": 3.31,
+        "size": 1270,
+        "mean_rating": 6.55,
+        "std_rating": 3.23,
         "top_terms": [
           [
-            "want",
-            0.0937
+            "side effects",
+            0.072
           ],
           [
-            "not want",
-            0.0911
+            "effects",
+            0.0717
           ],
           [
-            "did not want",
-            0.052
+            "side",
+            0.0692
           ],
           [
             "not",
-            0.0506
+            0.0353
           ],
           [
-            "did not",
-            0.0389
-          ],
-          [
-            "did",
-            0.0377
+            "pill",
+            0.0275
           ],
           [
             "but",
-            0.0296
+            0.0271
+          ],
+          [
+            "months",
+            0.0187
           ],
           [
             "period",
-            0.0227
+            0.0178
           ],
           [
-            "just",
-            0.0222
+            "month",
+            0.0171
           ],
           [
-            "sex",
-            0.0198
+            "no",
+            0.0168
           ]
         ]
       },
       "1": {
-        "size": 286,
-        "mean_rating": 7.13,
-        "std_rating": 2.9,
+        "size": 1461,
+        "mean_rating": 5.38,
+        "std_rating": 3.04,
         "top_terms": [
           [
-            "gain weight",
-            0.1038
+            "sex drive",
+            0.0766
           ],
           [
-            "not gain",
-            0.0986
+            "drive",
+            0.0756
           ],
           [
-            "not gain weight",
-            0.096
-          ],
-          [
-            "did not gain",
-            0.087
-          ],
-          [
-            "gain",
-            0.0669
-          ],
-          [
-            "did",
-            0.0622
-          ],
-          [
-            "did not",
-            0.0617
-          ],
-          [
-            "weight",
-            0.0592
+            "sex",
+            0.0752
           ],
           [
             "not",
-            0.0495
+            0.034
+          ],
+          [
+            "no",
+            0.029
+          ],
+          [
+            "no sex",
+            0.0278
+          ],
+          [
+            "no sex drive",
+            0.0277
           ],
           [
             "but",
-            0.0291
+            0.0276
+          ],
+          [
+            "pill",
+            0.0244
+          ],
+          [
+            "months",
+            0.0216
           ]
         ]
       },
       "2": {
-        "size": 739,
-        "mean_rating": 6.13,
-        "std_rating": 3.26,
+        "size": 1291,
+        "mean_rating": 7.98,
+        "std_rating": 2.4,
         "top_terms": [
           [
-            "nexplanon",
-            0.1057
+            "insertion",
+            0.0547
           ],
           [
-            "got nexplanon",
-            0.044
+            "pain",
+            0.053
           ],
           [
-            "got",
-            0.0386
-          ],
-          [
-            "not",
-            0.0383
-          ],
-          [
-            "period",
-            0.0363
+            "skyla",
+            0.0501
           ],
           [
             "but",
+            0.0363
+          ],
+          [
+            "not",
+            0.0362
+          ],
+          [
+            "cramps",
+            0.0359
+          ],
+          [
+            "cramping",
+            0.0351
+          ],
+          [
+            "inserted",
+            0.032
+          ],
+          [
+            "felt",
             0.0301
           ],
           [
-            "months",
-            0.0268
-          ],
-          [
-            "bleeding",
-            0.0226
-          ],
-          [
-            "no",
-            0.0209
-          ],
-          [
-            "weeks",
-            0.0204
+            "painful",
+            0.0295
           ]
         ]
       },
       "3": {
-        "size": 507,
-        "mean_rating": 8.05,
-        "std_rating": 2.8,
+        "size": 1235,
+        "mean_rating": 5.86,
+        "std_rating": 3.12,
         "top_terms": [
           [
-            "no side",
-            0.1146
+            "period",
+            0.0542
           ],
           [
-            "no side effects",
-            0.1144
+            "days",
+            0.0454
           ],
           [
-            "side effects",
-            0.075
-          ],
-          [
-            "effects",
-            0.0741
-          ],
-          [
-            "side",
-            0.0705
-          ],
-          [
-            "no",
-            0.07
+            "month",
+            0.0387
           ],
           [
             "not",
-            0.0272
-          ],
-          [
-            "pill",
-            0.0253
-          ],
-          [
-            "period",
-            0.0249
+            0.0322
           ],
           [
             "but",
-            0.0237
+            0.0313
+          ],
+          [
+            "cramps",
+            0.0293
+          ],
+          [
+            "week",
+            0.0271
+          ],
+          [
+            "pill",
+            0.0264
+          ],
+          [
+            "periods",
+            0.0259
+          ],
+          [
+            "heavy",
+            0.0258
           ]
         ]
       },
       "4": {
-        "size": 1196,
-        "mean_rating": 5.68,
-        "std_rating": 3.24,
+        "size": 564,
+        "mean_rating": 6.21,
+        "std_rating": 3.4,
         "top_terms": [
           [
-            "mood swings",
-            0.0736
+            "shot",
+            0.1297
           ],
           [
-            "swings",
-            0.0735
+            "depo",
+            0.0946
           ],
           [
-            "mood",
-            0.0708
+            "depo shot",
+            0.0536
           ],
           [
             "not",
-            0.031
-          ],
-          [
-            "pill",
-            0.027
+            0.0389
           ],
           [
             "but",
-            0.0261
-          ],
-          [
-            "months",
-            0.0236
-          ],
-          [
-            "acne",
-            0.0233
-          ],
-          [
-            "weight",
-            0.0226
+            0.0278
           ],
           [
             "period",
-            0.0223
+            0.0262
+          ],
+          [
+            "years",
+            0.0256
+          ],
+          [
+            "got",
+            0.0247
+          ],
+          [
+            "weight",
+            0.0238
+          ],
+          [
+            "depo provera",
+            0.0233
           ]
         ]
       },
       "5": {
-        "size": 328,
-        "mean_rating": 5.91,
-        "std_rating": 3.3,
+        "size": 1042,
+        "mean_rating": 3.62,
+        "std_rating": 2.89,
+        "top_terms": [
+          [
+            "feel",
+            0.0561
+          ],
+          [
+            "not",
+            0.0411
+          ],
+          [
+            "like",
+            0.041
+          ],
+          [
+            "feel like",
+            0.0315
+          ],
+          [
+            "anxiety",
+            0.0283
+          ],
+          [
+            "but",
+            0.027
+          ],
+          [
+            "pill",
+            0.0268
+          ],
+          [
+            "just",
+            0.0224
+          ],
+          [
+            "depressed",
+            0.0218
+          ],
+          [
+            "depression",
+            0.0216
+          ]
+        ]
+      },
+      "6": {
+        "size": 759,
+        "mean_rating": 6.54,
+        "std_rating": 3.39,
+        "top_terms": [
+          [
+            "iud",
+            0.0858
+          ],
+          [
+            "paragard",
+            0.0446
+          ],
+          [
+            "not",
+            0.0361
+          ],
+          [
+            "insertion",
+            0.034
+          ],
+          [
+            "pain",
+            0.0307
+          ],
+          [
+            "but",
+            0.0298
+          ],
+          [
+            "inserted",
+            0.0261
+          ],
+          [
+            "painful",
+            0.0254
+          ],
+          [
+            "days",
+            0.0253
+          ],
+          [
+            "cramps",
+            0.0252
+          ]
+        ]
+      },
+      "7": {
+        "size": 1164,
+        "mean_rating": 5.04,
+        "std_rating": 3.21,
+        "top_terms": [
+          [
+            "mood swings",
+            0.0743
+          ],
+          [
+            "swings",
+            0.0742
+          ],
+          [
+            "mood",
+            0.0716
+          ],
+          [
+            "not",
+            0.0315
+          ],
+          [
+            "but",
+            0.025
+          ],
+          [
+            "pill",
+            0.0244
+          ],
+          [
+            "months",
+            0.0226
+          ],
+          [
+            "acne",
+            0.0209
+          ],
+          [
+            "no",
+            0.0201
+          ],
+          [
+            "period",
+            0.0193
+          ]
+        ]
+      },
+      "8": {
+        "size": 330,
+        "mean_rating": 5.94,
+        "std_rating": 3.27,
         "top_terms": [
           [
             "tri",
@@ -841,11 +982,11 @@
           ],
           [
             "cyclen",
-            0.115
+            0.1143
           ],
           [
             "tri cyclen",
-            0.112
+            0.111
           ],
           [
             "ortho",
@@ -853,912 +994,583 @@
           ],
           [
             "ortho tri",
-            0.1087
+            0.1086
           ],
           [
             "ortho tri cyclen",
-            0.1026
+            0.1017
           ],
           [
             "lo",
-            0.0722
+            0.0723
           ],
           [
             "cyclen lo",
-            0.0699
-          ],
-          [
-            "tri cyclen lo",
             0.0695
           ],
           [
-            "not",
-            0.0293
-          ]
-        ]
-      },
-      "6": {
-        "size": 571,
-        "mean_rating": 5.62,
-        "std_rating": 3.29,
-        "top_terms": [
-          [
-            "implant",
-            0.1209
-          ],
-          [
-            "got implant",
-            0.046
+            "tri cyclen lo",
+            0.069
           ],
           [
             "not",
-            0.0396
-          ],
-          [
-            "got",
-            0.037
-          ],
-          [
-            "period",
-            0.0308
-          ],
-          [
-            "but",
-            0.0306
-          ],
-          [
-            "months",
-            0.027
-          ],
-          [
-            "bleeding",
-            0.0236
-          ],
-          [
-            "getting",
-            0.0236
-          ],
-          [
-            "removed",
-            0.0222
-          ]
-        ]
-      },
-      "7": {
-        "size": 347,
-        "mean_rating": 6.95,
-        "std_rating": 2.87,
-        "top_terms": [
-          [
-            "not gotten",
-            0.1063
-          ],
-          [
-            "gotten pregnant",
-            0.0987
-          ],
-          [
-            "gotten",
-            0.0966
-          ],
-          [
-            "not gotten pregnant",
-            0.0958
-          ],
-          [
-            "pregnant",
-            0.0668
-          ],
-          [
-            "not",
-            0.0521
-          ],
-          [
-            "but",
-            0.0352
-          ],
-          [
-            "period",
-            0.029
-          ],
-          [
-            "pill",
-            0.0231
-          ],
-          [
-            "months",
-            0.0219
-          ]
-        ]
-      },
-      "8": {
-        "size": 2198,
-        "mean_rating": 5.65,
-        "std_rating": 3.42,
-        "top_terms": [
-          [
-            "not",
-            0.0305
-          ],
-          [
-            "pill",
-            0.0293
-          ],
-          [
-            "but",
-            0.0266
-          ],
-          [
-            "acne",
-            0.022
-          ],
-          [
-            "months",
-            0.0208
-          ],
-          [
-            "period",
-            0.0193
-          ],
-          [
-            "periods",
-            0.0187
-          ],
-          [
-            "month",
-            0.0183
-          ],
-          [
-            "no",
-            0.0183
-          ],
-          [
-            "never",
-            0.0167
+            0.0297
           ]
         ]
       },
       "9": {
-        "size": 1225,
-        "mean_rating": 6.61,
-        "std_rating": 3.17,
+        "size": 683,
+        "mean_rating": 6.55,
+        "std_rating": 3.09,
         "top_terms": [
           [
-            "side effects",
-            0.0713
-          ],
-          [
-            "effects",
-            0.0711
-          ],
-          [
-            "side",
-            0.0686
+            "implanon",
+            0.1231
           ],
           [
             "not",
-            0.0338
-          ],
-          [
-            "pill",
-            0.0294
-          ],
-          [
-            "but",
-            0.0274
-          ],
-          [
-            "months",
-            0.0184
+            0.0377
           ],
           [
             "period",
-            0.0184
+            0.0321
           ],
           [
-            "month",
-            0.0181
+            "got implanon",
+            0.0315
           ],
           [
-            "no",
-            0.0177
+            "but",
+            0.0308
+          ],
+          [
+            "got",
+            0.029
+          ],
+          [
+            "months",
+            0.0278
+          ],
+          [
+            "implanon inserted",
+            0.0246
+          ],
+          [
+            "inserted",
+            0.0226
+          ],
+          [
+            "weight",
+            0.0224
           ]
         ]
       },
       "10": {
-        "size": 760,
-        "mean_rating": 8.24,
-        "std_rating": 2.23,
+        "size": 683,
+        "mean_rating": 4.63,
+        "std_rating": 2.93,
         "top_terms": [
           [
-            "no weight gain",
-            0.0845
+            "pounds",
+            0.0855
           ],
           [
-            "no weight",
-            0.0837
+            "gained",
+            0.0698
           ],
           [
-            "no",
-            0.0771
+            "not",
+            0.0321
           ],
           [
-            "weight gain",
-            0.074
+            "months",
+            0.0302
           ],
           [
-            "gain",
-            0.0689
+            "10 pounds",
+            0.0295
           ],
           [
             "weight",
-            0.0592
+            0.0277
           ],
           [
-            "gain no",
-            0.0388
-          ],
-          [
-            "weight gain no",
-            0.0385
-          ],
-          [
-            "acne",
-            0.0275
+            "20 pounds",
+            0.0263
           ],
           [
             "but",
-            0.0272
+            0.026
+          ],
+          [
+            "10",
+            0.0253
+          ],
+          [
+            "20",
+            0.0248
           ]
         ]
       },
       "11": {
-        "size": 952,
-        "mean_rating": 4.44,
+        "size": 512,
+        "mean_rating": 7.04,
         "std_rating": 2.99,
         "top_terms": [
           [
-            "bleeding",
-            0.0725
+            "gained weight",
+            0.0929
           ],
           [
-            "period",
-            0.0411
+            "gained",
+            0.0742
           ],
           [
-            "days",
-            0.0354
+            "not gained",
+            0.0658
           ],
           [
-            "month",
-            0.0335
+            "not gained weight",
+            0.0627
           ],
           [
-            "heavy",
-            0.0314
+            "weight",
+            0.0602
           ],
           [
             "not",
-            0.0313
+            0.0474
+          ],
+          [
+            "but",
+            0.0348
+          ],
+          [
+            "pill",
+            0.0258
+          ],
+          [
+            "period",
+            0.0245
           ],
           [
             "months",
-            0.0312
-          ],
-          [
-            "weeks",
-            0.0309
-          ],
-          [
-            "stop",
-            0.0283
-          ],
-          [
-            "week",
-            0.0276
+            0.0243
           ]
         ]
       },
       "12": {
-        "size": 521,
-        "mean_rating": 2.84,
-        "std_rating": 2.53,
+        "size": 714,
+        "mean_rating": 8.38,
+        "std_rating": 2.1,
         "top_terms": [
           [
-            "anxiety",
-            0.0998
+            "no weight gain",
+            0.0926
           ],
           [
-            "depression",
-            0.0681
+            "no weight",
+            0.0918
           ],
           [
-            "attacks",
-            0.0382
+            "no",
+            0.0785
           ],
           [
-            "depression anxiety",
-            0.0341
+            "weight gain",
+            0.0684
           ],
           [
-            "panic",
-            0.0336
+            "gain",
+            0.0637
+          ],
+          [
+            "weight",
+            0.0548
+          ],
+          [
+            "gain no",
+            0.0405
+          ],
+          [
+            "weight gain no",
+            0.0402
+          ],
+          [
+            "but",
+            0.028
           ],
           [
             "not",
-            0.0331
-          ],
-          [
-            "anxiety depression",
-            0.0315
-          ],
-          [
-            "panic attacks",
-            0.0287
-          ],
-          [
-            "severe",
-            0.0251
-          ],
-          [
-            "pill",
-            0.0225
+            0.028
           ]
         ]
       },
       "13": {
-        "size": 640,
-        "mean_rating": 6.56,
-        "std_rating": 3.11,
+        "size": 382,
+        "mean_rating": 7.03,
+        "std_rating": 3.0,
         "top_terms": [
           [
-            "implanon",
-            0.1249
+            "patch",
+            0.1821
           ],
           [
             "not",
-            0.0366
+            0.0343
           ],
           [
-            "period",
-            0.0322
+            "evra",
+            0.0325
           ],
           [
-            "got implanon",
-            0.0319
-          ],
-          [
-            "but",
-            0.0312
-          ],
-          [
-            "got",
-            0.0287
-          ],
-          [
-            "months",
+            "xulane",
             0.0281
           ],
           [
-            "implanon inserted",
-            0.0264
+            "ortho evra",
+            0.0279
           ],
           [
-            "weight",
-            0.0244
+            "but",
+            0.0276
           ],
           [
-            "inserted",
-            0.0239
+            "week",
+            0.0267
+          ],
+          [
+            "using",
+            0.0234
+          ],
+          [
+            "ortho",
+            0.0229
+          ],
+          [
+            "love",
+            0.0209
           ]
         ]
       },
       "14": {
-        "size": 546,
-        "mean_rating": 6.18,
-        "std_rating": 3.41,
+        "size": 1904,
+        "mean_rating": 5.94,
+        "std_rating": 3.52,
         "top_terms": [
           [
-            "shot",
-            0.1315
-          ],
-          [
-            "depo",
-            0.0948
-          ],
-          [
-            "depo shot",
-            0.0548
-          ],
-          [
             "not",
-            0.0386
+            0.0302
+          ],
+          [
+            "pill",
+            0.0255
           ],
           [
             "but",
-            0.0282
+            0.0241
           ],
           [
-            "period",
-            0.026
+            "acne",
+            0.0215
+          ],
+          [
+            "months",
+            0.0202
+          ],
+          [
+            "no",
+            0.02
           ],
           [
             "years",
-            0.0258
+            0.019
           ],
           [
-            "weight",
-            0.0254
+            "periods",
+            0.0178
           ],
           [
-            "got",
-            0.0245
+            "never",
+            0.0164
           ],
           [
-            "depo provera",
-            0.0236
+            "love",
+            0.016
           ]
         ]
       },
       "15": {
-        "size": 1366,
-        "mean_rating": 5.5,
-        "std_rating": 3.02,
+        "size": 783,
+        "mean_rating": 7.26,
+        "std_rating": 3.04,
         "top_terms": [
           [
-            "sex drive",
-            0.0776
-          ],
-          [
-            "drive",
-            0.0766
-          ],
-          [
-            "sex",
-            0.0749
+            "mirena",
+            0.1251
           ],
           [
             "not",
-            0.0327
+            0.0356
           ],
           [
-            "no",
-            0.0294
-          ],
-          [
-            "no sex drive",
-            0.0274
-          ],
-          [
-            "no sex",
-            0.0274
+            "insertion",
+            0.0347
           ],
           [
             "but",
-            0.0273
+            0.0281
+          ],
+          [
+            "inserted",
+            0.0278
+          ],
+          [
+            "cramping",
+            0.0271
+          ],
+          [
+            "painful",
+            0.0268
+          ],
+          [
+            "no",
+            0.0264
+          ],
+          [
+            "mirena inserted",
+            0.0264
+          ],
+          [
+            "years",
+            0.0261
+          ]
+        ]
+      },
+      "16": {
+        "size": 938,
+        "mean_rating": 6.45,
+        "std_rating": 3.16,
+        "top_terms": [
+          [
+            "weight gain",
+            0.0726
+          ],
+          [
+            "gain",
+            0.0713
+          ],
+          [
+            "weight",
+            0.0653
+          ],
+          [
+            "not",
+            0.0353
+          ],
+          [
+            "but",
+            0.0292
+          ],
+          [
+            "pill",
+            0.0271
+          ],
+          [
+            "acne",
+            0.0243
+          ],
+          [
+            "no",
+            0.0215
+          ],
+          [
+            "periods",
+            0.0208
+          ],
+          [
+            "months",
+            0.0206
+          ]
+        ]
+      },
+      "17": {
+        "size": 304,
+        "mean_rating": 7.0,
+        "std_rating": 2.98,
+        "top_terms": [
+          [
+            "gain weight",
+            0.1044
+          ],
+          [
+            "not gain",
+            0.093
+          ],
+          [
+            "not gain weight",
+            0.091
+          ],
+          [
+            "did not gain",
+            0.0816
+          ],
+          [
+            "gain",
+            0.066
+          ],
+          [
+            "did",
+            0.0623
+          ],
+          [
+            "did not",
+            0.061
+          ],
+          [
+            "weight",
+            0.058
+          ],
+          [
+            "not",
+            0.0499
+          ],
+          [
+            "but",
+            0.0292
+          ]
+        ]
+      },
+      "18": {
+        "size": 530,
+        "mean_rating": 7.97,
+        "std_rating": 2.87,
+        "top_terms": [
+          [
+            "no side",
+            0.1144
+          ],
+          [
+            "no side effects",
+            0.1139
+          ],
+          [
+            "side effects",
+            0.0747
+          ],
+          [
+            "effects",
+            0.0738
+          ],
+          [
+            "side",
+            0.0703
+          ],
+          [
+            "no",
+            0.0695
+          ],
+          [
+            "not",
+            0.028
           ],
           [
             "pill",
             0.0251
           ],
           [
-            "months",
-            0.0214
-          ]
-        ]
-      },
-      "16": {
-        "size": 691,
-        "mean_rating": 4.73,
-        "std_rating": 2.91,
-        "top_terms": [
-          [
-            "pounds",
-            0.0766
-          ],
-          [
-            "gained",
-            0.0726
-          ],
-          [
-            "weight",
-            0.0374
-          ],
-          [
-            "not",
-            0.0313
-          ],
-          [
-            "months",
-            0.0305
-          ],
-          [
-            "10 pounds",
-            0.0286
-          ],
-          [
-            "20",
-            0.0268
-          ],
-          [
-            "10",
-            0.0261
-          ],
-          [
-            "gained 10",
-            0.026
-          ],
-          [
-            "20 pounds",
-            0.026
-          ]
-        ]
-      },
-      "17": {
-        "size": 905,
-        "mean_rating": 8.36,
-        "std_rating": 2.08,
-        "top_terms": [
-          [
-            "pain",
-            0.0546
-          ],
-          [
-            "insertion",
-            0.0498
-          ],
-          [
-            "cramping",
-            0.0371
-          ],
-          [
-            "not",
-            0.0358
-          ],
-          [
-            "felt",
-            0.0355
-          ],
-          [
-            "took",
-            0.0354
-          ],
-          [
-            "procedure",
-            0.0351
-          ],
-          [
-            "but",
-            0.0342
-          ],
-          [
-            "cramps",
-            0.033
-          ],
-          [
-            "ibuprofen",
-            0.0328
-          ]
-        ]
-      },
-      "18": {
-        "size": 691,
-        "mean_rating": 4.71,
-        "std_rating": 3.24,
-        "top_terms": [
-          [
-            "ca",
-            0.0921
-          ],
-          [
-            "ca not",
-            0.0921
-          ],
-          [
-            "not",
-            0.0531
-          ],
-          [
-            "but",
-            0.0303
-          ],
-          [
             "period",
-            0.0227
+            0.0247
           ],
           [
-            "ca not wait",
-            0.0222
-          ],
-          [
-            "not wait",
-            0.022
-          ],
-          [
-            "wait",
-            0.0207
-          ],
-          [
-            "weight",
-            0.0192
-          ],
-          [
-            "months",
-            0.0189
+            "but",
+            0.0239
           ]
         ]
       },
       "19": {
-        "size": 916,
-        "mean_rating": 4.89,
-        "std_rating": 3.23,
+        "size": 915,
+        "mean_rating": 4.93,
+        "std_rating": 3.25,
         "top_terms": [
           [
             "taking",
-            0.0803
+            0.083
           ],
           [
             "started",
-            0.0561
+            0.0554
           ],
           [
             "started taking",
-            0.0507
+            0.0535
           ],
           [
             "pill",
-            0.0488
+            0.0493
           ],
           [
             "taking pill",
-            0.0379
+            0.0414
           ],
           [
             "not",
-            0.0295
+            0.0312
           ],
           [
             "but",
-            0.0246
+            0.025
+          ],
+          [
+            "months",
+            0.0211
           ],
           [
             "period",
-            0.0229
+            0.0201
           ],
           [
             "month",
-            0.0214
-          ],
-          [
-            "days",
-            0.0207
+            0.0195
           ]
         ]
       },
       "20": {
-        "size": 1037,
-        "mean_rating": 6.75,
-        "std_rating": 3.17,
-        "top_terms": [
-          [
-            "iud",
-            0.0568
-          ],
-          [
-            "insertion",
-            0.049
-          ],
-          [
-            "skyla",
-            0.0489
-          ],
-          [
-            "pain",
-            0.0384
-          ],
-          [
-            "not",
-            0.0344
-          ],
-          [
-            "but",
-            0.0344
-          ],
-          [
-            "cramps",
-            0.0334
-          ],
-          [
-            "painful",
-            0.0332
-          ],
-          [
-            "inserted",
-            0.0291
-          ],
-          [
-            "cramping",
-            0.0267
-          ]
-        ]
-      },
-      "21": {
-        "size": 645,
-        "mean_rating": 4.52,
-        "std_rating": 3.1,
-        "top_terms": [
-          [
-            "feel",
-            0.0862
-          ],
-          [
-            "feel like",
-            0.0567
-          ],
-          [
-            "like",
-            0.0548
-          ],
-          [
-            "not",
-            0.0388
-          ],
-          [
-            "but",
-            0.0287
-          ],
-          [
-            "pill",
-            0.025
-          ],
-          [
-            "not feel",
-            0.0242
-          ],
-          [
-            "just",
-            0.0225
-          ],
-          [
-            "time",
-            0.0208
-          ],
-          [
-            "felt",
-            0.0166
-          ]
-        ]
-      },
-      "22": {
-        "size": 511,
-        "mean_rating": 9.12,
-        "std_rating": 1.48,
-        "top_terms": [
-          [
-            "love",
-            0.1132
-          ],
-          [
-            "not",
-            0.0329
-          ],
-          [
-            "but",
-            0.0296
-          ],
-          [
-            "absolutely love",
-            0.028
-          ],
-          [
-            "periods",
-            0.027
-          ],
-          [
-            "pill",
-            0.027
-          ],
-          [
-            "no",
-            0.0254
-          ],
-          [
-            "period",
-            0.024
-          ],
-          [
-            "absolutely",
-            0.0236
-          ],
-          [
-            "years",
-            0.023
-          ]
-        ]
-      },
-      "23": {
-        "size": 751,
-        "mean_rating": 7.21,
-        "std_rating": 3.07,
-        "top_terms": [
-          [
-            "mirena",
-            0.1249
-          ],
-          [
-            "not",
-            0.0352
-          ],
-          [
-            "insertion",
-            0.0346
-          ],
-          [
-            "but",
-            0.0286
-          ],
-          [
-            "inserted",
-            0.0284
-          ],
-          [
-            "painful",
-            0.028
-          ],
-          [
-            "mirena inserted",
-            0.0268
-          ],
-          [
-            "cramping",
-            0.0266
-          ],
-          [
-            "years",
-            0.0262
-          ],
-          [
-            "no",
-            0.0257
-          ]
-        ]
-      },
-      "24": {
-        "size": 404,
+        "size": 394,
         "mean_rating": 6.62,
-        "std_rating": 3.21,
+        "std_rating": 3.2,
         "top_terms": [
           [
             "loestrin",
-            0.1133
+            0.1142
           ],
           [
             "fe",
-            0.0882
+            0.0889
           ],
           [
             "lo loestrin",
-            0.0775
+            0.079
           ],
           [
             "lo",
-            0.0703
+            0.0716
           ],
           [
             "loestrin fe",
-            0.0624
+            0.064
           ],
           [
             "lo loestrin fe",
-            0.0571
+            0.0588
           ],
           [
             "24",
-            0.0438
+            0.0431
           ],
           [
             "loestrin 24",
-            0.0413
+            0.0418
           ],
           [
             "24 fe",
@@ -1766,54 +1578,101 @@
           ],
           [
             "loestrin 24 fe",
-            0.0314
+            0.0321
           ]
         ]
       },
-      "25": {
-        "size": 374,
-        "mean_rating": 7.07,
-        "std_rating": 2.97,
+      "21": {
+        "size": 792,
+        "mean_rating": 3.95,
+        "std_rating": 2.94,
         "top_terms": [
           [
-            "patch",
-            0.1822
+            "bleeding",
+            0.093
+          ],
+          [
+            "stop",
+            0.0424
           ],
           [
             "not",
-            0.0341
-          ],
-          [
-            "evra",
-            0.0332
-          ],
-          [
-            "xulane",
-            0.0287
-          ],
-          [
-            "ortho evra",
-            0.0285
-          ],
-          [
-            "but",
-            0.0281
-          ],
-          [
-            "week",
-            0.0268
-          ],
-          [
-            "using",
-            0.0236
-          ],
-          [
-            "ortho",
-            0.0234
+            0.0364
           ],
           [
             "months",
-            0.0204
+            0.0356
+          ],
+          [
+            "weeks",
+            0.0286
+          ],
+          [
+            "period",
+            0.0258
+          ],
+          [
+            "but",
+            0.024
+          ],
+          [
+            "got",
+            0.0234
+          ],
+          [
+            "month",
+            0.0222
+          ],
+          [
+            "implant",
+            0.0218
+          ]
+        ]
+      },
+      "22": {
+        "size": 870,
+        "mean_rating": 6.24,
+        "std_rating": 3.24,
+        "top_terms": [
+          [
+            "nexplanon",
+            0.1005
+          ],
+          [
+            "not",
+            0.0395
+          ],
+          [
+            "got",
+            0.0366
+          ],
+          [
+            "got nexplanon",
+            0.0363
+          ],
+          [
+            "period",
+            0.0338
+          ],
+          [
+            "but",
+            0.0313
+          ],
+          [
+            "implant",
+            0.0262
+          ],
+          [
+            "months",
+            0.0261
+          ],
+          [
+            "getting",
+            0.0219
+          ],
+          [
+            "weeks",
+            0.0206
           ]
         ]
       }
@@ -5444,5 +5303,5 @@
       }
     }
   },
-  "runtime_minutes": 33.1
+  "runtime_minutes": 59.5
 }

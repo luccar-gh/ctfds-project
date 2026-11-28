@@ -1,30 +1,27 @@
 condition,cluster,size,mean_rating,std_rating,top_5_terms,top_10_terms
-Birth Control,0,413,5.58,3.31,want | not want | did not want | not | did not,want | not want | did not want | not | did not | did | but | period | just | sex
-Birth Control,1,286,7.13,2.9,gain weight | not gain | not gain weight | did not gain | gain,gain weight | not gain | not gain weight | did not gain | gain | did | did not | weight | not | but
-Birth Control,2,739,6.13,3.26,nexplanon | got nexplanon | got | not | period,nexplanon | got nexplanon | got | not | period | but | months | bleeding | no | weeks
-Birth Control,3,507,8.05,2.8,no side | no side effects | side effects | effects | side,no side | no side effects | side effects | effects | side | no | not | pill | period | but
-Birth Control,4,1196,5.68,3.24,mood swings | swings | mood | not | pill,mood swings | swings | mood | not | pill | but | months | acne | weight | period
-Birth Control,5,328,5.91,3.3,tri | cyclen | tri cyclen | ortho | ortho tri,tri | cyclen | tri cyclen | ortho | ortho tri | ortho tri cyclen | lo | cyclen lo | tri cyclen lo | not
-Birth Control,6,571,5.62,3.29,implant | got implant | not | got | period,implant | got implant | not | got | period | but | months | bleeding | getting | removed
-Birth Control,7,347,6.95,2.87,not gotten | gotten pregnant | gotten | not gotten pregnant | pregnant,not gotten | gotten pregnant | gotten | not gotten pregnant | pregnant | not | but | period | pill | months
-Birth Control,8,2198,5.65,3.42,not | pill | but | acne | months,not | pill | but | acne | months | period | periods | month | no | never
-Birth Control,9,1225,6.61,3.17,side effects | effects | side | not | pill,side effects | effects | side | not | pill | but | months | period | month | no
-Birth Control,10,760,8.24,2.23,no weight gain | no weight | no | weight gain | gain,no weight gain | no weight | no | weight gain | gain | weight | gain no | weight gain no | acne | but
-Birth Control,11,952,4.44,2.99,bleeding | period | days | month | heavy,bleeding | period | days | month | heavy | not | months | weeks | stop | week
-Birth Control,12,521,2.84,2.53,anxiety | depression | attacks | depression anxiety | panic,anxiety | depression | attacks | depression anxiety | panic | not | anxiety depression | panic attacks | severe | pill
-Birth Control,13,640,6.56,3.11,implanon | not | period | got implanon | but,implanon | not | period | got implanon | but | got | months | implanon inserted | weight | inserted
-Birth Control,14,546,6.18,3.41,shot | depo | depo shot | not | but,shot | depo | depo shot | not | but | period | years | weight | got | depo provera
-Birth Control,15,1366,5.5,3.02,sex drive | drive | sex | not | no,sex drive | drive | sex | not | no | no sex drive | no sex | but | pill | months
-Birth Control,16,691,4.73,2.91,pounds | gained | weight | not | months,pounds | gained | weight | not | months | 10 pounds | 20 | 10 | gained 10 | 20 pounds
-Birth Control,17,905,8.36,2.08,pain | insertion | cramping | not | felt,pain | insertion | cramping | not | felt | took | procedure | but | cramps | ibuprofen
-Birth Control,18,691,4.71,3.24,ca | ca not | not | but | period,ca | ca not | not | but | period | ca not wait | not wait | wait | weight | months
-Birth Control,19,916,4.89,3.23,taking | started | started taking | pill | taking pill,taking | started | started taking | pill | taking pill | not | but | period | month | days
-Birth Control,20,1037,6.75,3.17,iud | insertion | skyla | pain | not,iud | insertion | skyla | pain | not | but | cramps | painful | inserted | cramping
-Birth Control,21,645,4.52,3.1,feel | feel like | like | not | but,feel | feel like | like | not | but | pill | not feel | just | time | felt
-Birth Control,22,511,9.12,1.48,love | not | but | absolutely love | periods,love | not | but | absolutely love | periods | pill | no | period | absolutely | years
-Birth Control,23,751,7.21,3.07,mirena | not | insertion | but | inserted,mirena | not | insertion | but | inserted | painful | mirena inserted | cramping | years | no
-Birth Control,24,404,6.62,3.21,loestrin | fe | lo loestrin | lo | loestrin fe,loestrin | fe | lo loestrin | lo | loestrin fe | lo loestrin fe | 24 | loestrin 24 | 24 fe | loestrin 24 fe
-Birth Control,25,374,7.07,2.97,patch | not | evra | xulane | ortho evra,patch | not | evra | xulane | ortho evra | but | week | using | ortho | months
+Birth Control,0,1270,6.55,3.23,side effects | effects | side | not | pill,side effects | effects | side | not | pill | but | months | period | month | no
+Birth Control,1,1461,5.38,3.04,sex drive | drive | sex | not | no,sex drive | drive | sex | not | no | no sex | no sex drive | but | pill | months
+Birth Control,2,1291,7.98,2.4,insertion | pain | skyla | but | not,insertion | pain | skyla | but | not | cramps | cramping | inserted | felt | painful
+Birth Control,3,1235,5.86,3.12,period | days | month | not | but,period | days | month | not | but | cramps | week | pill | periods | heavy
+Birth Control,4,564,6.21,3.4,shot | depo | depo shot | not | but,shot | depo | depo shot | not | but | period | years | got | weight | depo provera
+Birth Control,5,1042,3.62,2.89,feel | not | like | feel like | anxiety,feel | not | like | feel like | anxiety | but | pill | just | depressed | depression
+Birth Control,6,759,6.54,3.39,iud | paragard | not | insertion | pain,iud | paragard | not | insertion | pain | but | inserted | painful | days | cramps
+Birth Control,7,1164,5.04,3.21,mood swings | swings | mood | not | but,mood swings | swings | mood | not | but | pill | months | acne | no | period
+Birth Control,8,330,5.94,3.27,tri | cyclen | tri cyclen | ortho | ortho tri,tri | cyclen | tri cyclen | ortho | ortho tri | ortho tri cyclen | lo | cyclen lo | tri cyclen lo | not
+Birth Control,9,683,6.55,3.09,implanon | not | period | got implanon | but,implanon | not | period | got implanon | but | got | months | implanon inserted | inserted | weight
+Birth Control,10,683,4.63,2.93,pounds | gained | not | months | 10 pounds,pounds | gained | not | months | 10 pounds | weight | 20 pounds | but | 10 | 20
+Birth Control,11,512,7.04,2.99,gained weight | gained | not gained | not gained weight | weight,gained weight | gained | not gained | not gained weight | weight | not | but | pill | period | months
+Birth Control,12,714,8.38,2.1,no weight gain | no weight | no | weight gain | gain,no weight gain | no weight | no | weight gain | gain | weight | gain no | weight gain no | but | not
+Birth Control,13,382,7.03,3.0,patch | not | evra | xulane | ortho evra,patch | not | evra | xulane | ortho evra | but | week | using | ortho | love
+Birth Control,14,1904,5.94,3.52,not | pill | but | acne | months,not | pill | but | acne | months | no | years | periods | never | love
+Birth Control,15,783,7.26,3.04,mirena | not | insertion | but | inserted,mirena | not | insertion | but | inserted | cramping | painful | no | mirena inserted | years
+Birth Control,16,938,6.45,3.16,weight gain | gain | weight | not | but,weight gain | gain | weight | not | but | pill | acne | no | periods | months
+Birth Control,17,304,7.0,2.98,gain weight | not gain | not gain weight | did not gain | gain,gain weight | not gain | not gain weight | did not gain | gain | did | did not | weight | not | but
+Birth Control,18,530,7.97,2.87,no side | no side effects | side effects | effects | side,no side | no side effects | side effects | effects | side | no | not | pill | period | but
+Birth Control,19,915,4.93,3.25,taking | started | started taking | pill | taking pill,taking | started | started taking | pill | taking pill | not | but | months | period | month
+Birth Control,20,394,6.62,3.2,loestrin | fe | lo loestrin | lo | loestrin fe,loestrin | fe | lo loestrin | lo | loestrin fe | lo loestrin fe | 24 | loestrin 24 | 24 fe | loestrin 24 fe
+Birth Control,21,792,3.95,2.94,bleeding | stop | not | months | weeks,bleeding | stop | not | months | weeks | period | but | got | month | implant
+Birth Control,22,870,6.24,3.24,nexplanon | not | got | got nexplanon | period,nexplanon | not | got | got nexplanon | period | but | implant | months | getting | weeks
 Depression,0,384,7.09,2.92,mg | 10 | 10 mg | 20 mg | 20,mg | 10 | 10 mg | 20 mg | 20 | 50 mg | 50 | but | not | day
 Depression,1,230,7.51,2.76,pristiq | taking pristiq | not | but | taking,pristiq | taking pristiq | not | but | taking | feel | side | better | effects | years
 Depression,2,234,7.69,2.54,wellbutrin | xl | wellbutrin xl | not | but,wellbutrin | xl | wellbutrin xl | not | but | taking | 150 | started | taking wellbutrin | day
