@@ -69,26 +69,26 @@
  "experience_type_clusters_left_out": {
   "Birth Control": {
    "n_clusters": 23,
-   "n_drug_clusters_left_out": 12,
-   "share_of_reviews_left_out": 0.426,
+   "n_drug_clusters_left_out": 10,
+   "share_of_reviews_left_out": 0.351,
    "drugs_without_profile": []
   },
   "Depression": {
    "n_clusters": 26,
-   "n_drug_clusters_left_out": 6,
-   "share_of_reviews_left_out": 0.191,
+   "n_drug_clusters_left_out": 3,
+   "share_of_reviews_left_out": 0.091,
    "drugs_without_profile": []
   },
   "Pain": {
    "n_clusters": 26,
    "n_drug_clusters_left_out": 5,
-   "share_of_reviews_left_out": 0.152,
+   "share_of_reviews_left_out": 0.097,
    "drugs_without_profile": []
   },
   "Acne": {
    "n_clusters": 25,
-   "n_drug_clusters_left_out": 4,
-   "share_of_reviews_left_out": 0.163,
+   "n_drug_clusters_left_out": 8,
+   "share_of_reviews_left_out": 0.251,
    "drugs_without_profile": []
   }
  },
@@ -119,6 +119,7 @@
    "share_low": 0.2
   }
  },
+ "c_labels_match_b_clusters": false,
  "atc_agreement": [
   {
    "condition": "Birth Control",
@@ -155,7 +156,7 @@
    "p_nearest": 0.0569,
    "ari_tree_vs_class": 0.6831,
    "p_ari": 0.0286,
-   "q_gap": 0.0117,
+   "q_gap": 0.0122,
    "significant": true
   },
   {
@@ -193,7 +194,7 @@
    "p_nearest": 0.0738,
    "ari_tree_vs_class": -0.0448,
    "p_ari": 1.0,
-   "q_gap": 0.0185,
+   "q_gap": 0.0205,
    "significant": true
   },
   {
@@ -231,7 +232,7 @@
    "p_nearest": 0.0175,
    "ari_tree_vs_class": 0.6831,
    "p_ari": 0.0287,
-   "q_gap": 0.018,
+   "q_gap": 0.0194,
    "significant": true
   },
   {
@@ -241,16 +242,16 @@
    "n_drugs": 15,
    "n_classes": 4,
    "n_same_class_pairs": 40,
-   "mean_similarity_same_class": 0.1643,
-   "mean_similarity_other_class": -0.1543,
-   "same_class_gap": 0.3186,
-   "p_gap": 0.0042,
-   "nearest_neighbour_same_class": 0.9286,
-   "nearest_neighbour_chance": 0.4104,
-   "p_nearest": 0.0004,
-   "ari_tree_vs_class": 0.16,
-   "p_ari": 0.0897,
-   "q_gap": 0.0056,
+   "mean_similarity_same_class": 0.0291,
+   "mean_similarity_other_class": -0.1003,
+   "same_class_gap": 0.1294,
+   "p_gap": 0.0497,
+   "nearest_neighbour_same_class": 0.6429,
+   "nearest_neighbour_chance": 0.4095,
+   "p_nearest": 0.0713,
+   "ari_tree_vs_class": 0.1158,
+   "p_ari": 0.1223,
+   "q_gap": 0.0497,
    "significant": true
   },
   {
@@ -260,16 +261,16 @@
    "n_drugs": 15,
    "n_classes": 2,
    "n_same_class_pairs": 69,
-   "mean_similarity_same_class": 0.0617,
-   "mean_similarity_other_class": -0.2142,
-   "same_class_gap": 0.2759,
-   "p_gap": 0.0129,
-   "nearest_neighbour_same_class": 0.9333,
-   "nearest_neighbour_chance": 0.6583,
-   "p_nearest": 0.033,
-   "ari_tree_vs_class": 0.6831,
-   "p_ari": 0.0273,
-   "q_gap": 0.0147,
+   "mean_similarity_same_class": 0.0071,
+   "mean_similarity_other_class": -0.1623,
+   "same_class_gap": 0.1694,
+   "p_gap": 0.0202,
+   "nearest_neighbour_same_class": 0.8,
+   "nearest_neighbour_chance": 0.6566,
+   "p_nearest": 0.1499,
+   "ari_tree_vs_class": -0.0075,
+   "p_ari": 0.5588,
+   "q_gap": 0.0215,
    "significant": true
   },
   {
@@ -288,7 +289,7 @@
    "p_nearest": 0.0416,
    "ari_tree_vs_class": 0.0763,
    "p_ari": 0.1305,
-   "q_gap": 0.0059,
+   "q_gap": 0.0064,
    "significant": true
   },
   {
@@ -364,7 +365,7 @@
    "p_nearest": 0.0419,
    "ari_tree_vs_class": 0.2643,
    "p_ari": 0.0003,
-   "q_gap": 0.0028,
+   "q_gap": 0.0029,
    "significant": true
   },
   {
@@ -393,16 +394,16 @@
    "n_drugs": 24,
    "n_classes": 10,
    "n_same_class_pairs": 56,
-   "mean_similarity_same_class": 0.101,
-   "mean_similarity_other_class": -0.0605,
-   "same_class_gap": 0.1614,
-   "p_gap": 0.002,
-   "nearest_neighbour_same_class": 0.4706,
-   "nearest_neighbour_chance": 0.2853,
-   "p_nearest": 0.1048,
-   "ari_tree_vs_class": 0.0606,
-   "p_ari": 0.1723,
-   "q_gap": 0.0028,
+   "mean_similarity_same_class": 0.1167,
+   "mean_similarity_other_class": -0.0498,
+   "same_class_gap": 0.1666,
+   "p_gap": 0.0069,
+   "nearest_neighbour_same_class": 0.5882,
+   "nearest_neighbour_chance": 0.2874,
+   "p_nearest": 0.0165,
+   "ari_tree_vs_class": 0.1189,
+   "p_ari": 0.0539,
+   "q_gap": 0.0088,
    "significant": true
   },
   {
@@ -412,16 +413,16 @@
    "n_drugs": 24,
    "n_classes": 6,
    "n_same_class_pairs": 139,
-   "mean_similarity_same_class": 0.0203,
-   "mean_similarity_other_class": -0.0764,
-   "same_class_gap": 0.0967,
-   "p_gap": 0.0169,
-   "nearest_neighbour_same_class": 0.75,
-   "nearest_neighbour_chance": 0.6048,
-   "p_nearest": 0.1077,
-   "ari_tree_vs_class": 0.1277,
-   "p_ari": 0.0031,
-   "q_gap": 0.018,
+   "mean_similarity_same_class": 0.047,
+   "mean_similarity_other_class": -0.08,
+   "same_class_gap": 0.1271,
+   "p_gap": 0.0192,
+   "nearest_neighbour_same_class": 0.85,
+   "nearest_neighbour_chance": 0.6051,
+   "p_nearest": 0.0127,
+   "ari_tree_vs_class": 0.1629,
+   "p_ari": 0.0488,
+   "q_gap": 0.0212,
    "significant": true
   },
   {
@@ -459,7 +460,7 @@
    "p_nearest": 0.0002,
    "ari_tree_vs_class": 0.0239,
    "p_ari": 0.3474,
-   "q_gap": 0.0079,
+   "q_gap": 0.0085,
    "significant": true
   },
   {
@@ -545,16 +546,16 @@
    "n_drugs": 27,
    "n_classes": 16,
    "n_same_class_pairs": 17,
-   "mean_similarity_same_class": 0.4357,
-   "mean_similarity_other_class": -0.0346,
-   "same_class_gap": 0.4703,
-   "p_gap": 0.0001,
+   "mean_similarity_same_class": 0.3578,
+   "mean_similarity_other_class": -0.0276,
+   "same_class_gap": 0.3854,
+   "p_gap": 0.0002,
    "nearest_neighbour_same_class": 0.5,
-   "nearest_neighbour_chance": 0.0722,
-   "p_nearest": 0.0001,
-   "ari_tree_vs_class": 0.2143,
-   "p_ari": 0.0045,
-   "q_gap": 0.0003,
+   "nearest_neighbour_chance": 0.0721,
+   "p_nearest": 0.0003,
+   "ari_tree_vs_class": 0.2687,
+   "p_ari": 0.0008,
+   "q_gap": 0.0005,
    "significant": true
   },
   {
@@ -564,17 +565,17 @@
    "n_drugs": 27,
    "n_classes": 8,
    "n_same_class_pairs": 101,
-   "mean_similarity_same_class": 0.0356,
-   "mean_similarity_other_class": -0.031,
-   "same_class_gap": 0.0665,
-   "p_gap": 0.0744,
+   "mean_similarity_same_class": 0.0582,
+   "mean_similarity_other_class": -0.036,
+   "same_class_gap": 0.0942,
+   "p_gap": 0.0477,
    "nearest_neighbour_same_class": 0.6957,
-   "nearest_neighbour_chance": 0.3376,
-   "p_nearest": 0.0012,
-   "ari_tree_vs_class": 0.0865,
-   "p_ari": 0.0334,
-   "q_gap": 0.0744,
-   "significant": false
+   "nearest_neighbour_chance": 0.3393,
+   "p_nearest": 0.001,
+   "ari_tree_vs_class": 0.0508,
+   "p_ari": 0.1824,
+   "q_gap": 0.0492,
+   "significant": true
   },
   {
    "condition": "Acne",
@@ -697,16 +698,16 @@
    "n_drugs": 15,
    "n_classes": 8,
    "n_same_class_pairs": 11,
-   "mean_similarity_same_class": 0.6611,
-   "mean_similarity_other_class": -0.1456,
-   "same_class_gap": 0.8067,
-   "p_gap": 0.0002,
-   "nearest_neighbour_same_class": 0.4545,
-   "nearest_neighbour_chance": 0.1431,
-   "p_nearest": 0.039,
-   "ari_tree_vs_class": 0.4923,
-   "p_ari": 0.0014,
-   "q_gap": 0.0005,
+   "mean_similarity_same_class": 0.7753,
+   "mean_similarity_other_class": -0.1564,
+   "same_class_gap": 0.9318,
+   "p_gap": 0.0001,
+   "nearest_neighbour_same_class": 0.8182,
+   "nearest_neighbour_chance": 0.1446,
+   "p_nearest": 0.0001,
+   "ari_tree_vs_class": 0.5239,
+   "p_ari": 0.0006,
+   "q_gap": 0.0003,
    "significant": true
   },
   {
@@ -716,15 +717,15 @@
    "n_drugs": 15,
    "n_classes": 6,
    "n_same_class_pairs": 25,
-   "mean_similarity_same_class": 0.5599,
-   "mean_similarity_other_class": -0.2552,
-   "same_class_gap": 0.8151,
+   "mean_similarity_same_class": 0.6126,
+   "mean_similarity_other_class": -0.2686,
+   "same_class_gap": 0.8812,
    "p_gap": 0.0001,
-   "nearest_neighbour_same_class": 0.8333,
-   "nearest_neighbour_chance": 0.2991,
-   "p_nearest": 0.001,
-   "ari_tree_vs_class": 0.4308,
-   "p_ari": 0.0003,
+   "nearest_neighbour_same_class": 0.9167,
+   "nearest_neighbour_chance": 0.2965,
+   "p_nearest": 0.0002,
+   "ari_tree_vs_class": 0.3505,
+   "p_ari": 0.0021,
    "q_gap": 0.0003,
    "significant": true
   }
@@ -757,10 +758,10 @@
    "features": "experience type (B clusters)",
    "n_reviews": 17061,
    "share_high": 0.599,
-   "auc_mean": 0.6874,
-   "auc_sd": 0.0048,
-   "balanced_accuracy_mean": 0.6316,
-   "balanced_accuracy_sd": 0.0034,
+   "auc_mean": 0.7077,
+   "auc_sd": 0.0104,
+   "balanced_accuracy_mean": 0.6452,
+   "balanced_accuracy_sd": 0.01,
    "n_features": 23.0
   },
   {
@@ -779,10 +780,10 @@
    "features": "drug + experience type",
    "n_reviews": 17061,
    "share_high": 0.599,
-   "auc_mean": 0.6906,
-   "auc_sd": 0.0072,
-   "balanced_accuracy_mean": 0.6319,
-   "balanced_accuracy_sd": 0.0038,
+   "auc_mean": 0.7139,
+   "auc_sd": 0.0117,
+   "balanced_accuracy_mean": 0.6474,
+   "balanced_accuracy_sd": 0.0124,
    "n_features": 43.0
   },
   {
@@ -790,10 +791,10 @@
    "features": "drug + experience type + side effects",
    "n_reviews": 17061,
    "share_high": 0.599,
-   "auc_mean": 0.7895,
-   "auc_sd": 0.0041,
-   "balanced_accuracy_mean": 0.7201,
-   "balanced_accuracy_sd": 0.0056,
+   "auc_mean": 0.8051,
+   "auc_sd": 0.0073,
+   "balanced_accuracy_mean": 0.7315,
+   "balanced_accuracy_sd": 0.0081,
    "n_features": 98.0
   },
   {
@@ -823,10 +824,10 @@
    "features": "experience type (B clusters)",
    "n_reviews": 6461,
    "share_high": 0.7598,
-   "auc_mean": 0.6553,
-   "auc_sd": 0.0112,
-   "balanced_accuracy_mean": 0.6038,
-   "balanced_accuracy_sd": 0.0151,
+   "auc_mean": 0.6749,
+   "auc_sd": 0.0166,
+   "balanced_accuracy_mean": 0.6274,
+   "balanced_accuracy_sd": 0.0146,
    "n_features": 26.0
   },
   {
@@ -845,10 +846,10 @@
    "features": "drug + experience type",
    "n_reviews": 6461,
    "share_high": 0.7598,
-   "auc_mean": 0.6943,
-   "auc_sd": 0.0147,
-   "balanced_accuracy_mean": 0.639,
-   "balanced_accuracy_sd": 0.0131,
+   "auc_mean": 0.7136,
+   "auc_sd": 0.022,
+   "balanced_accuracy_mean": 0.6541,
+   "balanced_accuracy_sd": 0.0142,
    "n_features": 79.0
   },
   {
@@ -856,10 +857,10 @@
    "features": "drug + experience type + side effects",
    "n_reviews": 6461,
    "share_high": 0.7598,
-   "auc_mean": 0.7371,
-   "auc_sd": 0.0126,
-   "balanced_accuracy_mean": 0.6672,
-   "balanced_accuracy_sd": 0.0102,
+   "auc_mean": 0.7518,
+   "auc_sd": 0.0128,
+   "balanced_accuracy_mean": 0.6862,
+   "balanced_accuracy_sd": 0.0136,
    "n_features": 130.0
   },
   {
@@ -889,10 +890,10 @@
    "features": "experience type (B clusters)",
    "n_reviews": 4866,
    "share_high": 0.8122,
-   "auc_mean": 0.6724,
-   "auc_sd": 0.0198,
-   "balanced_accuracy_mean": 0.6271,
-   "balanced_accuracy_sd": 0.0172,
+   "auc_mean": 0.7086,
+   "auc_sd": 0.0263,
+   "balanced_accuracy_mean": 0.6603,
+   "balanced_accuracy_sd": 0.0251,
    "n_features": 26.0
   },
   {
@@ -911,10 +912,10 @@
    "features": "drug + experience type",
    "n_reviews": 4866,
    "share_high": 0.8122,
-   "auc_mean": 0.7443,
-   "auc_sd": 0.0183,
-   "balanced_accuracy_mean": 0.6682,
-   "balanced_accuracy_sd": 0.0194,
+   "auc_mean": 0.7612,
+   "auc_sd": 0.021,
+   "balanced_accuracy_mean": 0.6876,
+   "balanced_accuracy_sd": 0.0205,
    "n_features": 100.0
   },
   {
@@ -922,10 +923,10 @@
    "features": "drug + experience type + side effects",
    "n_reviews": 4866,
    "share_high": 0.8122,
-   "auc_mean": 0.7704,
-   "auc_sd": 0.0231,
-   "balanced_accuracy_mean": 0.6946,
-   "balanced_accuracy_sd": 0.018,
+   "auc_mean": 0.787,
+   "auc_sd": 0.0256,
+   "balanced_accuracy_mean": 0.7156,
+   "balanced_accuracy_sd": 0.0284,
    "n_features": 147.0
   },
   {
@@ -955,10 +956,10 @@
    "features": "experience type (B clusters)",
    "n_reviews": 4155,
    "share_high": 0.7807,
-   "auc_mean": 0.6799,
-   "auc_sd": 0.0187,
-   "balanced_accuracy_mean": 0.6258,
-   "balanced_accuracy_sd": 0.0202,
+   "auc_mean": 0.6831,
+   "auc_sd": 0.0108,
+   "balanced_accuracy_mean": 0.65,
+   "balanced_accuracy_sd": 0.0109,
    "n_features": 25.0
   },
   {
@@ -977,10 +978,10 @@
    "features": "drug + experience type",
    "n_reviews": 4155,
    "share_high": 0.7807,
-   "auc_mean": 0.7069,
-   "auc_sd": 0.0209,
-   "balanced_accuracy_mean": 0.6497,
-   "balanced_accuracy_sd": 0.0248,
+   "auc_mean": 0.709,
+   "auc_sd": 0.014,
+   "balanced_accuracy_mean": 0.6506,
+   "balanced_accuracy_sd": 0.0135,
    "n_features": 59.0
   },
   {
@@ -988,12 +989,12 @@
    "features": "drug + experience type + side effects",
    "n_reviews": 4155,
    "share_high": 0.7807,
-   "auc_mean": 0.7354,
-   "auc_sd": 0.0106,
-   "balanced_accuracy_mean": 0.68,
-   "balanced_accuracy_sd": 0.0083,
+   "auc_mean": 0.7403,
+   "auc_sd": 0.017,
+   "balanced_accuracy_mean": 0.6783,
+   "balanced_accuracy_sd": 0.02,
    "n_features": 114.0
   }
  ],
- "runtime_minutes": 1.3
+ "runtime_minutes": 1.2
 }

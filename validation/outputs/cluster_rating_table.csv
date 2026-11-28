@@ -1,101 +1,101 @@
-condition_name,kmeans_cluster,n_reviews,mean_rating,share_high,top_drug,top_drug_share,label_final
-Acne,0,114,8.728,0.93,benzoyl peroxide / clindamycin,0.132,works great / month / pimples
-Acne,1,216,7.713,0.764,adapalene / benzoyl peroxide,0.264,dry / work / ive using
-Acne,2,235,5.46,0.447,minocycline,0.409,minocycline / allergic / severe
-Acne,3,108,7.102,0.676,doxycycline,0.213,gets worse / clear / got
-Acne,4,197,6.437,0.584,doxycycline,0.132,got worse / dermatologist / using
-Acne,5,261,6.874,0.655,benzoyl peroxide / clindamycin,0.195,moisturizer / started / redness
-Acne,6,281,8.349,0.854,isotretinoin,0.964,accutane / lips dry / joint
-Acne,7,228,6.882,0.649,doxycycline,0.154,chin / worse / cystic
-Acne,8,216,6.704,0.611,ethinyl estradiol / norgestimate,0.227,birth control / cystic / started
-Acne,9,175,4.56,0.36,ethinyl estradiol / norethindrone,0.303,taking pill / horrible / im
-Acne,10,113,8.035,0.779,isotretinoin,0.398,high school / acne high / did
-Acne,11,106,6.991,0.651,drospirenone / ethinyl estradiol,0.33,gained weight / periods / yaz
-Acne,12,114,9.158,0.965,isotretinoin,0.149,highly recommend / breakouts / years
-Acne,13,84,6.381,0.548,ethinyl estradiol / norgestimate,0.786,tri sprintec / periods / weight
-Acne,14,100,7.72,0.77,isotretinoin,0.33,self esteem / time / didnt
-Acne,15,240,7.579,0.758,adapalene / benzoyl peroxide,0.925,epiduo / prescribed / dry
-Acne,16,126,7.778,0.754,doxycycline,0.302,doxycycline / food / 100mg twice
-Acne,17,181,7.663,0.768,tretinoin,0.431,tretinoin cream / left / dry
-Acne,18,303,7.759,0.749,adapalene,0.125,clear skin / work / really
-Acne,19,396,7.275,0.699,doxycycline,0.361,doxycycline / taking / cystic
-Acne,20,131,8.901,0.901,isotretinoin,0.466,accutane / changed life / face
-Acne,21,296,8.321,0.848,isotretinoin,0.264,cystic acne / prescribed / years old
-Acne,22,135,8.341,0.852,benzoyl peroxide / clindamycin,0.578,duac / gel / dark spots
-Acne,23,91,6.11,0.527,ethinyl estradiol / norgestimate,0.319,mood swings / birth control / weight
-Acne,24,102,8.078,0.824,benzoyl peroxide / clindamycin,0.157,benzoyl peroxide / years / tried
-Birth Control,0,642,5.891,0.494,etonogestrel,0.975,implant / 2015 / weight
-Birth Control,1,777,6.748,0.595,etonogestrel,0.99,implanon inserted / year / mood swings
-Birth Control,2,352,4.787,0.327,etonogestrel,0.261,hair loss / swings / weight gain
-Birth Control,3,1322,6.389,0.565,ethinyl estradiol / norethindrone,0.241,periods / control / got
-Birth Control,4,597,6.214,0.539,medroxyprogesterone,0.709,depo shot / weight / time
-Birth Control,5,863,7.285,0.684,levonorgestrel (G02BA),0.944,mirena inserted / children / cramping
-Birth Control,6,1711,7.722,0.755,levonorgestrel (G02BA),0.763,iud / minutes / cramping
-Birth Control,7,331,6.218,0.559,ethinyl estradiol / norethindrone,0.314,breakthrough bleeding / weight / days
-Birth Control,8,1343,5.979,0.496,ethinyl estradiol / norethindrone,0.235,mood swings / weight / time
-Birth Control,9,790,4.094,0.242,etonogestrel,0.504,heavy bleeding / non / doctor
-Birth Control,10,358,5.989,0.508,ethinyl estradiol / norgestimate,0.615,tri cyclen / weight / insurance
-Birth Control,11,593,2.993,0.135,etonogestrel,0.241,anxiety depression / time / severe
-Birth Control,12,309,5.871,0.479,drospirenone / ethinyl estradiol,0.712,yaz / switched / weight
-Birth Control,13,1083,7.141,0.679,ethinyl estradiol / norethindrone,0.234,weight / acne / havent
-Birth Control,14,758,4.303,0.274,ethinyl estradiol / norethindrone,0.197,nauseous / control / day
-Birth Control,15,849,4.594,0.3,etonogestrel,0.264,gained weight / time / 20
-Birth Control,16,544,7.092,0.645,ethinyl estradiol / etonogestrel,0.934,nuvaring / time / ring
-Birth Control,17,1455,5.882,0.485,ethinyl estradiol / norethindrone,0.195,sex drive / time / weight
-Birth Control,18,855,6.435,0.575,etonogestrel,0.982,nexplanon inserted / 2015 / arm
-Birth Control,19,471,6.624,0.614,ethinyl estradiol / norethindrone,0.87,lo loestrin / years / switched
-Birth Control,20,1121,5.164,0.407,ethinyl estradiol / norethindrone,0.282,started taking / acne / sprintec
-Birth Control,21,394,7.089,0.695,ethinyl estradiol / norelgestromin,0.929,patch / ortho / started
-Birth Control,22,1997,6.4,0.579,ethinyl estradiol / norethindrone,0.213,pill / acne / time
-Depression,0,230,7.27,0.709,duloxetine,0.817,taking cymbalta / years / doctor
-Depression,1,249,7.506,0.735,desvenlafaxine,0.94,pristiq / better / ive
-Depression,2,208,7.274,0.74,venlafaxine,0.793,effexor xr / years / withdrawal symptoms
-Depression,3,272,7.507,0.754,bupropion,0.827,wellbutrin / years / xl
-Depression,4,184,6.995,0.674,bupropion,0.13,mood swings / improved / felt
-Depression,5,227,6.022,0.542,sertraline,0.141,suicidal thoughts / time / going
-Depression,6,365,6.54,0.605,mirtazapine,0.2,asleep / time / medication
-Depression,7,88,5.455,0.409,bupropion,0.136,high blood / day / heart
-Depression,8,163,6.804,0.632,vilazodone,0.908,viibryd / diarrhea / sexual
-Depression,9,151,9.589,0.987,fluoxetine,0.146,saved life / weight / got
-Depression,10,334,7.272,0.707,mirtazapine,0.111,weight gain / year / lexapro
-Depression,11,237,7.54,0.764,sertraline,0.616,zoloft / years / doctor
-Depression,12,221,7.299,0.738,bupropion,0.163,sex drive / lexapro / weeks
-Depression,13,525,6.867,0.651,bupropion,0.118,started / doctor / think
-Depression,14,178,9.236,0.949,sertraline,0.14,life better / time / ive
-Depression,15,245,7.171,0.702,escitalopram,0.118,panic attacks / lexapro / years
-Depression,16,341,5.012,0.419,sertraline,0.114,felt like / dose / didnt
-Depression,17,440,8.082,0.807,citalopram,0.109,years / prozac / doctor
-Depression,18,140,8.471,0.843,venlafaxine,0.107,works great / time / drug
-Depression,19,226,5.487,0.487,vortioxetine,0.42,nausea vomiting / doctor / severe
-Depression,20,789,6.805,0.638,venlafaxine,0.077,medication / didnt / depression anxiety
-Depression,21,458,7.378,0.718,citalopram,0.133,feel better / make / zombie
-Depression,22,192,7.448,0.745,bupropion,0.141,dry mouth / started / little
-Depression,23,186,7.952,0.823,desvenlafaxine,0.113,anti depressant / best / work
-Depression,24,230,7.061,0.7,vortioxetine,0.222,10 / lexapro / anxiety
-Depression,25,230,7.47,0.739,sertraline,0.278,50 mg / doctor / anxiety
-Pain,0,201,6.866,0.672,tramadol,0.134,works / severe / dont
-Pain,1,208,7.688,0.798,amitriptyline,0.192,sleep night / started / able
-Pain,2,154,5.701,0.532,acetaminophen / hydrocodone,0.097,didnt help / really / doctor
-Pain,3,147,7.714,0.796,oxymorphone,0.769,opana er / taking / years
-Pain,4,124,6.694,0.597,tramadol,0.121,upset stomach / took / make
-Pain,5,154,8.0,0.825,gabapentin,0.188,nerve damage / right / surgery
-Pain,6,101,8.05,0.822,acetaminophen / hydrocodone,0.139,good / pain killer / term
-Pain,7,71,4.38,0.423,lidocaine,0.746,lidoderm patches / waste / stick
-Pain,8,218,7.179,0.725,tramadol,0.766,prescribed tramadol / years / im
-Pain,9,739,7.552,0.748,acetaminophen / oxycodone,0.093,pain relief / ive / knee
-Pain,10,335,9.099,0.943,oxycodone,0.239,chronic / able / life saver
-Pain,11,153,7.843,0.771,acetaminophen / oxycodone,0.137,really helped / years / doctor
-Pain,12,153,8.431,0.869,acetaminophen / hydrocodone,0.157,really helps / years / im
-Pain,13,198,8.677,0.899,acetaminophen / hydrocodone,0.152,works great / severe / drug
-Pain,14,160,8.094,0.825,acetaminophen / hydrocodone,0.362,norco / surgery / chronic
-Pain,15,124,8.742,0.919,oxycodone,0.113,great / prescribed / time
-Pain,16,168,7.5,0.786,fentanyl,0.44,patch / started / butrans
-Pain,17,307,7.485,0.746,tapentadol,0.127,mg day / nucynta / started
-Pain,18,183,7.721,0.781,gabapentin,0.219,times day / severe / gabapentin
-Pain,19,128,8.25,0.852,acetaminophen / hydrocodone,0.148,pain away / make / took
-Pain,20,128,8.367,0.867,oxycodone,0.188,degenerative disc / just / surgery
-Pain,21,82,7.451,0.756,amitriptyline,0.317,amitriptyline / dry mouth / started
-Pain,22,110,6.364,0.6,acetaminophen / codeine,0.273,teeth pulled / tylenol / wisdom tooth
-Pain,23,167,8.192,0.808,hydromorphone,0.707,dilaudid iv / stones / hospital
-Pain,24,491,6.644,0.648,tapentadol,0.149,effects / nucynta / weeks
-Pain,25,183,7.355,0.716,ketorolac,0.585,migraines / minutes / emergency
+condition_name,kmeans_cluster,n_reviews,mean_rating,share_high,top_drug,top_drug_share
+Acne,0,238,6.811,0.626,minocycline,0.239
+Acne,1,203,8.305,0.852,doxycycline,0.133
+Acne,2,100,8.5,0.87,doxycycline,0.22
+Acne,3,483,8.087,0.799,doxycycline,0.116
+Acne,4,96,8.104,0.823,benzoyl peroxide / clindamycin,0.875
+Acne,5,203,6.665,0.601,ethinyl estradiol / norgestimate,0.251
+Acne,6,233,7.545,0.755,adapalene / benzoyl peroxide,0.944
+Acne,7,212,7.816,0.769,adapalene / benzoyl peroxide,0.25
+Acne,8,110,8.045,0.773,isotretinoin,0.391
+Acne,9,158,4.513,0.354,ethinyl estradiol / norethindrone,0.348
+Acne,10,103,7.408,0.718,drospirenone / ethinyl estradiol,0.379
+Acne,11,82,7.488,0.732,isotretinoin,0.366
+Acne,12,121,8.669,0.909,benzoyl peroxide / clindamycin,0.149
+Acne,13,286,7.633,0.766,adapalene / benzoyl peroxide,0.213
+Acne,14,366,6.352,0.563,doxycycline,0.224
+Acne,15,42,6.524,0.548,ethinyl estradiol / norgestimate,0.929
+Acne,16,80,5.8,0.5,drospirenone / ethinyl estradiol,0.325
+Acne,17,182,7.67,0.775,tretinoin,0.522
+Acne,18,195,8.354,0.831,isotretinoin,0.769
+Acne,19,112,7.589,0.759,dapsone,0.795
+Acne,20,235,8.621,0.885,isotretinoin,0.983
+Acne,21,350,6.243,0.566,doxycycline,0.329
+Acne,22,47,6.277,0.553,ethinyl estradiol / norgestimate,0.66
+Acne,23,126,6.127,0.571,doxycycline,0.175
+Acne,24,186,7.828,0.774,doxycycline,0.183
+Birth Control,0,1269,6.545,0.588,ethinyl estradiol / norethindrone,0.209
+Birth Control,1,1460,5.377,0.414,etonogestrel,0.203
+Birth Control,2,1291,7.982,0.795,levonorgestrel (G02BA),0.837
+Birth Control,3,1235,5.858,0.491,ethinyl estradiol / norethindrone,0.27
+Birth Control,4,564,6.206,0.541,medroxyprogesterone,0.695
+Birth Control,5,1042,3.619,0.188,ethinyl estradiol / norethindrone,0.185
+Birth Control,6,759,6.54,0.592,copper,0.559
+Birth Control,7,1164,5.042,0.364,ethinyl estradiol / norethindrone,0.213
+Birth Control,8,330,5.942,0.497,ethinyl estradiol / norgestimate,0.606
+Birth Control,9,683,6.553,0.572,etonogestrel,0.987
+Birth Control,10,682,4.635,0.298,etonogestrel,0.321
+Birth Control,11,512,7.037,0.678,etonogestrel,0.291
+Birth Control,12,714,8.377,0.852,etonogestrel,0.235
+Birth Control,13,382,7.034,0.688,ethinyl estradiol / norelgestromin,0.929
+Birth Control,14,1903,5.938,0.52,ethinyl estradiol / norethindrone,0.183
+Birth Control,15,783,7.257,0.681,levonorgestrel (G02BA),0.951
+Birth Control,16,938,6.45,0.57,etonogestrel,0.247
+Birth Control,17,303,6.997,0.63,etonogestrel,0.241
+Birth Control,18,530,7.974,0.766,etonogestrel,0.209
+Birth Control,19,915,4.93,0.373,ethinyl estradiol / norethindrone,0.286
+Birth Control,20,394,6.619,0.607,ethinyl estradiol / norethindrone,0.865
+Birth Control,21,792,3.946,0.223,etonogestrel,0.587
+Birth Control,22,870,6.236,0.546,etonogestrel,0.985
+Depression,0,384,7.091,0.698,vilazodone,0.125
+Depression,1,230,7.513,0.743,desvenlafaxine,0.935
+Depression,2,234,7.688,0.765,bupropion,0.838
+Depression,3,334,7.198,0.689,aripiprazole,0.111
+Depression,4,151,9.623,0.993,fluoxetine,0.146
+Depression,5,188,7.511,0.75,bupropion,0.138
+Depression,6,417,5.935,0.53,bupropion,0.115
+Depression,7,344,6.206,0.558,mirtazapine,0.18
+Depression,8,874,6.427,0.587,duloxetine,0.088
+Depression,9,210,7.252,0.719,sertraline,0.114
+Depression,10,122,8.525,0.852,venlafaxine,0.107
+Depression,11,435,8.087,0.816,sertraline,0.133
+Depression,12,88,5.386,0.443,venlafaxine,0.216
+Depression,13,100,5.52,0.5,bupropion,0.14
+Depression,14,235,7.196,0.711,escitalopram,0.106
+Depression,15,264,8.64,0.898,bupropion,0.129
+Depression,16,207,5.903,0.536,sertraline,0.15
+Depression,17,569,7.248,0.71,sertraline,0.137
+Depression,18,264,6.458,0.583,bupropion,0.091
+Depression,19,551,6.889,0.67,sertraline,0.118
+Depression,20,184,7.332,0.75,venlafaxine,0.766
+Depression,21,160,9.5,0.975,sertraline,0.138
+Depression,22,214,7.159,0.715,sertraline,0.15
+Depression,23,127,8.26,0.843,fluoxetine,0.087
+Depression,24,136,8.118,0.838,bupropion,0.096
+Depression,25,87,5.437,0.402,bupropion,0.138
+Pain,0,65,8.062,0.815,diclofenac (M02AA),0.846
+Pain,1,124,8.5,0.887,acetaminophen / hydrocodone,0.137
+Pain,2,1142,7.148,0.7,tramadol,0.13
+Pain,3,162,8.716,0.914,tramadol,0.123
+Pain,4,182,8.412,0.835,hydromorphone,0.582
+Pain,5,378,9.048,0.939,oxycodone,0.225
+Pain,6,56,7.018,0.643,acetaminophen / hydrocodone,0.25
+Pain,7,131,7.855,0.809,oxymorphone,0.855
+Pain,8,132,7.674,0.795,tramadol,0.136
+Pain,9,195,8.21,0.841,acetaminophen / hydrocodone,0.113
+Pain,10,113,8.363,0.867,acetaminophen / hydrocodone,0.133
+Pain,11,171,8.094,0.83,gabapentin,0.181
+Pain,12,110,9.309,0.973,oxycodone,0.164
+Pain,13,152,6.961,0.678,tramadol,0.138
+Pain,14,360,7.272,0.728,tramadol,0.158
+Pain,15,133,8.128,0.82,acetaminophen / hydrocodone,0.353
+Pain,16,220,7.641,0.777,amitriptyline,0.182
+Pain,17,178,7.758,0.792,gabapentin,0.219
+Pain,18,65,4.123,0.385,lidocaine,0.8
+Pain,19,291,5.828,0.55,tramadol,0.155
+Pain,20,237,6.038,0.561,tramadol,0.19
+Pain,21,103,8.369,0.874,oxycodone,0.165
+Pain,22,62,8.274,0.871,acetaminophen / hydrocodone,0.532
+Pain,23,126,8.722,0.897,acetaminophen / hydrocodone,0.143
+Pain,24,160,7.781,0.831,fentanyl,0.444
+Pain,25,139,6.597,0.597,ketorolac,0.122

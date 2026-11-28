@@ -13,11 +13,11 @@ The outputs of the other roles, joined on `review_id` (36,360 reviews of Birth C
 |---|---|---|---|
 | `cluster_assignments.parquet` | B | `../clustering/outputs` (in the repo) | B's notebook output |
 | `scope_review_atc.csv`, `atc_class_names.csv` | D | `../atc-mapping/outputs` (in the repo) | D's notebook output |
-| `baskets.parquet` | E | `../frequent_itemsets/outputs` (**not in the repo**: run E's notebook first) | E's notebook output |
+| `baskets.parquet` | E | `../frequent_itemsets/outputs` (in the repo) | E's notebook output |
 | `cluster_labels_final.csv` (optional) | C | `../nlp-embeddings/outputs` (in the repo) | C's notebook output |
 | `embeddings_masked_v2_all.npy` + `_ids.parquet` (optional) | C | not in the repo (395 MB) | C's Kaggle dataset |
 
-Without C's embeddings the notebook runs everything except the optional *meaning* view.
+Without C's embeddings the notebook runs everything except the optional *meaning* view. C's labels are attached to B's clusters only if C used the same clustering (same cluster sizes); otherwise the notebook says so and leaves them out.
 
 ## What the notebook does
 
@@ -25,7 +25,7 @@ Without C's embeddings the notebook runs everything except the optional *meaning
 2. **D8 · One identity per drug**: the active ingredient (`generic_name` from D's mapping), so *Zoloft* and *Sertraline* are one drug, and A's families that mix two medicines (*Gabapentin* + Tramadol, *Duloxetine* + Pregabalin) are split. An ingredient with two classes in a condition gets the class in its name (*diclofenac (M02AA)* gel vs *diclofenac (M01AB)* tablet). Drugs with at least 50 reviews in the condition are compared: 15 in Birth Control, 24 in Depression, 27 in Pain, 15 in Acne (91-100 % of the reviews).
 3. **D9 · Experience profiles**:
    - **side effects**: % of the drug's reviews that report each side effect (E's baskets);
-   - **experience types**: % of the drug's reviews in each of B's clusters, without the clusters where one drug has ≥ 50 % of the reviews (those clusters are a drug name, not an experience: 27 of B's 100 clusters);
+   - **experience types**: % of the drug's reviews in each of B's clusters, without the clusters where one drug has ≥ 50 % of the reviews (those clusters are a drug name, not an experience: 26 of B's 100 clusters);
    - two robustness checks of the side-effect profiles: **z-scored** (rare side effects weigh as much as common ones) and **composition** (which side effects, not how many);
    - optional **meaning**: the mean of C's masked Sentence-BERT embeddings of the drug's reviews.
 4. **D10 · Similarity between drugs**: *centred cosine* (the condition's mean profile is subtracted first, so two drugs are similar when they differ from the average drug in the same direction), and a map of the drugs by hierarchical clustering (average linkage), shown as heatmaps.
@@ -48,7 +48,7 @@ Without C's embeddings the notebook runs everything except the optional *meaning
 | Pain | 27 | +0.33 | 0.001 | 44 % (7 %) |
 | Acne | 15 | +0.92 | < 0.001 | 55 % (14 %) |
 
-The result holds with B's experience types, with z-scored and composition profiles, and at ATC level 3: 31 of the 32 tests have q < 0.05. The exception is Pain with experience types at level 3 (q = 0.07). The drug map recovers the classes best in Birth Control (ARI 0.81): IUDs, combined pills and progestogen-only methods form separate blocks. Depression has the weakest gap, because ATC's *N06AX Other antidepressants* mixes very different drugs. Inside N06AX the patients separate the SNRIs (venlafaxine, desvenlafaxine, duloxetine) from mirtazapine.
+The result holds with B's experience types, with z-scored and composition profiles, and at ATC level 3: all 32 tests have q ≤ 0.05. The weakest is Birth Control with experience types at level 4 (gap +0.13, q = 0.05), because ten of its 23 clusters are a drug name and are left out of that view. The drug map recovers the classes best in Birth Control (ARI 0.81): IUDs, combined pills and progestogen-only methods form separate blocks. Depression has the weakest gap, because ATC's *N06AX Other antidepressants* mixes very different drugs. Inside N06AX the patients separate the SNRIs (venlafaxine, desvenlafaxine, duloxetine) from mirtazapine.
 
 **Exceptions worth reporting** (different class, experienced alike):
 
@@ -62,12 +62,14 @@ The result holds with B's experience types, with z-scored and composition profil
 | Features | Birth Control | Depression | Pain | Acne |
 |---|---|---|---|---|
 | drug only | 0.58 | 0.62 | 0.71 | 0.66 |
-| experience type (B) | 0.69 | 0.66 | 0.67 | 0.68 |
+| experience type (B) | 0.71 | 0.67 | 0.71 | 0.68 |
 | side effects (E) | 0.76 | 0.67 | 0.61 | 0.66 |
-| drug + experience type | 0.69 | 0.69 | 0.74 | 0.71 |
-| all three | 0.79 | 0.74 | 0.77 | 0.74 |
+| drug + experience type | 0.71 | 0.71 | 0.76 | 0.71 |
+| all three | 0.81 | 0.75 | 0.79 | 0.74 |
 
-The experience type says more about the rating than the drug in Birth Control, Depression and Acne. In Pain, knowing the drug says more, but adding the experience type still helps. Ratings are polarised: 35-44 % of the reviews are a 1 or a 10, and only 6-13 % are a 5 or 6.
+The experience type says more about the rating than the drug in Birth Control, Depression and Acne, and as much in Pain (0.709 vs 0.705). Adding it to the drug helps in all four conditions. Ratings are polarised: 35-44 % of the reviews are a 1 or a 10, and only 6-13 % are a 5 or 6.
+
+These numbers use B's clusters as committed on 28 Nov (300 LSA components). The side-effect results do not depend on B.
 
 ## Where the results are
 
@@ -79,13 +81,13 @@ The experience type says more about the rating than the drug in Birth Control, D
 | `outputs/drug_table.csv` | Everyone: the drugs, their class, number of reviews and mean rating |
 | `outputs/drug_profiles_side_effects.csv`, `drug_profiles_experience_types.csv` | Everyone: the profiles |
 | `outputs/drug_pair_similarity.csv` | Everyone: every pair of drugs, per view, with `same_class_level_4/3` |
-| `outputs/cluster_rating_table.csv` | Report: mean rating per B cluster with C's label |
+| `outputs/cluster_rating_table.csv` | Report: mean rating per B cluster (with C's label once C has run on B's current clusters) |
 | `outputs/figures/` | Report: `drug_similarity_side_effects`, `drug_similarity_experience_types`, `atc_permutation_test`, `rating_prediction_auc` |
 | `outputs/role_d_validation_run_stats.json` | Report: all numbers |
 
 ## How to run
 
-Locally: run E's notebook first so that `../frequent_itemsets/outputs/baskets.parquet` exists (E needs A's clean data in `../frequent_itemsets/data/`), then **Restart & Run All** (about 1-2 minutes). On Kaggle: add B's, D's and E's notebook outputs as inputs (and C's dataset for the meaning view). All parameters are in section *0 · Setup and parameters*. Requires `numpy`, `pandas`, `pyarrow`, `scipy`, `scikit-learn` and `matplotlib`.
+Locally: **Restart & Run All** (about 1-2 minutes); every input it needs is in the repo. On Kaggle: add B's, D's and E's notebook outputs as inputs (and C's dataset for the meaning view). All parameters are in section *0 · Setup and parameters*. Requires `numpy`, `pandas`, `pyarrow`, `scipy`, `scikit-learn` and `matplotlib`.
 
 ## Limitations
 
@@ -97,5 +99,7 @@ Locally: run E's notebook first so that `../frequent_itemsets/outputs/baskets.pa
 
 ## To do
 
-- [ ] Run it on Kaggle with C's masked embeddings to add the *meaning* view.
+- [x] Rerun on B's current clusters (28 Nov).
+- [ ] Optional: run it on Kaggle with C's masked embeddings to add the *meaning* view.
+- [ ] Rerun once more (1-2 minutes) after C reruns on B's current clusters, so that `cluster_rating_table.csv` gets C's labels.
 - [ ] Write the validation part of the report from `role_d_validation_run_stats.json` and the figures.

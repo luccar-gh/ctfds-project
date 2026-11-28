@@ -1,16 +1,16 @@
 """Run the project's notebooks in order on a local machine and save each one with its outputs.
 
     python run_pipeline.py                    # A, D, E and validation: about 5 minutes on a laptop
-    python run_pipeline.py --with-clustering  # also B (clustering, about 5 more minutes), see the note below
+    python run_pipeline.py --with-clustering  # also B (clustering, about 15 more minutes), see the note below
     python run_pipeline.py E V                # only some stages, in pipeline order
 
 Before the first run: pip install -r requirements.txt, and put the raw UCI files
 drugsComTrain_raw.tsv and drugsComTest_raw.tsv in data/raw/ (see README.md).
 
 Why B and C are not in the default run:
-- B: a rerun gives the same k but moves 1-5 % of the reviews to another cluster in three conditions
-  (numerical differences between machines). C's cluster labels and the committed results are built on
-  the committed clusters, so B is only rerun on request.
+- B: a rerun gives the same k but moves 0.5-2 % of the reviews to another cluster in Depression and
+  Pain (numerical differences between machines). C's cluster labels and the committed results are built
+  on the committed clusters, so B is only rerun on request.
 - C: computing the Sentence-BERT embeddings needs a GPU (or hours on a CPU). Run it on Kaggle with the
   embeddings dataset as input (see nlp-embeddings/README.md); --with-nlp runs it here anyway.
 """

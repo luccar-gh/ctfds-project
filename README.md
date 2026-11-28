@@ -19,7 +19,7 @@ One folder per stage. Each folder has its notebook, a README (method, main resul
 |---|---|---|---|---|---|
 | A | [`data-cleaning-and-lsh`](data-cleaning-and-lsh) | Cleaning; near-duplicate removal with our own **MinHash + LSH**; similar patient stories across drugs (word sets, and Sentence-BERT with random-hyperplane LSH) | Similar items / LSH | data, RQ3 | ~2 min |
 | D | [`atc-mapping`](atc-mapping) | ATC class of every drug from RxNorm (cached, runs offline) | | data | ~10 s |
-| B | [`clustering`](clustering) | TF-IDF + LSA, **k-means** and **DBSCAN** per condition, our own **Davies-Bouldin** and k-means++ | Clustering | RQ1 | ~5 min |
+| B | [`clustering`](clustering) | TF-IDF + LSA, **k-means** and **DBSCAN** per condition, our own **Davies-Bouldin** and k-means++ | Clustering | RQ1 | ~15 min |
 | E | [`frequent_itemsets`](frequent_itemsets) | Side-effect lexicon and baskets, our own **A-priori** and **PCY**, association rules with significance tests | Frequent itemsets | RQ2 | ~30 s |
 | C | [`nlp-embeddings`](nlp-embeddings) | **Sentence-BERT** embeddings (BioLORD-2023), class-based TF-IDF topic terms and keywords for B's clusters | New technique | RQ1 | GPU (Kaggle) |
 | V | [`validation`](validation) | Drug experience profiles vs ATC classes (permutation tests, hierarchical clustering of drugs), rating prediction | Clustering (of drugs) | RQ3, RQ4 | ~1.5 min |
@@ -64,18 +64,18 @@ A's notebook contains both the cleaning (A1-A5) and the similar-story search (A6
 
 **On Kaggle:** each notebook looks for its inputs under `/kaggle/input`. Add the outputs of the stages it uses (table above) as inputs; the README of each folder gives the exact names.
 
-## Reproducibility (checked 25 Nov 2026)
+## Reproducibility (checked 28 Nov 2026)
 
-Every notebook except C was rerun from the raw UCI files on a clean copy of this repository (`python run_pipeline.py --with-clustering`, 9 minutes on a laptop, no errors):
+Every notebook except C was rerun from the raw UCI files on a clean copy of this repository (`python run_pipeline.py --with-clustering`, about 20 minutes on a laptop, no errors):
 
 | Stage | Result of the rerun |
 |---|---|
-| A | Same 128,663 clean reviews; same A6 numbers (1,711 shared stories, 93 drug pairs, 5 significant). Needs `nltk`. |
+| A | Same 128,663 clean reviews; same A6 numbers (1,711 shared stories, 93 drug pairs, 5 significant). Needs `nltk`. The search by meaning (A6b) needs C's embeddings, so its numbers come from the Kaggle run of 26 Nov. |
 | D | Same ATC class for every review. |
-| B | Same k in every condition; identical clusters in Birth Control, 95-99 % of the reviews in the same cluster in the other three. |
+| B | Same k in every condition; identical clusters in Birth Control and Acne, 98-99.5 % of the reviews in the same cluster in Depression and Pain. DBSCAN's number of clusters varies between runs. |
 | E | Identical numbers; only the benchmark times depend on the machine. |
-| Validation | Identical results with the committed B clusters. With B rerun as well, 31 of 32 tests are still significant, and the gaps and AUCs move by at most 0.014 and 0.009. |
-| C | Not rerun locally: it needs the embeddings dataset or a GPU. |
+| Validation | Rerun on the committed B clusters: all 32 tests significant. With B rerun as well, the gaps and AUCs move by at most 0.007 and 0.001. |
+| C | Not rerun locally: it needs the embeddings dataset. Its committed outputs were made on B's previous clustering and have to be rerun on Kaggle (see `nlp-embeddings/README.md`). |
 
 ## Repository layout
 

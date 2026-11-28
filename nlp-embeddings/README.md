@@ -69,6 +69,8 @@ labels = pd.read_csv(next(folder.rglob('cluster_labels_final.csv')))        # on
 
 ## Main results (this run, 100 clusters of B)
 
+> **28 Nov:** these results were made on B's previous clustering (150 LSA components). B's committed clusters now use 300 components (same k, but every cluster changed), so the numbers below will change. To update them: run the notebook again on Kaggle with the embeddings dataset and B's current `cluster_assignments.parquet` as inputs. The embeddings are reloaded, not recomputed, so no GPU is needed. Then commit the notebook and `outputs/` (the folder was renamed from `output/` to `outputs/`, the name the notebook and the other roles use).
+
 - **Topic terms:** c-TF-IDF overlaps 0.68 with B's top terms. In 51 of 100 clusters a drug or condition name is among the first five terms (14.3% of the top-10 terms on average).
 - **Coherence:** mean NPMI of the cluster terms is 0.137 against −0.165 for random term sets. The mean cohesion gap is about 0 (−0.006): B's clusters are mostly not separated in meaning space.
 - **Drug purity:** unmasked Sentence-BERT clusters are at least as drug-pure as B's (for example Depression 0.48 against 0.27, baseline 0.09); after masking drug names they fall below B's in three conditions and are close in Acne (0.31 against 0.32).

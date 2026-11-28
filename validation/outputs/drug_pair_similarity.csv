@@ -314,111 +314,111 @@ Birth Control,side effects (composition),norethindrone,ethinyl estradiol / ethyn
 Birth Control,side effects (composition),ethinyl estradiol / norgestrel,drospirenone / ethinyl estradiol / levomefolate,0.3433,G03AA,G03AA,True,True
 Birth Control,side effects (composition),ethinyl estradiol / norgestrel,ethinyl estradiol / ethynodiol,0.3908,G03AA,G03AA,True,True
 Birth Control,side effects (composition),drospirenone / ethinyl estradiol / levomefolate,ethinyl estradiol / ethynodiol,0.3641,G03AA,G03AA,True,True
-Birth Control,experience types,etonogestrel,ethinyl estradiol / norethindrone,-0.3146,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,levonorgestrel (G02BA),0.2548,G03AC,G02BA,False,False
-Birth Control,experience types,etonogestrel,ethinyl estradiol / levonorgestrel,-0.5789,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,ethinyl estradiol / norgestimate,-0.6146,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,ethinyl estradiol / etonogestrel,0.4725,G03AC,G02BB,False,False
-Birth Control,experience types,etonogestrel,copper,-0.3205,G03AC,G02BA,False,False
-Birth Control,experience types,etonogestrel,drospirenone / ethinyl estradiol,-0.0081,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,medroxyprogesterone,0.8128,G03AC,G03AC,True,True
-Birth Control,experience types,etonogestrel,desogestrel / ethinyl estradiol,0.1492,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,ethinyl estradiol / norelgestromin,0.1051,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,norethindrone,-0.6375,G03AC,G03AC,True,True
-Birth Control,experience types,etonogestrel,ethinyl estradiol / norgestrel,-0.5888,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,drospirenone / ethinyl estradiol / levomefolate,-0.2317,G03AC,G03AA,False,True
-Birth Control,experience types,etonogestrel,ethinyl estradiol / ethynodiol,-0.3057,G03AC,G03AA,False,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,levonorgestrel (G02BA),-0.3229,G03AA,G02BA,False,False
-Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / levonorgestrel,0.7602,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / norgestimate,0.5197,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / etonogestrel,-0.4481,G03AA,G02BB,False,False
-Birth Control,experience types,ethinyl estradiol / norethindrone,copper,-0.086,G03AA,G02BA,False,False
-Birth Control,experience types,ethinyl estradiol / norethindrone,drospirenone / ethinyl estradiol,-0.041,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,medroxyprogesterone,-0.4026,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,desogestrel / ethinyl estradiol,0.2703,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / norelgestromin,-0.5333,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,norethindrone,0.6968,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / norgestrel,0.3525,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,drospirenone / ethinyl estradiol / levomefolate,0.5799,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / ethynodiol,-0.1862,G03AA,G03AA,True,True
-Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / levonorgestrel,-0.5198,G02BA,G03AA,False,False
-Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / norgestimate,-0.7254,G02BA,G03AA,False,False
+Birth Control,experience types,etonogestrel,ethinyl estradiol / norethindrone,0.2523,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,levonorgestrel (G02BA),0.4834,G03AC,G02BA,False,False
+Birth Control,experience types,etonogestrel,ethinyl estradiol / levonorgestrel,0.0277,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,ethinyl estradiol / norgestimate,-0.4209,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,ethinyl estradiol / etonogestrel,0.0074,G03AC,G02BB,False,False
+Birth Control,experience types,etonogestrel,copper,-0.5671,G03AC,G02BA,False,False
+Birth Control,experience types,etonogestrel,drospirenone / ethinyl estradiol,-0.3554,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,medroxyprogesterone,0.8041,G03AC,G03AC,True,True
+Birth Control,experience types,etonogestrel,desogestrel / ethinyl estradiol,0.1839,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,ethinyl estradiol / norelgestromin,-0.0295,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,norethindrone,-0.2891,G03AC,G03AC,True,True
+Birth Control,experience types,etonogestrel,ethinyl estradiol / norgestrel,-0.2388,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,drospirenone / ethinyl estradiol / levomefolate,-0.4465,G03AC,G03AA,False,True
+Birth Control,experience types,etonogestrel,ethinyl estradiol / ethynodiol,-0.322,G03AC,G03AA,False,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,levonorgestrel (G02BA),0.0968,G03AA,G02BA,False,False
+Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / levonorgestrel,0.9018,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / norgestimate,0.4287,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / etonogestrel,-0.6031,G03AA,G02BB,False,False
+Birth Control,experience types,ethinyl estradiol / norethindrone,copper,-0.361,G03AA,G02BA,False,False
+Birth Control,experience types,ethinyl estradiol / norethindrone,drospirenone / ethinyl estradiol,-0.4463,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,medroxyprogesterone,-0.1327,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,desogestrel / ethinyl estradiol,0.141,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / norelgestromin,-0.4659,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,norethindrone,0.7825,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / norgestrel,0.5497,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,drospirenone / ethinyl estradiol / levomefolate,-0.1797,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norethindrone,ethinyl estradiol / ethynodiol,-0.2465,G03AA,G03AA,True,True
+Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / levonorgestrel,0.1007,G02BA,G03AA,False,False
+Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / norgestimate,-0.66,G02BA,G03AA,False,False
 Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / etonogestrel,-0.114,G02BA,G02BB,False,True
-Birth Control,experience types,levonorgestrel (G02BA),copper,0.7418,G02BA,G02BA,True,True
-Birth Control,experience types,levonorgestrel (G02BA),drospirenone / ethinyl estradiol,-0.7155,G02BA,G03AA,False,False
-Birth Control,experience types,levonorgestrel (G02BA),medroxyprogesterone,0.0277,G02BA,G03AC,False,False
-Birth Control,experience types,levonorgestrel (G02BA),desogestrel / ethinyl estradiol,-0.35,G02BA,G03AA,False,False
-Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / norelgestromin,-0.4129,G02BA,G03AA,False,False
-Birth Control,experience types,levonorgestrel (G02BA),norethindrone,-0.2081,G02BA,G03AC,False,False
-Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / norgestrel,-0.1663,G02BA,G03AA,False,False
-Birth Control,experience types,levonorgestrel (G02BA),drospirenone / ethinyl estradiol / levomefolate,-0.6631,G02BA,G03AA,False,False
-Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / ethynodiol,-0.3285,G02BA,G03AA,False,False
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / norgestimate,0.7775,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / etonogestrel,-0.1722,G03AA,G02BB,False,False
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,copper,-0.1597,G03AA,G02BA,False,False
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,drospirenone / ethinyl estradiol,0.2371,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,medroxyprogesterone,-0.5919,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,desogestrel / ethinyl estradiol,0.5231,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / norelgestromin,-0.286,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,norethindrone,0.5965,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / norgestrel,0.1617,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,drospirenone / ethinyl estradiol / levomefolate,0.4202,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / ethynodiol,-0.1036,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / etonogestrel,-0.2218,G03AA,G02BB,False,False
-Birth Control,experience types,ethinyl estradiol / norgestimate,copper,-0.342,G03AA,G02BA,False,False
-Birth Control,experience types,ethinyl estradiol / norgestimate,drospirenone / ethinyl estradiol,0.3307,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,medroxyprogesterone,-0.3892,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,desogestrel / ethinyl estradiol,0.3794,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / norelgestromin,0.0374,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,norethindrone,0.6775,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / norgestrel,0.2697,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,drospirenone / ethinyl estradiol / levomefolate,0.3696,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / ethynodiol,0.2025,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / etonogestrel,copper,-0.5177,G02BB,G02BA,False,True
-Birth Control,experience types,ethinyl estradiol / etonogestrel,drospirenone / ethinyl estradiol,0.5848,G02BB,G03AA,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,medroxyprogesterone,0.3759,G02BB,G03AC,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,desogestrel / ethinyl estradiol,0.4549,G02BB,G03AA,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,ethinyl estradiol / norelgestromin,0.5908,G02BB,G03AA,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,norethindrone,-0.6567,G02BB,G03AC,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,ethinyl estradiol / norgestrel,-0.7351,G02BB,G03AA,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,drospirenone / ethinyl estradiol / levomefolate,-0.0526,G02BB,G03AA,False,False
-Birth Control,experience types,ethinyl estradiol / etonogestrel,ethinyl estradiol / ethynodiol,-0.5034,G02BB,G03AA,False,False
-Birth Control,experience types,copper,drospirenone / ethinyl estradiol,-0.8064,G02BA,G03AA,False,False
-Birth Control,experience types,copper,medroxyprogesterone,-0.542,G02BA,G03AC,False,False
-Birth Control,experience types,copper,desogestrel / ethinyl estradiol,-0.5634,G02BA,G03AA,False,False
-Birth Control,experience types,copper,ethinyl estradiol / norelgestromin,-0.4097,G02BA,G03AA,False,False
-Birth Control,experience types,copper,norethindrone,0.0745,G02BA,G03AC,False,False
-Birth Control,experience types,copper,ethinyl estradiol / norgestrel,0.334,G02BA,G03AA,False,False
-Birth Control,experience types,copper,drospirenone / ethinyl estradiol / levomefolate,-0.5188,G02BA,G03AA,False,False
-Birth Control,experience types,copper,ethinyl estradiol / ethynodiol,0.0691,G02BA,G03AA,False,False
-Birth Control,experience types,drospirenone / ethinyl estradiol,medroxyprogesterone,0.189,G03AA,G03AC,False,True
-Birth Control,experience types,drospirenone / ethinyl estradiol,desogestrel / ethinyl estradiol,0.451,G03AA,G03AA,True,True
-Birth Control,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / norelgestromin,0.5909,G03AA,G03AA,True,True
-Birth Control,experience types,drospirenone / ethinyl estradiol,norethindrone,-0.135,G03AA,G03AC,False,True
-Birth Control,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / norgestrel,-0.3683,G03AA,G03AA,True,True
-Birth Control,experience types,drospirenone / ethinyl estradiol,drospirenone / ethinyl estradiol / levomefolate,0.5038,G03AA,G03AA,True,True
-Birth Control,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / ethynodiol,-0.0285,G03AA,G03AA,True,True
-Birth Control,experience types,medroxyprogesterone,desogestrel / ethinyl estradiol,0.0547,G03AC,G03AA,False,True
-Birth Control,experience types,medroxyprogesterone,ethinyl estradiol / norelgestromin,0.2235,G03AC,G03AA,False,True
-Birth Control,experience types,medroxyprogesterone,norethindrone,-0.3793,G03AC,G03AC,True,True
-Birth Control,experience types,medroxyprogesterone,ethinyl estradiol / norgestrel,-0.4467,G03AC,G03AA,False,True
-Birth Control,experience types,medroxyprogesterone,drospirenone / ethinyl estradiol / levomefolate,-0.0796,G03AC,G03AA,False,True
-Birth Control,experience types,medroxyprogesterone,ethinyl estradiol / ethynodiol,-0.0841,G03AC,G03AA,False,True
-Birth Control,experience types,desogestrel / ethinyl estradiol,ethinyl estradiol / norelgestromin,-0.1597,G03AA,G03AA,True,True
-Birth Control,experience types,desogestrel / ethinyl estradiol,norethindrone,0.0042,G03AA,G03AC,False,True
-Birth Control,experience types,desogestrel / ethinyl estradiol,ethinyl estradiol / norgestrel,-0.5191,G03AA,G03AA,True,True
-Birth Control,experience types,desogestrel / ethinyl estradiol,drospirenone / ethinyl estradiol / levomefolate,0.1242,G03AA,G03AA,True,True
-Birth Control,experience types,desogestrel / ethinyl estradiol,ethinyl estradiol / ethynodiol,-0.3442,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norelgestromin,norethindrone,-0.4757,G03AA,G03AC,False,True
-Birth Control,experience types,ethinyl estradiol / norelgestromin,ethinyl estradiol / norgestrel,-0.2018,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norelgestromin,drospirenone / ethinyl estradiol / levomefolate,0.0421,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norelgestromin,ethinyl estradiol / ethynodiol,0.1208,G03AA,G03AA,True,True
-Birth Control,experience types,norethindrone,ethinyl estradiol / norgestrel,0.4661,G03AC,G03AA,False,True
-Birth Control,experience types,norethindrone,drospirenone / ethinyl estradiol / levomefolate,0.3793,G03AC,G03AA,False,True
-Birth Control,experience types,norethindrone,ethinyl estradiol / ethynodiol,0.0214,G03AC,G03AA,False,True
-Birth Control,experience types,ethinyl estradiol / norgestrel,drospirenone / ethinyl estradiol / levomefolate,0.2651,G03AA,G03AA,True,True
-Birth Control,experience types,ethinyl estradiol / norgestrel,ethinyl estradiol / ethynodiol,0.5529,G03AA,G03AA,True,True
-Birth Control,experience types,drospirenone / ethinyl estradiol / levomefolate,ethinyl estradiol / ethynodiol,-0.035,G03AA,G03AA,True,True
+Birth Control,experience types,levonorgestrel (G02BA),copper,0.2837,G02BA,G02BA,True,True
+Birth Control,experience types,levonorgestrel (G02BA),drospirenone / ethinyl estradiol,-0.483,G02BA,G03AA,False,False
+Birth Control,experience types,levonorgestrel (G02BA),medroxyprogesterone,0.1788,G02BA,G03AC,False,False
+Birth Control,experience types,levonorgestrel (G02BA),desogestrel / ethinyl estradiol,-0.0339,G02BA,G03AA,False,False
+Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / norelgestromin,-0.345,G02BA,G03AA,False,False
+Birth Control,experience types,levonorgestrel (G02BA),norethindrone,-0.3416,G02BA,G03AC,False,False
+Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / norgestrel,0.239,G02BA,G03AA,False,False
+Birth Control,experience types,levonorgestrel (G02BA),drospirenone / ethinyl estradiol / levomefolate,-0.2859,G02BA,G03AA,False,False
+Birth Control,experience types,levonorgestrel (G02BA),ethinyl estradiol / ethynodiol,-0.3527,G02BA,G03AA,False,False
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / norgestimate,0.4318,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / etonogestrel,-0.5252,G03AA,G02BB,False,False
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,copper,-0.0641,G03AA,G02BA,False,False
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,drospirenone / ethinyl estradiol,-0.3622,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,medroxyprogesterone,-0.3625,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,desogestrel / ethinyl estradiol,0.1955,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / norelgestromin,-0.509,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,norethindrone,0.7747,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / norgestrel,0.5852,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,drospirenone / ethinyl estradiol / levomefolate,-0.3027,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / levonorgestrel,ethinyl estradiol / ethynodiol,-0.3179,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / etonogestrel,-0.3982,G03AA,G02BB,False,False
+Birth Control,experience types,ethinyl estradiol / norgestimate,copper,-0.2928,G03AA,G02BA,False,False
+Birth Control,experience types,ethinyl estradiol / norgestimate,drospirenone / ethinyl estradiol,0.3383,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,medroxyprogesterone,-0.4408,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,desogestrel / ethinyl estradiol,0.2281,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / norelgestromin,-0.2426,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,norethindrone,0.7188,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / norgestrel,0.3874,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,drospirenone / ethinyl estradiol / levomefolate,0.3359,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / ethynodiol,0.0985,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / etonogestrel,copper,0.0313,G02BB,G02BA,False,True
+Birth Control,experience types,ethinyl estradiol / etonogestrel,drospirenone / ethinyl estradiol,0.3096,G02BB,G03AA,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,medroxyprogesterone,0.1783,G02BB,G03AC,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,desogestrel / ethinyl estradiol,0.1762,G02BB,G03AA,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,ethinyl estradiol / norelgestromin,0.5357,G02BB,G03AA,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,norethindrone,-0.594,G02BB,G03AC,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,ethinyl estradiol / norgestrel,-0.8072,G02BB,G03AA,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,drospirenone / ethinyl estradiol / levomefolate,-0.3277,G02BB,G03AA,False,False
+Birth Control,experience types,ethinyl estradiol / etonogestrel,ethinyl estradiol / ethynodiol,-0.1878,G02BB,G03AA,False,False
+Birth Control,experience types,copper,drospirenone / ethinyl estradiol,-0.0025,G02BA,G03AA,False,False
+Birth Control,experience types,copper,medroxyprogesterone,-0.5953,G02BA,G03AC,False,False
+Birth Control,experience types,copper,desogestrel / ethinyl estradiol,-0.3817,G02BA,G03AA,False,False
+Birth Control,experience types,copper,ethinyl estradiol / norelgestromin,-0.0835,G02BA,G03AA,False,False
+Birth Control,experience types,copper,norethindrone,-0.1619,G02BA,G03AC,False,False
+Birth Control,experience types,copper,ethinyl estradiol / norgestrel,0.2793,G02BA,G03AA,False,False
+Birth Control,experience types,copper,drospirenone / ethinyl estradiol / levomefolate,-0.0711,G02BA,G03AA,False,False
+Birth Control,experience types,copper,ethinyl estradiol / ethynodiol,0.0979,G02BA,G03AA,False,False
+Birth Control,experience types,drospirenone / ethinyl estradiol,medroxyprogesterone,-0.1643,G03AA,G03AC,False,True
+Birth Control,experience types,drospirenone / ethinyl estradiol,desogestrel / ethinyl estradiol,0.4485,G03AA,G03AA,True,True
+Birth Control,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / norelgestromin,0.21,G03AA,G03AA,True,True
+Birth Control,experience types,drospirenone / ethinyl estradiol,norethindrone,-0.3235,G03AA,G03AC,False,True
+Birth Control,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / norgestrel,-0.1926,G03AA,G03AA,True,True
+Birth Control,experience types,drospirenone / ethinyl estradiol,drospirenone / ethinyl estradiol / levomefolate,0.3481,G03AA,G03AA,True,True
+Birth Control,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / ethynodiol,-0.2681,G03AA,G03AA,True,True
+Birth Control,experience types,medroxyprogesterone,desogestrel / ethinyl estradiol,0.1679,G03AC,G03AA,False,True
+Birth Control,experience types,medroxyprogesterone,ethinyl estradiol / norelgestromin,0.1495,G03AC,G03AA,False,True
+Birth Control,experience types,medroxyprogesterone,norethindrone,-0.4607,G03AC,G03AC,True,True
+Birth Control,experience types,medroxyprogesterone,ethinyl estradiol / norgestrel,-0.5267,G03AC,G03AA,False,True
+Birth Control,experience types,medroxyprogesterone,drospirenone / ethinyl estradiol / levomefolate,-0.1702,G03AC,G03AA,False,True
+Birth Control,experience types,medroxyprogesterone,ethinyl estradiol / ethynodiol,-0.0823,G03AC,G03AA,False,True
+Birth Control,experience types,desogestrel / ethinyl estradiol,ethinyl estradiol / norelgestromin,-0.4172,G03AA,G03AA,True,True
+Birth Control,experience types,desogestrel / ethinyl estradiol,norethindrone,-0.0268,G03AA,G03AC,False,True
+Birth Control,experience types,desogestrel / ethinyl estradiol,ethinyl estradiol / norgestrel,-0.1812,G03AA,G03AA,True,True
+Birth Control,experience types,desogestrel / ethinyl estradiol,drospirenone / ethinyl estradiol / levomefolate,-0.1154,G03AA,G03AA,True,True
+Birth Control,experience types,desogestrel / ethinyl estradiol,ethinyl estradiol / ethynodiol,-0.5299,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norelgestromin,norethindrone,-0.4277,G03AA,G03AC,False,True
+Birth Control,experience types,ethinyl estradiol / norelgestromin,ethinyl estradiol / norgestrel,-0.59,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norelgestromin,drospirenone / ethinyl estradiol / levomefolate,0.0836,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norelgestromin,ethinyl estradiol / ethynodiol,0.0276,G03AA,G03AA,True,True
+Birth Control,experience types,norethindrone,ethinyl estradiol / norgestrel,0.5438,G03AC,G03AA,False,True
+Birth Control,experience types,norethindrone,drospirenone / ethinyl estradiol / levomefolate,0.0523,G03AC,G03AA,False,True
+Birth Control,experience types,norethindrone,ethinyl estradiol / ethynodiol,0.2265,G03AC,G03AA,False,True
+Birth Control,experience types,ethinyl estradiol / norgestrel,drospirenone / ethinyl estradiol / levomefolate,0.2551,G03AA,G03AA,True,True
+Birth Control,experience types,ethinyl estradiol / norgestrel,ethinyl estradiol / ethynodiol,-0.0152,G03AA,G03AA,True,True
+Birth Control,experience types,drospirenone / ethinyl estradiol / levomefolate,ethinyl estradiol / ethynodiol,0.2153,G03AA,G03AA,True,True
 Depression,side effects,bupropion,sertraline,0.4139,N06AX,N06AB,False,True
 Depression,side effects,bupropion,desvenlafaxine,0.3905,N06AX,N06AX,True,True
 Depression,side effects,bupropion,venlafaxine,-0.1076,N06AX,N06AX,True,True
@@ -1247,282 +1247,282 @@ Depression,side effects (composition),olanzapine,amitriptyline,-0.1529,N05AH,N06
 Depression,side effects (composition),tranylcypromine,St. John's wort extract,0.1596,N06AF,N06AX,False,True
 Depression,side effects (composition),tranylcypromine,amitriptyline,0.2228,N06AF,N06AA,False,True
 Depression,side effects (composition),St. John's wort extract,amitriptyline,-0.0746,N06AX,N06AA,False,True
-Depression,experience types,bupropion,sertraline,0.6272,N06AX,N06AB,False,True
-Depression,experience types,bupropion,desvenlafaxine,0.4811,N06AX,N06AX,True,True
-Depression,experience types,bupropion,venlafaxine,0.3654,N06AX,N06AX,True,True
-Depression,experience types,bupropion,escitalopram,0.4966,N06AX,N06AB,False,True
-Depression,experience types,bupropion,citalopram,0.6053,N06AX,N06AB,False,True
-Depression,experience types,bupropion,vortioxetine,0.165,N06AX,N06AX,True,True
-Depression,experience types,bupropion,duloxetine,0.1421,N06AX,N06AX,True,True
-Depression,experience types,bupropion,vilazodone,0.2439,N06AX,N06AX,True,True
-Depression,experience types,bupropion,fluoxetine,0.4912,N06AX,N06AB,False,True
-Depression,experience types,bupropion,mirtazapine,-0.171,N06AX,N06AX,True,True
-Depression,experience types,bupropion,aripiprazole,-0.1688,N06AX,N05AX,False,False
-Depression,experience types,bupropion,paroxetine,0.0209,N06AX,N06AB,False,True
-Depression,experience types,bupropion,quetiapine,-0.3856,N06AX,N05AH,False,False
-Depression,experience types,bupropion,alprazolam,-0.3598,N06AX,N05BA,False,False
-Depression,experience types,bupropion,levomefolate,-0.0111,N06AX,A11JA,False,False
-Depression,experience types,bupropion,tramadol,-0.1568,N06AX,N02AX,False,False
-Depression,experience types,bupropion,trazodone,-0.3832,N06AX,N06AX,True,True
-Depression,experience types,bupropion,lamotrigine,-0.2288,N06AX,N03AX,False,False
-Depression,experience types,bupropion,levomilnacipran,0.0953,N06AX,N06AX,True,True
-Depression,experience types,bupropion,olanzapine,-0.1375,N06AX,N05AH,False,False
-Depression,experience types,bupropion,tranylcypromine,-0.3732,N06AX,N06AF,False,True
-Depression,experience types,bupropion,St. John's wort extract,-0.0516,N06AX,N06AX,True,True
-Depression,experience types,bupropion,amitriptyline,-0.2168,N06AX,N06AA,False,True
-Depression,experience types,sertraline,desvenlafaxine,0.7191,N06AB,N06AX,False,True
-Depression,experience types,sertraline,venlafaxine,0.3351,N06AB,N06AX,False,True
-Depression,experience types,sertraline,escitalopram,0.1781,N06AB,N06AB,True,True
-Depression,experience types,sertraline,citalopram,0.2227,N06AB,N06AB,True,True
-Depression,experience types,sertraline,vortioxetine,-0.0187,N06AB,N06AX,False,True
-Depression,experience types,sertraline,duloxetine,-0.0352,N06AB,N06AX,False,True
-Depression,experience types,sertraline,vilazodone,0.0346,N06AB,N06AX,False,True
-Depression,experience types,sertraline,fluoxetine,0.1315,N06AB,N06AB,True,True
-Depression,experience types,sertraline,mirtazapine,-0.2573,N06AB,N06AX,False,True
-Depression,experience types,sertraline,aripiprazole,-0.2323,N06AB,N05AX,False,False
-Depression,experience types,sertraline,paroxetine,-0.1966,N06AB,N06AB,True,True
-Depression,experience types,sertraline,quetiapine,-0.1888,N06AB,N05AH,False,False
-Depression,experience types,sertraline,alprazolam,-0.3573,N06AB,N05BA,False,False
-Depression,experience types,sertraline,levomefolate,0.2258,N06AB,A11JA,False,False
-Depression,experience types,sertraline,tramadol,0.1903,N06AB,N02AX,False,False
-Depression,experience types,sertraline,trazodone,-0.1892,N06AB,N06AX,False,True
-Depression,experience types,sertraline,lamotrigine,-0.0301,N06AB,N03AX,False,False
-Depression,experience types,sertraline,levomilnacipran,0.1295,N06AB,N06AX,False,True
-Depression,experience types,sertraline,olanzapine,-0.2147,N06AB,N05AH,False,False
-Depression,experience types,sertraline,tranylcypromine,-0.2574,N06AB,N06AF,False,True
-Depression,experience types,sertraline,St. John's wort extract,-0.299,N06AB,N06AX,False,True
-Depression,experience types,sertraline,amitriptyline,0.0124,N06AB,N06AA,False,True
-Depression,experience types,desvenlafaxine,venlafaxine,0.2375,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,escitalopram,-0.0091,N06AX,N06AB,False,True
-Depression,experience types,desvenlafaxine,citalopram,0.0048,N06AX,N06AB,False,True
-Depression,experience types,desvenlafaxine,vortioxetine,-0.0024,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,duloxetine,-0.007,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,vilazodone,0.0619,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,fluoxetine,-0.3068,N06AX,N06AB,False,True
-Depression,experience types,desvenlafaxine,mirtazapine,-0.0853,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,aripiprazole,-0.3906,N06AX,N05AX,False,False
-Depression,experience types,desvenlafaxine,paroxetine,-0.4,N06AX,N06AB,False,True
-Depression,experience types,desvenlafaxine,quetiapine,0.0393,N06AX,N05AH,False,False
-Depression,experience types,desvenlafaxine,alprazolam,-0.2055,N06AX,N05BA,False,False
-Depression,experience types,desvenlafaxine,levomefolate,-0.0374,N06AX,A11JA,False,False
-Depression,experience types,desvenlafaxine,tramadol,-0.0799,N06AX,N02AX,False,False
-Depression,experience types,desvenlafaxine,trazodone,0.0961,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,lamotrigine,-0.1902,N06AX,N03AX,False,False
-Depression,experience types,desvenlafaxine,levomilnacipran,0.4334,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,olanzapine,-0.0772,N06AX,N05AH,False,False
-Depression,experience types,desvenlafaxine,tranylcypromine,-0.3865,N06AX,N06AF,False,True
-Depression,experience types,desvenlafaxine,St. John's wort extract,-0.3977,N06AX,N06AX,True,True
-Depression,experience types,desvenlafaxine,amitriptyline,0.2674,N06AX,N06AA,False,True
-Depression,experience types,venlafaxine,escitalopram,0.0755,N06AX,N06AB,False,True
-Depression,experience types,venlafaxine,citalopram,0.1102,N06AX,N06AB,False,True
-Depression,experience types,venlafaxine,vortioxetine,0.3943,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,duloxetine,0.5573,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,vilazodone,0.1116,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,fluoxetine,0.1164,N06AX,N06AB,False,True
-Depression,experience types,venlafaxine,mirtazapine,-0.5107,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,aripiprazole,-0.1784,N06AX,N05AX,False,False
-Depression,experience types,venlafaxine,paroxetine,-0.1096,N06AX,N06AB,False,True
-Depression,experience types,venlafaxine,quetiapine,-0.5214,N06AX,N05AH,False,False
-Depression,experience types,venlafaxine,alprazolam,-0.0692,N06AX,N05BA,False,False
-Depression,experience types,venlafaxine,levomefolate,0.1434,N06AX,A11JA,False,False
-Depression,experience types,venlafaxine,tramadol,0.2165,N06AX,N02AX,False,False
-Depression,experience types,venlafaxine,trazodone,-0.4138,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,lamotrigine,0.0215,N06AX,N03AX,False,False
-Depression,experience types,venlafaxine,levomilnacipran,0.3381,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,olanzapine,-0.4354,N06AX,N05AH,False,False
-Depression,experience types,venlafaxine,tranylcypromine,0.1073,N06AX,N06AF,False,True
-Depression,experience types,venlafaxine,St. John's wort extract,0.0853,N06AX,N06AX,True,True
-Depression,experience types,venlafaxine,amitriptyline,-0.1974,N06AX,N06AA,False,True
-Depression,experience types,escitalopram,citalopram,0.8381,N06AB,N06AB,True,True
-Depression,experience types,escitalopram,vortioxetine,0.5036,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,duloxetine,-0.0765,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,vilazodone,0.6828,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,fluoxetine,0.7282,N06AB,N06AB,True,True
-Depression,experience types,escitalopram,mirtazapine,-0.2227,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,aripiprazole,0.07,N06AB,N05AX,False,False
-Depression,experience types,escitalopram,paroxetine,0.4826,N06AB,N06AB,True,True
-Depression,experience types,escitalopram,quetiapine,-0.3738,N06AB,N05AH,False,False
-Depression,experience types,escitalopram,alprazolam,-0.2254,N06AB,N05BA,False,False
-Depression,experience types,escitalopram,levomefolate,-0.0564,N06AB,A11JA,False,False
-Depression,experience types,escitalopram,tramadol,-0.2932,N06AB,N02AX,False,False
-Depression,experience types,escitalopram,trazodone,-0.5299,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,lamotrigine,-0.3558,N06AB,N03AX,False,False
-Depression,experience types,escitalopram,levomilnacipran,-0.3238,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,olanzapine,0.0328,N06AB,N05AH,False,False
-Depression,experience types,escitalopram,tranylcypromine,-0.2307,N06AB,N06AF,False,True
-Depression,experience types,escitalopram,St. John's wort extract,-0.1239,N06AB,N06AX,False,True
-Depression,experience types,escitalopram,amitriptyline,-0.424,N06AB,N06AA,False,True
-Depression,experience types,citalopram,vortioxetine,0.4371,N06AB,N06AX,False,True
-Depression,experience types,citalopram,duloxetine,-0.1521,N06AB,N06AX,False,True
-Depression,experience types,citalopram,vilazodone,0.5111,N06AB,N06AX,False,True
-Depression,experience types,citalopram,fluoxetine,0.7928,N06AB,N06AB,True,True
-Depression,experience types,citalopram,mirtazapine,-0.2303,N06AB,N06AX,False,True
-Depression,experience types,citalopram,aripiprazole,-0.1247,N06AB,N05AX,False,False
-Depression,experience types,citalopram,paroxetine,0.2695,N06AB,N06AB,True,True
-Depression,experience types,citalopram,quetiapine,-0.5255,N06AB,N05AH,False,False
-Depression,experience types,citalopram,alprazolam,-0.3577,N06AB,N05BA,False,False
-Depression,experience types,citalopram,levomefolate,0.1733,N06AB,A11JA,False,False
-Depression,experience types,citalopram,tramadol,-0.1389,N06AB,N02AX,False,False
-Depression,experience types,citalopram,trazodone,-0.4596,N06AB,N06AX,False,True
-Depression,experience types,citalopram,lamotrigine,-0.2969,N06AB,N03AX,False,False
-Depression,experience types,citalopram,levomilnacipran,-0.1905,N06AB,N06AX,False,True
-Depression,experience types,citalopram,olanzapine,-0.1904,N06AB,N05AH,False,False
-Depression,experience types,citalopram,tranylcypromine,-0.1317,N06AB,N06AF,False,True
-Depression,experience types,citalopram,St. John's wort extract,-0.1344,N06AB,N06AX,False,True
-Depression,experience types,citalopram,amitriptyline,-0.2089,N06AB,N06AA,False,True
-Depression,experience types,vortioxetine,duloxetine,0.0721,N06AX,N06AX,True,True
-Depression,experience types,vortioxetine,vilazodone,0.6508,N06AX,N06AX,True,True
-Depression,experience types,vortioxetine,fluoxetine,0.2056,N06AX,N06AB,False,True
-Depression,experience types,vortioxetine,mirtazapine,-0.1772,N06AX,N06AX,True,True
-Depression,experience types,vortioxetine,aripiprazole,-0.0942,N06AX,N05AX,False,False
-Depression,experience types,vortioxetine,paroxetine,0.047,N06AX,N06AB,False,True
-Depression,experience types,vortioxetine,quetiapine,-0.2548,N06AX,N05AH,False,False
-Depression,experience types,vortioxetine,alprazolam,-0.2118,N06AX,N05BA,False,False
-Depression,experience types,vortioxetine,levomefolate,-0.2358,N06AX,A11JA,False,False
-Depression,experience types,vortioxetine,tramadol,-0.298,N06AX,N02AX,False,False
-Depression,experience types,vortioxetine,trazodone,-0.2321,N06AX,N06AX,True,True
-Depression,experience types,vortioxetine,lamotrigine,-0.2366,N06AX,N03AX,False,False
-Depression,experience types,vortioxetine,levomilnacipran,0.2071,N06AX,N06AX,True,True
-Depression,experience types,vortioxetine,olanzapine,-0.1524,N06AX,N05AH,False,False
-Depression,experience types,vortioxetine,tranylcypromine,-0.3321,N06AX,N06AF,False,True
-Depression,experience types,vortioxetine,St. John's wort extract,-0.1406,N06AX,N06AX,True,True
-Depression,experience types,vortioxetine,amitriptyline,-0.3318,N06AX,N06AA,False,True
-Depression,experience types,duloxetine,vilazodone,0.0445,N06AX,N06AX,True,True
-Depression,experience types,duloxetine,fluoxetine,0.0325,N06AX,N06AB,False,True
-Depression,experience types,duloxetine,mirtazapine,-0.2681,N06AX,N06AX,True,True
-Depression,experience types,duloxetine,aripiprazole,-0.0156,N06AX,N05AX,False,False
-Depression,experience types,duloxetine,paroxetine,-0.0685,N06AX,N06AB,False,True
-Depression,experience types,duloxetine,quetiapine,-0.2424,N06AX,N05AH,False,False
-Depression,experience types,duloxetine,alprazolam,0.0287,N06AX,N05BA,False,False
-Depression,experience types,duloxetine,levomefolate,-0.1051,N06AX,A11JA,False,False
-Depression,experience types,duloxetine,tramadol,-0.0465,N06AX,N02AX,False,False
-Depression,experience types,duloxetine,trazodone,-0.1739,N06AX,N06AX,True,True
-Depression,experience types,duloxetine,lamotrigine,0.1198,N06AX,N03AX,False,False
-Depression,experience types,duloxetine,levomilnacipran,0.0888,N06AX,N06AX,True,True
-Depression,experience types,duloxetine,olanzapine,-0.2035,N06AX,N05AH,False,False
-Depression,experience types,duloxetine,tranylcypromine,0.0758,N06AX,N06AF,False,True
-Depression,experience types,duloxetine,St. John's wort extract,0.4133,N06AX,N06AX,True,True
-Depression,experience types,duloxetine,amitriptyline,-0.2484,N06AX,N06AA,False,True
-Depression,experience types,vilazodone,fluoxetine,0.2147,N06AX,N06AB,False,True
-Depression,experience types,vilazodone,mirtazapine,-0.2598,N06AX,N06AX,True,True
-Depression,experience types,vilazodone,aripiprazole,-0.1861,N06AX,N05AX,False,False
-Depression,experience types,vilazodone,paroxetine,0.1487,N06AX,N06AB,False,True
-Depression,experience types,vilazodone,quetiapine,-0.194,N06AX,N05AH,False,False
-Depression,experience types,vilazodone,alprazolam,-0.004,N06AX,N05BA,False,False
-Depression,experience types,vilazodone,levomefolate,-0.3513,N06AX,A11JA,False,False
-Depression,experience types,vilazodone,tramadol,-0.3596,N06AX,N02AX,False,False
-Depression,experience types,vilazodone,trazodone,-0.1817,N06AX,N06AX,True,True
-Depression,experience types,vilazodone,lamotrigine,-0.4278,N06AX,N03AX,False,False
-Depression,experience types,vilazodone,levomilnacipran,-0.093,N06AX,N06AX,True,True
-Depression,experience types,vilazodone,olanzapine,-0.0109,N06AX,N05AH,False,False
-Depression,experience types,vilazodone,tranylcypromine,-0.2859,N06AX,N06AF,False,True
-Depression,experience types,vilazodone,St. John's wort extract,-0.0696,N06AX,N06AX,True,True
-Depression,experience types,vilazodone,amitriptyline,-0.3232,N06AX,N06AA,False,True
-Depression,experience types,fluoxetine,mirtazapine,-0.1669,N06AB,N06AX,False,True
-Depression,experience types,fluoxetine,aripiprazole,0.0332,N06AB,N05AX,False,False
-Depression,experience types,fluoxetine,paroxetine,0.3881,N06AB,N06AB,True,True
-Depression,experience types,fluoxetine,quetiapine,-0.5128,N06AB,N05AH,False,False
-Depression,experience types,fluoxetine,alprazolam,-0.2061,N06AB,N05BA,False,False
-Depression,experience types,fluoxetine,levomefolate,0.2665,N06AB,A11JA,False,False
-Depression,experience types,fluoxetine,tramadol,0.033,N06AB,N02AX,False,False
-Depression,experience types,fluoxetine,trazodone,-0.5308,N06AB,N06AX,False,True
-Depression,experience types,fluoxetine,lamotrigine,-0.1644,N06AB,N03AX,False,False
-Depression,experience types,fluoxetine,levomilnacipran,-0.3254,N06AB,N06AX,False,True
-Depression,experience types,fluoxetine,olanzapine,-0.298,N06AB,N05AH,False,False
-Depression,experience types,fluoxetine,tranylcypromine,0.0289,N06AB,N06AF,False,True
-Depression,experience types,fluoxetine,St. John's wort extract,0.1247,N06AB,N06AX,False,True
-Depression,experience types,fluoxetine,amitriptyline,-0.4333,N06AB,N06AA,False,True
-Depression,experience types,mirtazapine,aripiprazole,0.0639,N06AX,N05AX,False,False
-Depression,experience types,mirtazapine,paroxetine,-0.279,N06AX,N06AB,False,True
-Depression,experience types,mirtazapine,quetiapine,0.8581,N06AX,N05AH,False,False
-Depression,experience types,mirtazapine,alprazolam,-0.2264,N06AX,N05BA,False,False
-Depression,experience types,mirtazapine,levomefolate,-0.317,N06AX,A11JA,False,False
-Depression,experience types,mirtazapine,tramadol,-0.5966,N06AX,N02AX,False,False
-Depression,experience types,mirtazapine,trazodone,0.751,N06AX,N06AX,True,True
-Depression,experience types,mirtazapine,lamotrigine,-0.3754,N06AX,N03AX,False,False
-Depression,experience types,mirtazapine,levomilnacipran,-0.1827,N06AX,N06AX,True,True
-Depression,experience types,mirtazapine,olanzapine,0.3526,N06AX,N05AH,False,False
-Depression,experience types,mirtazapine,tranylcypromine,-0.4418,N06AX,N06AF,False,True
-Depression,experience types,mirtazapine,St. John's wort extract,-0.416,N06AX,N06AX,True,True
-Depression,experience types,mirtazapine,amitriptyline,0.1549,N06AX,N06AA,False,True
-Depression,experience types,aripiprazole,paroxetine,0.4335,N05AX,N06AB,False,False
-Depression,experience types,aripiprazole,quetiapine,0.0351,N05AX,N05AH,False,True
-Depression,experience types,aripiprazole,alprazolam,-0.1485,N05AX,N05BA,False,False
-Depression,experience types,aripiprazole,levomefolate,-0.0036,N05AX,A11JA,False,False
-Depression,experience types,aripiprazole,tramadol,-0.0654,N05AX,N02AX,False,False
-Depression,experience types,aripiprazole,trazodone,-0.3363,N05AX,N06AX,False,False
-Depression,experience types,aripiprazole,lamotrigine,0.2118,N05AX,N03AX,False,False
-Depression,experience types,aripiprazole,levomilnacipran,-0.3294,N05AX,N06AX,False,False
-Depression,experience types,aripiprazole,olanzapine,0.6627,N05AX,N05AH,False,True
-Depression,experience types,aripiprazole,tranylcypromine,0.1501,N05AX,N06AF,False,False
-Depression,experience types,aripiprazole,St. John's wort extract,0.146,N05AX,N06AX,False,False
-Depression,experience types,aripiprazole,amitriptyline,-0.4056,N05AX,N06AA,False,False
-Depression,experience types,paroxetine,quetiapine,-0.3044,N06AB,N05AH,False,False
-Depression,experience types,paroxetine,alprazolam,-0.0356,N06AB,N05BA,False,False
-Depression,experience types,paroxetine,levomefolate,0.1729,N06AB,A11JA,False,False
-Depression,experience types,paroxetine,tramadol,0.1208,N06AB,N02AX,False,False
-Depression,experience types,paroxetine,trazodone,-0.5942,N06AB,N06AX,False,True
-Depression,experience types,paroxetine,lamotrigine,-0.0293,N06AB,N03AX,False,False
-Depression,experience types,paroxetine,levomilnacipran,-0.434,N06AB,N06AX,False,True
-Depression,experience types,paroxetine,olanzapine,0.2406,N06AB,N05AH,False,False
-Depression,experience types,paroxetine,tranylcypromine,0.3227,N06AB,N06AF,False,True
-Depression,experience types,paroxetine,St. John's wort extract,0.1628,N06AB,N06AX,False,True
-Depression,experience types,paroxetine,amitriptyline,-0.2507,N06AB,N06AA,False,True
-Depression,experience types,quetiapine,alprazolam,-0.0542,N05AH,N05BA,False,False
-Depression,experience types,quetiapine,levomefolate,-0.4255,N05AH,A11JA,False,False
-Depression,experience types,quetiapine,tramadol,-0.4825,N05AH,N02AX,False,False
-Depression,experience types,quetiapine,trazodone,0.8121,N05AH,N06AX,False,False
-Depression,experience types,quetiapine,lamotrigine,-0.2391,N05AH,N03AX,False,False
-Depression,experience types,quetiapine,levomilnacipran,-0.2056,N05AH,N06AX,False,False
-Depression,experience types,quetiapine,olanzapine,0.4703,N05AH,N05AH,True,True
-Depression,experience types,quetiapine,tranylcypromine,-0.442,N05AH,N06AF,False,False
-Depression,experience types,quetiapine,St. John's wort extract,-0.4364,N05AH,N06AX,False,False
-Depression,experience types,quetiapine,amitriptyline,0.3171,N05AH,N06AA,False,False
-Depression,experience types,alprazolam,levomefolate,-0.2756,N05BA,A11JA,False,False
-Depression,experience types,alprazolam,tramadol,0.1278,N05BA,N02AX,False,False
-Depression,experience types,alprazolam,trazodone,0.0069,N05BA,N06AX,False,False
-Depression,experience types,alprazolam,lamotrigine,0.1441,N05BA,N03AX,False,False
-Depression,experience types,alprazolam,levomilnacipran,-0.0892,N05BA,N06AX,False,False
-Depression,experience types,alprazolam,olanzapine,-0.1961,N05BA,N05AH,False,False
-Depression,experience types,alprazolam,tranylcypromine,0.149,N05BA,N06AF,False,False
-Depression,experience types,alprazolam,St. John's wort extract,0.6772,N05BA,N06AX,False,False
-Depression,experience types,alprazolam,amitriptyline,-0.041,N05BA,N06AA,False,False
-Depression,experience types,levomefolate,tramadol,0.5764,A11JA,N02AX,False,False
-Depression,experience types,levomefolate,trazodone,-0.2587,A11JA,N06AX,False,False
-Depression,experience types,levomefolate,lamotrigine,-0.0112,A11JA,N03AX,False,False
-Depression,experience types,levomefolate,levomilnacipran,0.0755,A11JA,N06AX,False,False
-Depression,experience types,levomefolate,olanzapine,-0.3268,A11JA,N05AH,False,False
-Depression,experience types,levomefolate,tranylcypromine,0.6337,A11JA,N06AF,False,False
-Depression,experience types,levomefolate,St. John's wort extract,-0.1734,A11JA,N06AX,False,False
-Depression,experience types,levomefolate,amitriptyline,-0.0277,A11JA,N06AA,False,False
-Depression,experience types,tramadol,trazodone,-0.3756,N02AX,N06AX,False,False
-Depression,experience types,tramadol,lamotrigine,0.5439,N02AX,N03AX,False,False
-Depression,experience types,tramadol,levomilnacipran,0.1499,N02AX,N06AX,False,False
-Depression,experience types,tramadol,olanzapine,-0.3669,N02AX,N05AH,False,False
-Depression,experience types,tramadol,tranylcypromine,0.5843,N02AX,N06AF,False,False
-Depression,experience types,tramadol,St. John's wort extract,0.2082,N02AX,N06AX,False,False
-Depression,experience types,tramadol,amitriptyline,0.1631,N02AX,N06AA,False,False
-Depression,experience types,trazodone,lamotrigine,-0.2613,N06AX,N03AX,False,False
-Depression,experience types,trazodone,levomilnacipran,0.0097,N06AX,N06AX,True,True
-Depression,experience types,trazodone,olanzapine,0.0449,N06AX,N05AH,False,False
-Depression,experience types,trazodone,tranylcypromine,-0.3067,N06AX,N06AF,False,True
-Depression,experience types,trazodone,St. John's wort extract,-0.3494,N06AX,N06AX,True,True
-Depression,experience types,trazodone,amitriptyline,0.3835,N06AX,N06AA,False,True
-Depression,experience types,lamotrigine,levomilnacipran,0.1152,N03AX,N06AX,False,False
-Depression,experience types,lamotrigine,olanzapine,0.0486,N03AX,N05AH,False,False
-Depression,experience types,lamotrigine,tranylcypromine,0.266,N03AX,N06AF,False,False
-Depression,experience types,lamotrigine,St. John's wort extract,0.4088,N03AX,N06AX,False,False
-Depression,experience types,lamotrigine,amitriptyline,0.1877,N03AX,N06AA,False,False
-Depression,experience types,levomilnacipran,olanzapine,-0.3484,N06AX,N05AH,False,False
-Depression,experience types,levomilnacipran,tranylcypromine,0.1486,N06AX,N06AF,False,True
-Depression,experience types,levomilnacipran,St. John's wort extract,-0.131,N06AX,N06AX,True,True
-Depression,experience types,levomilnacipran,amitriptyline,0.111,N06AX,N06AA,False,True
-Depression,experience types,olanzapine,tranylcypromine,-0.2744,N05AH,N06AF,False,False
-Depression,experience types,olanzapine,St. John's wort extract,-0.1941,N05AH,N06AX,False,False
-Depression,experience types,olanzapine,amitriptyline,0.0302,N05AH,N06AA,False,False
-Depression,experience types,tranylcypromine,St. John's wort extract,0.2293,N06AF,N06AX,False,True
-Depression,experience types,tranylcypromine,amitriptyline,-0.0347,N06AF,N06AA,False,True
-Depression,experience types,St. John's wort extract,amitriptyline,-0.3271,N06AX,N06AA,False,True
+Depression,experience types,bupropion,sertraline,0.6176,N06AX,N06AB,False,True
+Depression,experience types,bupropion,desvenlafaxine,0.5369,N06AX,N06AX,True,True
+Depression,experience types,bupropion,venlafaxine,0.5779,N06AX,N06AX,True,True
+Depression,experience types,bupropion,escitalopram,0.5159,N06AX,N06AB,False,True
+Depression,experience types,bupropion,citalopram,0.4518,N06AX,N06AB,False,True
+Depression,experience types,bupropion,vortioxetine,0.3251,N06AX,N06AX,True,True
+Depression,experience types,bupropion,duloxetine,0.1225,N06AX,N06AX,True,True
+Depression,experience types,bupropion,vilazodone,0.1846,N06AX,N06AX,True,True
+Depression,experience types,bupropion,fluoxetine,0.4679,N06AX,N06AB,False,True
+Depression,experience types,bupropion,mirtazapine,-0.2792,N06AX,N06AX,True,True
+Depression,experience types,bupropion,aripiprazole,-0.3308,N06AX,N05AX,False,False
+Depression,experience types,bupropion,paroxetine,0.1464,N06AX,N06AB,False,True
+Depression,experience types,bupropion,quetiapine,-0.3875,N06AX,N05AH,False,False
+Depression,experience types,bupropion,alprazolam,-0.1882,N06AX,N05BA,False,False
+Depression,experience types,bupropion,levomefolate,-0.1026,N06AX,A11JA,False,False
+Depression,experience types,bupropion,tramadol,-0.1247,N06AX,N02AX,False,False
+Depression,experience types,bupropion,trazodone,-0.2178,N06AX,N06AX,True,True
+Depression,experience types,bupropion,lamotrigine,0.1427,N06AX,N03AX,False,False
+Depression,experience types,bupropion,levomilnacipran,0.0128,N06AX,N06AX,True,True
+Depression,experience types,bupropion,olanzapine,-0.2949,N06AX,N05AH,False,False
+Depression,experience types,bupropion,tranylcypromine,-0.3012,N06AX,N06AF,False,True
+Depression,experience types,bupropion,St. John's wort extract,0.0057,N06AX,N06AX,True,True
+Depression,experience types,bupropion,amitriptyline,-0.3391,N06AX,N06AA,False,True
+Depression,experience types,sertraline,desvenlafaxine,0.1464,N06AB,N06AX,False,True
+Depression,experience types,sertraline,venlafaxine,0.5221,N06AB,N06AX,False,True
+Depression,experience types,sertraline,escitalopram,0.8099,N06AB,N06AB,True,True
+Depression,experience types,sertraline,citalopram,0.8357,N06AB,N06AB,True,True
+Depression,experience types,sertraline,vortioxetine,0.3508,N06AB,N06AX,False,True
+Depression,experience types,sertraline,duloxetine,0.2282,N06AB,N06AX,False,True
+Depression,experience types,sertraline,vilazodone,0.4634,N06AB,N06AX,False,True
+Depression,experience types,sertraline,fluoxetine,0.693,N06AB,N06AB,True,True
+Depression,experience types,sertraline,mirtazapine,-0.5622,N06AB,N06AX,False,True
+Depression,experience types,sertraline,aripiprazole,-0.2515,N06AB,N05AX,False,False
+Depression,experience types,sertraline,paroxetine,0.1924,N06AB,N06AB,True,True
+Depression,experience types,sertraline,quetiapine,-0.6133,N06AB,N05AH,False,False
+Depression,experience types,sertraline,alprazolam,-0.2969,N06AB,N05BA,False,False
+Depression,experience types,sertraline,levomefolate,0.356,N06AB,A11JA,False,False
+Depression,experience types,sertraline,tramadol,0.0968,N06AB,N02AX,False,False
+Depression,experience types,sertraline,trazodone,-0.5015,N06AB,N06AX,False,True
+Depression,experience types,sertraline,lamotrigine,0.1482,N06AB,N03AX,False,False
+Depression,experience types,sertraline,levomilnacipran,0.0608,N06AB,N06AX,False,True
+Depression,experience types,sertraline,olanzapine,-0.45,N06AB,N05AH,False,False
+Depression,experience types,sertraline,tranylcypromine,-0.1786,N06AB,N06AF,False,True
+Depression,experience types,sertraline,St. John's wort extract,-0.0195,N06AB,N06AX,False,True
+Depression,experience types,sertraline,amitriptyline,-0.2157,N06AB,N06AA,False,True
+Depression,experience types,desvenlafaxine,venlafaxine,0.0684,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,escitalopram,0.1828,N06AX,N06AB,False,True
+Depression,experience types,desvenlafaxine,citalopram,0.1035,N06AX,N06AB,False,True
+Depression,experience types,desvenlafaxine,vortioxetine,0.0298,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,duloxetine,-0.2621,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,vilazodone,0.0243,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,fluoxetine,-0.1043,N06AX,N06AB,False,True
+Depression,experience types,desvenlafaxine,mirtazapine,-0.0425,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,aripiprazole,-0.4201,N06AX,N05AX,False,False
+Depression,experience types,desvenlafaxine,paroxetine,-0.0927,N06AX,N06AB,False,True
+Depression,experience types,desvenlafaxine,quetiapine,-0.1604,N06AX,N05AH,False,False
+Depression,experience types,desvenlafaxine,alprazolam,-0.0921,N06AX,N05BA,False,False
+Depression,experience types,desvenlafaxine,levomefolate,-0.215,N06AX,A11JA,False,False
+Depression,experience types,desvenlafaxine,tramadol,-0.1388,N06AX,N02AX,False,False
+Depression,experience types,desvenlafaxine,trazodone,0.0346,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,lamotrigine,0.3752,N06AX,N03AX,False,False
+Depression,experience types,desvenlafaxine,levomilnacipran,0.2184,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,olanzapine,-0.1953,N06AX,N05AH,False,False
+Depression,experience types,desvenlafaxine,tranylcypromine,-0.0083,N06AX,N06AF,False,True
+Depression,experience types,desvenlafaxine,St. John's wort extract,-0.1013,N06AX,N06AX,True,True
+Depression,experience types,desvenlafaxine,amitriptyline,-0.1223,N06AX,N06AA,False,True
+Depression,experience types,venlafaxine,escitalopram,0.3493,N06AX,N06AB,False,True
+Depression,experience types,venlafaxine,citalopram,0.2935,N06AX,N06AB,False,True
+Depression,experience types,venlafaxine,vortioxetine,0.1837,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,duloxetine,0.5504,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,vilazodone,0.203,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,fluoxetine,0.3303,N06AX,N06AB,False,True
+Depression,experience types,venlafaxine,mirtazapine,-0.4532,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,aripiprazole,-0.1475,N06AX,N05AX,False,False
+Depression,experience types,venlafaxine,paroxetine,0.4515,N06AX,N06AB,False,True
+Depression,experience types,venlafaxine,quetiapine,-0.5046,N06AX,N05AH,False,False
+Depression,experience types,venlafaxine,alprazolam,-0.0532,N06AX,N05BA,False,False
+Depression,experience types,venlafaxine,levomefolate,0.1934,N06AX,A11JA,False,False
+Depression,experience types,venlafaxine,tramadol,0.0329,N06AX,N02AX,False,False
+Depression,experience types,venlafaxine,trazodone,-0.4332,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,lamotrigine,-0.047,N06AX,N03AX,False,False
+Depression,experience types,venlafaxine,levomilnacipran,0.1668,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,olanzapine,-0.331,N06AX,N05AH,False,False
+Depression,experience types,venlafaxine,tranylcypromine,0.0943,N06AX,N06AF,False,True
+Depression,experience types,venlafaxine,St. John's wort extract,-0.0147,N06AX,N06AX,True,True
+Depression,experience types,venlafaxine,amitriptyline,-0.3075,N06AX,N06AA,False,True
+Depression,experience types,escitalopram,citalopram,0.7114,N06AB,N06AB,True,True
+Depression,experience types,escitalopram,vortioxetine,0.3747,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,duloxetine,-0.0103,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,vilazodone,0.6178,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,fluoxetine,0.548,N06AB,N06AB,True,True
+Depression,experience types,escitalopram,mirtazapine,-0.3703,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,aripiprazole,-0.0238,N06AB,N05AX,False,False
+Depression,experience types,escitalopram,paroxetine,0.2675,N06AB,N06AB,True,True
+Depression,experience types,escitalopram,quetiapine,-0.3414,N06AB,N05AH,False,False
+Depression,experience types,escitalopram,alprazolam,-0.3316,N06AB,N05BA,False,False
+Depression,experience types,escitalopram,levomefolate,-0.0295,N06AB,A11JA,False,False
+Depression,experience types,escitalopram,tramadol,-0.0294,N06AB,N02AX,False,False
+Depression,experience types,escitalopram,trazodone,-0.4159,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,lamotrigine,0.074,N06AB,N03AX,False,False
+Depression,experience types,escitalopram,levomilnacipran,0.1308,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,olanzapine,-0.1916,N06AB,N05AH,False,False
+Depression,experience types,escitalopram,tranylcypromine,-0.3328,N06AB,N06AF,False,True
+Depression,experience types,escitalopram,St. John's wort extract,-0.1614,N06AB,N06AX,False,True
+Depression,experience types,escitalopram,amitriptyline,-0.3383,N06AB,N06AA,False,True
+Depression,experience types,citalopram,vortioxetine,0.2647,N06AB,N06AX,False,True
+Depression,experience types,citalopram,duloxetine,-0.1393,N06AB,N06AX,False,True
+Depression,experience types,citalopram,vilazodone,0.451,N06AB,N06AX,False,True
+Depression,experience types,citalopram,fluoxetine,0.6879,N06AB,N06AB,True,True
+Depression,experience types,citalopram,mirtazapine,-0.5278,N06AB,N06AX,False,True
+Depression,experience types,citalopram,aripiprazole,-0.2414,N06AB,N05AX,False,False
+Depression,experience types,citalopram,paroxetine,-0.0428,N06AB,N06AB,True,True
+Depression,experience types,citalopram,quetiapine,-0.593,N06AB,N05AH,False,False
+Depression,experience types,citalopram,alprazolam,-0.252,N06AB,N05BA,False,False
+Depression,experience types,citalopram,levomefolate,0.2706,N06AB,A11JA,False,False
+Depression,experience types,citalopram,tramadol,0.2607,N06AB,N02AX,False,False
+Depression,experience types,citalopram,trazodone,-0.386,N06AB,N06AX,False,True
+Depression,experience types,citalopram,lamotrigine,0.1493,N06AB,N03AX,False,False
+Depression,experience types,citalopram,levomilnacipran,-0.0011,N06AB,N06AX,False,True
+Depression,experience types,citalopram,olanzapine,-0.3171,N06AB,N05AH,False,False
+Depression,experience types,citalopram,tranylcypromine,-0.2118,N06AB,N06AF,False,True
+Depression,experience types,citalopram,St. John's wort extract,-0.0708,N06AB,N06AX,False,True
+Depression,experience types,citalopram,amitriptyline,0.0521,N06AB,N06AA,False,True
+Depression,experience types,vortioxetine,duloxetine,0.294,N06AX,N06AX,True,True
+Depression,experience types,vortioxetine,vilazodone,0.7867,N06AX,N06AX,True,True
+Depression,experience types,vortioxetine,fluoxetine,0.11,N06AX,N06AB,False,True
+Depression,experience types,vortioxetine,mirtazapine,-0.4111,N06AX,N06AX,True,True
+Depression,experience types,vortioxetine,aripiprazole,0.0518,N06AX,N05AX,False,False
+Depression,experience types,vortioxetine,paroxetine,-0.1384,N06AX,N06AB,False,True
+Depression,experience types,vortioxetine,quetiapine,-0.4517,N06AX,N05AH,False,False
+Depression,experience types,vortioxetine,alprazolam,-0.2672,N06AX,N05BA,False,False
+Depression,experience types,vortioxetine,levomefolate,-0.0189,N06AX,A11JA,False,False
+Depression,experience types,vortioxetine,tramadol,-0.1267,N06AX,N02AX,False,False
+Depression,experience types,vortioxetine,trazodone,-0.263,N06AX,N06AX,True,True
+Depression,experience types,vortioxetine,lamotrigine,0.2867,N06AX,N03AX,False,False
+Depression,experience types,vortioxetine,levomilnacipran,0.2514,N06AX,N06AX,True,True
+Depression,experience types,vortioxetine,olanzapine,-0.2379,N06AX,N05AH,False,False
+Depression,experience types,vortioxetine,tranylcypromine,-0.1153,N06AX,N06AF,False,True
+Depression,experience types,vortioxetine,St. John's wort extract,0.217,N06AX,N06AX,True,True
+Depression,experience types,vortioxetine,amitriptyline,-0.5924,N06AX,N06AA,False,True
+Depression,experience types,duloxetine,vilazodone,0.1587,N06AX,N06AX,True,True
+Depression,experience types,duloxetine,fluoxetine,-0.0077,N06AX,N06AB,False,True
+Depression,experience types,duloxetine,mirtazapine,-0.2596,N06AX,N06AX,True,True
+Depression,experience types,duloxetine,aripiprazole,0.0143,N06AX,N05AX,False,False
+Depression,experience types,duloxetine,paroxetine,0.3248,N06AX,N06AB,False,True
+Depression,experience types,duloxetine,quetiapine,-0.3574,N06AX,N05AH,False,False
+Depression,experience types,duloxetine,alprazolam,-0.1759,N06AX,N05BA,False,False
+Depression,experience types,duloxetine,levomefolate,0.3957,N06AX,A11JA,False,False
+Depression,experience types,duloxetine,tramadol,0.0635,N06AX,N02AX,False,False
+Depression,experience types,duloxetine,trazodone,-0.304,N06AX,N06AX,True,True
+Depression,experience types,duloxetine,lamotrigine,-0.0911,N06AX,N03AX,False,False
+Depression,experience types,duloxetine,levomilnacipran,0.2772,N06AX,N06AX,True,True
+Depression,experience types,duloxetine,olanzapine,-0.3667,N06AX,N05AH,False,False
+Depression,experience types,duloxetine,tranylcypromine,0.3167,N06AX,N06AF,False,True
+Depression,experience types,duloxetine,St. John's wort extract,0.1053,N06AX,N06AX,True,True
+Depression,experience types,duloxetine,amitriptyline,-0.3068,N06AX,N06AA,False,True
+Depression,experience types,vilazodone,fluoxetine,0.0676,N06AX,N06AB,False,True
+Depression,experience types,vilazodone,mirtazapine,-0.4483,N06AX,N06AX,True,True
+Depression,experience types,vilazodone,aripiprazole,-0.0679,N06AX,N05AX,False,False
+Depression,experience types,vilazodone,paroxetine,-0.0327,N06AX,N06AB,False,True
+Depression,experience types,vilazodone,quetiapine,-0.4433,N06AX,N05AH,False,False
+Depression,experience types,vilazodone,alprazolam,-0.2062,N06AX,N05BA,False,False
+Depression,experience types,vilazodone,levomefolate,0.0286,N06AX,A11JA,False,False
+Depression,experience types,vilazodone,tramadol,-0.0186,N06AX,N02AX,False,False
+Depression,experience types,vilazodone,trazodone,-0.3002,N06AX,N06AX,True,True
+Depression,experience types,vilazodone,lamotrigine,0.1397,N06AX,N03AX,False,False
+Depression,experience types,vilazodone,levomilnacipran,0.4098,N06AX,N06AX,True,True
+Depression,experience types,vilazodone,olanzapine,-0.3358,N06AX,N05AH,False,False
+Depression,experience types,vilazodone,tranylcypromine,0.0655,N06AX,N06AF,False,True
+Depression,experience types,vilazodone,St. John's wort extract,-0.0235,N06AX,N06AX,True,True
+Depression,experience types,vilazodone,amitriptyline,-0.5019,N06AX,N06AA,False,True
+Depression,experience types,fluoxetine,mirtazapine,-0.3892,N06AB,N06AX,False,True
+Depression,experience types,fluoxetine,aripiprazole,-0.1399,N06AB,N05AX,False,False
+Depression,experience types,fluoxetine,paroxetine,0.1849,N06AB,N06AB,True,True
+Depression,experience types,fluoxetine,quetiapine,-0.4135,N06AB,N05AH,False,False
+Depression,experience types,fluoxetine,alprazolam,-0.0538,N06AB,N05BA,False,False
+Depression,experience types,fluoxetine,levomefolate,0.1763,N06AB,A11JA,False,False
+Depression,experience types,fluoxetine,tramadol,0.3319,N06AB,N02AX,False,False
+Depression,experience types,fluoxetine,trazodone,-0.3682,N06AB,N06AX,False,True
+Depression,experience types,fluoxetine,lamotrigine,-0.0819,N06AB,N03AX,False,False
+Depression,experience types,fluoxetine,levomilnacipran,-0.3401,N06AB,N06AX,False,True
+Depression,experience types,fluoxetine,olanzapine,-0.1421,N06AB,N05AH,False,False
+Depression,experience types,fluoxetine,tranylcypromine,-0.4055,N06AB,N06AF,False,True
+Depression,experience types,fluoxetine,St. John's wort extract,0.131,N06AB,N06AX,False,True
+Depression,experience types,fluoxetine,amitriptyline,-0.0652,N06AB,N06AA,False,True
+Depression,experience types,mirtazapine,aripiprazole,0.0879,N06AX,N05AX,False,False
+Depression,experience types,mirtazapine,paroxetine,-0.3739,N06AX,N06AB,False,True
+Depression,experience types,mirtazapine,quetiapine,0.9082,N06AX,N05AH,False,False
+Depression,experience types,mirtazapine,alprazolam,-0.18,N06AX,N05BA,False,False
+Depression,experience types,mirtazapine,levomefolate,-0.3005,N06AX,A11JA,False,False
+Depression,experience types,mirtazapine,tramadol,-0.4917,N06AX,N02AX,False,False
+Depression,experience types,mirtazapine,trazodone,0.7783,N06AX,N06AX,True,True
+Depression,experience types,mirtazapine,lamotrigine,-0.1893,N06AX,N03AX,False,False
+Depression,experience types,mirtazapine,levomilnacipran,-0.1868,N06AX,N06AX,True,True
+Depression,experience types,mirtazapine,olanzapine,0.3335,N06AX,N05AH,False,False
+Depression,experience types,mirtazapine,tranylcypromine,-0.1992,N06AX,N06AF,False,True
+Depression,experience types,mirtazapine,St. John's wort extract,-0.3793,N06AX,N06AX,True,True
+Depression,experience types,mirtazapine,amitriptyline,0.1168,N06AX,N06AA,False,True
+Depression,experience types,aripiprazole,paroxetine,0.281,N05AX,N06AB,False,False
+Depression,experience types,aripiprazole,quetiapine,0.2375,N05AX,N05AH,False,True
+Depression,experience types,aripiprazole,alprazolam,-0.1865,N05AX,N05BA,False,False
+Depression,experience types,aripiprazole,levomefolate,-0.1208,N05AX,A11JA,False,False
+Depression,experience types,aripiprazole,tramadol,-0.1917,N05AX,N02AX,False,False
+Depression,experience types,aripiprazole,trazodone,-0.3113,N05AX,N06AX,False,False
+Depression,experience types,aripiprazole,lamotrigine,-0.018,N05AX,N03AX,False,False
+Depression,experience types,aripiprazole,levomilnacipran,-0.1552,N05AX,N06AX,False,False
+Depression,experience types,aripiprazole,olanzapine,0.7533,N05AX,N05AH,False,True
+Depression,experience types,aripiprazole,tranylcypromine,-0.1113,N05AX,N06AF,False,False
+Depression,experience types,aripiprazole,St. John's wort extract,0.0773,N05AX,N06AX,False,False
+Depression,experience types,aripiprazole,amitriptyline,-0.2487,N05AX,N06AA,False,False
+Depression,experience types,paroxetine,quetiapine,-0.2183,N06AB,N05AH,False,False
+Depression,experience types,paroxetine,alprazolam,0.0641,N06AB,N05BA,False,False
+Depression,experience types,paroxetine,levomefolate,0.0551,N06AB,A11JA,False,False
+Depression,experience types,paroxetine,tramadol,0.2658,N06AB,N02AX,False,False
+Depression,experience types,paroxetine,trazodone,-0.5018,N06AB,N06AX,False,True
+Depression,experience types,paroxetine,lamotrigine,-0.4085,N06AB,N03AX,False,False
+Depression,experience types,paroxetine,levomilnacipran,-0.0502,N06AB,N06AX,False,True
+Depression,experience types,paroxetine,olanzapine,0.1521,N06AB,N05AH,False,False
+Depression,experience types,paroxetine,tranylcypromine,-0.0236,N06AB,N06AF,False,True
+Depression,experience types,paroxetine,St. John's wort extract,0.1655,N06AB,N06AX,False,True
+Depression,experience types,paroxetine,amitriptyline,-0.1466,N06AB,N06AA,False,True
+Depression,experience types,quetiapine,alprazolam,-0.019,N05AH,N05BA,False,False
+Depression,experience types,quetiapine,levomefolate,-0.4376,N05AH,A11JA,False,False
+Depression,experience types,quetiapine,tramadol,-0.4917,N05AH,N02AX,False,False
+Depression,experience types,quetiapine,trazodone,0.7208,N05AH,N06AX,False,False
+Depression,experience types,quetiapine,lamotrigine,-0.1998,N05AH,N03AX,False,False
+Depression,experience types,quetiapine,levomilnacipran,-0.2821,N05AH,N06AX,False,False
+Depression,experience types,quetiapine,olanzapine,0.4505,N05AH,N05AH,True,True
+Depression,experience types,quetiapine,tranylcypromine,-0.2533,N05AH,N06AF,False,False
+Depression,experience types,quetiapine,St. John's wort extract,-0.3595,N05AH,N06AX,False,False
+Depression,experience types,quetiapine,amitriptyline,0.2053,N05AH,N06AA,False,False
+Depression,experience types,alprazolam,levomefolate,-0.2353,N05BA,A11JA,False,False
+Depression,experience types,alprazolam,tramadol,0.0682,N05BA,N02AX,False,False
+Depression,experience types,alprazolam,trazodone,-0.0043,N05BA,N06AX,False,False
+Depression,experience types,alprazolam,lamotrigine,-0.1175,N05BA,N03AX,False,False
+Depression,experience types,alprazolam,levomilnacipran,-0.292,N05BA,N06AX,False,False
+Depression,experience types,alprazolam,olanzapine,-0.0854,N05BA,N05AH,False,False
+Depression,experience types,alprazolam,tranylcypromine,0.1039,N05BA,N06AF,False,False
+Depression,experience types,alprazolam,St. John's wort extract,0.4572,N05BA,N06AX,False,False
+Depression,experience types,alprazolam,amitriptyline,0.139,N05BA,N06AA,False,False
+Depression,experience types,levomefolate,tramadol,0.3706,A11JA,N02AX,False,False
+Depression,experience types,levomefolate,trazodone,-0.2358,A11JA,N06AX,False,False
+Depression,experience types,levomefolate,lamotrigine,-0.0508,A11JA,N03AX,False,False
+Depression,experience types,levomefolate,levomilnacipran,0.233,A11JA,N06AX,False,False
+Depression,experience types,levomefolate,olanzapine,-0.4278,A11JA,N05AH,False,False
+Depression,experience types,levomefolate,tranylcypromine,0.4424,A11JA,N06AF,False,False
+Depression,experience types,levomefolate,St. John's wort extract,-0.194,A11JA,N06AX,False,False
+Depression,experience types,levomefolate,amitriptyline,0.0083,A11JA,N06AA,False,False
+Depression,experience types,tramadol,trazodone,-0.3722,N02AX,N06AX,False,False
+Depression,experience types,tramadol,lamotrigine,-0.0934,N02AX,N03AX,False,False
+Depression,experience types,tramadol,levomilnacipran,0.0562,N02AX,N06AX,False,False
+Depression,experience types,tramadol,olanzapine,-0.143,N02AX,N05AH,False,False
+Depression,experience types,tramadol,tranylcypromine,0.1461,N02AX,N06AF,False,False
+Depression,experience types,tramadol,St. John's wort extract,0.1064,N02AX,N06AX,False,False
+Depression,experience types,tramadol,amitriptyline,0.3081,N02AX,N06AA,False,False
+Depression,experience types,trazodone,lamotrigine,-0.095,N06AX,N03AX,False,False
+Depression,experience types,trazodone,levomilnacipran,-0.1823,N06AX,N06AX,True,True
+Depression,experience types,trazodone,olanzapine,-0.1016,N06AX,N05AH,False,False
+Depression,experience types,trazodone,tranylcypromine,-0.1738,N06AX,N06AF,False,True
+Depression,experience types,trazodone,St. John's wort extract,-0.4155,N06AX,N06AX,True,True
+Depression,experience types,trazodone,amitriptyline,0.3369,N06AX,N06AA,False,True
+Depression,experience types,lamotrigine,levomilnacipran,-0.0565,N03AX,N06AX,False,False
+Depression,experience types,lamotrigine,olanzapine,-0.1755,N03AX,N05AH,False,False
+Depression,experience types,lamotrigine,tranylcypromine,-0.0895,N03AX,N06AF,False,False
+Depression,experience types,lamotrigine,St. John's wort extract,0.0029,N03AX,N06AX,False,False
+Depression,experience types,lamotrigine,amitriptyline,-0.0881,N03AX,N06AA,False,False
+Depression,experience types,levomilnacipran,olanzapine,-0.3276,N06AX,N05AH,False,False
+Depression,experience types,levomilnacipran,tranylcypromine,0.685,N06AX,N06AF,False,True
+Depression,experience types,levomilnacipran,St. John's wort extract,-0.3479,N06AX,N06AX,True,True
+Depression,experience types,levomilnacipran,amitriptyline,-0.1801,N06AX,N06AA,False,True
+Depression,experience types,olanzapine,tranylcypromine,-0.2792,N05AH,N06AF,False,False
+Depression,experience types,olanzapine,St. John's wort extract,0.2169,N05AH,N06AX,False,False
+Depression,experience types,olanzapine,amitriptyline,-0.0324,N05AH,N06AA,False,False
+Depression,experience types,tranylcypromine,St. John's wort extract,-0.1713,N06AF,N06AX,False,True
+Depression,experience types,tranylcypromine,amitriptyline,-0.0067,N06AF,N06AA,False,True
+Depression,experience types,St. John's wort extract,amitriptyline,-0.1687,N06AX,N06AA,False,True
 Pain,side effects,tramadol,acetaminophen / hydrocodone,0.2786,N02AX,N02AJ,False,True
 Pain,side effects,tramadol,oxycodone,-0.0718,N02AX,N02AA,False,True
 Pain,side effects,tramadol,acetaminophen / oxycodone,0.0389,N02AX,N02AJ,False,True
@@ -2576,357 +2576,357 @@ Pain,side effects (composition),naproxen,duloxetine,0.0768,M01AE,N06AX,False,Fal
 Pain,side effects (composition),celecoxib,meperidine,-0.3661,M01AH,N02AB,False,False
 Pain,side effects (composition),celecoxib,duloxetine,-0.0887,M01AH,N06AX,False,False
 Pain,side effects (composition),meperidine,duloxetine,-0.2165,N02AB,N06AX,False,False
-Pain,experience types,tramadol,acetaminophen / hydrocodone,0.2659,N02AX,N02AJ,False,True
-Pain,experience types,tramadol,oxycodone,-0.2895,N02AX,N02AA,False,True
-Pain,experience types,tramadol,acetaminophen / oxycodone,0.1192,N02AX,N02AJ,False,True
-Pain,experience types,tramadol,tapentadol,0.4741,N02AX,N02AX,True,True
-Pain,experience types,tramadol,hydromorphone,0.0082,N02AX,N02AA,False,True
-Pain,experience types,tramadol,gabapentin,0.2468,N02AX,N02BF,False,False
-Pain,experience types,tramadol,ketorolac,0.214,N02AX,M01AB,False,False
-Pain,experience types,tramadol,oxymorphone,0.0286,N02AX,N02AA,False,True
-Pain,experience types,tramadol,amitriptyline,0.2315,N02AX,N06AA,False,False
-Pain,experience types,tramadol,fentanyl,-0.5861,N02AX,N02AB,False,True
-Pain,experience types,tramadol,methadone,-0.3419,N02AX,N07BC,False,False
-Pain,experience types,tramadol,morphine,-0.2428,N02AX,N02AA,False,True
-Pain,experience types,tramadol,diclofenac (M02AA),-0.214,N02AX,M02AA,False,False
-Pain,experience types,tramadol,diclofenac (M01AB),0.2399,N02AX,M01AB,False,False
-Pain,experience types,tramadol,acetaminophen / codeine,0.1102,N02AX,N02AJ,False,True
-Pain,experience types,tramadol,hydrocodone,0.0078,N02AX,R05DA,False,False
-Pain,experience types,tramadol,pregabalin,0.2253,N02AX,N02BF,False,False
-Pain,experience types,tramadol,lidocaine,-0.5175,N02AX,N01BB,False,False
-Pain,experience types,tramadol,buprenorphine,-0.5436,N02AX,N02AE,False,True
-Pain,experience types,tramadol,nortriptyline,0.0891,N02AX,N06AA,False,False
-Pain,experience types,tramadol,acetaminophen / propoxyphene,0.5076,N02AX,N02AC,False,True
-Pain,experience types,tramadol,hydrocodone / ibuprofen,0.0017,N02AX,N02AJ,False,True
-Pain,experience types,tramadol,naproxen,0.1558,N02AX,M01AE,False,False
-Pain,experience types,tramadol,celecoxib,0.4332,N02AX,M01AH,False,False
-Pain,experience types,tramadol,meperidine,0.3989,N02AX,N02AB,False,True
-Pain,experience types,tramadol,duloxetine,0.4917,N02AX,N06AX,False,False
-Pain,experience types,acetaminophen / hydrocodone,oxycodone,-0.031,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / hydrocodone,acetaminophen / oxycodone,0.838,N02AJ,N02AJ,True,True
-Pain,experience types,acetaminophen / hydrocodone,tapentadol,-0.1128,N02AJ,N02AX,False,True
-Pain,experience types,acetaminophen / hydrocodone,hydromorphone,0.0968,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / hydrocodone,gabapentin,-0.0916,N02AJ,N02BF,False,False
-Pain,experience types,acetaminophen / hydrocodone,ketorolac,0.2998,N02AJ,M01AB,False,False
-Pain,experience types,acetaminophen / hydrocodone,oxymorphone,-0.2638,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / hydrocodone,amitriptyline,-0.0613,N02AJ,N06AA,False,False
-Pain,experience types,acetaminophen / hydrocodone,fentanyl,-0.2815,N02AJ,N02AB,False,True
-Pain,experience types,acetaminophen / hydrocodone,methadone,-0.1787,N02AJ,N07BC,False,False
-Pain,experience types,acetaminophen / hydrocodone,morphine,0.0813,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / hydrocodone,diclofenac (M02AA),-0.0716,N02AJ,M02AA,False,False
-Pain,experience types,acetaminophen / hydrocodone,diclofenac (M01AB),0.0018,N02AJ,M01AB,False,False
-Pain,experience types,acetaminophen / hydrocodone,acetaminophen / codeine,0.3843,N02AJ,N02AJ,True,True
-Pain,experience types,acetaminophen / hydrocodone,hydrocodone,0.1724,N02AJ,R05DA,False,False
-Pain,experience types,acetaminophen / hydrocodone,pregabalin,-0.3115,N02AJ,N02BF,False,False
-Pain,experience types,acetaminophen / hydrocodone,lidocaine,-0.2634,N02AJ,N01BB,False,False
-Pain,experience types,acetaminophen / hydrocodone,buprenorphine,-0.3343,N02AJ,N02AE,False,True
-Pain,experience types,acetaminophen / hydrocodone,nortriptyline,-0.0495,N02AJ,N06AA,False,False
-Pain,experience types,acetaminophen / hydrocodone,acetaminophen / propoxyphene,0.2589,N02AJ,N02AC,False,True
-Pain,experience types,acetaminophen / hydrocodone,hydrocodone / ibuprofen,0.3677,N02AJ,N02AJ,True,True
-Pain,experience types,acetaminophen / hydrocodone,naproxen,0.0526,N02AJ,M01AE,False,False
-Pain,experience types,acetaminophen / hydrocodone,celecoxib,-0.2006,N02AJ,M01AH,False,False
-Pain,experience types,acetaminophen / hydrocodone,meperidine,0.001,N02AJ,N02AB,False,True
-Pain,experience types,acetaminophen / hydrocodone,duloxetine,-0.044,N02AJ,N06AX,False,False
-Pain,experience types,oxycodone,acetaminophen / oxycodone,0.1097,N02AA,N02AJ,False,True
-Pain,experience types,oxycodone,tapentadol,-0.0801,N02AA,N02AX,False,True
-Pain,experience types,oxycodone,hydromorphone,0.1927,N02AA,N02AA,True,True
-Pain,experience types,oxycodone,gabapentin,0.0372,N02AA,N02BF,False,False
-Pain,experience types,oxycodone,ketorolac,-0.1264,N02AA,M01AB,False,False
-Pain,experience types,oxycodone,oxymorphone,0.4366,N02AA,N02AA,True,True
-Pain,experience types,oxycodone,amitriptyline,-0.1348,N02AA,N06AA,False,False
-Pain,experience types,oxycodone,fentanyl,-0.2355,N02AA,N02AB,False,True
-Pain,experience types,oxycodone,methadone,0.8886,N02AA,N07BC,False,False
-Pain,experience types,oxycodone,morphine,0.7749,N02AA,N02AA,True,True
-Pain,experience types,oxycodone,diclofenac (M02AA),-0.1858,N02AA,M02AA,False,False
-Pain,experience types,oxycodone,diclofenac (M01AB),-0.2033,N02AA,M01AB,False,False
-Pain,experience types,oxycodone,acetaminophen / codeine,-0.1123,N02AA,N02AJ,False,True
-Pain,experience types,oxycodone,hydrocodone,0.186,N02AA,R05DA,False,False
-Pain,experience types,oxycodone,pregabalin,0.338,N02AA,N02BF,False,False
-Pain,experience types,oxycodone,lidocaine,-0.3684,N02AA,N01BB,False,False
-Pain,experience types,oxycodone,buprenorphine,-0.2428,N02AA,N02AE,False,True
-Pain,experience types,oxycodone,nortriptyline,0.052,N02AA,N06AA,False,False
-Pain,experience types,oxycodone,acetaminophen / propoxyphene,-0.1582,N02AA,N02AC,False,True
-Pain,experience types,oxycodone,hydrocodone / ibuprofen,-0.0757,N02AA,N02AJ,False,True
-Pain,experience types,oxycodone,naproxen,-0.2542,N02AA,M01AE,False,False
-Pain,experience types,oxycodone,celecoxib,0.0066,N02AA,M01AH,False,False
-Pain,experience types,oxycodone,meperidine,-0.3534,N02AA,N02AB,False,True
-Pain,experience types,oxycodone,duloxetine,-0.0193,N02AA,N06AX,False,False
-Pain,experience types,acetaminophen / oxycodone,tapentadol,-0.3039,N02AJ,N02AX,False,True
-Pain,experience types,acetaminophen / oxycodone,hydromorphone,0.3287,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / oxycodone,gabapentin,-0.217,N02AJ,N02BF,False,False
-Pain,experience types,acetaminophen / oxycodone,ketorolac,0.3329,N02AJ,M01AB,False,False
-Pain,experience types,acetaminophen / oxycodone,oxymorphone,-0.0853,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / oxycodone,amitriptyline,-0.0897,N02AJ,N06AA,False,False
-Pain,experience types,acetaminophen / oxycodone,fentanyl,-0.415,N02AJ,N02AB,False,True
-Pain,experience types,acetaminophen / oxycodone,methadone,-0.0772,N02AJ,N07BC,False,False
-Pain,experience types,acetaminophen / oxycodone,morphine,0.3033,N02AJ,N02AA,False,True
-Pain,experience types,acetaminophen / oxycodone,diclofenac (M02AA),0.1562,N02AJ,M02AA,False,False
-Pain,experience types,acetaminophen / oxycodone,diclofenac (M01AB),0.2411,N02AJ,M01AB,False,False
-Pain,experience types,acetaminophen / oxycodone,acetaminophen / codeine,0.2766,N02AJ,N02AJ,True,True
-Pain,experience types,acetaminophen / oxycodone,hydrocodone,0.1979,N02AJ,R05DA,False,False
-Pain,experience types,acetaminophen / oxycodone,pregabalin,-0.36,N02AJ,N02BF,False,False
-Pain,experience types,acetaminophen / oxycodone,lidocaine,-0.2989,N02AJ,N01BB,False,False
-Pain,experience types,acetaminophen / oxycodone,buprenorphine,-0.4616,N02AJ,N02AE,False,True
-Pain,experience types,acetaminophen / oxycodone,nortriptyline,-0.0046,N02AJ,N06AA,False,False
-Pain,experience types,acetaminophen / oxycodone,acetaminophen / propoxyphene,0.194,N02AJ,N02AC,False,True
-Pain,experience types,acetaminophen / oxycodone,hydrocodone / ibuprofen,0.3294,N02AJ,N02AJ,True,True
-Pain,experience types,acetaminophen / oxycodone,naproxen,0.2789,N02AJ,M01AE,False,False
-Pain,experience types,acetaminophen / oxycodone,celecoxib,-0.0516,N02AJ,M01AH,False,False
-Pain,experience types,acetaminophen / oxycodone,meperidine,-0.0522,N02AJ,N02AB,False,True
-Pain,experience types,acetaminophen / oxycodone,duloxetine,-0.263,N02AJ,N06AX,False,False
-Pain,experience types,tapentadol,hydromorphone,-0.4066,N02AX,N02AA,False,True
-Pain,experience types,tapentadol,gabapentin,0.5368,N02AX,N02BF,False,False
-Pain,experience types,tapentadol,ketorolac,-0.0267,N02AX,M01AB,False,False
-Pain,experience types,tapentadol,oxymorphone,0.2626,N02AX,N02AA,False,True
-Pain,experience types,tapentadol,amitriptyline,0.182,N02AX,N06AA,False,False
-Pain,experience types,tapentadol,fentanyl,-0.2198,N02AX,N02AB,False,True
-Pain,experience types,tapentadol,methadone,-0.0158,N02AX,N07BC,False,False
-Pain,experience types,tapentadol,morphine,-0.0569,N02AX,N02AA,False,True
-Pain,experience types,tapentadol,diclofenac (M02AA),-0.7103,N02AX,M02AA,False,False
-Pain,experience types,tapentadol,diclofenac (M01AB),-0.2502,N02AX,M01AB,False,False
-Pain,experience types,tapentadol,acetaminophen / codeine,-0.3455,N02AX,N02AJ,False,True
-Pain,experience types,tapentadol,hydrocodone,0.4181,N02AX,R05DA,False,False
-Pain,experience types,tapentadol,pregabalin,0.7911,N02AX,N02BF,False,False
-Pain,experience types,tapentadol,lidocaine,-0.4879,N02AX,N01BB,False,False
-Pain,experience types,tapentadol,buprenorphine,-0.1235,N02AX,N02AE,False,True
-Pain,experience types,tapentadol,nortriptyline,-0.048,N02AX,N06AA,False,False
-Pain,experience types,tapentadol,acetaminophen / propoxyphene,0.1979,N02AX,N02AC,False,True
-Pain,experience types,tapentadol,hydrocodone / ibuprofen,-0.2877,N02AX,N02AJ,False,True
-Pain,experience types,tapentadol,naproxen,-0.4479,N02AX,M01AE,False,False
-Pain,experience types,tapentadol,celecoxib,0.4997,N02AX,M01AH,False,False
-Pain,experience types,tapentadol,meperidine,0.2467,N02AX,N02AB,False,True
-Pain,experience types,tapentadol,duloxetine,0.7022,N02AX,N06AX,False,False
-Pain,experience types,hydromorphone,gabapentin,-0.1663,N02AA,N02BF,False,False
-Pain,experience types,hydromorphone,ketorolac,0.1745,N02AA,M01AB,False,False
-Pain,experience types,hydromorphone,oxymorphone,0.2343,N02AA,N02AA,True,True
-Pain,experience types,hydromorphone,amitriptyline,-0.3662,N02AA,N06AA,False,False
-Pain,experience types,hydromorphone,fentanyl,-0.4242,N02AA,N02AB,False,True
-Pain,experience types,hydromorphone,methadone,0.0621,N02AA,N07BC,False,False
-Pain,experience types,hydromorphone,morphine,0.3274,N02AA,N02AA,True,True
-Pain,experience types,hydromorphone,diclofenac (M02AA),0.4742,N02AA,M02AA,False,False
-Pain,experience types,hydromorphone,diclofenac (M01AB),0.5739,N02AA,M01AB,False,False
-Pain,experience types,hydromorphone,acetaminophen / codeine,0.1127,N02AA,N02AJ,False,True
-Pain,experience types,hydromorphone,hydrocodone,-0.198,N02AA,R05DA,False,False
-Pain,experience types,hydromorphone,pregabalin,-0.1736,N02AA,N02BF,False,False
-Pain,experience types,hydromorphone,lidocaine,-0.1842,N02AA,N01BB,False,False
-Pain,experience types,hydromorphone,buprenorphine,-0.5197,N02AA,N02AE,False,True
-Pain,experience types,hydromorphone,nortriptyline,-0.1249,N02AA,N06AA,False,False
-Pain,experience types,hydromorphone,acetaminophen / propoxyphene,0.2713,N02AA,N02AC,False,True
-Pain,experience types,hydromorphone,hydrocodone / ibuprofen,0.1287,N02AA,N02AJ,False,True
-Pain,experience types,hydromorphone,naproxen,0.6894,N02AA,M01AE,False,False
-Pain,experience types,hydromorphone,celecoxib,0.2646,N02AA,M01AH,False,False
-Pain,experience types,hydromorphone,meperidine,0.1486,N02AA,N02AB,False,True
-Pain,experience types,hydromorphone,duloxetine,-0.4142,N02AA,N06AX,False,False
-Pain,experience types,gabapentin,ketorolac,-0.0365,N02BF,M01AB,False,False
-Pain,experience types,gabapentin,oxymorphone,0.2821,N02BF,N02AA,False,False
-Pain,experience types,gabapentin,amitriptyline,0.3226,N02BF,N06AA,False,False
-Pain,experience types,gabapentin,fentanyl,-0.2117,N02BF,N02AB,False,False
-Pain,experience types,gabapentin,methadone,-0.0962,N02BF,N07BC,False,False
-Pain,experience types,gabapentin,morphine,-0.0227,N02BF,N02AA,False,False
-Pain,experience types,gabapentin,diclofenac (M02AA),-0.3993,N02BF,M02AA,False,False
-Pain,experience types,gabapentin,diclofenac (M01AB),-0.3246,N02BF,M01AB,False,False
-Pain,experience types,gabapentin,acetaminophen / codeine,-0.2675,N02BF,N02AJ,False,False
-Pain,experience types,gabapentin,hydrocodone,0.4231,N02BF,R05DA,False,False
-Pain,experience types,gabapentin,pregabalin,0.6394,N02BF,N02BF,True,True
-Pain,experience types,gabapentin,lidocaine,-0.361,N02BF,N01BB,False,False
-Pain,experience types,gabapentin,buprenorphine,-0.1796,N02BF,N02AE,False,False
-Pain,experience types,gabapentin,nortriptyline,0.2557,N02BF,N06AA,False,False
-Pain,experience types,gabapentin,acetaminophen / propoxyphene,-0.0047,N02BF,N02AC,False,False
-Pain,experience types,gabapentin,hydrocodone / ibuprofen,-0.2074,N02BF,N02AJ,False,False
-Pain,experience types,gabapentin,naproxen,-0.3695,N02BF,M01AE,False,False
-Pain,experience types,gabapentin,celecoxib,0.046,N02BF,M01AH,False,False
-Pain,experience types,gabapentin,meperidine,-0.1265,N02BF,N02AB,False,False
-Pain,experience types,gabapentin,duloxetine,0.2307,N02BF,N06AX,False,False
-Pain,experience types,ketorolac,oxymorphone,-0.3227,M01AB,N02AA,False,False
-Pain,experience types,ketorolac,amitriptyline,-0.105,M01AB,N06AA,False,False
-Pain,experience types,ketorolac,fentanyl,-0.2659,M01AB,N02AB,False,False
-Pain,experience types,ketorolac,methadone,-0.3207,M01AB,N07BC,False,False
-Pain,experience types,ketorolac,morphine,-0.3065,M01AB,N02AA,False,False
-Pain,experience types,ketorolac,diclofenac (M02AA),-0.056,M01AB,M02AA,False,False
-Pain,experience types,ketorolac,diclofenac (M01AB),0.2469,M01AB,M01AB,True,True
-Pain,experience types,ketorolac,acetaminophen / codeine,0.4315,M01AB,N02AJ,False,False
-Pain,experience types,ketorolac,hydrocodone,-0.0283,M01AB,R05DA,False,False
-Pain,experience types,ketorolac,pregabalin,-0.2178,M01AB,N02BF,False,False
-Pain,experience types,ketorolac,lidocaine,-0.1805,M01AB,N01BB,False,False
-Pain,experience types,ketorolac,buprenorphine,-0.2648,M01AB,N02AE,False,False
-Pain,experience types,ketorolac,nortriptyline,-0.1508,M01AB,N06AA,False,False
-Pain,experience types,ketorolac,acetaminophen / propoxyphene,0.2676,M01AB,N02AC,False,False
-Pain,experience types,ketorolac,hydrocodone / ibuprofen,0.5098,M01AB,N02AJ,False,False
-Pain,experience types,ketorolac,naproxen,0.19,M01AB,M01AE,False,True
-Pain,experience types,ketorolac,celecoxib,0.0605,M01AB,M01AH,False,True
-Pain,experience types,ketorolac,meperidine,0.0059,M01AB,N02AB,False,False
-Pain,experience types,ketorolac,duloxetine,-0.238,M01AB,N06AX,False,False
-Pain,experience types,oxymorphone,amitriptyline,-0.2123,N02AA,N06AA,False,False
-Pain,experience types,oxymorphone,fentanyl,-0.2978,N02AA,N02AB,False,True
-Pain,experience types,oxymorphone,methadone,0.2906,N02AA,N07BC,False,False
-Pain,experience types,oxymorphone,morphine,0.6469,N02AA,N02AA,True,True
-Pain,experience types,oxymorphone,diclofenac (M02AA),-0.0323,N02AA,M02AA,False,False
-Pain,experience types,oxymorphone,diclofenac (M01AB),0.1182,N02AA,M01AB,False,False
-Pain,experience types,oxymorphone,acetaminophen / codeine,-0.302,N02AA,N02AJ,False,True
-Pain,experience types,oxymorphone,hydrocodone,0.4291,N02AA,R05DA,False,False
-Pain,experience types,oxymorphone,pregabalin,0.4939,N02AA,N02BF,False,False
-Pain,experience types,oxymorphone,lidocaine,-0.3713,N02AA,N01BB,False,False
-Pain,experience types,oxymorphone,buprenorphine,-0.2476,N02AA,N02AE,False,True
-Pain,experience types,oxymorphone,nortriptyline,-0.3047,N02AA,N06AA,False,False
-Pain,experience types,oxymorphone,acetaminophen / propoxyphene,0.048,N02AA,N02AC,False,True
-Pain,experience types,oxymorphone,hydrocodone / ibuprofen,-0.2712,N02AA,N02AJ,False,True
-Pain,experience types,oxymorphone,naproxen,0.0297,N02AA,M01AE,False,False
-Pain,experience types,oxymorphone,celecoxib,0.4408,N02AA,M01AH,False,False
-Pain,experience types,oxymorphone,meperidine,-0.0484,N02AA,N02AB,False,True
-Pain,experience types,oxymorphone,duloxetine,-0.0418,N02AA,N06AX,False,False
-Pain,experience types,amitriptyline,fentanyl,-0.1247,N06AA,N02AB,False,False
-Pain,experience types,amitriptyline,methadone,-0.0662,N06AA,N07BC,False,False
-Pain,experience types,amitriptyline,morphine,-0.3129,N06AA,N02AA,False,False
-Pain,experience types,amitriptyline,diclofenac (M02AA),-0.4612,N06AA,M02AA,False,False
-Pain,experience types,amitriptyline,diclofenac (M01AB),-0.4454,N06AA,M01AB,False,False
-Pain,experience types,amitriptyline,acetaminophen / codeine,-0.2184,N06AA,N02AJ,False,False
-Pain,experience types,amitriptyline,hydrocodone,0.0808,N06AA,R05DA,False,False
-Pain,experience types,amitriptyline,pregabalin,0.1248,N06AA,N02BF,False,False
-Pain,experience types,amitriptyline,lidocaine,-0.1742,N06AA,N01BB,False,False
-Pain,experience types,amitriptyline,buprenorphine,-0.0606,N06AA,N02AE,False,False
-Pain,experience types,amitriptyline,nortriptyline,0.8819,N06AA,N06AA,True,True
-Pain,experience types,amitriptyline,acetaminophen / propoxyphene,0.0307,N06AA,N02AC,False,False
-Pain,experience types,amitriptyline,hydrocodone / ibuprofen,-0.2064,N06AA,N02AJ,False,False
-Pain,experience types,amitriptyline,naproxen,-0.3703,N06AA,M01AE,False,False
-Pain,experience types,amitriptyline,celecoxib,-0.2382,N06AA,M01AH,False,False
-Pain,experience types,amitriptyline,meperidine,0.0327,N06AA,N02AB,False,False
-Pain,experience types,amitriptyline,duloxetine,0.4046,N06AA,N06AX,False,True
-Pain,experience types,fentanyl,methadone,-0.1319,N02AB,N07BC,False,False
-Pain,experience types,fentanyl,morphine,-0.3354,N02AB,N02AA,False,True
-Pain,experience types,fentanyl,diclofenac (M02AA),0.0745,N02AB,M02AA,False,False
-Pain,experience types,fentanyl,diclofenac (M01AB),-0.4854,N02AB,M01AB,False,False
-Pain,experience types,fentanyl,acetaminophen / codeine,-0.2308,N02AB,N02AJ,False,True
-Pain,experience types,fentanyl,hydrocodone,-0.2165,N02AB,R05DA,False,False
-Pain,experience types,fentanyl,pregabalin,-0.3459,N02AB,N02BF,False,False
-Pain,experience types,fentanyl,lidocaine,0.8868,N02AB,N01BB,False,False
-Pain,experience types,fentanyl,buprenorphine,0.9698,N02AB,N02AE,False,True
-Pain,experience types,fentanyl,nortriptyline,-0.1654,N02AB,N06AA,False,False
-Pain,experience types,fentanyl,acetaminophen / propoxyphene,-0.302,N02AB,N02AC,False,True
-Pain,experience types,fentanyl,hydrocodone / ibuprofen,-0.1364,N02AB,N02AJ,False,True
-Pain,experience types,fentanyl,naproxen,-0.4113,N02AB,M01AE,False,False
-Pain,experience types,fentanyl,celecoxib,-0.5714,N02AB,M01AH,False,False
-Pain,experience types,fentanyl,meperidine,-0.3619,N02AB,N02AB,True,True
-Pain,experience types,fentanyl,duloxetine,-0.1963,N02AB,N06AX,False,False
-Pain,experience types,methadone,morphine,0.6785,N07BC,N02AA,False,False
-Pain,experience types,methadone,diclofenac (M02AA),-0.2175,N07BC,M02AA,False,False
-Pain,experience types,methadone,diclofenac (M01AB),-0.2303,N07BC,M01AB,False,False
-Pain,experience types,methadone,acetaminophen / codeine,-0.2277,N07BC,N02AJ,False,False
-Pain,experience types,methadone,hydrocodone,0.0736,N07BC,R05DA,False,False
-Pain,experience types,methadone,pregabalin,0.3592,N07BC,N02BF,False,False
-Pain,experience types,methadone,lidocaine,-0.271,N07BC,N01BB,False,False
-Pain,experience types,methadone,buprenorphine,-0.113,N07BC,N02AE,False,False
-Pain,experience types,methadone,nortriptyline,0.1492,N07BC,N06AA,False,False
-Pain,experience types,methadone,acetaminophen / propoxyphene,-0.2317,N07BC,N02AC,False,False
-Pain,experience types,methadone,hydrocodone / ibuprofen,-0.2657,N07BC,N02AJ,False,False
-Pain,experience types,methadone,naproxen,-0.2928,N07BC,M01AE,False,False
-Pain,experience types,methadone,celecoxib,0.1159,N07BC,M01AH,False,False
-Pain,experience types,methadone,meperidine,-0.2282,N07BC,N02AB,False,False
-Pain,experience types,methadone,duloxetine,0.1827,N07BC,N06AX,False,False
-Pain,experience types,morphine,diclofenac (M02AA),0.1019,N02AA,M02AA,False,False
-Pain,experience types,morphine,diclofenac (M01AB),0.0781,N02AA,M01AB,False,False
-Pain,experience types,morphine,acetaminophen / codeine,-0.2012,N02AA,N02AJ,False,True
-Pain,experience types,morphine,hydrocodone,0.4392,N02AA,R05DA,False,False
-Pain,experience types,morphine,pregabalin,0.3143,N02AA,N02BF,False,False
-Pain,experience types,morphine,lidocaine,-0.3584,N02AA,N01BB,False,False
-Pain,experience types,morphine,buprenorphine,-0.3362,N02AA,N02AE,False,True
-Pain,experience types,morphine,nortriptyline,-0.1885,N02AA,N06AA,False,False
-Pain,experience types,morphine,acetaminophen / propoxyphene,-0.3022,N02AA,N02AC,False,True
-Pain,experience types,morphine,hydrocodone / ibuprofen,-0.2398,N02AA,N02AJ,False,True
-Pain,experience types,morphine,naproxen,0.0623,N02AA,M01AE,False,False
-Pain,experience types,morphine,celecoxib,0.2202,N02AA,M01AH,False,False
-Pain,experience types,morphine,meperidine,-0.1672,N02AA,N02AB,False,True
-Pain,experience types,morphine,duloxetine,-0.0999,N02AA,N06AX,False,False
-Pain,experience types,diclofenac (M02AA),diclofenac (M01AB),0.6453,M02AA,M01AB,False,False
-Pain,experience types,diclofenac (M02AA),acetaminophen / codeine,0.2251,M02AA,N02AJ,False,False
-Pain,experience types,diclofenac (M02AA),hydrocodone,-0.3218,M02AA,R05DA,False,False
-Pain,experience types,diclofenac (M02AA),pregabalin,-0.5597,M02AA,N02BF,False,False
-Pain,experience types,diclofenac (M02AA),lidocaine,0.434,M02AA,N01BB,False,False
-Pain,experience types,diclofenac (M02AA),buprenorphine,-0.0085,M02AA,N02AE,False,False
-Pain,experience types,diclofenac (M02AA),nortriptyline,-0.2904,M02AA,N06AA,False,False
-Pain,experience types,diclofenac (M02AA),acetaminophen / propoxyphene,-0.3196,M02AA,N02AC,False,False
-Pain,experience types,diclofenac (M02AA),hydrocodone / ibuprofen,0.0719,M02AA,N02AJ,False,False
-Pain,experience types,diclofenac (M02AA),naproxen,0.7054,M02AA,M01AE,False,False
-Pain,experience types,diclofenac (M02AA),celecoxib,-0.0971,M02AA,M01AH,False,False
-Pain,experience types,diclofenac (M02AA),meperidine,0.1044,M02AA,N02AB,False,False
-Pain,experience types,diclofenac (M02AA),duloxetine,-0.5791,M02AA,N06AX,False,False
-Pain,experience types,diclofenac (M01AB),acetaminophen / codeine,0.3219,M01AB,N02AJ,False,False
-Pain,experience types,diclofenac (M01AB),hydrocodone,-0.23,M01AB,R05DA,False,False
-Pain,experience types,diclofenac (M01AB),pregabalin,-0.2189,M01AB,N02BF,False,False
-Pain,experience types,diclofenac (M01AB),lidocaine,-0.2143,M01AB,N01BB,False,False
-Pain,experience types,diclofenac (M01AB),buprenorphine,-0.5409,M01AB,N02AE,False,False
-Pain,experience types,diclofenac (M01AB),nortriptyline,-0.3837,M01AB,N06AA,False,False
-Pain,experience types,diclofenac (M01AB),acetaminophen / propoxyphene,0.1802,M01AB,N02AC,False,False
-Pain,experience types,diclofenac (M01AB),hydrocodone / ibuprofen,0.3304,M01AB,N02AJ,False,False
-Pain,experience types,diclofenac (M01AB),naproxen,0.9089,M01AB,M01AE,False,True
-Pain,experience types,diclofenac (M01AB),celecoxib,0.5523,M01AB,M01AH,False,True
-Pain,experience types,diclofenac (M01AB),meperidine,0.4415,M01AB,N02AB,False,False
-Pain,experience types,diclofenac (M01AB),duloxetine,-0.2678,M01AB,N06AX,False,False
-Pain,experience types,acetaminophen / codeine,hydrocodone,-0.2209,N02AJ,R05DA,False,False
-Pain,experience types,acetaminophen / codeine,pregabalin,-0.4089,N02AJ,N02BF,False,False
-Pain,experience types,acetaminophen / codeine,lidocaine,-0.081,N02AJ,N01BB,False,False
-Pain,experience types,acetaminophen / codeine,buprenorphine,-0.2539,N02AJ,N02AE,False,True
-Pain,experience types,acetaminophen / codeine,nortriptyline,-0.1476,N02AJ,N06AA,False,False
-Pain,experience types,acetaminophen / codeine,acetaminophen / propoxyphene,0.0357,N02AJ,N02AC,False,True
-Pain,experience types,acetaminophen / codeine,hydrocodone / ibuprofen,0.7173,N02AJ,N02AJ,True,True
-Pain,experience types,acetaminophen / codeine,naproxen,0.3533,N02AJ,M01AE,False,False
-Pain,experience types,acetaminophen / codeine,celecoxib,-0.1736,N02AJ,M01AH,False,False
-Pain,experience types,acetaminophen / codeine,meperidine,-0.0195,N02AJ,N02AB,False,True
-Pain,experience types,acetaminophen / codeine,duloxetine,-0.3447,N02AJ,N06AX,False,False
-Pain,experience types,hydrocodone,pregabalin,0.4318,R05DA,N02BF,False,False
-Pain,experience types,hydrocodone,lidocaine,-0.366,R05DA,N01BB,False,False
-Pain,experience types,hydrocodone,buprenorphine,-0.0831,R05DA,N02AE,False,False
-Pain,experience types,hydrocodone,nortriptyline,-0.0678,R05DA,N06AA,False,False
-Pain,experience types,hydrocodone,acetaminophen / propoxyphene,-0.2096,R05DA,N02AC,False,False
-Pain,experience types,hydrocodone,hydrocodone / ibuprofen,-0.2034,R05DA,N02AJ,False,False
-Pain,experience types,hydrocodone,naproxen,-0.232,R05DA,M01AE,False,False
-Pain,experience types,hydrocodone,celecoxib,0.1138,R05DA,M01AH,False,False
-Pain,experience types,hydrocodone,meperidine,-0.3205,R05DA,N02AB,False,False
-Pain,experience types,hydrocodone,duloxetine,-0.072,R05DA,N06AX,False,False
-Pain,experience types,pregabalin,lidocaine,-0.5989,N02BF,N01BB,False,False
-Pain,experience types,pregabalin,buprenorphine,-0.2777,N02BF,N02AE,False,False
-Pain,experience types,pregabalin,nortriptyline,0.0811,N02BF,N06AA,False,False
-Pain,experience types,pregabalin,acetaminophen / propoxyphene,0.0318,N02BF,N02AC,False,False
-Pain,experience types,pregabalin,hydrocodone / ibuprofen,-0.4342,N02BF,N02AJ,False,False
-Pain,experience types,pregabalin,naproxen,-0.3659,N02BF,M01AE,False,False
-Pain,experience types,pregabalin,celecoxib,0.4957,N02BF,M01AH,False,False
-Pain,experience types,pregabalin,meperidine,0.1122,N02BF,N02AB,False,False
-Pain,experience types,pregabalin,duloxetine,0.5867,N02BF,N06AX,False,False
-Pain,experience types,lidocaine,buprenorphine,0.8487,N01BB,N02AE,False,False
-Pain,experience types,lidocaine,nortriptyline,-0.152,N01BB,N06AA,False,False
-Pain,experience types,lidocaine,acetaminophen / propoxyphene,-0.3927,N01BB,N02AC,False,False
-Pain,experience types,lidocaine,hydrocodone / ibuprofen,-0.0997,N01BB,N02AJ,False,False
-Pain,experience types,lidocaine,naproxen,-0.0713,N01BB,M01AE,False,False
-Pain,experience types,lidocaine,celecoxib,-0.5617,N01BB,M01AH,False,False
-Pain,experience types,lidocaine,meperidine,-0.2482,N01BB,N02AB,False,False
-Pain,experience types,lidocaine,duloxetine,-0.396,N01BB,N06AX,False,False
-Pain,experience types,buprenorphine,nortriptyline,-0.1451,N02AE,N06AA,False,False
-Pain,experience types,buprenorphine,acetaminophen / propoxyphene,-0.3208,N02AE,N02AC,False,True
-Pain,experience types,buprenorphine,hydrocodone / ibuprofen,-0.2159,N02AE,N02AJ,False,True
-Pain,experience types,buprenorphine,naproxen,-0.4669,N02AE,M01AE,False,False
-Pain,experience types,buprenorphine,celecoxib,-0.5197,N02AE,M01AH,False,False
-Pain,experience types,buprenorphine,meperidine,-0.3839,N02AE,N02AB,False,True
-Pain,experience types,buprenorphine,duloxetine,-0.1732,N02AE,N06AX,False,False
-Pain,experience types,nortriptyline,acetaminophen / propoxyphene,-0.0417,N06AA,N02AC,False,False
-Pain,experience types,nortriptyline,hydrocodone / ibuprofen,-0.2147,N06AA,N02AJ,False,False
-Pain,experience types,nortriptyline,naproxen,-0.2714,N06AA,M01AE,False,False
-Pain,experience types,nortriptyline,celecoxib,-0.2719,N06AA,M01AH,False,False
-Pain,experience types,nortriptyline,meperidine,-0.1007,N06AA,N02AB,False,False
-Pain,experience types,nortriptyline,duloxetine,0.2865,N06AA,N06AX,False,True
-Pain,experience types,acetaminophen / propoxyphene,hydrocodone / ibuprofen,0.2353,N02AC,N02AJ,False,True
-Pain,experience types,acetaminophen / propoxyphene,naproxen,0.1643,N02AC,M01AE,False,False
-Pain,experience types,acetaminophen / propoxyphene,celecoxib,0.352,N02AC,M01AH,False,False
-Pain,experience types,acetaminophen / propoxyphene,meperidine,0.2521,N02AC,N02AB,False,True
-Pain,experience types,acetaminophen / propoxyphene,duloxetine,0.1849,N02AC,N06AX,False,False
-Pain,experience types,hydrocodone / ibuprofen,naproxen,0.3022,N02AJ,M01AE,False,False
-Pain,experience types,hydrocodone / ibuprofen,celecoxib,-0.1406,N02AJ,M01AH,False,False
-Pain,experience types,hydrocodone / ibuprofen,meperidine,-0.0654,N02AJ,N02AB,False,True
-Pain,experience types,hydrocodone / ibuprofen,duloxetine,-0.4311,N02AJ,N06AX,False,False
-Pain,experience types,naproxen,celecoxib,0.3812,M01AE,M01AH,False,True
-Pain,experience types,naproxen,meperidine,0.3537,M01AE,N02AB,False,False
-Pain,experience types,naproxen,duloxetine,-0.4319,M01AE,N06AX,False,False
-Pain,experience types,celecoxib,meperidine,0.398,M01AH,N02AB,False,False
-Pain,experience types,celecoxib,duloxetine,0.3216,M01AH,N06AX,False,False
-Pain,experience types,meperidine,duloxetine,0.4751,N02AB,N06AX,False,False
+Pain,experience types,tramadol,acetaminophen / hydrocodone,0.2537,N02AX,N02AJ,False,True
+Pain,experience types,tramadol,oxycodone,-0.4298,N02AX,N02AA,False,True
+Pain,experience types,tramadol,acetaminophen / oxycodone,0.1361,N02AX,N02AJ,False,True
+Pain,experience types,tramadol,tapentadol,0.4941,N02AX,N02AX,True,True
+Pain,experience types,tramadol,hydromorphone,0.391,N02AX,N02AA,False,True
+Pain,experience types,tramadol,gabapentin,0.1385,N02AX,N02BF,False,False
+Pain,experience types,tramadol,ketorolac,0.5419,N02AX,M01AB,False,False
+Pain,experience types,tramadol,oxymorphone,0.1438,N02AX,N02AA,False,True
+Pain,experience types,tramadol,amitriptyline,-0.1513,N02AX,N06AA,False,False
+Pain,experience types,tramadol,fentanyl,-0.5982,N02AX,N02AB,False,True
+Pain,experience types,tramadol,methadone,-0.5736,N02AX,N07BC,False,False
+Pain,experience types,tramadol,morphine,-0.2525,N02AX,N02AA,False,True
+Pain,experience types,tramadol,diclofenac (M02AA),-0.379,N02AX,M02AA,False,False
+Pain,experience types,tramadol,diclofenac (M01AB),0.5895,N02AX,M01AB,False,False
+Pain,experience types,tramadol,acetaminophen / codeine,0.6177,N02AX,N02AJ,False,True
+Pain,experience types,tramadol,hydrocodone,0.4725,N02AX,R05DA,False,False
+Pain,experience types,tramadol,pregabalin,0.1024,N02AX,N02BF,False,False
+Pain,experience types,tramadol,lidocaine,-0.3516,N02AX,N01BB,False,False
+Pain,experience types,tramadol,buprenorphine,-0.5582,N02AX,N02AE,False,True
+Pain,experience types,tramadol,nortriptyline,0.0674,N02AX,N06AA,False,False
+Pain,experience types,tramadol,acetaminophen / propoxyphene,0.375,N02AX,N02AC,False,True
+Pain,experience types,tramadol,hydrocodone / ibuprofen,-0.0978,N02AX,N02AJ,False,True
+Pain,experience types,tramadol,naproxen,0.6968,N02AX,M01AE,False,False
+Pain,experience types,tramadol,celecoxib,0.4223,N02AX,M01AH,False,False
+Pain,experience types,tramadol,meperidine,0.1789,N02AX,N02AB,False,True
+Pain,experience types,tramadol,duloxetine,-0.0331,N02AX,N06AX,False,False
+Pain,experience types,acetaminophen / hydrocodone,oxycodone,0.0725,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / hydrocodone,acetaminophen / oxycodone,0.8578,N02AJ,N02AJ,True,True
+Pain,experience types,acetaminophen / hydrocodone,tapentadol,0.0921,N02AJ,N02AX,False,True
+Pain,experience types,acetaminophen / hydrocodone,hydromorphone,0.2592,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / hydrocodone,gabapentin,-0.0006,N02AJ,N02BF,False,False
+Pain,experience types,acetaminophen / hydrocodone,ketorolac,0.0692,N02AJ,M01AB,False,False
+Pain,experience types,acetaminophen / hydrocodone,oxymorphone,-0.1672,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / hydrocodone,amitriptyline,-0.141,N02AJ,N06AA,False,False
+Pain,experience types,acetaminophen / hydrocodone,fentanyl,-0.3574,N02AJ,N02AB,False,True
+Pain,experience types,acetaminophen / hydrocodone,methadone,-0.1801,N02AJ,N07BC,False,False
+Pain,experience types,acetaminophen / hydrocodone,morphine,0.3612,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / hydrocodone,diclofenac (M02AA),-0.4183,N02AJ,M02AA,False,False
+Pain,experience types,acetaminophen / hydrocodone,diclofenac (M01AB),0.1129,N02AJ,M01AB,False,False
+Pain,experience types,acetaminophen / hydrocodone,acetaminophen / codeine,0.3543,N02AJ,N02AJ,True,True
+Pain,experience types,acetaminophen / hydrocodone,hydrocodone,0.6254,N02AJ,R05DA,False,False
+Pain,experience types,acetaminophen / hydrocodone,pregabalin,-0.0559,N02AJ,N02BF,False,False
+Pain,experience types,acetaminophen / hydrocodone,lidocaine,-0.3423,N02AJ,N01BB,False,False
+Pain,experience types,acetaminophen / hydrocodone,buprenorphine,-0.4254,N02AJ,N02AE,False,True
+Pain,experience types,acetaminophen / hydrocodone,nortriptyline,-0.1268,N02AJ,N06AA,False,False
+Pain,experience types,acetaminophen / hydrocodone,acetaminophen / propoxyphene,0.0917,N02AJ,N02AC,False,True
+Pain,experience types,acetaminophen / hydrocodone,hydrocodone / ibuprofen,0.2185,N02AJ,N02AJ,True,True
+Pain,experience types,acetaminophen / hydrocodone,naproxen,0.3242,N02AJ,M01AE,False,False
+Pain,experience types,acetaminophen / hydrocodone,celecoxib,0.0568,N02AJ,M01AH,False,False
+Pain,experience types,acetaminophen / hydrocodone,meperidine,-0.1497,N02AJ,N02AB,False,True
+Pain,experience types,acetaminophen / hydrocodone,duloxetine,-0.1607,N02AJ,N06AX,False,False
+Pain,experience types,oxycodone,acetaminophen / oxycodone,0.0926,N02AA,N02AJ,False,True
+Pain,experience types,oxycodone,tapentadol,-0.077,N02AA,N02AX,False,True
+Pain,experience types,oxycodone,hydromorphone,0.1303,N02AA,N02AA,True,True
+Pain,experience types,oxycodone,gabapentin,0.0011,N02AA,N02BF,False,False
+Pain,experience types,oxycodone,ketorolac,-0.3462,N02AA,M01AB,False,False
+Pain,experience types,oxycodone,oxymorphone,0.1701,N02AA,N02AA,True,True
+Pain,experience types,oxycodone,amitriptyline,-0.0421,N02AA,N06AA,False,False
+Pain,experience types,oxycodone,fentanyl,-0.1644,N02AA,N02AB,False,True
+Pain,experience types,oxycodone,methadone,0.8767,N02AA,N07BC,False,False
+Pain,experience types,oxycodone,morphine,0.8047,N02AA,N02AA,True,True
+Pain,experience types,oxycodone,diclofenac (M02AA),-0.4301,N02AA,M02AA,False,False
+Pain,experience types,oxycodone,diclofenac (M01AB),-0.3243,N02AA,M01AB,False,False
+Pain,experience types,oxycodone,acetaminophen / codeine,-0.3146,N02AA,N02AJ,False,True
+Pain,experience types,oxycodone,hydrocodone,-0.0719,N02AA,R05DA,False,False
+Pain,experience types,oxycodone,pregabalin,0.3259,N02AA,N02BF,False,False
+Pain,experience types,oxycodone,lidocaine,-0.3172,N02AA,N01BB,False,False
+Pain,experience types,oxycodone,buprenorphine,-0.2521,N02AA,N02AE,False,True
+Pain,experience types,oxycodone,nortriptyline,-0.2969,N02AA,N06AA,False,False
+Pain,experience types,oxycodone,acetaminophen / propoxyphene,-0.2397,N02AA,N02AC,False,True
+Pain,experience types,oxycodone,hydrocodone / ibuprofen,-0.034,N02AA,N02AJ,False,True
+Pain,experience types,oxycodone,naproxen,-0.2399,N02AA,M01AE,False,False
+Pain,experience types,oxycodone,celecoxib,0.1098,N02AA,M01AH,False,False
+Pain,experience types,oxycodone,meperidine,-0.3566,N02AA,N02AB,False,True
+Pain,experience types,oxycodone,duloxetine,0.3864,N02AA,N06AX,False,False
+Pain,experience types,acetaminophen / oxycodone,tapentadol,0.106,N02AJ,N02AX,False,True
+Pain,experience types,acetaminophen / oxycodone,hydromorphone,0.1877,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / oxycodone,gabapentin,-0.0784,N02AJ,N02BF,False,False
+Pain,experience types,acetaminophen / oxycodone,ketorolac,0.1632,N02AJ,M01AB,False,False
+Pain,experience types,acetaminophen / oxycodone,oxymorphone,-0.0283,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / oxycodone,amitriptyline,0.0552,N02AJ,N06AA,False,False
+Pain,experience types,acetaminophen / oxycodone,fentanyl,-0.4247,N02AJ,N02AB,False,True
+Pain,experience types,acetaminophen / oxycodone,methadone,-0.0745,N02AJ,N07BC,False,False
+Pain,experience types,acetaminophen / oxycodone,morphine,0.3537,N02AJ,N02AA,False,True
+Pain,experience types,acetaminophen / oxycodone,diclofenac (M02AA),-0.4447,N02AJ,M02AA,False,False
+Pain,experience types,acetaminophen / oxycodone,diclofenac (M01AB),0.0987,N02AJ,M01AB,False,False
+Pain,experience types,acetaminophen / oxycodone,acetaminophen / codeine,0.2806,N02AJ,N02AJ,True,True
+Pain,experience types,acetaminophen / oxycodone,hydrocodone,0.405,N02AJ,R05DA,False,False
+Pain,experience types,acetaminophen / oxycodone,pregabalin,-0.1066,N02AJ,N02BF,False,False
+Pain,experience types,acetaminophen / oxycodone,lidocaine,-0.4432,N02AJ,N01BB,False,False
+Pain,experience types,acetaminophen / oxycodone,buprenorphine,-0.5001,N02AJ,N02AE,False,True
+Pain,experience types,acetaminophen / oxycodone,nortriptyline,0.026,N02AJ,N06AA,False,False
+Pain,experience types,acetaminophen / oxycodone,acetaminophen / propoxyphene,0.2258,N02AJ,N02AC,False,True
+Pain,experience types,acetaminophen / oxycodone,hydrocodone / ibuprofen,0.3716,N02AJ,N02AJ,True,True
+Pain,experience types,acetaminophen / oxycodone,naproxen,0.1171,N02AJ,M01AE,False,False
+Pain,experience types,acetaminophen / oxycodone,celecoxib,0.0129,N02AJ,M01AH,False,False
+Pain,experience types,acetaminophen / oxycodone,meperidine,0.0406,N02AJ,N02AB,False,True
+Pain,experience types,acetaminophen / oxycodone,duloxetine,-0.1179,N02AJ,N06AX,False,False
+Pain,experience types,tapentadol,hydromorphone,0.1071,N02AX,N02AA,False,True
+Pain,experience types,tapentadol,gabapentin,0.3428,N02AX,N02BF,False,False
+Pain,experience types,tapentadol,ketorolac,0.0884,N02AX,M01AB,False,False
+Pain,experience types,tapentadol,oxymorphone,0.4823,N02AX,N02AA,False,True
+Pain,experience types,tapentadol,amitriptyline,0.0888,N02AX,N06AA,False,False
+Pain,experience types,tapentadol,fentanyl,-0.5212,N02AX,N02AB,False,True
+Pain,experience types,tapentadol,methadone,-0.0479,N02AX,N07BC,False,False
+Pain,experience types,tapentadol,morphine,-0.0146,N02AX,N02AA,False,True
+Pain,experience types,tapentadol,diclofenac (M02AA),-0.5259,N02AX,M02AA,False,False
+Pain,experience types,tapentadol,diclofenac (M01AB),0.1773,N02AX,M01AB,False,False
+Pain,experience types,tapentadol,acetaminophen / codeine,-0.1661,N02AX,N02AJ,False,True
+Pain,experience types,tapentadol,hydrocodone,0.1333,N02AX,R05DA,False,False
+Pain,experience types,tapentadol,pregabalin,0.6014,N02AX,N02BF,False,False
+Pain,experience types,tapentadol,lidocaine,-0.6429,N02AX,N01BB,False,False
+Pain,experience types,tapentadol,buprenorphine,-0.4041,N02AX,N02AE,False,True
+Pain,experience types,tapentadol,nortriptyline,0.2784,N02AX,N06AA,False,False
+Pain,experience types,tapentadol,acetaminophen / propoxyphene,0.4153,N02AX,N02AC,False,True
+Pain,experience types,tapentadol,hydrocodone / ibuprofen,-0.1843,N02AX,N02AJ,False,True
+Pain,experience types,tapentadol,naproxen,-0.0589,N02AX,M01AE,False,False
+Pain,experience types,tapentadol,celecoxib,0.0637,N02AX,M01AH,False,False
+Pain,experience types,tapentadol,meperidine,0.3318,N02AX,N02AB,False,True
+Pain,experience types,tapentadol,duloxetine,0.5851,N02AX,N06AX,False,False
+Pain,experience types,hydromorphone,gabapentin,-0.039,N02AA,N02BF,False,False
+Pain,experience types,hydromorphone,ketorolac,0.3764,N02AA,M01AB,False,False
+Pain,experience types,hydromorphone,oxymorphone,0.1281,N02AA,N02AA,True,True
+Pain,experience types,hydromorphone,amitriptyline,-0.2781,N02AA,N06AA,False,False
+Pain,experience types,hydromorphone,fentanyl,-0.5066,N02AA,N02AB,False,True
+Pain,experience types,hydromorphone,methadone,-0.1106,N02AA,N07BC,False,False
+Pain,experience types,hydromorphone,morphine,0.099,N02AA,N02AA,True,True
+Pain,experience types,hydromorphone,diclofenac (M02AA),-0.5011,N02AA,M02AA,False,False
+Pain,experience types,hydromorphone,diclofenac (M01AB),0.6172,N02AA,M01AB,False,False
+Pain,experience types,hydromorphone,acetaminophen / codeine,0.2278,N02AA,N02AJ,False,True
+Pain,experience types,hydromorphone,hydrocodone,0.0827,N02AA,R05DA,False,False
+Pain,experience types,hydromorphone,pregabalin,0.0671,N02AA,N02BF,False,False
+Pain,experience types,hydromorphone,lidocaine,-0.426,N02AA,N01BB,False,False
+Pain,experience types,hydromorphone,buprenorphine,-0.5215,N02AA,N02AE,False,True
+Pain,experience types,hydromorphone,nortriptyline,-0.2069,N02AA,N06AA,False,False
+Pain,experience types,hydromorphone,acetaminophen / propoxyphene,0.2698,N02AA,N02AC,False,True
+Pain,experience types,hydromorphone,hydrocodone / ibuprofen,0.3231,N02AA,N02AJ,False,True
+Pain,experience types,hydromorphone,naproxen,0.5644,N02AA,M01AE,False,False
+Pain,experience types,hydromorphone,celecoxib,0.3361,N02AA,M01AH,False,False
+Pain,experience types,hydromorphone,meperidine,0.1307,N02AA,N02AB,False,True
+Pain,experience types,hydromorphone,duloxetine,-0.0128,N02AA,N06AX,False,False
+Pain,experience types,gabapentin,ketorolac,-0.1542,N02BF,M01AB,False,False
+Pain,experience types,gabapentin,oxymorphone,0.3693,N02BF,N02AA,False,False
+Pain,experience types,gabapentin,amitriptyline,0.249,N02BF,N06AA,False,False
+Pain,experience types,gabapentin,fentanyl,-0.2927,N02BF,N02AB,False,False
+Pain,experience types,gabapentin,methadone,-0.11,N02BF,N07BC,False,False
+Pain,experience types,gabapentin,morphine,-0.0193,N02BF,N02AA,False,False
+Pain,experience types,gabapentin,diclofenac (M02AA),-0.167,N02BF,M02AA,False,False
+Pain,experience types,gabapentin,diclofenac (M01AB),-0.0356,N02BF,M01AB,False,False
+Pain,experience types,gabapentin,acetaminophen / codeine,-0.1865,N02BF,N02AJ,False,False
+Pain,experience types,gabapentin,hydrocodone,0.1232,N02BF,R05DA,False,False
+Pain,experience types,gabapentin,pregabalin,0.6596,N02BF,N02BF,True,True
+Pain,experience types,gabapentin,lidocaine,-0.3617,N02BF,N01BB,False,False
+Pain,experience types,gabapentin,buprenorphine,-0.2837,N02BF,N02AE,False,False
+Pain,experience types,gabapentin,nortriptyline,0.4392,N02BF,N06AA,False,False
+Pain,experience types,gabapentin,acetaminophen / propoxyphene,-0.011,N02BF,N02AC,False,False
+Pain,experience types,gabapentin,hydrocodone / ibuprofen,0.0878,N02BF,N02AJ,False,False
+Pain,experience types,gabapentin,naproxen,-0.1312,N02BF,M01AE,False,False
+Pain,experience types,gabapentin,celecoxib,-0.2173,N02BF,M01AH,False,False
+Pain,experience types,gabapentin,meperidine,0.0124,N02BF,N02AB,False,False
+Pain,experience types,gabapentin,duloxetine,0.0273,N02BF,N06AX,False,False
+Pain,experience types,ketorolac,oxymorphone,0.158,M01AB,N02AA,False,False
+Pain,experience types,ketorolac,amitriptyline,-0.2996,M01AB,N06AA,False,False
+Pain,experience types,ketorolac,fentanyl,-0.4419,M01AB,N02AB,False,False
+Pain,experience types,ketorolac,methadone,-0.5161,M01AB,N07BC,False,False
+Pain,experience types,ketorolac,morphine,-0.2368,M01AB,N02AA,False,False
+Pain,experience types,ketorolac,diclofenac (M02AA),-0.1248,M01AB,M02AA,False,False
+Pain,experience types,ketorolac,diclofenac (M01AB),0.6209,M01AB,M01AB,True,True
+Pain,experience types,ketorolac,acetaminophen / codeine,0.6167,M01AB,N02AJ,False,False
+Pain,experience types,ketorolac,hydrocodone,0.2601,M01AB,R05DA,False,False
+Pain,experience types,ketorolac,pregabalin,-0.2091,M01AB,N02BF,False,False
+Pain,experience types,ketorolac,lidocaine,-0.2832,M01AB,N01BB,False,False
+Pain,experience types,ketorolac,buprenorphine,-0.4462,M01AB,N02AE,False,False
+Pain,experience types,ketorolac,nortriptyline,-0.1576,M01AB,N06AA,False,False
+Pain,experience types,ketorolac,acetaminophen / propoxyphene,0.2752,M01AB,N02AC,False,False
+Pain,experience types,ketorolac,hydrocodone / ibuprofen,0.2474,M01AB,N02AJ,False,False
+Pain,experience types,ketorolac,naproxen,0.6165,M01AB,M01AE,False,True
+Pain,experience types,ketorolac,celecoxib,0.5311,M01AB,M01AH,False,True
+Pain,experience types,ketorolac,meperidine,0.4209,M01AB,N02AB,False,False
+Pain,experience types,ketorolac,duloxetine,-0.3665,M01AB,N06AX,False,False
+Pain,experience types,oxymorphone,amitriptyline,-0.1551,N02AA,N06AA,False,False
+Pain,experience types,oxymorphone,fentanyl,-0.2976,N02AA,N02AB,False,True
+Pain,experience types,oxymorphone,methadone,0.0167,N02AA,N07BC,False,False
+Pain,experience types,oxymorphone,morphine,-0.0191,N02AA,N02AA,True,True
+Pain,experience types,oxymorphone,diclofenac (M02AA),-0.3393,N02AA,M02AA,False,False
+Pain,experience types,oxymorphone,diclofenac (M01AB),0.2614,N02AA,M01AB,False,False
+Pain,experience types,oxymorphone,acetaminophen / codeine,-0.2723,N02AA,N02AJ,False,True
+Pain,experience types,oxymorphone,hydrocodone,-0.0112,N02AA,R05DA,False,False
+Pain,experience types,oxymorphone,pregabalin,0.428,N02AA,N02BF,False,False
+Pain,experience types,oxymorphone,lidocaine,-0.4548,N02AA,N01BB,False,False
+Pain,experience types,oxymorphone,buprenorphine,-0.2987,N02AA,N02AE,False,True
+Pain,experience types,oxymorphone,nortriptyline,-0.118,N02AA,N06AA,False,False
+Pain,experience types,oxymorphone,acetaminophen / propoxyphene,0.2639,N02AA,N02AC,False,True
+Pain,experience types,oxymorphone,hydrocodone / ibuprofen,-0.0455,N02AA,N02AJ,False,True
+Pain,experience types,oxymorphone,naproxen,-0.0679,N02AA,M01AE,False,False
+Pain,experience types,oxymorphone,celecoxib,0.1,N02AA,M01AH,False,False
+Pain,experience types,oxymorphone,meperidine,0.4703,N02AA,N02AB,False,True
+Pain,experience types,oxymorphone,duloxetine,0.3039,N02AA,N06AX,False,False
+Pain,experience types,amitriptyline,fentanyl,-0.1831,N06AA,N02AB,False,False
+Pain,experience types,amitriptyline,methadone,0.1869,N06AA,N07BC,False,False
+Pain,experience types,amitriptyline,morphine,-0.1444,N06AA,N02AA,False,False
+Pain,experience types,amitriptyline,diclofenac (M02AA),-0.1803,N06AA,M02AA,False,False
+Pain,experience types,amitriptyline,diclofenac (M01AB),-0.2041,N06AA,M01AB,False,False
+Pain,experience types,amitriptyline,acetaminophen / codeine,-0.177,N06AA,N02AJ,False,False
+Pain,experience types,amitriptyline,hydrocodone,-0.2907,N06AA,R05DA,False,False
+Pain,experience types,amitriptyline,pregabalin,0.1639,N06AA,N02BF,False,False
+Pain,experience types,amitriptyline,lidocaine,-0.1992,N06AA,N01BB,False,False
+Pain,experience types,amitriptyline,buprenorphine,-0.0791,N06AA,N02AE,False,False
+Pain,experience types,amitriptyline,nortriptyline,0.8867,N06AA,N06AA,True,True
+Pain,experience types,amitriptyline,acetaminophen / propoxyphene,0.1113,N06AA,N02AC,False,False
+Pain,experience types,amitriptyline,hydrocodone / ibuprofen,-0.0475,N06AA,N02AJ,False,False
+Pain,experience types,amitriptyline,naproxen,-0.3948,N06AA,M01AE,False,False
+Pain,experience types,amitriptyline,celecoxib,-0.4534,N06AA,M01AH,False,False
+Pain,experience types,amitriptyline,meperidine,0.051,N06AA,N02AB,False,False
+Pain,experience types,amitriptyline,duloxetine,0.2432,N06AA,N06AX,False,True
+Pain,experience types,fentanyl,methadone,-0.0111,N02AB,N07BC,False,False
+Pain,experience types,fentanyl,morphine,-0.2366,N02AB,N02AA,False,True
+Pain,experience types,fentanyl,diclofenac (M02AA),0.8628,N02AB,M02AA,False,False
+Pain,experience types,fentanyl,diclofenac (M01AB),-0.4671,N02AB,M01AB,False,False
+Pain,experience types,fentanyl,acetaminophen / codeine,-0.3803,N02AB,N02AJ,False,True
+Pain,experience types,fentanyl,hydrocodone,-0.2866,N02AB,R05DA,False,False
+Pain,experience types,fentanyl,pregabalin,-0.4654,N02AB,N02BF,False,False
+Pain,experience types,fentanyl,lidocaine,0.9041,N02AB,N01BB,False,False
+Pain,experience types,fentanyl,buprenorphine,0.9709,N02AB,N02AE,False,True
+Pain,experience types,fentanyl,nortriptyline,-0.2917,N02AB,N06AA,False,False
+Pain,experience types,fentanyl,acetaminophen / propoxyphene,-0.3972,N02AB,N02AC,False,True
+Pain,experience types,fentanyl,hydrocodone / ibuprofen,-0.1408,N02AB,N02AJ,False,True
+Pain,experience types,fentanyl,naproxen,-0.4261,N02AB,M01AE,False,False
+Pain,experience types,fentanyl,celecoxib,-0.4616,N02AB,M01AH,False,False
+Pain,experience types,fentanyl,meperidine,-0.2432,N02AB,N02AB,True,True
+Pain,experience types,fentanyl,duloxetine,-0.2881,N02AB,N06AX,False,False
+Pain,experience types,methadone,morphine,0.6774,N07BC,N02AA,False,False
+Pain,experience types,methadone,diclofenac (M02AA),-0.2807,N07BC,M02AA,False,False
+Pain,experience types,methadone,diclofenac (M01AB),-0.531,N07BC,M01AB,False,False
+Pain,experience types,methadone,acetaminophen / codeine,-0.4811,N07BC,N02AJ,False,False
+Pain,experience types,methadone,hydrocodone,-0.2999,N07BC,R05DA,False,False
+Pain,experience types,methadone,pregabalin,0.2977,N07BC,N02BF,False,False
+Pain,experience types,methadone,lidocaine,-0.1678,N07BC,N01BB,False,False
+Pain,experience types,methadone,buprenorphine,-0.0294,N07BC,N02AE,False,False
+Pain,experience types,methadone,nortriptyline,-0.076,N07BC,N06AA,False,False
+Pain,experience types,methadone,acetaminophen / propoxyphene,-0.238,N07BC,N02AC,False,False
+Pain,experience types,methadone,hydrocodone / ibuprofen,-0.197,N07BC,N02AJ,False,False
+Pain,experience types,methadone,naproxen,-0.5007,N07BC,M01AE,False,False
+Pain,experience types,methadone,celecoxib,-0.0328,N07BC,M01AH,False,False
+Pain,experience types,methadone,meperidine,-0.2757,N07BC,N02AB,False,False
+Pain,experience types,methadone,duloxetine,0.5709,N07BC,N06AX,False,False
+Pain,experience types,morphine,diclofenac (M02AA),-0.3778,N02AA,M02AA,False,False
+Pain,experience types,morphine,diclofenac (M01AB),-0.228,N02AA,M01AB,False,False
+Pain,experience types,morphine,acetaminophen / codeine,-0.1505,N02AA,N02AJ,False,True
+Pain,experience types,morphine,hydrocodone,0.2991,N02AA,R05DA,False,False
+Pain,experience types,morphine,pregabalin,0.2231,N02AA,N02BF,False,False
+Pain,experience types,morphine,lidocaine,-0.2895,N02AA,N01BB,False,False
+Pain,experience types,morphine,buprenorphine,-0.3289,N02AA,N02AE,False,True
+Pain,experience types,morphine,nortriptyline,-0.3478,N02AA,N06AA,False,False
+Pain,experience types,morphine,acetaminophen / propoxyphene,-0.4441,N02AA,N02AC,False,True
+Pain,experience types,morphine,hydrocodone / ibuprofen,-0.0922,N02AA,N02AJ,False,True
+Pain,experience types,morphine,naproxen,-0.0422,N02AA,M01AE,False,False
+Pain,experience types,morphine,celecoxib,0.3556,N02AA,M01AH,False,False
+Pain,experience types,morphine,meperidine,-0.5342,N02AA,N02AB,False,True
+Pain,experience types,morphine,duloxetine,0.1676,N02AA,N06AX,False,False
+Pain,experience types,diclofenac (M02AA),diclofenac (M01AB),-0.3468,M02AA,M01AB,False,False
+Pain,experience types,diclofenac (M02AA),acetaminophen / codeine,-0.0944,M02AA,N02AJ,False,False
+Pain,experience types,diclofenac (M02AA),hydrocodone,-0.214,M02AA,R05DA,False,False
+Pain,experience types,diclofenac (M02AA),pregabalin,-0.4504,M02AA,N02BF,False,False
+Pain,experience types,diclofenac (M02AA),lidocaine,0.8658,M02AA,N01BB,False,False
+Pain,experience types,diclofenac (M02AA),buprenorphine,0.848,M02AA,N02AE,False,False
+Pain,experience types,diclofenac (M02AA),nortriptyline,-0.1609,M02AA,N06AA,False,False
+Pain,experience types,diclofenac (M02AA),acetaminophen / propoxyphene,-0.3847,M02AA,N02AC,False,False
+Pain,experience types,diclofenac (M02AA),hydrocodone / ibuprofen,-0.0565,M02AA,N02AJ,False,False
+Pain,experience types,diclofenac (M02AA),naproxen,-0.2362,M02AA,M01AE,False,False
+Pain,experience types,diclofenac (M02AA),celecoxib,-0.285,M02AA,M01AH,False,False
+Pain,experience types,diclofenac (M02AA),meperidine,-0.2287,M02AA,N02AB,False,False
+Pain,experience types,diclofenac (M02AA),duloxetine,-0.5385,M02AA,N06AX,False,False
+Pain,experience types,diclofenac (M01AB),acetaminophen / codeine,0.3723,M01AB,N02AJ,False,False
+Pain,experience types,diclofenac (M01AB),hydrocodone,0.2073,M01AB,R05DA,False,False
+Pain,experience types,diclofenac (M01AB),pregabalin,-0.1556,M01AB,N02BF,False,False
+Pain,experience types,diclofenac (M01AB),lidocaine,-0.2986,M01AB,N01BB,False,False
+Pain,experience types,diclofenac (M01AB),buprenorphine,-0.4512,M01AB,N02AE,False,False
+Pain,experience types,diclofenac (M01AB),nortriptyline,-0.0747,M01AB,N06AA,False,False
+Pain,experience types,diclofenac (M01AB),acetaminophen / propoxyphene,0.4216,M01AB,N02AC,False,False
+Pain,experience types,diclofenac (M01AB),hydrocodone / ibuprofen,0.1529,M01AB,N02AJ,False,False
+Pain,experience types,diclofenac (M01AB),naproxen,0.6226,M01AB,M01AE,False,True
+Pain,experience types,diclofenac (M01AB),celecoxib,0.5441,M01AB,M01AH,False,True
+Pain,experience types,diclofenac (M01AB),meperidine,0.3286,M01AB,N02AB,False,False
+Pain,experience types,diclofenac (M01AB),duloxetine,-0.2168,M01AB,N06AX,False,False
+Pain,experience types,acetaminophen / codeine,hydrocodone,0.3901,N02AJ,R05DA,False,False
+Pain,experience types,acetaminophen / codeine,pregabalin,-0.315,N02AJ,N02BF,False,False
+Pain,experience types,acetaminophen / codeine,lidocaine,-0.0972,N02AJ,N01BB,False,False
+Pain,experience types,acetaminophen / codeine,buprenorphine,-0.4198,N02AJ,N02AE,False,True
+Pain,experience types,acetaminophen / codeine,nortriptyline,-0.0907,N02AJ,N06AA,False,False
+Pain,experience types,acetaminophen / codeine,acetaminophen / propoxyphene,0.1343,N02AJ,N02AC,False,True
+Pain,experience types,acetaminophen / codeine,hydrocodone / ibuprofen,0.2691,N02AJ,N02AJ,True,True
+Pain,experience types,acetaminophen / codeine,naproxen,0.6984,N02AJ,M01AE,False,False
+Pain,experience types,acetaminophen / codeine,celecoxib,0.4179,N02AJ,M01AH,False,False
+Pain,experience types,acetaminophen / codeine,meperidine,-0.0662,N02AJ,N02AB,False,True
+Pain,experience types,acetaminophen / codeine,duloxetine,-0.4749,N02AJ,N06AX,False,False
+Pain,experience types,hydrocodone,pregabalin,-0.1209,R05DA,N02BF,False,False
+Pain,experience types,hydrocodone,lidocaine,-0.1516,R05DA,N01BB,False,False
+Pain,experience types,hydrocodone,buprenorphine,-0.3165,R05DA,N02AE,False,False
+Pain,experience types,hydrocodone,nortriptyline,-0.2738,R05DA,N06AA,False,False
+Pain,experience types,hydrocodone,acetaminophen / propoxyphene,-0.2564,R05DA,N02AC,False,False
+Pain,experience types,hydrocodone,hydrocodone / ibuprofen,-0.211,R05DA,N02AJ,False,False
+Pain,experience types,hydrocodone,naproxen,0.5182,R05DA,M01AE,False,False
+Pain,experience types,hydrocodone,celecoxib,0.3059,R05DA,M01AH,False,False
+Pain,experience types,hydrocodone,meperidine,-0.2353,R05DA,N02AB,False,False
+Pain,experience types,hydrocodone,duloxetine,-0.2921,R05DA,N06AX,False,False
+Pain,experience types,pregabalin,lidocaine,-0.6011,N02BF,N01BB,False,False
+Pain,experience types,pregabalin,buprenorphine,-0.4179,N02BF,N02AE,False,False
+Pain,experience types,pregabalin,nortriptyline,0.3438,N02BF,N06AA,False,False
+Pain,experience types,pregabalin,acetaminophen / propoxyphene,0.1094,N02BF,N02AC,False,False
+Pain,experience types,pregabalin,hydrocodone / ibuprofen,-0.1063,N02BF,N02AJ,False,False
+Pain,experience types,pregabalin,naproxen,-0.1635,N02BF,M01AE,False,False
+Pain,experience types,pregabalin,celecoxib,0.0434,N02BF,M01AH,False,False
+Pain,experience types,pregabalin,meperidine,0.036,N02BF,N02AB,False,False
+Pain,experience types,pregabalin,duloxetine,0.592,N02BF,N06AX,False,False
+Pain,experience types,lidocaine,buprenorphine,0.8654,N01BB,N02AE,False,False
+Pain,experience types,lidocaine,nortriptyline,-0.2976,N01BB,N06AA,False,False
+Pain,experience types,lidocaine,acetaminophen / propoxyphene,-0.4275,N01BB,N02AC,False,False
+Pain,experience types,lidocaine,hydrocodone / ibuprofen,-0.2212,N01BB,N02AJ,False,False
+Pain,experience types,lidocaine,naproxen,-0.1457,N01BB,M01AE,False,False
+Pain,experience types,lidocaine,celecoxib,-0.2521,N01BB,M01AH,False,False
+Pain,experience types,lidocaine,meperidine,-0.3037,N01BB,N02AB,False,False
+Pain,experience types,lidocaine,duloxetine,-0.4288,N01BB,N06AX,False,False
+Pain,experience types,buprenorphine,nortriptyline,-0.1667,N02AE,N06AA,False,False
+Pain,experience types,buprenorphine,acetaminophen / propoxyphene,-0.3445,N02AE,N02AC,False,True
+Pain,experience types,buprenorphine,hydrocodone / ibuprofen,-0.244,N02AE,N02AJ,False,True
+Pain,experience types,buprenorphine,naproxen,-0.4513,N02AE,M01AE,False,False
+Pain,experience types,buprenorphine,celecoxib,-0.4973,N02AE,M01AH,False,False
+Pain,experience types,buprenorphine,meperidine,-0.1691,N02AE,N02AB,False,True
+Pain,experience types,buprenorphine,duloxetine,-0.2024,N02AE,N06AX,False,False
+Pain,experience types,nortriptyline,acetaminophen / propoxyphene,0.3068,N06AA,N02AC,False,False
+Pain,experience types,nortriptyline,hydrocodone / ibuprofen,0.0665,N06AA,N02AJ,False,False
+Pain,experience types,nortriptyline,naproxen,-0.2915,N06AA,M01AE,False,False
+Pain,experience types,nortriptyline,celecoxib,-0.3956,N06AA,M01AH,False,False
+Pain,experience types,nortriptyline,meperidine,0.1886,N06AA,N02AB,False,False
+Pain,experience types,nortriptyline,duloxetine,0.2234,N06AA,N06AX,False,True
+Pain,experience types,acetaminophen / propoxyphene,hydrocodone / ibuprofen,0.191,N02AC,N02AJ,False,True
+Pain,experience types,acetaminophen / propoxyphene,naproxen,-0.0443,N02AC,M01AE,False,False
+Pain,experience types,acetaminophen / propoxyphene,celecoxib,-0.0532,N02AC,M01AH,False,False
+Pain,experience types,acetaminophen / propoxyphene,meperidine,0.5679,N02AC,N02AB,False,True
+Pain,experience types,acetaminophen / propoxyphene,duloxetine,0.3019,N02AC,N06AX,False,False
+Pain,experience types,hydrocodone / ibuprofen,naproxen,0.0519,N02AJ,M01AE,False,False
+Pain,experience types,hydrocodone / ibuprofen,celecoxib,-0.1381,N02AJ,M01AH,False,False
+Pain,experience types,hydrocodone / ibuprofen,meperidine,0.1324,N02AJ,N02AB,False,True
+Pain,experience types,hydrocodone / ibuprofen,duloxetine,-0.3417,N02AJ,N06AX,False,False
+Pain,experience types,naproxen,celecoxib,0.6267,M01AE,M01AH,False,True
+Pain,experience types,naproxen,meperidine,0.021,M01AE,N02AB,False,False
+Pain,experience types,naproxen,duloxetine,-0.3627,M01AE,N06AX,False,False
+Pain,experience types,celecoxib,meperidine,-0.0628,M01AH,N02AB,False,False
+Pain,experience types,celecoxib,duloxetine,-0.0292,M01AH,N06AX,False,False
+Pain,experience types,meperidine,duloxetine,0.2432,N02AB,N06AX,False,False
 Acne,side effects,isotretinoin,adapalene / benzoyl peroxide,0.132,D10BA,D10AD,False,False
 Acne,side effects,isotretinoin,doxycycline,-0.4572,D10BA,J01AA,False,False
 Acne,side effects,isotretinoin,benzoyl peroxide / clindamycin,-0.0269,D10BA,D10AF,False,False
@@ -3242,108 +3242,108 @@ Acne,side effects (composition),ethinyl estradiol / norethindrone,clindamycin,-0
 Acne,side effects (composition),sulfamethoxazole / trimethoprim,clindamycin / tretinoin,-0.708,J01EE,D10AD,False,False
 Acne,side effects (composition),sulfamethoxazole / trimethoprim,clindamycin,-0.3591,J01EE,D10AF,False,False
 Acne,side effects (composition),clindamycin / tretinoin,clindamycin,0.4293,D10AD,D10AF,False,True
-Acne,experience types,isotretinoin,adapalene / benzoyl peroxide,-0.254,D10BA,D10AD,False,False
-Acne,experience types,isotretinoin,doxycycline,0.0345,D10BA,J01AA,False,False
-Acne,experience types,isotretinoin,benzoyl peroxide / clindamycin,-0.2613,D10BA,D10AF,False,False
-Acne,experience types,isotretinoin,minocycline,0.2454,D10BA,J01AA,False,False
-Acne,experience types,isotretinoin,tretinoin,-0.2043,D10BA,D10AD,False,False
-Acne,experience types,isotretinoin,ethinyl estradiol / norgestimate,-0.191,D10BA,G03AA,False,False
-Acne,experience types,isotretinoin,drospirenone / ethinyl estradiol,-0.1126,D10BA,G03AA,False,False
-Acne,experience types,isotretinoin,adapalene,-0.3303,D10BA,D10AD,False,False
-Acne,experience types,isotretinoin,spironolactone,0.4448,D10BA,C03DA,False,False
-Acne,experience types,isotretinoin,dapsone,0.069,D10BA,D10AX,False,False
-Acne,experience types,isotretinoin,ethinyl estradiol / norethindrone,-0.2363,D10BA,G03AA,False,False
-Acne,experience types,isotretinoin,sulfamethoxazole / trimethoprim,0.4243,D10BA,J01EE,False,False
-Acne,experience types,isotretinoin,clindamycin / tretinoin,-0.3505,D10BA,D10AD,False,False
-Acne,experience types,isotretinoin,clindamycin,-0.1416,D10BA,D10AF,False,False
-Acne,experience types,adapalene / benzoyl peroxide,doxycycline,-0.3827,D10AD,J01AA,False,False
-Acne,experience types,adapalene / benzoyl peroxide,benzoyl peroxide / clindamycin,0.8309,D10AD,D10AF,False,True
-Acne,experience types,adapalene / benzoyl peroxide,minocycline,-0.4331,D10AD,J01AA,False,False
-Acne,experience types,adapalene / benzoyl peroxide,tretinoin,0.5356,D10AD,D10AD,True,True
-Acne,experience types,adapalene / benzoyl peroxide,ethinyl estradiol / norgestimate,-0.4367,D10AD,G03AA,False,False
-Acne,experience types,adapalene / benzoyl peroxide,drospirenone / ethinyl estradiol,-0.5256,D10AD,G03AA,False,False
-Acne,experience types,adapalene / benzoyl peroxide,adapalene,0.8167,D10AD,D10AD,True,True
-Acne,experience types,adapalene / benzoyl peroxide,spironolactone,-0.637,D10AD,C03DA,False,False
-Acne,experience types,adapalene / benzoyl peroxide,dapsone,0.2763,D10AD,D10AX,False,True
-Acne,experience types,adapalene / benzoyl peroxide,ethinyl estradiol / norethindrone,-0.4162,D10AD,G03AA,False,False
-Acne,experience types,adapalene / benzoyl peroxide,sulfamethoxazole / trimethoprim,-0.4712,D10AD,J01EE,False,False
-Acne,experience types,adapalene / benzoyl peroxide,clindamycin / tretinoin,0.6744,D10AD,D10AD,True,True
-Acne,experience types,adapalene / benzoyl peroxide,clindamycin,0.2941,D10AD,D10AF,False,True
-Acne,experience types,doxycycline,benzoyl peroxide / clindamycin,-0.3787,J01AA,D10AF,False,False
-Acne,experience types,doxycycline,minocycline,0.502,J01AA,J01AA,True,True
-Acne,experience types,doxycycline,tretinoin,-0.2103,J01AA,D10AD,False,False
-Acne,experience types,doxycycline,ethinyl estradiol / norgestimate,-0.2137,J01AA,G03AA,False,False
-Acne,experience types,doxycycline,drospirenone / ethinyl estradiol,-0.0688,J01AA,G03AA,False,False
-Acne,experience types,doxycycline,adapalene,-0.4464,J01AA,D10AD,False,False
-Acne,experience types,doxycycline,spironolactone,0.6308,J01AA,C03DA,False,False
-Acne,experience types,doxycycline,dapsone,-0.3644,J01AA,D10AX,False,False
-Acne,experience types,doxycycline,ethinyl estradiol / norethindrone,-0.2116,J01AA,G03AA,False,False
-Acne,experience types,doxycycline,sulfamethoxazole / trimethoprim,0.6636,J01AA,J01EE,False,False
-Acne,experience types,doxycycline,clindamycin / tretinoin,-0.3765,J01AA,D10AD,False,False
-Acne,experience types,doxycycline,clindamycin,-0.2252,J01AA,D10AF,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,minocycline,-0.4096,D10AF,J01AA,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,tretinoin,0.5739,D10AF,D10AD,False,True
-Acne,experience types,benzoyl peroxide / clindamycin,ethinyl estradiol / norgestimate,-0.552,D10AF,G03AA,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,drospirenone / ethinyl estradiol,-0.6471,D10AF,G03AA,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,adapalene,0.8078,D10AF,D10AD,False,True
-Acne,experience types,benzoyl peroxide / clindamycin,spironolactone,-0.6289,D10AF,C03DA,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,dapsone,0.4321,D10AF,D10AX,False,True
-Acne,experience types,benzoyl peroxide / clindamycin,ethinyl estradiol / norethindrone,-0.4847,D10AF,G03AA,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,sulfamethoxazole / trimethoprim,-0.3106,D10AF,J01EE,False,False
-Acne,experience types,benzoyl peroxide / clindamycin,clindamycin / tretinoin,0.5887,D10AF,D10AD,False,True
-Acne,experience types,benzoyl peroxide / clindamycin,clindamycin,0.435,D10AF,D10AF,True,True
-Acne,experience types,minocycline,tretinoin,-0.3298,J01AA,D10AD,False,False
-Acne,experience types,minocycline,ethinyl estradiol / norgestimate,-0.1977,J01AA,G03AA,False,False
-Acne,experience types,minocycline,drospirenone / ethinyl estradiol,-0.1344,J01AA,G03AA,False,False
-Acne,experience types,minocycline,adapalene,-0.4875,J01AA,D10AD,False,False
-Acne,experience types,minocycline,spironolactone,0.485,J01AA,C03DA,False,False
-Acne,experience types,minocycline,dapsone,-0.3685,J01AA,D10AX,False,False
-Acne,experience types,minocycline,ethinyl estradiol / norethindrone,-0.2102,J01AA,G03AA,False,False
-Acne,experience types,minocycline,sulfamethoxazole / trimethoprim,0.8006,J01AA,J01EE,False,False
-Acne,experience types,minocycline,clindamycin / tretinoin,-0.4328,J01AA,D10AD,False,False
-Acne,experience types,minocycline,clindamycin,-0.2212,J01AA,D10AF,False,False
-Acne,experience types,tretinoin,ethinyl estradiol / norgestimate,-0.3486,D10AD,G03AA,False,False
-Acne,experience types,tretinoin,drospirenone / ethinyl estradiol,-0.3613,D10AD,G03AA,False,False
-Acne,experience types,tretinoin,adapalene,0.5378,D10AD,D10AD,True,True
-Acne,experience types,tretinoin,spironolactone,-0.4553,D10AD,C03DA,False,False
-Acne,experience types,tretinoin,dapsone,0.2109,D10AD,D10AX,False,True
-Acne,experience types,tretinoin,ethinyl estradiol / norethindrone,-0.3386,D10AD,G03AA,False,False
-Acne,experience types,tretinoin,sulfamethoxazole / trimethoprim,-0.439,D10AD,J01EE,False,False
-Acne,experience types,tretinoin,clindamycin / tretinoin,0.263,D10AD,D10AD,True,True
-Acne,experience types,tretinoin,clindamycin,0.0807,D10AD,D10AF,False,True
-Acne,experience types,ethinyl estradiol / norgestimate,drospirenone / ethinyl estradiol,0.9167,G03AA,G03AA,True,True
-Acne,experience types,ethinyl estradiol / norgestimate,adapalene,-0.49,G03AA,D10AD,False,False
-Acne,experience types,ethinyl estradiol / norgestimate,spironolactone,0.0388,G03AA,C03DA,False,False
-Acne,experience types,ethinyl estradiol / norgestimate,dapsone,-0.4763,G03AA,D10AX,False,False
-Acne,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / norethindrone,0.9174,G03AA,G03AA,True,True
-Acne,experience types,ethinyl estradiol / norgestimate,sulfamethoxazole / trimethoprim,-0.3556,G03AA,J01EE,False,False
-Acne,experience types,ethinyl estradiol / norgestimate,clindamycin / tretinoin,-0.404,G03AA,D10AD,False,False
-Acne,experience types,ethinyl estradiol / norgestimate,clindamycin,-0.5315,G03AA,D10AF,False,False
-Acne,experience types,drospirenone / ethinyl estradiol,adapalene,-0.5557,G03AA,D10AD,False,False
-Acne,experience types,drospirenone / ethinyl estradiol,spironolactone,0.2126,G03AA,C03DA,False,False
-Acne,experience types,drospirenone / ethinyl estradiol,dapsone,-0.5432,G03AA,D10AX,False,False
-Acne,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / norethindrone,0.8244,G03AA,G03AA,True,True
-Acne,experience types,drospirenone / ethinyl estradiol,sulfamethoxazole / trimethoprim,-0.2686,G03AA,J01EE,False,False
-Acne,experience types,drospirenone / ethinyl estradiol,clindamycin / tretinoin,-0.4706,G03AA,D10AD,False,False
-Acne,experience types,drospirenone / ethinyl estradiol,clindamycin,-0.541,G03AA,D10AF,False,False
-Acne,experience types,adapalene,spironolactone,-0.6971,D10AD,C03DA,False,False
-Acne,experience types,adapalene,dapsone,0.4566,D10AD,D10AX,False,True
-Acne,experience types,adapalene,ethinyl estradiol / norethindrone,-0.4438,D10AD,G03AA,False,False
-Acne,experience types,adapalene,sulfamethoxazole / trimethoprim,-0.5447,D10AD,J01EE,False,False
-Acne,experience types,adapalene,clindamycin / tretinoin,0.8493,D10AD,D10AD,True,True
-Acne,experience types,adapalene,clindamycin,0.5262,D10AD,D10AF,False,True
-Acne,experience types,spironolactone,dapsone,-0.2591,C03DA,D10AX,False,False
-Acne,experience types,spironolactone,ethinyl estradiol / norethindrone,-0.1225,C03DA,G03AA,False,False
-Acne,experience types,spironolactone,sulfamethoxazole / trimethoprim,0.6307,C03DA,J01EE,False,False
-Acne,experience types,spironolactone,clindamycin / tretinoin,-0.5524,C03DA,D10AD,False,False
-Acne,experience types,spironolactone,clindamycin,-0.3057,C03DA,D10AF,False,False
-Acne,experience types,dapsone,ethinyl estradiol / norethindrone,-0.41,D10AX,G03AA,False,False
-Acne,experience types,dapsone,sulfamethoxazole / trimethoprim,-0.1494,D10AX,J01EE,False,False
-Acne,experience types,dapsone,clindamycin / tretinoin,0.484,D10AX,D10AD,False,True
-Acne,experience types,dapsone,clindamycin,0.6342,D10AX,D10AF,False,True
-Acne,experience types,ethinyl estradiol / norethindrone,sulfamethoxazole / trimethoprim,-0.3366,G03AA,J01EE,False,False
-Acne,experience types,ethinyl estradiol / norethindrone,clindamycin / tretinoin,-0.3818,G03AA,D10AD,False,False
-Acne,experience types,ethinyl estradiol / norethindrone,clindamycin,-0.4758,G03AA,D10AF,False,False
-Acne,experience types,sulfamethoxazole / trimethoprim,clindamycin / tretinoin,-0.4773,J01EE,D10AD,False,False
-Acne,experience types,sulfamethoxazole / trimethoprim,clindamycin,-0.0625,J01EE,D10AF,False,False
-Acne,experience types,clindamycin / tretinoin,clindamycin,0.5287,D10AD,D10AF,False,True
+Acne,experience types,isotretinoin,adapalene / benzoyl peroxide,-0.2203,D10BA,D10AD,False,False
+Acne,experience types,isotretinoin,doxycycline,0.1135,D10BA,J01AA,False,False
+Acne,experience types,isotretinoin,benzoyl peroxide / clindamycin,-0.2496,D10BA,D10AF,False,False
+Acne,experience types,isotretinoin,minocycline,0.3524,D10BA,J01AA,False,False
+Acne,experience types,isotretinoin,tretinoin,-0.118,D10BA,D10AD,False,False
+Acne,experience types,isotretinoin,ethinyl estradiol / norgestimate,-0.2125,D10BA,G03AA,False,False
+Acne,experience types,isotretinoin,drospirenone / ethinyl estradiol,-0.1459,D10BA,G03AA,False,False
+Acne,experience types,isotretinoin,adapalene,-0.2532,D10BA,D10AD,False,False
+Acne,experience types,isotretinoin,spironolactone,0.3429,D10BA,C03DA,False,False
+Acne,experience types,isotretinoin,dapsone,-0.0753,D10BA,D10AX,False,False
+Acne,experience types,isotretinoin,ethinyl estradiol / norethindrone,-0.234,D10BA,G03AA,False,False
+Acne,experience types,isotretinoin,sulfamethoxazole / trimethoprim,0.3696,D10BA,J01EE,False,False
+Acne,experience types,isotretinoin,clindamycin / tretinoin,-0.2029,D10BA,D10AD,False,False
+Acne,experience types,isotretinoin,clindamycin,-0.1442,D10BA,D10AF,False,False
+Acne,experience types,adapalene / benzoyl peroxide,doxycycline,-0.4898,D10AD,J01AA,False,False
+Acne,experience types,adapalene / benzoyl peroxide,benzoyl peroxide / clindamycin,0.8287,D10AD,D10AF,False,True
+Acne,experience types,adapalene / benzoyl peroxide,minocycline,-0.5904,D10AD,J01AA,False,False
+Acne,experience types,adapalene / benzoyl peroxide,tretinoin,0.7059,D10AD,D10AD,True,True
+Acne,experience types,adapalene / benzoyl peroxide,ethinyl estradiol / norgestimate,-0.5145,D10AD,G03AA,False,False
+Acne,experience types,adapalene / benzoyl peroxide,drospirenone / ethinyl estradiol,-0.5264,D10AD,G03AA,False,False
+Acne,experience types,adapalene / benzoyl peroxide,adapalene,0.8933,D10AD,D10AD,True,True
+Acne,experience types,adapalene / benzoyl peroxide,spironolactone,-0.6877,D10AD,C03DA,False,False
+Acne,experience types,adapalene / benzoyl peroxide,dapsone,0.4432,D10AD,D10AX,False,True
+Acne,experience types,adapalene / benzoyl peroxide,ethinyl estradiol / norethindrone,-0.49,D10AD,G03AA,False,False
+Acne,experience types,adapalene / benzoyl peroxide,sulfamethoxazole / trimethoprim,-0.5512,D10AD,J01EE,False,False
+Acne,experience types,adapalene / benzoyl peroxide,clindamycin / tretinoin,0.6444,D10AD,D10AD,True,True
+Acne,experience types,adapalene / benzoyl peroxide,clindamycin,0.5468,D10AD,D10AF,False,True
+Acne,experience types,doxycycline,benzoyl peroxide / clindamycin,-0.5874,J01AA,D10AF,False,False
+Acne,experience types,doxycycline,minocycline,0.8182,J01AA,J01AA,True,True
+Acne,experience types,doxycycline,tretinoin,-0.1535,J01AA,D10AD,False,False
+Acne,experience types,doxycycline,ethinyl estradiol / norgestimate,-0.1703,J01AA,G03AA,False,False
+Acne,experience types,doxycycline,drospirenone / ethinyl estradiol,-0.0784,J01AA,G03AA,False,False
+Acne,experience types,doxycycline,adapalene,-0.3273,J01AA,D10AD,False,False
+Acne,experience types,doxycycline,spironolactone,0.6516,J01AA,C03DA,False,False
+Acne,experience types,doxycycline,dapsone,-0.5413,J01AA,D10AX,False,False
+Acne,experience types,doxycycline,ethinyl estradiol / norethindrone,-0.2205,J01AA,G03AA,False,False
+Acne,experience types,doxycycline,sulfamethoxazole / trimethoprim,0.6024,J01AA,J01EE,False,False
+Acne,experience types,doxycycline,clindamycin / tretinoin,-0.2992,J01AA,D10AD,False,False
+Acne,experience types,doxycycline,clindamycin,-0.253,J01AA,D10AF,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,minocycline,-0.4958,D10AF,J01AA,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,tretinoin,0.4078,D10AF,D10AD,False,True
+Acne,experience types,benzoyl peroxide / clindamycin,ethinyl estradiol / norgestimate,-0.5302,D10AF,G03AA,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,drospirenone / ethinyl estradiol,-0.6163,D10AF,G03AA,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,adapalene,0.7328,D10AF,D10AD,False,True
+Acne,experience types,benzoyl peroxide / clindamycin,spironolactone,-0.7159,D10AF,C03DA,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,dapsone,0.6013,D10AF,D10AX,False,True
+Acne,experience types,benzoyl peroxide / clindamycin,ethinyl estradiol / norethindrone,-0.4462,D10AF,G03AA,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,sulfamethoxazole / trimethoprim,-0.2341,D10AF,J01EE,False,False
+Acne,experience types,benzoyl peroxide / clindamycin,clindamycin / tretinoin,0.5444,D10AF,D10AD,False,True
+Acne,experience types,benzoyl peroxide / clindamycin,clindamycin,0.663,D10AF,D10AF,True,True
+Acne,experience types,minocycline,tretinoin,-0.5244,J01AA,D10AD,False,False
+Acne,experience types,minocycline,ethinyl estradiol / norgestimate,-0.1456,J01AA,G03AA,False,False
+Acne,experience types,minocycline,drospirenone / ethinyl estradiol,-0.0961,J01AA,G03AA,False,False
+Acne,experience types,minocycline,adapalene,-0.5753,J01AA,D10AD,False,False
+Acne,experience types,minocycline,spironolactone,0.7171,J01AA,C03DA,False,False
+Acne,experience types,minocycline,dapsone,-0.4861,J01AA,D10AX,False,False
+Acne,experience types,minocycline,ethinyl estradiol / norethindrone,-0.1502,J01AA,G03AA,False,False
+Acne,experience types,minocycline,sulfamethoxazole / trimethoprim,0.8356,J01AA,J01EE,False,False
+Acne,experience types,minocycline,clindamycin / tretinoin,-0.5027,J01AA,D10AD,False,False
+Acne,experience types,minocycline,clindamycin,-0.245,J01AA,D10AF,False,False
+Acne,experience types,tretinoin,ethinyl estradiol / norgestimate,-0.5174,D10AD,G03AA,False,False
+Acne,experience types,tretinoin,drospirenone / ethinyl estradiol,-0.4636,D10AD,G03AA,False,False
+Acne,experience types,tretinoin,adapalene,0.798,D10AD,D10AD,True,True
+Acne,experience types,tretinoin,spironolactone,-0.4058,D10AD,C03DA,False,False
+Acne,experience types,tretinoin,dapsone,0.228,D10AD,D10AX,False,True
+Acne,experience types,tretinoin,ethinyl estradiol / norethindrone,-0.5259,D10AD,G03AA,False,False
+Acne,experience types,tretinoin,sulfamethoxazole / trimethoprim,-0.5357,D10AD,J01EE,False,False
+Acne,experience types,tretinoin,clindamycin / tretinoin,0.8071,D10AD,D10AD,True,True
+Acne,experience types,tretinoin,clindamycin,0.3818,D10AD,D10AF,False,True
+Acne,experience types,ethinyl estradiol / norgestimate,drospirenone / ethinyl estradiol,0.8878,G03AA,G03AA,True,True
+Acne,experience types,ethinyl estradiol / norgestimate,adapalene,-0.5281,G03AA,D10AD,False,False
+Acne,experience types,ethinyl estradiol / norgestimate,spironolactone,0.1331,G03AA,C03DA,False,False
+Acne,experience types,ethinyl estradiol / norgestimate,dapsone,-0.3396,G03AA,D10AX,False,False
+Acne,experience types,ethinyl estradiol / norgestimate,ethinyl estradiol / norethindrone,0.8803,G03AA,G03AA,True,True
+Acne,experience types,ethinyl estradiol / norgestimate,sulfamethoxazole / trimethoprim,-0.3214,G03AA,J01EE,False,False
+Acne,experience types,ethinyl estradiol / norgestimate,clindamycin / tretinoin,-0.4197,G03AA,D10AD,False,False
+Acne,experience types,ethinyl estradiol / norgestimate,clindamycin,-0.6931,G03AA,D10AF,False,False
+Acne,experience types,drospirenone / ethinyl estradiol,adapalene,-0.5231,G03AA,D10AD,False,False
+Acne,experience types,drospirenone / ethinyl estradiol,spironolactone,0.2833,G03AA,C03DA,False,False
+Acne,experience types,drospirenone / ethinyl estradiol,dapsone,-0.467,G03AA,D10AX,False,False
+Acne,experience types,drospirenone / ethinyl estradiol,ethinyl estradiol / norethindrone,0.7984,G03AA,G03AA,True,True
+Acne,experience types,drospirenone / ethinyl estradiol,sulfamethoxazole / trimethoprim,-0.2751,G03AA,J01EE,False,False
+Acne,experience types,drospirenone / ethinyl estradiol,clindamycin / tretinoin,-0.5083,G03AA,D10AD,False,False
+Acne,experience types,drospirenone / ethinyl estradiol,clindamycin,-0.6592,G03AA,D10AF,False,False
+Acne,experience types,adapalene,spironolactone,-0.6763,D10AD,C03DA,False,False
+Acne,experience types,adapalene,dapsone,0.2817,D10AD,D10AX,False,True
+Acne,experience types,adapalene,ethinyl estradiol / norethindrone,-0.5119,D10AD,G03AA,False,False
+Acne,experience types,adapalene,sulfamethoxazole / trimethoprim,-0.4812,D10AD,J01EE,False,False
+Acne,experience types,adapalene,clindamycin / tretinoin,0.6321,D10AD,D10AD,True,True
+Acne,experience types,adapalene,clindamycin,0.5316,D10AD,D10AF,False,True
+Acne,experience types,spironolactone,dapsone,-0.4404,C03DA,D10AX,False,False
+Acne,experience types,spironolactone,ethinyl estradiol / norethindrone,-0.0665,C03DA,G03AA,False,False
+Acne,experience types,spironolactone,sulfamethoxazole / trimethoprim,0.505,C03DA,J01EE,False,False
+Acne,experience types,spironolactone,clindamycin / tretinoin,-0.4461,C03DA,D10AD,False,False
+Acne,experience types,spironolactone,clindamycin,-0.3931,C03DA,D10AF,False,False
+Acne,experience types,dapsone,ethinyl estradiol / norethindrone,-0.3119,D10AX,G03AA,False,False
+Acne,experience types,dapsone,sulfamethoxazole / trimethoprim,-0.1294,D10AX,J01EE,False,False
+Acne,experience types,dapsone,clindamycin / tretinoin,0.3611,D10AX,D10AD,False,True
+Acne,experience types,dapsone,clindamycin,0.6526,D10AX,D10AF,False,True
+Acne,experience types,ethinyl estradiol / norethindrone,sulfamethoxazole / trimethoprim,-0.2449,G03AA,J01EE,False,False
+Acne,experience types,ethinyl estradiol / norethindrone,clindamycin / tretinoin,-0.4207,G03AA,D10AD,False,False
+Acne,experience types,ethinyl estradiol / norethindrone,clindamycin,-0.6125,G03AA,D10AF,False,False
+Acne,experience types,sulfamethoxazole / trimethoprim,clindamycin / tretinoin,-0.4969,J01EE,D10AD,False,False
+Acne,experience types,sulfamethoxazole / trimethoprim,clindamycin,0.1177,J01EE,D10AF,False,False
+Acne,experience types,clindamycin / tretinoin,clindamycin,0.2439,D10AD,D10AF,False,True
